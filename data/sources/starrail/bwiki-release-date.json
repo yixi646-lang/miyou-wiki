@@ -1,0 +1,4121 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "用户:10977852/角色": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "用户:10977852/角色",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%94%A8%E6%88%B7:10977852/%E8%A7%92%E8%89%B2",
+        "namespace": 2,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "Archer": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "Archer",
+        "fullurl": "https://wiki.biligame.com/sr/Archer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "Saber": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "Saber",
+        "fullurl": "https://wiki.biligame.com/sr/Saber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「我」的诞生": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「我」的诞生",
+        "fullurl": "https://wiki.biligame.com/sr/%E3%80%8C%E6%88%91%E3%80%8D%E7%9A%84%E8%AF%9E%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "一场术后对话": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "一场术后对话",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%80%E5%9C%BA%E6%9C%AF%E5%90%8E%E5%AF%B9%E8%AF%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "一场谎言的终幕": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月25日"
+          ],
+          "实装版本": [
+            "4.1"
+          ]
+        },
+        "fulltext": "一场谎言的终幕",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%80%E5%9C%BA%E8%B0%8E%E8%A8%80%E7%9A%84%E7%BB%88%E5%B9%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "一行往日的血": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "一行往日的血",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%80%E8%A1%8C%E5%BE%80%E6%97%A5%E7%9A%84%E8%A1%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "万敌": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月19日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "万敌",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%87%E6%95%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "三月七•存护": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "三月七•存护",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83%E2%80%A2%E5%AD%98%E6%8A%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "三月七•巡猎": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月31日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "三月七•巡猎",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83%E2%80%A2%E5%B7%A1%E7%8C%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "不息的演算": {
+        "printouts": {
+          "实装日期": [
+            "2024年06月19日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "不息的演算",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%8D%E6%81%AF%E7%9A%84%E6%BC%94%E7%AE%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "不死途": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月25日"
+          ],
+          "实装版本": [
+            "4.1"
+          ]
+        },
+        "fulltext": "不死途",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%8D%E6%AD%BB%E9%80%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "与行星相会": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "与行星相会",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%8E%E8%A1%8C%E6%98%9F%E7%9B%B8%E4%BC%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "两个人的演唱会": {
+        "printouts": {
+          "实装日期": [
+            "2024年04月17日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "两个人的演唱会",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "丹恒",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒•腾荒": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "3.6"
+          ]
+        },
+        "fulltext": "丹恒•腾荒",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92%E2%80%A2%E8%85%BE%E8%8D%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒•饮月": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月30日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "丹恒•饮月",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92%E2%80%A2%E9%A5%AE%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "为了明日的旅途": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "为了明日的旅途",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%BA%E4%BA%86%E6%98%8E%E6%97%A5%E7%9A%84%E6%97%85%E9%80%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "乐圮": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "乐圮",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B9%90%E5%9C%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "乱破": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月23日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "乱破",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B9%B1%E7%A0%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "于夜色中": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "于夜色中",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BA%8E%E5%A4%9C%E8%89%B2%E4%B8%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "于那终点再见": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "于那终点再见",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BA%8E%E9%82%A3%E7%BB%88%E7%82%B9%E5%86%8D%E8%A7%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "云璃": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月31日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "云璃",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BA%91%E7%92%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "今日亦是和平的一日": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "今日亦是和平的一日",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BB%8A%E6%97%A5%E4%BA%A6%E6%98%AF%E5%92%8C%E5%B9%B3%E7%9A%84%E4%B8%80%E6%97%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "今日好手气": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "今日好手气",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BB%8A%E6%97%A5%E5%A5%BD%E6%89%8B%E6%B0%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "以世界之名": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "以世界之名",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BB%A5%E4%B8%96%E7%95%8C%E4%B9%8B%E5%90%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "但战斗还未结束": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "但战斗还未结束",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%86%E6%88%98%E6%96%97%E8%BF%98%E6%9C%AA%E7%BB%93%E6%9D%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "何物为真": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "何物为真",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%95%E7%89%A9%E4%B8%BA%E7%9C%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "余生的第一天": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "余生的第一天",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%99%E7%94%9F%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "你将起身歌唱": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月26日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "你将起身歌唱",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%A0%E5%B0%86%E8%B5%B7%E8%BA%AB%E6%AD%8C%E5%94%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "佩拉": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "佩拉",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%A9%E6%8B%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "俱殁": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "俱殁",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BF%B1%E6%AE%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "假日浴场大冒险": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "假日浴场大冒险",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%81%87%E6%97%A5%E6%B5%B4%E5%9C%BA%E5%A4%A7%E5%86%92%E9%99%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "偏偏希望无价": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月10日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "偏偏希望无价",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%81%8F%E5%81%8F%E5%B8%8C%E6%9C%9B%E6%97%A0%E4%BB%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "停云": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "停云",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%81%9C%E4%BA%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "克拉拉": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "克拉拉",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%85%8B%E6%8B%89%E6%8B%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "决心如汗珠般闪耀": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "决心如汗珠般闪耀",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%86%B3%E5%BF%83%E5%A6%82%E6%B1%97%E7%8F%A0%E8%88%AC%E9%97%AA%E8%80%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "刃": {
+        "printouts": {
+          "实装日期": [
+            "2023年07月19日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "刃",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "别让世界静下来": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "别让世界静下来",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%AB%E8%AE%A9%E4%B8%96%E7%95%8C%E9%9D%99%E4%B8%8B%E6%9D%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "到不了的彼岸": {
+        "printouts": {
+          "实装日期": [
+            "2023年07月19日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "到不了的彼岸",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%B0%E4%B8%8D%E4%BA%86%E7%9A%84%E5%BD%BC%E5%B2%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "制胜的瞬间": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "制胜的瞬间",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%B6%E8%83%9C%E7%9A%84%E7%9E%AC%E9%97%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "刻律德菈": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月02日"
+          ],
+          "实装版本": [
+            "3.5"
+          ]
+        },
+        "fulltext": "刻律德菈",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%BB%E5%BE%8B%E5%BE%B7%E8%8F%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "加拉赫": {
+        "printouts": {
+          "实装日期": [
+            "2024年03月27日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "加拉赫",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8A%A0%E6%8B%89%E8%B5%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "勿忘她的火焰": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月17日"
+          ],
+          "实装版本": [
+            "3.8"
+          ]
+        },
+        "fulltext": "勿忘她的火焰",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8B%BF%E5%BF%98%E5%A5%B9%E7%9A%84%E7%81%AB%E7%84%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "匿影": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "匿影",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8C%BF%E5%BD%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千冶•刃": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月01日"
+          ],
+          "实装版本": [
+            "4.3"
+          ]
+        },
+        "fulltext": "千冶•刃",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%83%E5%86%B6%E2%80%A2%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "卡芙卡": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月09日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "卡芙卡",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%A1%E8%8A%99%E5%8D%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "卢卡": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月09日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "卢卡",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%A2%E5%8D%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "只需等待": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月09日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "只需等待",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8F%AA%E9%9C%80%E7%AD%89%E5%BE%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "吉尔伽美什": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "吉尔伽美什",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "同一种心情": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "同一种心情",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%8C%E4%B8%80%E7%A7%8D%E5%BF%83%E6%83%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "后会有期": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "后会有期",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%8E%E4%BC%9A%E6%9C%89%E6%9C%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "向浪花掷下盛夏": {
+        "printouts": {
+          "实装日期": [
+            "2026年09月12日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "向浪花掷下盛夏",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%91%E6%B5%AA%E8%8A%B1%E6%8E%B7%E4%B8%8B%E7%9B%9B%E5%A4%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "向着不可追问处": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "向着不可追问处",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%91%E7%9D%80%E4%B8%8D%E5%8F%AF%E8%BF%BD%E9%97%AE%E5%A4%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "向着地平线的终点": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月26日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "向着地平线的终点",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%91%E7%9D%80%E5%9C%B0%E5%B9%B3%E7%BA%BF%E7%9A%84%E7%BB%88%E7%82%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "命运从未公平": {
+        "printouts": {
+          "实装日期": [
+            "2024年04月17日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "命运从未公平",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%91%BD%E8%BF%90%E4%BB%8E%E6%9C%AA%E5%85%AC%E5%B9%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "唯有沉默": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "唯有沉默",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%94%AF%E6%9C%89%E6%B2%89%E9%BB%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "唯有香如故": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月02日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "唯有香如故",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%94%AF%E6%9C%89%E9%A6%99%E5%A6%82%E6%95%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嗤笑": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "嗤笑",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%97%A4%E7%AC%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嘉果": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "嘉果",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%98%89%E6%9E%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嘿，我在这儿": {
+        "printouts": {
+          "实装日期": [
+            "2023年11月15日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "嘿，我在这儿",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%98%BF%EF%BC%8C%E6%88%91%E5%9C%A8%E8%BF%99%E5%84%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "回到大地的飞行": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月04日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "回到大地的飞行",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%9B%9E%E5%88%B0%E5%A4%A7%E5%9C%B0%E7%9A%84%E9%A3%9E%E8%A1%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "在火的远处": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "在火的远处",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%9C%A8%E7%81%AB%E7%9A%84%E8%BF%9C%E5%A4%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "在蓝天下": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "在蓝天下",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%9C%A8%E8%93%9D%E5%A4%A9%E4%B8%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "多流汗，少流泪": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "多流汗，少流泪",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%9A%E6%B5%81%E6%B1%97%EF%BC%8C%E5%B0%91%E6%B5%81%E6%B3%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "夜色流光溢彩": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "夜色流光溢彩",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%9C%E8%89%B2%E6%B5%81%E5%85%89%E6%BA%A2%E5%BD%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "大丽花": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月17日"
+          ],
+          "实装版本": [
+            "3.8"
+          ]
+        },
+        "fulltext": "大丽花",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A7%E4%B8%BD%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "大黑塔": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "大黑塔",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A7%E9%BB%91%E5%A1%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天倾": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "天倾",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A9%E5%80%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天才们的休憩": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "天才们的休憩",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E4%BC%91%E6%86%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天才们的问候": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月05日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "天才们的问候",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A9%E6%89%8D%E4%BB%AC%E7%9A%84%E9%97%AE%E5%80%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "她已闭上双眼": {
+        "printouts": {
+          "实装日期": [
+            "2023年09月20日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "她已闭上双眼",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A5%B9%E5%B7%B2%E9%97%AD%E4%B8%8A%E5%8F%8C%E7%9C%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "好戏开演": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "好戏开演",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A5%BD%E6%88%8F%E5%BC%80%E6%BC%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "如果时间是一朵花": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月26日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "如果时间是一朵花",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A6%82%E6%9E%9C%E6%97%B6%E9%97%B4%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "如泥酣眠": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "如泥酣眠",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A6%82%E6%B3%A5%E9%85%A3%E7%9C%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "姬子": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "姬子",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A7%AC%E5%AD%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "姬子•启行": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月15日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "姬子•启行",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A7%AC%E5%AD%90%E2%80%A2%E5%90%AF%E8%A1%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "娜塔莎": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "娜塔莎",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A8%9C%E5%A1%94%E8%8E%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "孤独的疗愈": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月30日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "孤独的疗愈",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AD%A4%E7%8B%AC%E7%9A%84%E7%96%97%E6%84%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宇宙大生意": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月09日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "宇宙大生意",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AE%87%E5%AE%99%E5%A4%A7%E7%94%9F%E6%84%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宇宙市场趋势": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "宇宙市场趋势",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AE%87%E5%AE%99%E5%B8%82%E5%9C%BA%E8%B6%8B%E5%8A%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寒鸦": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月06日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "寒鸦",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AF%92%E9%B8%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "将光阴织成黄金": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月05日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "将光阴织成黄金",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B0%86%E5%85%89%E9%98%B4%E7%BB%87%E6%88%90%E9%BB%84%E9%87%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "布洛妮娅": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "布洛妮娅",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%83%E6%B4%9B%E5%A6%AE%E5%A8%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希儿": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "希儿",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%8C%E5%84%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希露瓦": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "希露瓦",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%8C%E9%9C%B2%E7%93%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "幽邃": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "幽邃",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B9%BD%E9%82%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "延长记号": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "延长记号",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BB%B6%E9%95%BF%E8%AE%B0%E5%8F%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•同谐": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "开拓者•同谐",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E5%90%8C%E8%B0%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•存护": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "开拓者•存护",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E5%AD%98%E6%8A%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•欢愉": {
+        "printouts": {
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "开拓者•欢愉",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E6%AC%A2%E6%84%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•毁灭": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "开拓者•毁灭",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E6%AF%81%E7%81%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•记忆": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "开拓者•记忆",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E8%AE%B0%E5%BF%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开疆": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "开疆",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E7%96%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "当一颗星照亮夜空": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月15日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "当一颗星照亮夜空",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BD%93%E4%B8%80%E9%A2%97%E6%98%9F%E7%85%A7%E4%BA%AE%E5%A4%9C%E7%A9%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "当她决定看见": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "当她决定看见",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BD%93%E5%A5%B9%E5%86%B3%E5%AE%9A%E7%9C%8B%E8%A7%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "彦卿": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "彦卿",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BD%A6%E5%8D%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "忍事录•音律狩猎": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月23日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "忍事录•音律狩猎",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BF%8D%E4%BA%8B%E5%BD%95%E2%80%A2%E9%9F%B3%E5%BE%8B%E7%8B%A9%E7%8C%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "忍法帖•缭乱破魔": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月23日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "忍法帖•缭乱破魔",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BF%8D%E6%B3%95%E5%B8%96%E2%80%A2%E7%BC%AD%E4%B9%B1%E7%A0%B4%E9%AD%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "忘归人": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月25日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "忘归人",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BF%98%E5%BD%92%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "惊魂夜": {
+        "printouts": {
+          "实装日期": [
+            "2023年11月15日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "惊魂夜",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%83%8A%E9%AD%82%E5%A4%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "愿旅途永远坦然": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "愿旅途永远坦然",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%84%BF%E6%97%85%E9%80%94%E6%B0%B8%E8%BF%9C%E5%9D%A6%E7%84%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "愿虹光永驻天空": {
+        "printouts": {
+          "实装日期": [
+            "2025年05月21日"
+          ],
+          "实装版本": [
+            "3.3"
+          ]
+        },
+        "fulltext": "愿虹光永驻天空",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%84%BF%E8%99%B9%E5%85%89%E6%B0%B8%E9%A9%BB%E5%A4%A9%E7%A9%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "戍御": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "戍御",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%88%8D%E5%BE%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "我们是地火": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "我们是地火",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%88%91%E4%BB%AC%E6%98%AF%E5%9C%B0%E7%81%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "我将，巡征追猎": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月10日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "我将，巡征追猎",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%88%91%E5%B0%86%EF%BC%8C%E5%B7%A1%E5%BE%81%E8%BF%BD%E7%8C%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "所见即我": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "所见即我",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%89%80%E8%A7%81%E5%8D%B3%E6%88%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "托帕&账账": {
+        "printouts": {
+          "实装日期": [
+            "2023年10月27日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "托帕&账账",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%89%98%E5%B8%95%26%E8%B4%A6%E8%B4%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "拂晓之前": {
+        "printouts": {
+          "实装日期": [
+            "2023年05月17日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "拂晓之前",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%8B%82%E6%99%93%E4%B9%8B%E5%89%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "放个短假": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月26日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "放个短假",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%94%BE%E4%B8%AA%E7%9F%AD%E5%81%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "故事的下一页": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "故事的下一页",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%95%85%E4%BA%8B%E7%9A%84%E4%B8%8B%E4%B8%80%E9%A1%B5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "新手任务开始前": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月07日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "新手任务开始前",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%96%B0%E6%89%8B%E4%BB%BB%E5%8A%A1%E5%BC%80%E5%A7%8B%E5%89%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无可取代的东西": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "无可取代的东西",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%A0%E5%8F%AF%E5%8F%96%E4%BB%A3%E7%9A%84%E4%B8%9C%E8%A5%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无处可逃": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "无处可逃",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%A0%E5%A4%84%E5%8F%AF%E9%80%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无边曼舞": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "无边曼舞",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%A0%E8%BE%B9%E6%9B%BC%E8%88%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "早餐的仪式感": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "早餐的仪式感",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%A9%E9%A4%90%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "时节不居": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "时节不居",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%B6%E8%8A%82%E4%B8%8D%E5%B1%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "昔涟": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "实装版本": [
+            "3.7"
+          ]
+        },
+        "fulltext": "昔涟",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%94%E6%B6%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星期日": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月04日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "星期日",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E6%9C%9F%E6%97%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星海巡航": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "星海巡航",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E6%B5%B7%E5%B7%A1%E8%88%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星火悄然闪耀": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "星火悄然闪耀",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E7%81%AB%E6%82%84%E7%84%B6%E9%97%AA%E8%80%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星神★阿哈": {
+        "printouts": {
+          "实装日期": [
+            "2026年11月11日"
+          ],
+          "实装版本": [
+            "4.7"
+          ]
+        },
+        "fulltext": "星神★阿哈",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E7%A5%9E%E2%98%85%E9%98%BF%E5%93%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "春水初生": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "春水初生",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%A5%E6%B0%B4%E5%88%9D%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "晚安与睡颜": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "晚安与睡颜",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%99%9A%E5%AE%89%E4%B8%8E%E7%9D%A1%E9%A2%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "景元": {
+        "printouts": {
+          "实装日期": [
+            "2023年05月17日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "景元",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%99%AF%E5%85%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "智库": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "智库",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%99%BA%E5%BA%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "暖夜不会漫长": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "暖夜不会漫长",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9A%96%E5%A4%9C%E4%B8%8D%E4%BC%9A%E6%BC%AB%E9%95%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "最后的赢家": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "最后的赢家",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9C%80%E5%90%8E%E7%9A%84%E8%B5%A2%E5%AE%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "朗道的选择": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "朗道的选择",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9C%97%E9%81%93%E7%9A%84%E9%80%89%E6%8B%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "未来，有我们一起": {
+        "printouts": {
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "未来，有我们一起",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9C%AA%E6%9D%A5%EF%BC%8C%E6%9C%89%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "杰帕德": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "杰帕德",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9D%B0%E5%B8%95%E5%BE%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "桂乃芬": {
+        "printouts": {
+          "实装日期": [
+            "2023年10月27日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "桂乃芬",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A1%82%E4%B9%83%E8%8A%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "桑博": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "桑博",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A1%91%E5%8D%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "梦应归于何处": {
+        "printouts": {
+          "实装日期": [
+            "2024年06月19日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "梦应归于何处",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A2%A6%E5%BA%94%E5%BD%92%E4%BA%8E%E4%BD%95%E5%A4%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "梦的蒙太奇": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月23日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "梦的蒙太奇",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A2%A6%E7%9A%84%E8%92%99%E5%A4%AA%E5%A5%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "棺的回响": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月28日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "棺的回响",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A3%BA%E7%9A%84%E5%9B%9E%E5%93%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "椒丘": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月21日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "椒丘",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A4%92%E4%B8%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "欢愉满溢祝福": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月25日"
+          ],
+          "实装版本": [
+            "4.1"
+          ]
+        },
+        "fulltext": "欢愉满溢祝福",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AC%A2%E6%84%89%E6%BB%A1%E6%BA%A2%E7%A5%9D%E7%A6%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "欢迎来到银河城": {
+        "printouts": {
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "欢迎来到银河城",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E9%93%B6%E6%B2%B3%E5%9F%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "欧泊": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "欧泊",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AC%A7%E6%B3%8A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "此时恰好": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "此时恰好",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AD%A4%E6%97%B6%E6%81%B0%E5%A5%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "此身为剑": {
+        "printouts": {
+          "实装日期": [
+            "2023年10月11日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "此身为剑",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AD%A4%E8%BA%AB%E4%B8%BA%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "残泪": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "残泪",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AE%8B%E6%B3%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "比阳光更明亮的": {
+        "printouts": {
+          "实装日期": [
+            "2023年08月30日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "比阳光更明亮的",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AF%94%E9%98%B3%E5%85%89%E6%9B%B4%E6%98%8E%E4%BA%AE%E7%9A%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "氤氲麦香的梦": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "氤氲麦香的梦",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B0%A4%E6%B0%B2%E9%BA%A6%E9%A6%99%E7%9A%84%E6%A2%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "永远的迷境饭": {
+        "printouts": {
+          "实装日期": [
+            "2025年08月13日"
+          ],
+          "实装版本": [
+            "3.5"
+          ]
+        },
+        "fulltext": "永远的迷境饭",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B0%B8%E8%BF%9C%E7%9A%84%E8%BF%B7%E5%A2%83%E9%A5%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "汪！散步时间！": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "汪！散步时间！",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B1%AA%EF%BC%81%E6%95%A3%E6%AD%A5%E6%97%B6%E9%97%B4%EF%BC%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "没有回报的加冕": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "没有回报的加冕",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B2%A1%E6%9C%89%E5%9B%9E%E6%8A%A5%E7%9A%84%E5%8A%A0%E5%86%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "波提欧": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月29日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "波提欧",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B3%A2%E6%8F%90%E6%AC%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流萤": {
+        "printouts": {
+          "实装日期": [
+            "2024年06月19日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "流萤",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%81%E8%90%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "海洋为何而歌": {
+        "printouts": {
+          "实装日期": [
+            "2025年08月13日"
+          ],
+          "实装版本": [
+            "3.5"
+          ]
+        },
+        "fulltext": "海洋为何而歌",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%B7%E6%B4%8B%E4%B8%BA%E4%BD%95%E8%80%8C%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "海瑟音": {
+        "printouts": {
+          "实装日期": [
+            "2025年08月13日"
+          ],
+          "实装版本": [
+            "3.5"
+          ]
+        },
+        "fulltext": "海瑟音",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%B7%E7%91%9F%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "渊环": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "渊环",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B8%8A%E7%8E%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "游戏尘寰": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月29日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "游戏尘寰",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B8%B8%E6%88%8F%E5%B0%98%E5%AF%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "溯忆": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "溯忆",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%BA%AF%E5%BF%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "火花": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月03日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "火花",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%AB%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灵砂": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月02日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "灵砂",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%B5%E7%A0%82",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灵钥": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "灵钥",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%B5%E9%92%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灼尽炼狱的新骸": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月01日"
+          ],
+          "实装版本": [
+            "4.3"
+          ]
+        },
+        "fulltext": "灼尽炼狱的新骸",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%BC%E5%B0%BD%E7%82%BC%E7%8B%B1%E7%9A%84%E6%96%B0%E9%AA%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "点个关注吧！": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "点个关注吧！",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%82%B9%E4%B8%AA%E5%85%B3%E6%B3%A8%E5%90%A7%EF%BC%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "烦恼着，幸福着": {
+        "printouts": {
+          "实装日期": [
+            "2023年10月27日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "烦恼着，幸福着",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%83%A6%E6%81%BC%E7%9D%80%EF%BC%8C%E5%B9%B8%E7%A6%8F%E7%9D%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "焚影": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "焚影",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%84%9A%E5%BD%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "爱如此刻永恒": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "实装版本": [
+            "3.7"
+          ]
+        },
+        "fulltext": "爱如此刻永恒",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%88%B1%E5%A6%82%E6%AD%A4%E5%88%BB%E6%B0%B8%E6%81%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "爻光": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "爻光",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%88%BB%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "片刻，留在眼底": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月06日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "片刻，留在眼底",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%89%87%E5%88%BB%EF%BC%8C%E7%95%99%E5%9C%A8%E7%9C%BC%E5%BA%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "物穰": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "物穰",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%89%A9%E7%A9%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猎物的视线": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "猎物的视线",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%8C%8E%E7%89%A9%E7%9A%84%E8%A7%86%E7%BA%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "献给明日的色彩": {
+        "printouts": {
+          "实装日期": [
+            "2026年09月28日"
+          ],
+          "实装版本": [
+            "4.6"
+          ]
+        },
+        "fulltext": "献给明日的色彩",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%8C%AE%E7%BB%99%E6%98%8E%E6%97%A5%E7%9A%84%E8%89%B2%E5%BD%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "玲可": {
+        "printouts": {
+          "实装日期": [
+            "2023年09月20日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "玲可",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%8E%B2%E5%8F%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "理想燃烧的地狱": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "理想燃烧的地狱",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%90%86%E6%83%B3%E7%87%83%E7%83%A7%E7%9A%84%E5%9C%B0%E7%8B%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "琥珀": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "琥珀",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%90%A5%E7%8F%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "瓦尔特": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "瓦尔特",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%93%A6%E5%B0%94%E7%89%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "生命当付之一炬": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月30日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "生命当付之一炬",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%94%9F%E5%91%BD%E5%BD%93%E4%BB%98%E4%B9%8B%E4%B8%80%E7%82%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白厄": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "白厄",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%99%BD%E5%8E%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白露": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "白露",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%99%BD%E9%9C%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "直到明天的明天": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "直到明天的明天",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9B%B4%E5%88%B0%E6%98%8E%E5%A4%A9%E7%9A%84%E6%98%8E%E5%A4%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "相抗": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "相抗",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9B%B8%E6%8A%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真珠": {
+        "printouts": {
+          "实装日期": [
+            "2026年09月28日"
+          ],
+          "实装版本": [
+            "4.6"
+          ]
+        },
+        "fulltext": "真珠",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9C%9F%E7%8F%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真理医生": {
+        "printouts": {
+          "实装日期": [
+            "2024年01月17日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "真理医生",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9C%9F%E7%90%86%E5%8C%BB%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "睿见": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "睿见",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9D%BF%E8%A7%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "知更鸟": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "知更鸟",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9F%A5%E6%9B%B4%E9%B8%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "知更鸟•晴歌": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月26日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "知更鸟•晴歌",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9F%A5%E6%9B%B4%E9%B8%9F%E2%80%A2%E6%99%B4%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "砂金": {
+        "printouts": {
+          "实装日期": [
+            "2024年04月17日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "砂金",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A0%82%E9%87%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "砂金•戏浪": {
+        "printouts": {
+          "实装日期": [
+            "2026年09月12日"
+          ],
+          "实装版本": [
+            "4.5"
+          ]
+        },
+        "fulltext": "砂金•戏浪",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A0%82%E9%87%91%E2%80%A2%E6%88%8F%E6%B5%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "离弦": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "离弦",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A6%BB%E5%BC%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "秘密誓心": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "秘密誓心",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A7%98%E5%AF%86%E8%AA%93%E5%BF%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "符玄": {
+        "printouts": {
+          "实装日期": [
+            "2023年09月20日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "符玄",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%AC%A6%E7%8E%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "等价交换": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "等价交换",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%AD%89%E4%BB%B7%E4%BA%A4%E6%8D%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "米沙": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "米沙",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B1%B3%E6%B2%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "素裳": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "素裳",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B4%A0%E8%A3%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "纯粹思维的洗礼": {
+        "printouts": {
+          "实装日期": [
+            "2024年01月17日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "纯粹思维的洗礼",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BA%AF%E7%B2%B9%E6%80%9D%E7%BB%B4%E7%9A%84%E6%B4%97%E7%A4%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "纵然山河万程": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "3.6"
+          ]
+        },
+        "fulltext": "纵然山河万程",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BA%B5%E7%84%B6%E5%B1%B1%E6%B2%B3%E4%B8%87%E7%A8%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "织造命运之线": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "织造命运之线",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BB%87%E9%80%A0%E5%91%BD%E8%BF%90%E4%B9%8B%E7%BA%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "绯英": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月13日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "绯英",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BB%AF%E8%8B%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "缇宝": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月26日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "缇宝",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BC%87%E5%AE%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "罗刹": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月28日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "罗刹",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BD%97%E5%88%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "美梦小镇大冒险": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "美梦小镇大冒险",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BE%8E%E6%A2%A6%E5%B0%8F%E9%95%87%E5%A4%A7%E5%86%92%E9%99%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "翡翠": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月10日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "翡翠",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BF%A1%E7%BF%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "耀嘉音": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": [
+            "4.8"
+          ]
+        },
+        "fulltext": "耀嘉音",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%80%80%E5%98%89%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "胜利只在朝夕间": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "胜利只在朝夕间",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%83%9C%E5%88%A9%E5%8F%AA%E5%9C%A8%E6%9C%9D%E5%A4%95%E9%97%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "致长夜的星光": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月24日"
+          ],
+          "实装版本": [
+            "3.6"
+          ]
+        },
+        "fulltext": "致长夜的星光",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%87%B4%E9%95%BF%E5%A4%9C%E7%9A%84%E6%98%9F%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "舒俱": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "舒俱",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%88%92%E4%BF%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "舞！舞！舞！": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "舞！舞！舞！",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81%E8%88%9E%EF%BC%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾丝妲": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "艾丝妲",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E4%B8%9D%E5%A6%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾利欧": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "艾利欧",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E5%88%A9%E6%AC%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾莲": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": [
+            "4.8"
+          ]
+        },
+        "fulltext": "艾莲",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E8%8E%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "芮克先生": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "芮克先生",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%AE%E5%85%8B%E5%85%88%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "花儿不会忘记": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "花儿不会忘记",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%B1%E5%84%BF%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "花火": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月29日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "花火",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%B1%E7%81%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "花花世界迷人眼": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月03日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "花花世界迷人眼",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%B1%E8%8A%B1%E4%B8%96%E7%95%8C%E8%BF%B7%E4%BA%BA%E7%9C%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "芳华待灼": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月21日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "芳华待灼",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%B3%E5%8D%8E%E5%BE%85%E7%81%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "菇菇嘎嘎历险记": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "实装版本": [
+            "4.0"
+          ]
+        },
+        "fulltext": "菇菇嘎嘎历险记",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8F%87%E8%8F%87%E5%98%8E%E5%98%8E%E5%8E%86%E9%99%A9%E8%AE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "落日时起舞": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月31日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "落日时起舞",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%90%BD%E6%97%A5%E6%97%B6%E8%B5%B7%E8%88%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "蕃息": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "蕃息",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%95%83%E6%81%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "藿藿": {
+        "printouts": {
+          "实装日期": [
+            "2023年11月15日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "藿藿",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%97%BF%E8%97%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "虎克": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "虎克",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%99%8E%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "螺丝咕姆": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "螺丝咕姆",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%9E%BA%E4%B8%9D%E5%92%95%E5%A7%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "血火啊，燃烧前路": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月19日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "血火啊，燃烧前路",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%A1%80%E7%81%AB%E5%95%8A%EF%BC%8C%E7%87%83%E7%83%A7%E5%89%8D%E8%B7%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "行于流逝的岸": {
+        "printouts": {
+          "实装日期": [
+            "2024年03月27日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "行于流逝的岸",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%A1%8C%E4%BA%8E%E6%B5%81%E9%80%9D%E7%9A%84%E5%B2%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "让告别，更美一些": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月09日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "让告别，更美一些",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%A9%E5%91%8A%E5%88%AB%EF%BC%8C%E6%9B%B4%E7%BE%8E%E4%B8%80%E4%BA%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "记一位星神的陨落": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "记一位星神的陨落",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%B0%E4%B8%80%E4%BD%8D%E6%98%9F%E7%A5%9E%E7%9A%84%E9%99%A8%E8%90%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "记忆中的模样": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "记忆中的模样",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%B0%E5%BF%86%E4%B8%AD%E7%9A%84%E6%A8%A1%E6%A0%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "记忆永不落幕": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月26日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "记忆永不落幕",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%B0%E5%BF%86%E6%B0%B8%E4%B8%8D%E8%90%BD%E5%B9%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "记忆的质料": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "记忆的质料",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%B0%E5%BF%86%E7%9A%84%E8%B4%A8%E6%96%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "论剑": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "论剑",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AE%BA%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "调和": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "调和",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B0%83%E5%92%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "谎言在风中飘扬": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月11日"
+          ],
+          "实装版本": [
+            "3.3"
+          ]
+        },
+        "fulltext": "谎言在风中飘扬",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B0%8E%E8%A8%80%E5%9C%A8%E9%A3%8E%E4%B8%AD%E9%A3%98%E6%89%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "谐乐静默之后": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月10日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "谐乐静默之后",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B0%90%E4%B9%90%E9%9D%99%E9%BB%98%E4%B9%8B%E5%90%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "貊泽": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月10日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "貊泽",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B2%8A%E6%B3%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赛飞儿": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月11日"
+          ],
+          "实装版本": [
+            "3.3"
+          ]
+        },
+        "fulltext": "赛飞儿",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B5%9B%E9%A3%9E%E5%84%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "轮契": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "轮契",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BD%AE%E5%A5%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "过往未来": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "过往未来",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BF%87%E5%BE%80%E6%9C%AA%E6%9D%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "这就是我啦！": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "这就是我啦！",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E5%95%A6%EF%BC%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "远坂凛": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "实装版本": [
+            "4.4"
+          ]
+        },
+        "fulltext": "远坂凛",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BF%9C%E5%9D%82%E5%87%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "追逐风的时候": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "追逐风的时候",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BF%BD%E9%80%90%E9%A3%8E%E7%9A%84%E6%97%B6%E5%80%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "遐蝶": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月09日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "遐蝶",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%81%90%E8%9D%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "邂逅于下一个花季": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月13日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "邂逅于下一个花季",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%82%82%E9%80%85%E4%BA%8E%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8A%B1%E5%AD%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "那刻夏": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月30日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "那刻夏",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%82%A3%E5%88%BB%E5%A4%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "那无数个春天": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月21日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "那无数个春天",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%82%A3%E6%97%A0%E6%95%B0%E4%B8%AA%E6%98%A5%E5%A4%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "重塑时光之忆": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "重塑时光之忆",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%87%8D%E5%A1%91%E6%97%B6%E5%85%89%E4%B9%8B%E5%BF%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "重返幽冥": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "重返幽冥",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%87%8D%E8%BF%94%E5%B9%BD%E5%86%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "金血铭刻的时代": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月02日"
+          ],
+          "实装版本": [
+            "3.5"
+          ]
+        },
+        "fulltext": "金血铭刻的时代",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%87%91%E8%A1%80%E9%93%AD%E5%88%BB%E7%9A%84%E6%97%B6%E4%BB%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "铭记于心的约定": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "铭记于心的约定",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%AD%E8%AE%B0%E4%BA%8E%E5%BF%83%E7%9A%84%E7%BA%A6%E5%AE%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银枝": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月06日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "银枝",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E6%9E%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银河沦陷日": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "银河沦陷日",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E6%B2%B3%E6%B2%A6%E9%99%B7%E6%97%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银河铁道之夜": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "银河铁道之夜",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E6%B2%B3%E9%93%81%E9%81%93%E4%B9%8B%E5%A4%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银狼": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月07日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "银狼",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E7%8B%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银狼LV.999": {
+        "printouts": {
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "实装版本": [
+            "4.2"
+          ]
+        },
+        "fulltext": "银狼LV.999",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E7%8B%BCLV.999",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "锋镝": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "锋镝",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%94%8B%E9%95%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "镂月裁云之意": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "镂月裁云之意",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%82%E6%9C%88%E8%A3%81%E4%BA%91%E4%B9%8B%E6%84%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "镜中故我": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月27日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "镜中故我",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%9C%E4%B8%AD%E6%95%85%E6%88%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "镜流": {
+        "printouts": {
+          "实装日期": [
+            "2023年10月11日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "镜流",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%9C%E6%B5%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "长夜月": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月24日"
+          ],
+          "实装版本": [
+            "3.6"
+          ]
+        },
+        "fulltext": "长夜月",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%BF%E5%A4%9C%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "长路终有归途": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月25日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "长路终有归途",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%BF%E8%B7%AF%E7%BB%88%E6%9C%89%E5%BD%92%E9%80%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阮•梅": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月27日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "阮•梅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%AE%E2%80%A2%E6%A2%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阿兰": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "阿兰",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%BF%E5%85%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阿格莱雅": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月05日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "阿格莱雅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雨一直下": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月07日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "雨一直下",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9B%A8%E4%B8%80%E7%9B%B4%E4%B8%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雪衣": {
+        "printouts": {
+          "实装日期": [
+            "2023年12月27日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "雪衣",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9B%AA%E8%A1%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "青雀": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "青雀",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9D%92%E9%9B%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风堇": {
+        "printouts": {
+          "实装日期": [
+            "2025年05月21日"
+          ],
+          "实装版本": [
+            "3.3"
+          ]
+        },
+        "fulltext": "风堇",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%8E%E5%A0%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞向粉色的明天": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "实装版本": [
+            "3.7"
+          ]
+        },
+        "fulltext": "飞向粉色的明天",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%9E%E5%90%91%E7%B2%89%E8%89%B2%E7%9A%84%E6%98%8E%E5%A4%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞霄": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月10日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "飞霄",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%9E%E9%9C%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "驭空": {
+        "printouts": {
+          "实装日期": [
+            "2023年06月28日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "驭空",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A9%AD%E7%A9%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "驶向第二次生命": {
+        "printouts": {
+          "实装日期": [
+            "2024年05月29日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "驶向第二次生命",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A9%B6%E5%90%91%E7%AC%AC%E4%BA%8C%E6%AC%A1%E7%94%9F%E5%91%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黄泉": {
+        "printouts": {
+          "实装日期": [
+            "2024年03月27日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "黄泉",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%84%E6%B3%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黎明恰如此燃烧": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "实装版本": [
+            "3.4"
+          ]
+        },
+        "fulltext": "黎明恰如此燃烧",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%8E%E6%98%8E%E6%81%B0%E5%A6%82%E6%AD%A4%E7%87%83%E7%83%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑塔": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "黑塔",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%91%E5%A1%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑夜如影随行": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月02日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "黑夜如影随行",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%91%E5%A4%9C%E5%A6%82%E5%BD%B1%E9%9A%8F%E8%A1%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑天鹅": {
+        "printouts": {
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "黑天鹅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%91%E5%A4%A9%E9%B9%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鼹鼠党欢迎你": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "鼹鼠党欢迎你",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BC%B9%E9%BC%A0%E5%85%9A%E6%AC%A2%E8%BF%8E%E4%BD%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "齐颂": {
+        "printouts": {
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "齐颂",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BD%90%E9%A2%82",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "龙晶": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": []
+        },
+        "fulltext": "龙晶",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BE%99%E6%99%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "ee5f21838a8f6e8d17e86aaec0f0491d",
+      "count": 273,
+      "offset": 0,
+      "source": "",
+      "time": "0.044264"
+    }
+  }
+}

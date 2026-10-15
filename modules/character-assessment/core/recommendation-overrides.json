@@ -1,0 +1,2641 @@
+{
+  "version": 2,
+  "revision": 48,
+  "records": {
+    "Shenhe": {
+      "guidePlans": {
+        "defaultId": "legacy-guide-custom",
+        "displayId": "builtin",
+        "plans": [
+          {
+            "id": "builtin",
+            "name": "内置方案",
+            "builtin": true,
+            "value": {
+              "weapons": [
+                {
+                  "key": "CalamityQueller",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FavoniusLance",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                },
+                {
+                  "key": "SkywardSpine",
+                  "category": "五星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                },
+                {
+                  "key": "MissiveWindspear",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 芙宁娜 / 爱可菲",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华 / 甘雨",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 芙宁娜 / 爱可菲",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华 / 甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 莫娜 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "莫娜",
+                      "characters": [
+                        "Mona"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 甘雨 / 珊瑚宫心海 / 温迪",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "温迪",
+                      "characters": [
+                        "Venti"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 莱欧斯利 / 爱可菲 / 莱依拉",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    },
+                    {
+                      "label": "莱依拉",
+                      "characters": [
+                        "Layla"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "申鹤 / 莱欧斯利 / 希诺宁 / 云堇",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    },
+                    {
+                      "label": "云堇",
+                      "characters": [
+                        "YunJin"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/shenhe-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "冰翎辅助；攻击与充能优先，西风可额外需要暴击率。",
+                "version": "5.6"
+              },
+              "intro": "冰翎辅助；攻击与充能优先，西风可额外需要暴击率。",
+              "build": {
+                "sets": [
+                  "NoblesseOblige"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "atk_",
+                    "enerRech_"
+                  ],
+                  "goblet": [
+                    "atk_"
+                  ],
+                  "circlet": [
+                    "atk_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 8
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "NoblesseOblige"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "atk_",
+                      "enerRech_"
+                    ],
+                    "goblet": [
+                      "atk_"
+                    ],
+                    "circlet": [
+                      "atk_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          },
+          {
+            "id": "legacy-guide-custom",
+            "name": "原自定义攻略",
+            "builtin": false,
+            "value": {
+              "weapons": [
+                {
+                  "key": "PrimordialJadeWingedSpear",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FavoniusLance",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                },
+                {
+                  "key": "SkywardSpine",
+                  "category": "五星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                },
+                {
+                  "key": "MissiveWindspear",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "BeginnersProtector",
+                  "note": ""
+                }
+              ],
+              "teams": [
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 芙宁娜 / 爱可菲",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华 / 甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 芙宁娜 / 爱可菲",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华 / 甘雨",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 莫娜 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "莫娜",
+                      "characters": [
+                        "Mona"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 甘雨 / 珊瑚宫心海 / 温迪",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "温迪",
+                      "characters": [
+                        "Venti"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 莱欧斯利 / 爱可菲 / 莱依拉",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "爱可菲",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    },
+                    {
+                      "label": "莱依拉",
+                      "characters": [
+                        "Layla"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 神里绫华 / 甘雨 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "神里绫华",
+                      "characters": [
+                        "KamisatoAyaka"
+                      ]
+                    },
+                    {
+                      "label": "甘雨",
+                      "characters": [
+                        "Ganyu"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                },
+                {
+                  "label": "申鹤 / 莱欧斯利 / 希诺宁 / 云堇",
+                  "slots": [
+                    {
+                      "label": "申鹤",
+                      "characters": [
+                        "Shenhe"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    },
+                    {
+                      "label": "云堇",
+                      "characters": [
+                        "YunJin"
+                      ]
+                    }
+                  ],
+                  "note": ""
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/shenhe-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "冰翎辅助；攻击与充能优先，西风可额外需要暴击率。",
+                "version": "5.6"
+              },
+              "intro": "冰翎辅助；攻击与充能优先，西风可额外需要暴击率。",
+              "build": {
+                "sets": [
+                  "NoblesseOblige"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "atk_",
+                    "enerRech_"
+                  ],
+                  "goblet": [
+                    "atk_"
+                  ],
+                  "circlet": [
+                    "atk_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 8
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "NoblesseOblige"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "atk_",
+                      "enerRech_"
+                    ],
+                    "goblet": [
+                      "atk_"
+                    ],
+                    "circlet": [
+                      "atk_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          }
+        ]
+      }
+    },
+    "Vesna": {
+      "guidePlans": {
+        "defaultId": "builtin",
+        "displayId": "42bf4ab7-7ee5-404f-87af-289d35bee389",
+        "plans": [
+          {
+            "id": "builtin",
+            "name": "内置方案",
+            "builtin": true,
+            "value": {
+              "weapons": [
+                {
+                  "key": "BeyondTheChrysalis",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "WhitelakeFrostfeather",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "NewBough",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "HereticsMoltenBlade",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "Emberwell",
+                  "category": "四星及三星备选",
+                  "note": "精通副属性适合反应玩法，需确认持有者实际触发的反应。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "薇斯纳 / 沃雅妮莎 / 奥黛塔 / 荧 (冰)",
+                  "slots": [
+                    {
+                      "label": "薇斯纳",
+                      "characters": [
+                        "Vesna"
+                      ]
+                    },
+                    {
+                      "label": "沃雅妮莎",
+                      "characters": [
+                        "Vodyanitsa"
+                      ]
+                    },
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "荧 (冰)",
+                      "characters": [
+                        "TravelerCryoF"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "薇斯纳 / 荧 (冰) / 迪奥娜 / 珐露珊",
+                  "slots": [
+                    {
+                      "label": "薇斯纳",
+                      "characters": [
+                        "Vesna"
+                      ]
+                    },
+                    {
+                      "label": "荧 (冰)",
+                      "characters": [
+                        "TravelerCryoF"
+                      ]
+                    },
+                    {
+                      "label": "迪奥娜",
+                      "characters": [
+                        "Diona"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    }
+                  ],
+                  "note": "此替代组合的迪奥娜与珐露珊需要六命；低命时参考图解中的其他替代位。"
+                }
+              ],
+              "source": {
+                "name": "KQM图解",
+                "url": "https://keqingmains.com/i/vesna/",
+                "checkedAt": "2026-10-07",
+                "type": "infographic",
+                "basis": "星扩散战技输出；缺乏精通增益时最多考虑一件精通主词条，充能按队伍决定。",
+                "version": null
+              },
+              "intro": "星扩散战技输出；缺乏精通增益时最多考虑一件精通主词条，充能按队伍决定。",
+              "build": {
+                "sets": [
+                  "ScarletProof"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "atk_",
+                    "eleMas"
+                  ],
+                  "goblet": [
+                    "atk_",
+                    "eleMas"
+                  ],
+                  "circlet": [
+                    "critRate_",
+                    "critDMG_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 8
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "ScarletProof"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "atk_",
+                      "eleMas"
+                    ],
+                    "goblet": [
+                      "atk_",
+                      "eleMas"
+                    ],
+                    "circlet": [
+                      "critRate_",
+                      "critDMG_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          },
+          {
+            "id": "42bf4ab7-7ee5-404f-87af-289d35bee389",
+            "name": "自定义方案",
+            "builtin": false,
+            "value": {
+              "weapons": [
+                {
+                  "key": "BeyondTheChrysalis",
+                  "category": "五星备选",
+                  "note": "专武，完美适配"
+                },
+                {
+                  "key": "WhitelakeFrostfeather",
+                  "category": "五星备选",
+                  "note": "专武之下最强，充能比专武都多"
+                },
+                {
+                  "key": "NewBough",
+                  "category": "四星及三星备选",
+                  "note": "四星里面最强，但是是限定四星，抽不太到"
+                },
+                {
+                  "key": "HereticsMoltenBlade",
+                  "category": "四星及三星备选",
+                  "note": "最新的大月卡武器，和锻造武器差不多"
+                },
+                {
+                  "key": "Emberwell",
+                  "category": "四星及三星备选",
+                  "note": "至冬锻造武器，实在没得用可以用"
+                },
+                {
+                  "key": "UrakuMisugiri",
+                  "note": "这类五星双暴武器也可以用，比推荐四星武器强一点，但不多"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "薇斯纳 / 沃雅妮莎 / 奥黛塔 / 荧 (冰)",
+                  "slots": [
+                    {
+                      "label": "薇斯纳",
+                      "characters": [
+                        "Vesna"
+                      ]
+                    },
+                    {
+                      "label": "沃雅妮莎",
+                      "characters": [
+                        "Vodyanitsa"
+                      ]
+                    },
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    }
+                  ],
+                  "note": "目前最强配队"
+                },
+                {
+                  "label": "薇斯纳 / 荧 (冰) / 迪奥娜 / 珐露珊",
+                  "slots": [
+                    {
+                      "label": "薇斯纳",
+                      "characters": [
+                        "Vesna"
+                      ]
+                    },
+                    {
+                      "label": "荧 (冰)",
+                      "characters": [
+                        "TravelerCryoF"
+                      ]
+                    },
+                    {
+                      "label": "迪奥娜",
+                      "characters": [
+                        "Diona"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    }
+                  ],
+                  "note": "此替代组合的迪奥娜与珐露珊需要六命；低命时参考图解中的其他替代位。"
+                }
+              ],
+              "source": {
+                "name": "KQM图解",
+                "url": "https://keqingmains.com/i/vesna/",
+                "checkedAt": "2026-10-07",
+                "type": "infographic",
+                "basis": "星扩散战技输出；缺乏精通增益时最多考虑一件精通主词条，充能按队伍决定。",
+                "version": ""
+              },
+              "intro": "星扩散战技输出；缺乏精通增益时最多考虑一件精通主词条，充能按队伍决定，非专务不强求充能一轮一大。",
+              "build": {
+                "sets": [
+                  "ScarletProof"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "atk_",
+                    "eleMas"
+                  ],
+                  "goblet": [
+                    "atk_",
+                    "eleMas"
+                  ],
+                  "circlet": [
+                    "critRate_",
+                    "critDMG_"
+                  ]
+                },
+                "talent": {
+                  "auto": 6,
+                  "skill": 9,
+                  "burst": 9
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "ScarletProof"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "atk_",
+                      "eleMas"
+                    ],
+                    "goblet": [
+                      "atk_",
+                      "eleMas"
+                    ],
+                    "circlet": [
+                      "critRate_",
+                      "critDMG_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发 → 普通攻击。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          }
+        ]
+      }
+    },
+    "Zhongli": {
+      "guidePlans": {
+        "defaultId": "builtin",
+        "displayId": "builtin",
+        "plans": [
+          {
+            "id": "builtin",
+            "name": "内置方案",
+            "builtin": true,
+            "value": {
+              "weapons": [
+                {
+                  "key": "BlackTassel",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FavoniusLance",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "钟离 / 胡桃 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "胡桃",
+                      "characters": [
+                        "HuTao"
+                      ]
+                    },
+                    {
+                      "label": "行秋",
+                      "characters": [
+                        "Xingqiu"
+                      ]
+                    },
+                    {
+                      "label": "夜兰",
+                      "characters": [
+                        "Yelan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 荒泷一斗 / 阿贝多 / 五郎",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "荒泷一斗",
+                      "characters": [
+                        "AratakiItto"
+                      ]
+                    },
+                    {
+                      "label": "阿贝多",
+                      "characters": [
+                        "Albedo"
+                      ]
+                    },
+                    {
+                      "label": "五郎",
+                      "characters": [
+                        "Gorou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 魈 / 珐露珊 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "魈",
+                      "characters": [
+                        "Xiao"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 林尼 / 枫原万叶 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "林尼",
+                      "characters": [
+                        "Lyney"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 那维莱特 / 芙宁娜 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 娜维娅 / 菲谢尔 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "菲谢尔",
+                      "characters": [
+                        "Fischl"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/zhongli-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "护盾用途；西风武器才另外计入触发所需暴击率，爆发输出另建目标。",
+                "version": null
+              },
+              "intro": "护盾用途；西风武器才另外计入触发所需暴击率，爆发输出另建目标。",
+              "build": {
+                "sets": [
+                  "TenacityOfTheMillelith"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "hp_"
+                  ],
+                  "goblet": [
+                    "hp_"
+                  ],
+                  "circlet": [
+                    "hp_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 1
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "TenacityOfTheMillelith"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "hp_"
+                    ],
+                    "goblet": [
+                      "hp_"
+                    ],
+                    "circlet": [
+                      "hp_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          },
+          {
+            "id": "f8a61641-87c9-4676-86c9-91f1e4688bc9",
+            "name": "内置方案（副本）",
+            "builtin": false,
+            "value": {
+              "weapons": [
+                {
+                  "key": "BlackTassel",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FavoniusLance",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "钟离 / 胡桃 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "胡桃",
+                      "characters": [
+                        "HuTao"
+                      ]
+                    },
+                    {
+                      "label": "行秋",
+                      "characters": [
+                        "Xingqiu"
+                      ]
+                    },
+                    {
+                      "label": "夜兰",
+                      "characters": [
+                        "Yelan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 荒泷一斗 / 阿贝多 / 五郎",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "荒泷一斗",
+                      "characters": [
+                        "AratakiItto"
+                      ]
+                    },
+                    {
+                      "label": "阿贝多",
+                      "characters": [
+                        "Albedo"
+                      ]
+                    },
+                    {
+                      "label": "五郎",
+                      "characters": [
+                        "Gorou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 魈 / 珐露珊 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "魈",
+                      "characters": [
+                        "Xiao"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 林尼 / 枫原万叶 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "林尼",
+                      "characters": [
+                        "Lyney"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 那维莱特 / 芙宁娜 / 枫原万叶",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "钟离 / 娜维娅 / 菲谢尔 / 班尼特",
+                  "slots": [
+                    {
+                      "label": "钟离",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "菲谢尔",
+                      "characters": [
+                        "Fischl"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/zhongli-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "护盾用途；西风武器才另外计入触发所需暴击率，爆发输出另建目标。",
+                "version": null
+              },
+              "intro": "护盾用途；西风武器才另外计入触发所需暴击率，爆发输出另建目标。",
+              "build": {
+                "sets": [
+                  "TenacityOfTheMillelith"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "hp_"
+                  ],
+                  "goblet": [
+                    "hp_"
+                  ],
+                  "circlet": [
+                    "hp_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 1
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "TenacityOfTheMillelith"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "hp_"
+                    ],
+                    "goblet": [
+                      "hp_"
+                    ],
+                    "circlet": [
+                      "hp_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          }
+        ]
+      }
+    },
+    "Furina": {
+      "guidePlans": {
+        "defaultId": "builtin",
+        "displayId": "builtin",
+        "plans": [
+          {
+            "id": "builtin",
+            "name": "内置方案",
+            "builtin": true,
+            "value": {
+              "weapons": [
+                {
+                  "key": "SplendorOfTranquilWaters",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FleuveCendreFerryman",
+                  "category": "四星及三星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                },
+                {
+                  "key": "FavoniusSword",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                },
+                {
+                  "key": "FesteringDesire",
+                  "category": "四星及三星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "芙宁娜 / 那维莱特 / 枫原万叶 / 希诺宁 / 钟离 / 火旅行者",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁 / 钟离 / 火旅行者",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 那维莱特 / 枫原万叶 / 希诺宁 / 钟离 / 火旅行者",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁 / 钟离 / 火旅行者",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 珊瑚宫心海 / 枫原万叶 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "行秋 / 夜兰",
+                      "characters": [
+                        "Xingqiu"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 珊瑚宫心海 / 枫原万叶 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "行秋 / 夜兰",
+                      "characters": [
+                        "Yelan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 闲云 / 魈 / 珐露珊",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "闲云",
+                      "characters": [
+                        "Xianyun"
+                      ]
+                    },
+                    {
+                      "label": "魈",
+                      "characters": [
+                        "Xiao"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 班尼特 / 娜维娅 / 钟离 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "钟离 / 希诺宁",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 班尼特 / 娜维娅 / 钟离 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "钟离 / 希诺宁",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 诺艾尔 / 阿贝多 / 五郎",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "诺艾尔",
+                      "characters": [
+                        "Noelle"
+                      ]
+                    },
+                    {
+                      "label": "阿贝多",
+                      "characters": [
+                        "Albedo"
+                      ]
+                    },
+                    {
+                      "label": "五郎",
+                      "characters": [
+                        "Gorou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 米卡 / 优菈 / 雷电将军",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "米卡",
+                      "characters": [
+                        "Mika"
+                      ]
+                    },
+                    {
+                      "label": "优菈",
+                      "characters": [
+                        "Eula"
+                      ]
+                    },
+                    {
+                      "label": "雷电将军",
+                      "characters": [
+                        "RaidenShogun"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/furina-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "后台生命输出兼增伤；先满足队伍充能，气氛值与命座按实际设置。",
+                "version": null
+              },
+              "intro": "后台生命输出兼增伤；先满足队伍充能，气氛值与命座按实际设置。",
+              "build": {
+                "sets": [
+                  "GoldenTroupe"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "hp_",
+                    "enerRech_"
+                  ],
+                  "goblet": [
+                    "hp_",
+                    "hydro_dmg_"
+                  ],
+                  "circlet": [
+                    "critRate_",
+                    "critDMG_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 9
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "GoldenTroupe"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "hp_",
+                      "enerRech_"
+                    ],
+                    "goblet": [
+                      "hp_",
+                      "hydro_dmg_"
+                    ],
+                    "circlet": [
+                      "critRate_",
+                      "critDMG_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          },
+          {
+            "id": "3d9fb311-a15a-4db4-ad06-405390f8f812",
+            "name": "内置方案（副本）",
+            "builtin": false,
+            "value": {
+              "weapons": [
+                {
+                  "key": "SplendorOfTranquilWaters",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FleuveCendreFerryman",
+                  "category": "四星及三星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                },
+                {
+                  "key": "FavoniusSword",
+                  "category": "四星及三星备选",
+                  "note": "队伍循环选择：需要持有者在场触发暴击并产生微粒，适当配置暴击率。"
+                },
+                {
+                  "key": "FesteringDesire",
+                  "category": "四星及三星备选",
+                  "note": "充能副属性可帮助循环，达到队伍充能需求后再比较输出或辅助收益。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "芙宁娜 / 那维莱特 / 枫原万叶 / 希诺宁 / 钟离 / 火旅行者",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁 / 钟离 / 火旅行者",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 那维莱特 / 枫原万叶 / 希诺宁 / 钟离 / 火旅行者",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "那维莱特",
+                      "characters": [
+                        "Neuvillette"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "希诺宁 / 钟离 / 火旅行者",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 珊瑚宫心海 / 枫原万叶 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "行秋 / 夜兰",
+                      "characters": [
+                        "Xingqiu"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 珊瑚宫心海 / 枫原万叶 / 行秋 / 夜兰",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "珊瑚宫心海",
+                      "characters": [
+                        "SangonomiyaKokomi"
+                      ]
+                    },
+                    {
+                      "label": "枫原万叶",
+                      "characters": [
+                        "KaedeharaKazuha"
+                      ]
+                    },
+                    {
+                      "label": "行秋 / 夜兰",
+                      "characters": [
+                        "Yelan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 闲云 / 魈 / 珐露珊",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "闲云",
+                      "characters": [
+                        "Xianyun"
+                      ]
+                    },
+                    {
+                      "label": "魈",
+                      "characters": [
+                        "Xiao"
+                      ]
+                    },
+                    {
+                      "label": "珐露珊",
+                      "characters": [
+                        "Faruzan"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 班尼特 / 娜维娅 / 钟离 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "钟离 / 希诺宁",
+                      "characters": [
+                        "Zhongli"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 班尼特 / 娜维娅 / 钟离 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "班尼特",
+                      "characters": [
+                        "Bennett"
+                      ]
+                    },
+                    {
+                      "label": "娜维娅",
+                      "characters": [
+                        "Navia"
+                      ]
+                    },
+                    {
+                      "label": "钟离 / 希诺宁",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 诺艾尔 / 阿贝多 / 五郎",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "诺艾尔",
+                      "characters": [
+                        "Noelle"
+                      ]
+                    },
+                    {
+                      "label": "阿贝多",
+                      "characters": [
+                        "Albedo"
+                      ]
+                    },
+                    {
+                      "label": "五郎",
+                      "characters": [
+                        "Gorou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "芙宁娜 / 米卡 / 优菈 / 雷电将军",
+                  "slots": [
+                    {
+                      "label": "芙宁娜",
+                      "characters": [
+                        "Furina"
+                      ]
+                    },
+                    {
+                      "label": "米卡",
+                      "characters": [
+                        "Mika"
+                      ]
+                    },
+                    {
+                      "label": "优菈",
+                      "characters": [
+                        "Eula"
+                      ]
+                    },
+                    {
+                      "label": "雷电将军",
+                      "characters": [
+                        "RaidenShogun"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/furina-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "后台生命输出兼增伤；先满足队伍充能，气氛值与命座按实际设置。",
+                "version": null
+              },
+              "intro": "后台生命输出兼增伤；先满足队伍充能，气氛值与命座按实际设置。",
+              "build": {
+                "sets": [
+                  "GoldenTroupe"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "hp_",
+                    "enerRech_"
+                  ],
+                  "goblet": [
+                    "hp_",
+                    "hydro_dmg_"
+                  ],
+                  "circlet": [
+                    "critRate_",
+                    "critDMG_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 9
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "GoldenTroupe"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "hp_",
+                      "enerRech_"
+                    ],
+                    "goblet": [
+                      "hp_",
+                      "hydro_dmg_"
+                    ],
+                    "circlet": [
+                      "critRate_",
+                      "critDMG_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          }
+        ]
+      }
+    },
+    "Odette": {
+      "guidePlans": {
+        "defaultId": "builtin",
+        "displayId": "builtin",
+        "plans": [
+          {
+            "id": "builtin",
+            "name": "内置方案",
+            "builtin": true,
+            "value": {
+              "weapons": [
+                {
+                  "key": "WhitelakeFrostfeather",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "Azurelight",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "Absolution",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "PrimordialJadeCutter",
+                  "category": "五星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                },
+                {
+                  "key": "FinaleOfTheDeep",
+                  "category": "四星及三星备选",
+                  "note": "攻击输出备选，需要治疗清除生命之契，才能发挥完整被动。"
+                },
+                {
+                  "key": "Emberwell",
+                  "category": "四星及三星备选",
+                  "note": "精通副属性适合反应玩法，需确认持有者实际触发的反应。"
+                },
+                {
+                  "key": "HereticsMoltenBlade",
+                  "category": "四星及三星备选",
+                  "note": "按当前玩法比较副属性与被动覆盖，收益还取决于精炼、队伍增益和充能需求。"
+                }
+              ],
+              "teams": [
+                {
+                  "label": "奥黛塔 / 八重神子 / 桑多涅 / 七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "桑多涅",
+                      "characters": [
+                        "Sandrone"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 桑多涅 / 七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "桑多涅",
+                      "characters": [
+                        "Sandrone"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                      "characters": [
+                        "Beidou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 桑多涅 / 七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "桑多涅",
+                      "characters": [
+                        "Sandrone"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                      "characters": [
+                        "Diona"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 桑多涅 / 七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "桑多涅",
+                      "characters": [
+                        "Sandrone"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 6命 北斗 / 6命 迪奥娜",
+                      "characters": [
+                        "Qiqi"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 莱欧斯利 / 6命 北斗 / 尼可 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "6命 北斗 / 尼可 / 希诺宁",
+                      "characters": [
+                        "Xilonen"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 莱欧斯利 / 6命 北斗 / 尼可 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "6命 北斗 / 尼可 / 希诺宁",
+                      "characters": [
+                        "Beidou"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 莱欧斯利 / 6命 北斗 / 尼可 / 希诺宁",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "莱欧斯利",
+                      "characters": [
+                        "Wriothesley"
+                      ]
+                    },
+                    {
+                      "label": "6命 北斗 / 尼可 / 希诺宁",
+                      "characters": [
+                        "Nicole"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 赛诺 / 八重神子 / 七七 / 阿罗夏",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "赛诺",
+                      "characters": [
+                        "Cyno"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 阿罗夏",
+                      "characters": [
+                        "Alyosha"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 赛诺 / 八重神子 / 七七 / 阿罗夏",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "赛诺",
+                      "characters": [
+                        "Cyno"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "七七 / 阿罗夏",
+                      "characters": [
+                        "Qiqi"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 雷系 / 冰系/雷系 / 灵活位",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子 / 雷系",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "冰系/雷系",
+                      "characters": []
+                    },
+                    {
+                      "label": "灵活位",
+                      "characters": []
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 冰旅行者 / 七七 / 爱可菲 / 砂糖",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "冰旅行者",
+                      "characters": []
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 砂糖",
+                      "characters": [
+                        "Escoffier"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 冰旅行者 / 七七 / 爱可菲 / 砂糖",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "冰旅行者",
+                      "characters": []
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 砂糖",
+                      "characters": [
+                        "Sucrose"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 八重神子 / 冰旅行者 / 七七 / 爱可菲 / 砂糖",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "八重神子",
+                      "characters": [
+                        "YaeMiko"
+                      ]
+                    },
+                    {
+                      "label": "冰旅行者",
+                      "characters": []
+                    },
+                    {
+                      "label": "七七 / 爱可菲 / 砂糖",
+                      "characters": [
+                        "Qiqi"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "奥黛塔 / 冰旅行者 / 阿罗夏 / 砂糖",
+                  "slots": [
+                    {
+                      "label": "奥黛塔",
+                      "characters": [
+                        "Odette"
+                      ]
+                    },
+                    {
+                      "label": "冰旅行者",
+                      "characters": []
+                    },
+                    {
+                      "label": "阿罗夏",
+                      "characters": [
+                        "Alyosha"
+                      ]
+                    },
+                    {
+                      "label": "砂糖",
+                      "characters": [
+                        "Sucrose"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "source": {
+                "name": "KQM角色攻略",
+                "url": "https://keqingmains.com/q/odette-quickguide/",
+                "checkedAt": "2026-10-07",
+                "type": "guide",
+                "basis": "星反应后台；攻击杯与双暴，精通次之，常规冰伤不提高直接星反应。",
+                "version": "7.0"
+              },
+              "intro": "星反应后台；攻击杯与双暴，精通次之，常规冰伤不提高直接星反应。",
+              "build": {
+                "sets": [
+                  "HeartOfTheFurnace"
+                ],
+                "mainStats": {
+                  "sands": [
+                    "atk_"
+                  ],
+                  "goblet": [
+                    "atk_"
+                  ],
+                  "circlet": [
+                    "critRate_",
+                    "critDMG_"
+                  ]
+                },
+                "talent": {
+                  "auto": 1,
+                  "skill": 9,
+                  "burst": 8
+                }
+              },
+              "artifactPlans": [
+                {
+                  "id": "artifact-1",
+                  "name": "圣遗物方案 1",
+                  "mode": "four",
+                  "sets": [
+                    "HeartOfTheFurnace"
+                  ],
+                  "mainStats": {
+                    "sands": [
+                      "atk_"
+                    ],
+                    "goblet": [
+                      "atk_"
+                    ],
+                    "circlet": [
+                      "critRate_",
+                      "critDMG_"
+                    ]
+                  },
+                  "display": true
+                }
+              ],
+              "artifactAdvice": "培养顺序参考：元素战技 → 元素爆发。先保证循环与正确主词条，再比较副词条；具体天赋级数与权重沿用可修改的本地模板。"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

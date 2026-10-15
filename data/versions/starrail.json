@@ -1,0 +1,3061 @@
+{
+  "schemaVersion": 1,
+  "game": "starrail",
+  "updatedAt": "2026-10-04T08:36:05.907Z",
+  "sourceFetchedAt": "2026-10-04T05:26:30.212Z",
+  "sourceBatch": "2026-10-04-4603c579",
+  "scope": "档案用于快速了解主要剧情、地图、常驻玩法及重要系统变化；保留具体规则、开放条件与明确数值。新增角色、装备与套装仅关联已收录图鉴，卡池沿用实际记录。版本固定补偿、限时活动、问题修复及指定周期挑战不收录；完整公告保存在来源快照。",
+  "versions": [
+    {
+      "version": "4.6",
+      "alias": null,
+      "title": "月升之前，与兽共舞",
+      "titleOriginal": "Dance With the Beast Before Moonrise",
+      "releaseDate": "2026-09-28",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-09-28 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-11-11 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「千星城」-「月升之前，与兽共舞」",
+              "availability": "permanent",
+              "times": [
+                "4.6版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "时装「云边拾暖」"
+            },
+            {
+              "name": "时装「月待花时」"
+            },
+            {
+              "name": "开拓穿搭-头饰「孤狼墨镜」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「生研院」"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 联机生研院 / 联机派对车厢",
+              "explanation": "联机地图新增「联机生研院」场景，同时新增【邀请好友】功能，开拓者可主动邀请好友拜访「联机生研院」与「联机派对车厢」。",
+              "facts": [
+                "【编队】界面新增常用队伍标记功能，被标记的队伍在选取预设编队时将会置顶显示，方便开拓者寻找。"
+              ]
+            },
+            {
+              "name": "新增 · 黑塔的商店 / 未来，有我们一起（欢愉） / 纪念卡带",
+              "explanation": "「黑塔的商店」新增4星光锥「未来，有我们一起（欢愉）」及其叠影道具「纪念卡带」。"
+            },
+            {
+              "name": "优化 · 角色",
+              "explanation": "优化了【命途切换】功能。当启用队伍中存在已保存队伍预设命途的角色，并在「角色」界面切换该角色命途时，可选择是否同步切换当前队伍中的命途，该操作将同步解除队伍预设。"
+            },
+            {
+              "name": "调整 · 终末视界",
+              "explanation": "调整并优化了使用「终末视界」功能时的部分提示与显示内容。提前解锁的前置任务列表将仅回溯近期版本任务，不再显示较早版本。同时，优化了提前解锁列表中前置任务的跳转功能。"
+            },
+            {
+              "name": "调整 · 拟造花萼 / 侵蚀隧洞 / 凝滞虚影",
+              "explanation": "调整了「拟造花萼」「侵蚀隧洞」「凝滞虚影」「历战余响」的关卡难度默认选择逻辑。上述关卡在重新登录后将不再默认沿用上次通关时选择的难度，而是默认选择当前已解锁的最高难度。"
+            },
+            {
+              "name": "调整 · 背包 / 随宠",
+              "explanation": "调整了使用手柄体验游戏时，「背包」-「随宠」界面【召唤/召回】【预览】按钮的对应键位，可在游戏内查看对应的按键提示。"
+            },
+            {
+              "name": "调整 · 导航",
+              "explanation": "调整了使用手柄体验游戏时，「导航」界面左上角【导航提示】【战利品提示】【切换联机地图】的对应键位，可在游戏内查看对应的按键提示。"
+            },
+            {
+              "name": "优化 · 邮件附件领取功能",
+              "explanation": "优化了邮件附件领取功能。当背包中部分物品持有数量达到上限，导致无法领取邮件附件时，将提示对应物品，以便开拓者快速清理。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/166468",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 472212,
+          "sourceUpdatedAt": "2026-09-28T21:00:52Z"
+        }
+      ]
+    },
+    {
+      "version": "4.5",
+      "alias": null,
+      "title": "挥掷千星的筹码",
+      "titleOriginal": "To Roll the Stars in Astropolis",
+      "releaseDate": "2026-08-26",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-08-26 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-09-28 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「千星城」-「挥掷千星的筹码」",
+              "availability": "permanent",
+              "times": [
+                "4.5版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            },
+            {
+              "name": "开拓续闻「千星城」-「亏成首富，从不要钱开始」",
+              "availability": "permanent",
+              "times": [
+                "4.5版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "开拓穿搭-头饰「别看我，看它」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "千星城中心城区"
+            },
+            {
+              "name": "指针塔"
+            },
+            {
+              "name": "空声院"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 感应力学探测棒 / 千星城 / 狸狸送福利",
+              "explanation": "新增寻宝小道具「感应力学探测棒」，使用后可以在「千星城」相关地图中显示1个普通战利品的位置。开拓者可以通过提升「狸狸送福利」等级获取该道具。"
+            },
+            {
+              "name": "调整 · 终末视界•飞跃开拓 / 千星城 / 二相乐园",
+              "explanation": "调整并优化了使用「终末视界•飞跃开拓」功能时的部分提示与显示内容。对于「千星城」，完成前置世界「二相乐园」开拓任务后可解锁提前体验。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/165767",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 470153,
+          "sourceUpdatedAt": "2026-09-20T12:30:18Z"
+        }
+      ]
+    },
+    {
+      "version": "4.4",
+      "alias": null,
+      "title": "鸣笛于归寂之时",
+      "titleOriginal": "In Ravages Does the Whistle Sound",
+      "releaseDate": "2026-07-15",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-07-15 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-08-26 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「二相乐园」-「鸣笛于归寂之时」",
+              "availability": "permanent",
+              "times": [
+                "4.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            },
+            {
+              "name": "开拓续闻「二相乐园」-「幻造：圣杯战争」",
+              "times": [
+                "2026/07/24 12:00 (服务器时间)后长期开放"
+              ],
+              "requirements": [
+                "开拓等级≥3级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "时装「甜梦电波」"
+            },
+            {
+              "name": "开拓穿搭-头饰「同人古士」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "寂灭空飨妖都",
+              "facts": [
+                "由归寂创造的「奇迹」，行将毁灭的二相乐园如打乱的魔方般扭曲，古老的巨兽蛰伏于深渊之底，随时准备享受这份迟来的飨宴。"
+              ]
+            },
+            {
+              "name": "坠星的摇篮"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 智能装配",
+              "explanation": "「智能装配」功能中，【我的遗器】的遗器信息界面新增了【更多遗器】入口，无需选定即可直接替换装备的遗器。同时优化了使用自定义方案时，套装选择列表的排序逻辑。"
+            },
+            {
+              "name": "支持 · 快速在同一角色的已装备遗器中切换",
+              "explanation": "进行遗器强化时，支持快速在同一角色的已装备遗器中切换，并对其进行强化、重掷等操作。"
+            },
+            {
+              "name": "优化 · 模拟宇宙 / 位面饰品 / 饰品提取",
+              "explanation": "4.4版本起，开拓者无需完成「模拟宇宙」相关前置任务，只需解锁「位面饰品」，即可通过「饰品提取」功能获取位面饰品。同时，优化了「位面饰品提取」的跳转体验，无需传送即可直接进入对应关卡界面。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/165195",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 470154,
+          "sourceUpdatedAt": "2026-09-20T12:30:42Z"
+        }
+      ]
+    },
+    {
+      "version": "4.3",
+      "alias": null,
+      "title": "沉于生者的忘川",
+      "titleOriginal": "The Lethe Below the Living",
+      "releaseDate": "2026-06-01",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-06-01 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-07-15 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「二相乐园」-「沉于生者的忘川」",
+              "availability": "permanent",
+              "times": [
+                "4.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「二相乐园」-「如是，众生欢笑不已」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "开拓穿搭-背部「彼岸业火」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "渡画泉隐",
+              "facts": [
+                "「画中世界」与现实的交界。从这里开始，幻造种将告别现实，遁入画中，在整理跨越百年的经历与故事后，了却尘缘。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 逐光捡金 / 星启模式 / 棱彩星",
+              "explanation": "4.3版本起更新的「逐光捡金」玩法将新增「星启模式」，可在挑战各玩法的最高难度时选择开启。「星启模式」下需组建三支队伍分别挑战三个关卡，各关卡支持单独重新挑战。通关每项玩法「星启模式」获得「棱彩星」后还可获得额外星琼等奖励。详情请见游戏内说明。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/164415",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466441,
+          "sourceUpdatedAt": "2026-09-07T08:53:29Z"
+        }
+      ]
+    },
+    {
+      "version": "4.2",
+      "alias": null,
+      "title": "如是，众生欢笑不已",
+      "titleOriginal": "So Laughed the Masses",
+      "releaseDate": "2026-04-22",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-04-22 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-06-01 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「二相乐园」-「如是，众生欢笑不已」",
+              "availability": "permanent",
+              "times": [
+                "4.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「二相乐园」-「献给破晓的失控」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "时装「幽梦翩跹」"
+            },
+            {
+              "name": "开拓穿搭-头饰「酷酷酷目镜」"
+            },
+            {
+              "name": "开拓穿搭-头饰「浣熊熊爆改绯绯狐」"
+            },
+            {
+              "name": "开拓穿搭-头饰「寰宇顶流•霓虹猫耳耳机」"
+            },
+            {
+              "name": "开拓穿搭-头饰「狸狸眼镜」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "海原市"
+            },
+            {
+              "name": "海原电视塔"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 背包 / 随宠",
+              "explanation": "调整了使用手柄体验游戏时，「背包」-「随宠」界面【召唤/召回】按钮的对应键位，可在游戏内查看对应的按键提示。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/163625",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466440,
+          "sourceUpdatedAt": "2026-09-07T08:52:54Z"
+        }
+      ]
+    },
+    {
+      "version": "4.1",
+      "alias": null,
+      "title": "献给破晓的失控",
+      "titleOriginal": "Unraveled for Daybreak",
+      "releaseDate": "2026-03-25",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-03-25 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-04-22 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「二相乐园」-「献给破晓的失控」",
+              "availability": "permanent",
+              "times": [
+                "4.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「二相乐园」-「生者对死者无动于衷」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "观览云岛站",
+              "facts": [
+                "珠星财团将整个「观览云岛」改造成了如今的漫展现场。很难想象需要耗费多大的财力，才能在如此短的时间内彻底改造整个地区。"
+              ]
+            },
+            {
+              "name": "珠星大厦"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "「差分宇宙•乐园漫记」：差分宇宙全新课题重磅更新",
+              "times": [
+                "4.1版本更新后"
+              ],
+              "requirements": [
+                "通关「模拟宇宙•第三世界」"
+              ],
+              "facts": [
+                "该内容支持通过「终末视界」功能提前体验。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 黑塔的商店 / 欢愉满溢祝福（欢愉） / 叠影器（特制）",
+              "explanation": "「黑塔的商店」新增可兑换5星光锥「欢愉满溢祝福（欢愉）」，光锥叠影道具「叠影器（特制）」可兑换上限也相应提升。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/163273",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466439,
+          "sourceUpdatedAt": "2026-09-07T08:52:17Z"
+        }
+      ]
+    },
+    {
+      "version": "4.0",
+      "alias": null,
+      "title": "满月是神不在的时间",
+      "titleOriginal": "No Aha At Full Moon",
+      "releaseDate": "2026-02-13",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-02-13 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-03-25 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「二相乐园」-「满月是神不在的时间」",
+              "availability": "permanent",
+              "times": [
+                "4.0版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「落英啊，残芳纷飞留归躅」"
+              ]
+            },
+            {
+              "name": "冒险任务"
+            },
+            {
+              "name": "「千禧杀手」「初恋三十次」「没有答案的漫画」「献给幸福者的花束」"
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "时装「雪绽梅笺」"
+            },
+            {
+              "name": "开拓穿搭-服装「龙马精神」"
+            },
+            {
+              "name": "开拓穿搭-头饰「花花兔和火火菇」"
+            },
+            {
+              "name": "开拓穿搭-头饰「浣熊的谒者面具」"
+            },
+            {
+              "name": "开拓穿搭-头饰「啊！青春！」"
+            },
+            {
+              "name": "开拓穿搭-头饰「加载中」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "二维市"
+            },
+            {
+              "name": "绘世学院"
+            },
+            {
+              "name": "鸽川区"
+            },
+            {
+              "name": "「世界尽头」酒馆"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 气气狸狸 / 二相乐园 / 狸狸通信",
+              "explanation": "新增寻宝小道具「气气狸狸」，使用后可以在「二相乐园」相关地图中显示1个普通战利品的位置。开拓者可以通过提升「狸狸通信」畅销等级获取该道具。"
+            },
+            {
+              "name": "优化 · 编队时加入支援角色的体验",
+              "explanation": "优化了编队时加入支援角色的体验。开拓者可以通过单独的支援按钮或直接在快速编队时选择支援角色。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/162706",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/4.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466438,
+          "sourceUpdatedAt": "2026-09-07T08:51:52Z"
+        }
+      ]
+    },
+    {
+      "version": "3.8",
+      "alias": null,
+      "title": "记忆是梦的开场白",
+      "titleOriginal": "Memories are the Prelude to Dreams",
+      "releaseDate": "2025-12-17",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-12-17 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "终末任务「匹诺康尼」-「记忆是梦的开场白」",
+              "availability": "permanent",
+              "times": [
+                "3.8版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「匹诺康尼」-「异乡异客」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "橡木鸣蛀之梦"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 长梦忆影",
+              "explanation": "3.8版本终末任务流程中将新增特殊的剧情回顾视图「长梦忆影」，可通过任务界面右上角进入回顾。"
+            },
+            {
+              "name": "【编队】界面新增切换命途功能：开拓者无需跳转至角色详情",
+              "explanation": "【编队】界面新增切换命途功能：开拓者无需跳转至角色详情，即可在编队界面中快速切换角色命途。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/161539",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.8",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466437,
+          "sourceUpdatedAt": "2026-09-07T08:51:04Z"
+        }
+      ]
+    },
+    {
+      "version": "3.7",
+      "alias": null,
+      "title": "成为昨日的明天",
+      "titleOriginal": "As Tomorrow Became Yesterday",
+      "releaseDate": "2025-11-05",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-11-05 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「成为昨日的明天」",
+              "availability": "permanent",
+              "times": [
+                "3.7版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「诸神啊，奏响创世的凯歌」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "「货币战争•零和博弈」：体验全新大型常驻玩法，可获取变量骰子、自塑尘脂等奖励。",
+              "availability": "permanent",
+              "times": [
+                "3.7版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ],
+              "facts": [
+                "本内容支持通过「终末视界」功能提前体验。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "开拓穿搭「救世主的桂冠」"
+            },
+            {
+              "name": "开拓穿搭「垃垃司机」"
+            },
+            {
+              "name": "开拓穿搭「Hello 迷World！」"
+            },
+            {
+              "name": "星旅定制「『∞』的誓约」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「灾梦余温」无名泰坦大墓"
+            },
+            {
+              "name": "「葬忆彼岸」时光归墟",
+              "facts": [
+                "囚徒将自己与那束劫火钉死在一处——在这埋葬了三千万世记忆与执念的彼岸。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 深度沉浸器 / 星际和平指南 / 生存索引",
+              "explanation": "新增道具「深度沉浸器」：可在「星际和平指南」-「生存索引」-「饰品提取」中使用，无需战斗快速提取位面饰品。开拓者可通过「货币战争」玩法获取深度沉浸器。"
+            },
+            {
+              "name": "解锁 · 如我所书 / 救世主的桂冠",
+              "explanation": "「如我所书」更新：体验3.7版本开拓任务后，解锁和阅读全新故事即可获取自塑尘脂、星琼及开拓穿搭「救世主的桂冠」等奖励。"
+            },
+            {
+              "name": "新增 · 星际和平指南 / 开拓历程",
+              "explanation": "「星际和平指南」新增「开拓历程」，开拓者可在该界面快速查看当前开拓任务完成情况、提前解锁后续世界的剧情、回顾已完成的剧情内容等。"
+            },
+            {
+              "name": "调整 · 星际和平指南 / 模拟宇宙 / 旷宇纷争",
+              "explanation": "「星际和平指南」中，原「模拟宇宙」页调整为「旷宇纷争」，并新增「货币战争」页签，方便开拓者查看货币战争的通关情况并前往参与。",
+              "facts": [
+                "新增行迹【快速升级】功能。在行迹界面中开启【快速升级】按钮，可一键将当前行迹升级至可以提升的最高等级。"
+              ]
+            },
+            {
+              "name": "调整 · 模拟宇宙 / 货币战争",
+              "explanation": "调整了「模拟宇宙」积分奖励的更新周期。「模拟宇宙」积分奖励的更新周期将变为两周一期，与「货币战争」积分奖励交替更新。"
+            },
+            {
+              "name": "调整 · 星际和平指南 / 每日实训 / 差分宇宙",
+              "explanation": "调整了「星际和平指南」-「每日实训」的任务：完成1次「差分宇宙」或「模拟宇宙」 调整为 完成1次「差分宇宙」或「货币战争」。"
+            },
+            {
+              "name": "优化 · 连续挑战关卡时补充开拓力的体验",
+              "explanation": "优化了连续挑战关卡时补充开拓力的体验。关卡新增【快捷补充开拓力】按钮，当开拓者拥有后备开拓力或燃料时，若当前开拓力小于需要消耗的开拓力，系统会根据所缺开拓力数量自动调取后备开拓力或燃料。"
+            },
+            {
+              "name": "提升 · 货币战争 / 助燃券 / 星际和平指南",
+              "explanation": "开拓者通过「货币战争」玩法等途径获取「助燃券」后，「星际和平指南」、关卡进入、角色晋级、行迹提升、光锥升级等界面将显示快速刷取入口。搭配「助燃券」消耗开拓力，可以快速获取拟造花萼/凝滞虚影产出的材料，每消耗10开拓力需要1张「助燃券」。"
+            },
+            {
+              "name": "支持 · 智库 / 角色",
+              "explanation": "「智库」-「角色」中，拥有多命途的部分角色支持切换、查看不同命途下的角色及相关信息。"
+            },
+            {
+              "name": "优化 · 光锥替换",
+              "explanation": "优化了「光锥替换」界面信息与光锥排序规则。光锥列表将默认按照光锥建议排序，且划分为【与角色命途相符】和【与角色命途不相符】两类。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/160735",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.7",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466436,
+          "sourceUpdatedAt": "2026-09-07T08:48:58Z"
+        }
+      ]
+    },
+    {
+      "version": "3.6",
+      "alias": null,
+      "title": "于长夜重返大地",
+      "titleOriginal": "Back to Earth in Evernight",
+      "releaseDate": "2025-09-24",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-09-24 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「于长夜重返大地」",
+              "availability": "permanent",
+              "times": [
+                "3.6版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「囚人啊，踏过日影见沧溟」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「辉痕圣林」神悟树庭"
+            },
+            {
+              "name": "「全世矩阵」无名泰坦大墓"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 干涉密钥 / 变量骰子",
+              "explanation": "新增道具「干涉密钥」：开拓者在使用「变量骰子」进行遗器重掷时，可以消耗1个「干涉密钥」屏蔽1条副属性，被屏蔽的副属性在该次重掷中不会被强化。"
+            },
+            {
+              "name": "新增 · 命路歧图",
+              "explanation": "新增【剧情回顾】功能：在「命路歧图」中，开拓者可以选择开拓任务、开拓续闻、同行任务中的故事节点并开启剧情回顾列表，开启后可自由选择特定故事段落或剧情动画进行回顾。",
+              "facts": [
+                "【编队】界面新增【阵容推荐提示】功能：开启快速编队中的阵容推荐提示按钮后，角色列表右侧会根据选中角色自动推荐4人编队组合，点击组合可一键编成。"
+              ]
+            },
+            {
+              "name": "调整 · 开拓者（记忆•冰） / 雅利洛-VI / 回归",
+              "explanation": "调整了角色「开拓者（记忆•冰）」的解锁条件。调整后，开拓者完成开拓任务「雅利洛-VI」-「回归」后，即可在「命途切换」界面中直接激活「记忆」命途。"
+            },
+            {
+              "name": "新增 · 【批量解除锁定】与【批量解除弃置】的功能",
+              "explanation": "新增【批量解除锁定】与【批量解除弃置】的功能，调整了遗器批量锁定或弃置的按钮文本，原按钮文本【快速锁定】调整为【切换锁定】，【快速弃置】调整为【切换弃置】。"
+            },
+            {
+              "name": "增加 · 弹窗入口",
+              "explanation": "【背包】-【遗器】界面侧边栏详情、查看遗器属性详情界面增加弹窗入口，点击可查看适合装备此套装的推荐角色。"
+            },
+            {
+              "name": "调整 · 培养指引 / 角色攻略",
+              "explanation": "「培养指引」调整为「角色攻略」，新增【培养概览】页，提供角色养成情况及阵容推荐方案一览。【阵容推荐】将根据开拓者拥有的角色情况，推荐所选角色适配的队友组合方案、部分队友位的备选角色。"
+            },
+            {
+              "name": "调整 · 及优化了遗器筛选功能的交互体验",
+              "explanation": "调整及优化了遗器筛选功能的交互体验。当启用筛选时，界面左下角筛选按钮新增【筛选中】提示；对遗器进行副属性筛选时，包含筛选、排除筛选及筛选属性条数量的设置按钮将移动至【点击选择】的【筛选规则】弹窗中。"
+            },
+            {
+              "name": "调整 · 【编队】中可保存的队伍上限",
+              "explanation": "调整了【编队】中可保存的队伍上限，调整后最多可保存12个队伍。"
+            },
+            {
+              "name": "调整 · 角色攻略 / 培养指引",
+              "explanation": "调整了使用手柄时，进入「角色攻略」（原「培养指引」）的对应键位。以Xbox手柄为例，调整前为RS，调整后需同时按下LB+X。其他手柄可在游戏内查看对应的按键提示。"
+            },
+            {
+              "name": "优化 · 支援列表中【陌生人】角色的推荐算法",
+              "explanation": "优化了支援列表中【陌生人】角色的推荐算法：当开拓者满足回归条件时，更容易刷到养成情况较好的强力支援角色。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/159638",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466435,
+          "sourceUpdatedAt": "2026-09-07T08:48:26Z"
+        }
+      ]
+    },
+    {
+      "version": "3.5",
+      "alias": null,
+      "title": "英雄未死之前",
+      "titleOriginal": "Before Their Deaths",
+      "releaseDate": "2025-08-13",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-08-13 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「英雄未死之前」",
+              "availability": "permanent",
+              "times": [
+                "3.5版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「英雄啊，将创世的凯歌奏响」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「酣歌海垠」斯缇科西亚"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "优化 · ■系统",
+              "explanation": "【遗器合成】功能优化：合成遗器时支持选择适配角色，系统会为其推荐主属性并在【定向合成】界面标记推荐的主副词条。"
+            },
+            {
+              "name": "优化 · 遗器合成完毕时的获取界面",
+              "explanation": "优化了遗器合成完毕时的获取界面，关闭方式将由点击空白处改为点击【关闭】按钮。"
+            },
+            {
+              "name": "优化 · 角色-遗器-智能装配",
+              "explanation": "【智能装配】功能优化：开拓者在“角色-遗器-智能装配”界面搭配遗器时，可针对每一部位选定遗器单独替换，被选定的遗器将被标记并作优先推荐。装备遗器后，界面将保持开启状态，便于后续调整遗器。"
+            },
+            {
+              "name": "优化 · 【智能装配】系统推荐遗器时的规则、进行遗器变更时的提示文本、建议获取缺失部位遗器时的优先级提示及遗器信息介绍",
+              "explanation": "优化了【智能装配】系统推荐遗器时的规则、进行遗器变更时的提示文本、建议获取缺失部位遗器时的优先级提示及遗器信息介绍。"
+            },
+            {
+              "name": "优化 · 通过商店兑换、光锥分解找回等途径连续获得重复4星光锥时的体验",
+              "explanation": "优化了通过商店兑换、光锥分解找回等途径连续获得重复4星光锥时的体验。开拓者可在光锥获取界面处点击跳过按钮，无需观看重复光锥的获取动画。"
+            },
+            {
+              "name": "调整 · 遂愿尘脂 / 自塑尘脂 / 遗器残骸",
+              "explanation": "3.5版本更新后，所有获取「遂愿尘脂」的途径将更换为获取「自塑尘脂」。其中使用「遗器残骸」合成「遂愿尘脂」的途径将转化为合成「自塑尘脂」，每月合成上限仍为2个。版本更新不会重置当月可合成上限，即版本更新当月仍然只能通过「遗器残骸」合成最多2个「自塑尘脂」或「遂愿尘脂」。",
+              "facts": [
+                "3.5版本更新后，开拓者原有的「遂愿尘脂」将自动按照1:1的比例转化为「自塑尘脂」。若开拓者的邮箱中存在尚未领取的「遂愿尘脂」，在领取时也会自动按1:1的比例转换为「自塑尘脂」。"
+              ]
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/158598",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466434,
+          "sourceUpdatedAt": "2026-09-07T08:47:49Z"
+        }
+      ]
+    },
+    {
+      "version": "3.4",
+      "alias": null,
+      "title": "因为太阳将要毁伤",
+      "titleOriginal": "For the Sun is Set to Die",
+      "releaseDate": "2025-07-02",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-07-02 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「因为太阳将要毁伤」",
+              "availability": "permanent",
+              "times": [
+                "3.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「黎明啊，执耀于全世之终」"
+              ]
+            },
+            {
+              "name": "开拓续闻「匹诺康尼」-「美梦与圣杯」",
+              "times": [
+                "2025/07/11 12:00:00 (服务器时间) 后长期开放",
+                "2025/07/11 12:00:00 (服务器时间) - 3.4版本结束前，开拓者解锁「旅情事记」即可开启「终末视界」参与开拓续闻。"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "「春日手信」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "哀丽秘榭"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 砺烁新辉 / 银狼 / 刃",
+              "explanation": "新增「砺烁新辉」角色加强系统，3.4版本获得加强的角色为「银狼」「刃」「卡芙卡」「镜流」。角色加强后，无论是已有角色还是新获得的角色，都默认为加强后的状态。在【角色详情】界面点击强化按钮可查看角色的详细调整信息，也可以手动切换角色至未加强状态或加强状态。"
+            },
+            {
+              "name": "【遗器建议】新增系统推荐方案：若对应角色的遗器使用数据仍在统计时",
+              "explanation": "【遗器建议】新增系统推荐方案：若对应角色的遗器使用数据仍在统计时，会显示系统推荐的遗器套装和主属性。"
+            },
+            {
+              "name": "优化 · ■系统",
+              "explanation": "角色排序逻辑优化：3.4版本更新后，【角色详情】页列表中，新获得的角色及设为培养目标的角色的排序将会靠前，培养目标角色也将新增对应提示，以便开拓者在列表中快速找到对应角色。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/157441",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466433,
+          "sourceUpdatedAt": "2026-09-07T08:20:52Z"
+        }
+      ]
+    },
+    {
+      "version": "3.3",
+      "alias": null,
+      "title": "在黎明升起时坠落",
+      "titleOriginal": "The Fall at Dawn's Rise",
+      "releaseDate": "2025-05-21",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-05-21 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「在黎明升起时坠落」",
+              "availability": "permanent",
+              "times": [
+                "3.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「走过安眠地的花丛」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「穹顶关塞」晨昏之眼",
+              "group": "全新场景"
+            },
+            {
+              "name": "「云端遗堡」晨昏之眼",
+              "group": "全新场景",
+              "facts": [
+                "在阳雷骑士讨伐并弑杀艾格勒后，残余的天空文明来到大地，将浮空要塞的废墟留藏在漫漫天际一隅。"
+              ]
+            },
+            {
+              "name": "「无晖祈堂」黎明云崖",
+              "group": "全新场景"
+            },
+            {
+              "name": "「沉沦暮城」奥赫玛",
+              "group": "全新场景"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 背包内遗器数量上限",
+              "explanation": "调整了背包内遗器数量上限，调整后上限为3000。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/156002",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 470302,
+          "sourceUpdatedAt": "2026-09-21T15:02:48Z"
+        }
+      ]
+    },
+    {
+      "version": "3.2",
+      "alias": null,
+      "title": "走过安眠地的花丛",
+      "titleOriginal": "Through the Petals in the Land of Repose",
+      "releaseDate": "2025-04-09",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-04-09 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「走过安眠地的花丛」",
+              "times": [
+                "3.2版本更新后"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「来路啊，请再度显映往履」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「半神议院」黎明云崖"
+            },
+            {
+              "name": "「龙骸古城」斯缇科西亚",
+              "facts": [
+                "这个亡灵国度，曾是「巨龙与海浪的城邦」斯缇科西亚。法吉娜终究无法为冥河赐福，人们也渐渐将其遗忘。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 侵蚀隧洞 / 位面饰品提取 / 历战余响",
+              "explanation": "「侵蚀隧洞」「位面饰品提取」「历战余响」关卡进入界面新增【结算遗器设置】按钮，可选择设置战斗完成时自动分解的遗器。"
+            },
+            {
+              "name": "新增遗器【智能弃置】功能：进行遗器分解时",
+              "explanation": "新增遗器【智能弃置】功能：进行遗器分解时，通过勾选对应选项，可根据玩家大数据自动筛选出主属性不匹配任意推荐角色、副属性有效命中次数较低的遗器并标记为【弃置】。"
+            },
+            {
+              "name": "新增光锥【批量叠影】功能：可设置不同叠影方案",
+              "explanation": "新增光锥【批量叠影】功能：可设置不同叠影方案，快速将背包中的同名4星光锥进行叠影。"
+            },
+            {
+              "name": "调整 · 翁法罗斯 / 落木逐火英雄纪",
+              "explanation": "调整了3.0版本开拓任务「翁法罗斯」-「落木逐火英雄纪」的表现，优化了部分任务流程，包括精简少量对话、特定对话和任务流程调整为可选内容、特定解谜可跳过、精简特定解谜流程等内容。"
+            },
+            {
+              "name": "优化 · 锋芒崭露",
+              "explanation": "「锋芒崭露」角色试用活动优化。优化后，进入试用关可查看固定编队中所有角色的战斗简要描述、技能简介；进入战斗前可切换编队内角色并施放秘技；进入战斗后，可开启自动战斗功能。部分试用关需要在完成引导后才可切换角色、开启自动战斗。"
+            },
+            {
+              "name": "优化 · 循星归程 / 归途助力 / 星回赐礼",
+              "explanation": "「循星归程」活动优化：新增「归途助力」，可为一名已拥有的指定角色领取一套主属性和套装适配的4星遗器。「星回赐礼」新增奖励「助燃券」*100，可使用「助燃券」与开拓力快速刷取拟造花萼、凝滞虚影产出的材料。快速刷取时，每消耗10开拓力需要1张「助燃券」。"
+            },
+            {
+              "name": "优化 · 材料补全",
+              "explanation": "优化了养成消耗材料时使用「材料补全」功能的体验，优化后，当前所需材料不足但已拥有对应数量的低稀有度材料或通用材料时，可在消耗材料界面直接点击【材料合成】按钮进行材料补全，无需前往【合成】界面合成。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/155407",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466431,
+          "sourceUpdatedAt": "2026-09-07T08:16:15Z"
+        }
+      ]
+    },
+    {
+      "version": "3.1",
+      "alias": null,
+      "title": "门扉之启，王座之终",
+      "titleOriginal": "Light Slips the Gate, Shadow Greets the Throne",
+      "releaseDate": "2025-02-26",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-02-26 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「门扉之启，王座之终」",
+              "times": [
+                "3.1版本更新后"
+              ],
+              "requirements": [
+                "完成开拓任务「翁法罗斯」-「英雄啊，且握住那枚火种」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「呓语密林」神悟树庭"
+            },
+            {
+              "name": "「神谕圣地」雅努萨波利斯"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 星际和平指南 / 生存索引 / 培养目标",
+              "explanation": "「星际和平指南」-「生存索引」界面新增「培养目标」。开拓者可添加角色为「培养目标」，随后可在「培养目标」页签中查看该角色养成所需的材料及数量、推荐遗器，并可直接跳转至对应的关卡获取。"
+            },
+            {
+              "name": "新增 · 灵之珠泪 / 差分宇宙 / 模拟宇宙",
+              "explanation": "新增材料「灵之珠泪」，可在敌方掉落素材不足时替换使用。可通过击败「差分宇宙」「模拟宇宙」中的敌方目标掉落以及通过活动「循星归程」获取。活动「循星归程」中敌方掉落素材奖励调整为「灵之珠泪」。"
+            },
+            {
+              "name": "优化 · 差分宇宙 / 模拟宇宙",
+              "explanation": "优化了【一键领取】功能的领取逻辑，优化后，可跳过达到上限的道具一键领取其余奖励。该优化适用于「差分宇宙」「模拟宇宙」每周积分、部分活动、无名勋礼及委托的奖励领取。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/154500",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466430,
+          "sourceUpdatedAt": "2026-09-07T08:15:32Z"
+        }
+      ]
+    },
+    {
+      "version": "3.0",
+      "alias": null,
+      "title": "再创世的凯歌",
+      "titleOriginal": "Paean of Era Nova",
+      "releaseDate": "2025-01-15",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-01-15 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「翁法罗斯」-「落木逐火英雄纪」",
+              "availability": "permanent",
+              "times": [
+                "3.0版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「雅利洛-Ⅵ」-「静静的星河」"
+              ]
+            },
+            {
+              "name": "冒险任务"
+            },
+            {
+              "name": "「我们该去往何方」「我曾在阿卡迪亚」「夜梦难缄默」「寻人记」"
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "「冬去煦至」"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「永恒圣城」奥赫玛"
+            },
+            {
+              "name": "「纷争荒墟」悬锋城"
+            },
+            {
+              "name": "「浴血战端」悬锋城"
+            },
+            {
+              "name": "「命运重渊」雅努萨波利斯"
+            },
+            {
+              "name": "创世涡心"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 遂愿尘脂 / 变量骰子 / 自塑尘脂",
+              "explanation": "新增道具「遂愿尘脂」「变量骰子」：开拓者在合成遗器时与「自塑尘脂」搭配使用「遂愿尘脂」，即可定向遗器副词条；开拓者使用「变量骰子」可对强化至15级的遗器强化次数进行重新随机分配，并自由选取重新分配前后的结果进行保留。"
+            },
+            {
+              "name": "新增 · 差分宇宙 / 洞察模式",
+              "explanation": "「差分宇宙」新增「洞察模式」，在该模式下，我方全体造成的伤害将提高，受到伤害将降低，并且在进入区域时，可获得1个随机祝福、1个随机奇物和100宇宙碎片。开启「洞察模式」后通关无法获得差分宇宙称号。"
+            },
+            {
+              "name": "新增 · 终末视界 / 终末视界•飞跃开拓 / 匹诺康尼",
+              "explanation": "「终末视界」新增「终末视界•飞跃开拓」功能，支持开拓者在尚未完成前置开拓任务的情况下提前体验「匹诺康尼」与「翁法罗斯」的剧情，开拓者可在导航页面选择未解锁的世界进行体验。"
+            },
+            {
+              "name": "新增 · 赠宝带 / 生物波勘探仪 / 殄珍玉爪",
+              "explanation": "新增寻宝小道具「赠宝带」「生物波勘探仪」「殄珍玉爪」「富翁留梦」「瞒天落目」，使用后可以在对应地图中显示1个普通战利品的位置。开拓者可以通过在「内购专员」「地底商店」「赎珠阁」「钟表小子雕像」「潮汐的馈赠」累计消费或提升等级来获得对应地图的寻宝小道具，已达到对应领取条件的开拓者可直接在背包中获得。",
+              "facts": [
+                "PC端新增NVIDIA DLSS 2功能，使用PC端以及NVIDIA RTX 20系列及以上显卡游玩的开拓者，可以在【设置】-【图像设置】中选择开启。",
+                "移动端登录游戏界面新增【反馈】入口。"
+              ]
+            },
+            {
+              "name": "新增【智能装配】系统",
+              "explanation": "新增【智能装配】系统，开拓者可以在【角色】-【遗器】-【智能装配】界面选择系统推荐方案、高使用率方案、自定义方案进行一键配装，还可查看当前装备遗器的副属性命中情况、角色属性等信息。"
+            },
+            {
+              "name": "新增 · 命途切换",
+              "explanation": "开拓者的「命途切换」界面新增了切换命途时的动画表现。"
+            },
+            {
+              "name": "新增 · 三月七（巡猎•虚数）",
+              "explanation": "角色「三月七（巡猎•虚数）」部分技能中，新增可选择记忆命途角色成为【师父】后的描述以及对应效果。"
+            },
+            {
+              "name": "调整 · 下调了均衡等级<6级时",
+              "explanation": "下调了均衡等级<6级时，部分敌方目标的难度及部分关卡推荐队伍等级。"
+            },
+            {
+              "name": "移除 · 旅情事记 / 谐乐响起时… / 雅利洛-VI",
+              "explanation": "「旅情事记」中移除了「谐乐响起时…」活动页签。移除后完成开拓任务「雅利洛-VI」-「回归」，且尚未领取「开拓者（同谐•虚数）」的开拓者可前往【命途切换】界面领取。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/127987",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/3.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466429,
+          "sourceUpdatedAt": "2026-09-07T08:14:37Z"
+        }
+      ]
+    },
+    {
+      "version": "2.7",
+      "alias": null,
+      "title": "在第八日启程",
+      "titleOriginal": "A New Venture on the Eighth Dawn",
+      "releaseDate": "2024-12-04",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-12-04 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「匹诺康尼」-「在第八日启程」",
+              "availability": "permanent",
+              "times": [
+                "2.7版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "派对车厢"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "其他",
+              "facts": [
+                "新增【剧情回顾】功能，达成相关条件后，在登录游戏接取任务时，开拓者可通过弹窗提示选择【观看前情提要】查看前置任务相关剧情的总结回顾。"
+              ]
+            },
+            {
+              "name": "调整 · 差分宇宙 / 位面饰品提取",
+              "explanation": "「差分宇宙」-「位面饰品提取」中的【存档】调整为跟随「差分宇宙」扩充及更新时清空。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/127247",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.7",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466428,
+          "sourceUpdatedAt": "2026-09-07T08:13:34Z"
+        }
+      ]
+    },
+    {
+      "version": "2.6",
+      "alias": null,
+      "title": "毗乃昆尼末法世记",
+      "titleOriginal": "Annals of Pinecany's Mappou Age",
+      "releaseDate": "2024-10-23",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-10-23 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「匹诺康尼」-「蕉恶非道•无忍义之战」",
+              "availability": "permanent",
+              "times": [
+                "2.6版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "匹诺康尼折纸大学学院"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "模拟宇宙：不可知域"
+            },
+            {
+              "name": "扩展 · 扩展装置",
+              "explanation": "黑塔等人为「扩展装置」添加了新的演算分支：一片无法观测的区域，学士与天才，鲁珀特二世的遗产将众人卷入漩涡……",
+              "times": [
+                "2.6版本更新后"
+              ],
+              "requirements": [
+                "通关「模拟宇宙•第五世界」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "遗器替换与合成入口",
+              "facts": [
+                "遗器替换界面新增了查看遗器【获得途径】的入口。同时，遗器【获得途径】界面新增一键前往【遗器合成】的入口。"
+              ]
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/126559",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466427,
+          "sourceUpdatedAt": "2026-09-07T08:13:09Z"
+        }
+      ]
+    },
+    {
+      "version": "2.5",
+      "alias": null,
+      "title": "碧羽飞黄射天狼",
+      "titleOriginal": "Flying Aureus Shot to Lupine Rue",
+      "releaseDate": "2024-09-10",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-09-10 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "竞锋舰",
+              "facts": [
+                "为了筹办星天演武仪典，罗浮仙舟将一艘军用巨舰加以改造，作为守擂争锋之地。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「仙舟『罗浮』」-「明霄竞武试锋芒•下」",
+              "availability": "permanent",
+              "times": [
+                "2.5版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级并完成开拓续闻「仙舟『罗浮』」-「明霄竞武试锋芒•上」"
+              ]
+            },
+            {
+              "name": "开放 · 明霄竞武试锋芒 / 仙舟『罗浮』 / 安灵布奠，天清路远",
+              "explanation": "2.5版本结束后，开拓续闻「明霄竞武试锋芒」的开放条件将变为：完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」。"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 差分宇宙 / 模拟宇宙",
+              "explanation": "调整了「差分宇宙」和「模拟宇宙」中，战斗外的编队界面。调整后，编队界面不再显示角色生命值UI。"
+            },
+            {
+              "name": "优化 · 生存索引 / 拟造花萼（赤） / 凝滞虚影",
+              "explanation": "优化了「生存索引」的界面表现。其中「拟造花萼（赤）」「凝滞虚影」界面新增相关角色按钮，点击后可以显示需要该材料的角色，同时可以通过右下方的排序按钮，调整该页面中关卡的展示顺序。「饰品提取」「侵蚀隧洞」界面新增【培养角色】按钮，选择需要培养的角色，其对应的推荐关卡将置顶。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/125792",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466426,
+          "sourceUpdatedAt": "2026-09-07T08:12:35Z"
+        }
+      ]
+    },
+    {
+      "version": "2.4",
+      "alias": null,
+      "title": "明霄竞武试锋芒",
+      "titleOriginal": "Finest Duel Under the Pristine Blue",
+      "releaseDate": "2024-07-31",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-07-31 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "幽囚狱"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「仙舟『罗浮』」-「明霄竞武试锋芒•上」",
+              "availability": "permanent",
+              "times": [
+                "2.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级"
+              ]
+            },
+            {
+              "name": "同行任务「铸剑为犁」",
+              "availability": "permanent",
+              "times": [
+                "2.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」和「仙舟『罗浮』」-「狼戾亡命，群凶未定」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增了遗器建议排序功能",
+              "explanation": "新增了遗器建议排序功能，开拓者开启该功能后，当前部位的遗器将按照与遗器建议中的套装、主属性、副属性匹配度进行排序，便于开拓者筛选出与角色适配度较高的遗器。"
+            },
+            {
+              "name": "优化了遗器筛选功能",
+              "explanation": "优化了遗器筛选功能，并支持筛选方案保存功能。开拓者可以在遗器界面查看角色建议使用的套装、稀有度、主属性、副属性，并选择上述条件对遗器进行筛选。筛选完成后，可以保存当前的筛选方案，后续可直接选用该方案，便于开拓者进行快速筛选。"
+            },
+            {
+              "name": "新增 · 神策府 / 司辰宫",
+              "explanation": "【导航】界面新增可查看场景「神策府」「司辰宫」的内部地图。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/125060",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466425,
+          "sourceUpdatedAt": "2026-09-07T08:12:01Z"
+        }
+      ]
+    },
+    {
+      "version": "2.3",
+      "alias": null,
+      "title": "再见，匹诺康尼",
+      "titleOriginal": "Farewell, Penacony",
+      "releaseDate": "2024-06-19",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-06-19 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "晖长石号"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「匹诺康尼」-「再见，匹诺康尼」",
+              "availability": "permanent",
+              "times": [
+                "2.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「匹诺康尼」-「然后，在第八天…」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 位面饰品快速提取 / 差分宇宙 / 位面饰品",
+              "explanation": "新增「位面饰品快速提取」功能，在「差分宇宙」中，开拓者可使用通关差分宇宙时保存的【存档】直接进行【首领挑战】来快速获取「位面饰品」。",
+              "facts": [
+                "【任务】列表中的活动和部分玩法相关的任务将增加旅情事记图标，方便开拓者查找任务并及时参与。",
+                "当敌方处于【蓄力】状态时，行动序列中新增对应状态提示。"
+              ]
+            },
+            {
+              "name": "调整 · 开拓者（同谐•虚数）",
+              "explanation": "调整了角色「开拓者（同谐•虚数）」天赋的标签，由【妨害】调整为【辅助】。"
+            },
+            {
+              "name": "调整 · 循星归程 / 回归进程 / 礼遇成双",
+              "explanation": "调整及优化了「循星归程」活动，优化了「循星归程」活动页面的展示。去除了「回归进程」中逐日解锁4个阶段的限制，调整了「回归进程」中回归任务、奖励与领取奖励所需的归程轨迹，「回归进程」中的任务可一次性全部完成。移除了「礼遇成双」额外双倍奖励的每日次数限制，同时新增了4次隧洞遗器或位面饰品双倍奖励机会。"
+            },
+            {
+              "name": "调整 · 模拟宇宙 / 宝光烛日月 / 回生",
+              "explanation": "调整了玩法「模拟宇宙」中，祝福「宝光烛日月」「回生」「加持」的触发逻辑，角色「白露（丰饶•雷）」「玲可（丰饶•量子）」「娜塔莎（丰饶•物理）」技能的持续治疗效果能够触发上述祝福的效果了。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/124161",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466424,
+          "sourceUpdatedAt": "2026-09-07T08:11:26Z"
+        }
+      ]
+    },
+    {
+      "version": "2.2",
+      "alias": null,
+      "title": "等醒来再哭泣",
+      "titleOriginal": "Then Wake to Weep",
+      "releaseDate": "2024-05-08",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-05-08 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "流梦礁"
+            },
+            {
+              "name": "苏乐达™热砂海选会场",
+              "facts": [
+                "谐乐大典预热海选赛场，热砂的时刻分会场。挑战者的盛宴，逐梦客的华典，全宇宙目光聚集的中心。"
+              ]
+            },
+            {
+              "name": "匹诺康尼大剧院"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「匹诺康尼」-「愚者总按两遍铃」",
+              "availability": "permanent",
+              "times": [
+                "2.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「匹诺康尼」-「行过死荫之地」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "编队总览",
+              "facts": [
+                "新增【编队总览】功能，在【编队总览】中，开拓者可以快捷编辑每个编队的队伍名称、快速查看并切换想启用的队伍。",
+                "新增标记常用角色功能，可以在【角色详情】中标记自己的常用角色，被标记为常用角色的角色会在【角色列表】中优先显示。【角色列表】中的默认排序也进行了一定调整，以便开拓者更快找到所需的角色。",
+                "新增行迹升级推荐功能，可在角色界面查看了解行迹升级的优先级，选中建议可跳转至对应行迹进行升级。"
+              ]
+            },
+            {
+              "name": "优化 · 剧情战斗的系统",
+              "explanation": "优化了剧情战斗的系统，在部分剧情战斗过程中或战斗失败后，可直接重新编队并重新挑战。"
+            },
+            {
+              "name": "优化 · 角色命途切换功能",
+              "explanation": "优化了角色命途切换功能，同一角色在不同命途下所装备的光锥和遗器将各自独立。开拓者在切换角色命途时，其所装备的光锥和遗器也会一同切换，无需再次手动装备。在光锥和遗器列表，开拓者也可以直接查看同一角色在不同命途下的装备穿戴情况。"
+            },
+            {
+              "name": "优化 · 遗器筛选与强化功能",
+              "explanation": "优化了遗器筛选与强化功能，在【遗器建议】页面新增了主属性词条的筛选功能，可以通过点击推荐的主属性词条，对符合要求的遗器进行快速筛选。在遗器强化时，开拓者也可以对强化材料中的遗器进行筛选。强化结果界面还增加了【锁定】和【弃置】按钮，开拓者在遗器强化过程中即可按需对强化后遗器进行标记。"
+            },
+            {
+              "name": "新增 · 来源明细",
+              "explanation": "领取支援奖励时新增来源明细，可查看本次收取的信用点数量及使用支援角色的好友。2.2版本更新后首次查看时，可能出现好友来源明细小于本次领取信用点总数的情况，为正常状况。下一次领取支援奖励时，数据将正常显示。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/123642",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466423,
+          "sourceUpdatedAt": "2026-09-07T08:10:33Z"
+        }
+      ]
+    },
+    {
+      "version": "2.1",
+      "alias": null,
+      "title": "狂热奔向深渊",
+      "titleOriginal": "Into the Yawning Chasm",
+      "releaseDate": "2024-03-27",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-03-27 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "朝露公馆",
+              "facts": [
+                "位于「朝露的时刻」的家族公馆，五大家系家主定期聚首商议要务之处。除受邀请的贵宾外，严禁他人进入。"
+              ]
+            },
+            {
+              "name": "克劳克影视乐园"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「匹诺康尼」-「天鹅绒里的恶魔」",
+              "availability": "permanent",
+              "times": [
+                "2.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「匹诺康尼」-「是谁杀死了…」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "支持 · 切换合成紫色或蓝色稀有度的材料",
+              "explanation": "【合成】-【材料合成】界面中，合成同一系列的材料时，可支持切换合成紫色或蓝色稀有度的材料。"
+            },
+            {
+              "name": "新增 · 光锥锁定管理功能",
+              "explanation": "【背包】-【光锥】界面中，新增光锥锁定管理功能，可支持4星光锥一键解锁、光锥一键上锁功能；新增光锥筛选功能，开拓者可通过命途筛选不同光锥；分解光锥时支持分解4星光锥；光锥叠影时支持一键置入已锁定的光锥。"
+            },
+            {
+              "name": "背包容量与堆叠上限",
+              "explanation": "【背包】中可收纳的遗器上限提升至2000。"
+            },
+            {
+              "name": "支持 · 长按对应材料置入材料以强化",
+              "explanation": "强化光锥及遗器时，支持长按对应材料置入材料以强化，同时也可长按已置入材料左上角的减号快速移除部分材料。"
+            },
+            {
+              "name": "调整 · 模拟宇宙",
+              "explanation": "调整了「模拟宇宙」中，【罐中脑】的充能消耗条件及相关表述。调整后，【罐中脑】的效果说明为：若【罐中脑】的启迪充能比例达到100%，角色使用【罐中脑】以外的方式施放终结技后，会再次激活终结技，通过该方式施放终结技会消耗100%的启迪充能。"
+            },
+            {
+              "name": "支持 · 模拟宇宙",
+              "explanation": "「模拟宇宙」常规世界支持从最高难度开始挑战，获取低难度的首通奖励。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/123034",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466422,
+          "sourceUpdatedAt": "2026-09-07T08:09:30Z"
+        }
+      ]
+    },
+    {
+      "version": "2.0",
+      "alias": null,
+      "title": "假如在午夜入梦",
+      "titleOriginal": "If One Dreams At Midnight",
+      "releaseDate": "2024-02-06",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-02-06 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「白日梦」酒店-现实"
+            },
+            {
+              "name": "黄金的时刻"
+            },
+            {
+              "name": "筑梦边境"
+            },
+            {
+              "name": "稚子的梦"
+            },
+            {
+              "name": "「白日梦」酒店-梦境"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「匹诺康尼」-「长日入夜行」",
+              "availability": "permanent",
+              "times": [
+                "2.0版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」"
+              ]
+            },
+            {
+              "name": "同行任务「假面双人舞」",
+              "availability": "permanent",
+              "times": [
+                "2.0版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「匹诺康尼」-「是谁杀死了…」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 劫梦惊魂 / 离垢清净 / 幻梦的残片",
+              "explanation": "【委托】中新增4个委托任务「劫梦惊魂」「离垢清净」「幻梦的残片」「手术刀与螺丝刀」，完成委托后可获得专属材料及合成材料。"
+            },
+            {
+              "name": "调整 · 遗器",
+              "explanation": "调整了关卡挑战成功后，【成功奖励】中道具图标显示的大小，并支持显示本次获得的道具数量，此外在获得「遗器」时，支持显示【锁定】或【弃置】标记。"
+            },
+            {
+              "name": "优化 · 遗器强化、筛选时的操作",
+              "explanation": "优化了遗器强化、筛选时的操作，强化遗器时可选择将遗器升级至下一词条刷新节点；新增更细致的遗器筛选条件和标记分类；在角色的遗器替换界面，新增了针对不同角色的遗器套装搭配推荐。开拓者可以一键筛选出推荐套装，迅速切换；部分界面中，副词条的被强化次数将显示在词条旁。"
+            },
+            {
+              "name": "优化 · 【导航】功能",
+              "explanation": "优化了【导航】功能，在特定场景中，导航支持3D显示。此外，【全息总览】中支持点击不同位置查看对应的介绍，并直接跳转至对应的导航页面内。"
+            },
+            {
+              "name": "优化 · 支援角色的筛选方式",
+              "explanation": "开拓者可以放置更多的支援角色来帮助好友，并获取更多收益。同时优化了支援角色的筛选方式，开拓者能更快速地找到某个好友的支援角色，或者迅速筛选出陌生人的支援角色。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/122325",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/2.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466421,
+          "sourceUpdatedAt": "2026-09-07T08:08:49Z"
+        }
+      ]
+    },
+    {
+      "version": "1.6",
+      "alias": null,
+      "title": "庸与神的冠冕",
+      "titleOriginal": "Crown of the Mundane and Divine",
+      "releaseDate": "2023-12-27",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-12-27 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "禁闭舱段",
+              "facts": [
+                "曾在人声鼎沸时期有摆渡车频繁穿梭的舱段，因未知异变被封锁，悄无声息地成为空间站少数不对外开放的区域之一。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「湛蓝星」-「庸与神的冠冕」",
+              "availability": "permanent",
+              "times": [
+                "1.6版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「雅利洛-Ⅵ」-「静静的星河」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 部分开拓任务、冒险任务的开放等级",
+              "explanation": "调整了部分开拓任务、冒险任务的开放等级，以及部分任务和关卡的难度。"
+            },
+            {
+              "name": "支持 · 历战探游 / 拓境探游 / 导航",
+              "explanation": "部分「历战探游」「拓境探游」等关卡支持打开「导航」。开拓者可在探索副本的过程中，打开「导航」查看您当前所在的位置与挑战目标。"
+            },
+            {
+              "name": "提升 · 【编队】界面中",
+              "explanation": "提升了【编队】界面中，可设置的队伍上限，目前可支持保存9只队伍。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/114194",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466420,
+          "sourceUpdatedAt": "2026-09-07T08:08:01Z"
+        }
+      ]
+    },
+    {
+      "version": "1.5",
+      "alias": null,
+      "title": "迷离幻夜谈",
+      "titleOriginal": "The Crepuscule Zone",
+      "releaseDate": "2023-11-15",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-11-15 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "绥园"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「仙舟『罗浮』」-「狐斋志异」",
+              "availability": "permanent",
+              "times": [
+                "1.5版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」"
+              ]
+            },
+            {
+              "name": "同行任务「宇宙幻觉之夜」",
+              "availability": "permanent",
+              "times": [
+                "2023/12/06 12:00:00 （服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「雅利洛-Ⅵ」-「静静的星河」，且阅读指定短信后开放。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "解锁 · 模拟宇宙",
+              "explanation": "「模拟宇宙」常规世界中可使用消耗品，开拓者可消耗技能点解锁对应技能树后，即可在常规世界中使用消耗品。"
+            },
+            {
+              "name": "在【背包】中查看光锥时",
+              "explanation": "在【背包】中查看光锥时，新增按光锥名排序选项。"
+            },
+            {
+              "name": "调整 · 无名客的荣勋 / 无名勋礼",
+              "explanation": "调整了「无名客的荣勋」的奖励，原50级奖励中的星琼*680，将会在解锁「无名客的荣勋」时立即获得。「无名客的荣勋」50级的奖励将会替换为自塑尘脂*1。「无名勋礼」将会增加51级至70级的奖励。在51级至70级之间，每提升一级「无名勋礼」等级，将会获得信用点*10000奖励。如果开拓者解锁了「无名客的荣勋」，每级还会额外获得遗器残骸*20。"
+            },
+            {
+              "name": "优化 · 【任务追踪】系统",
+              "explanation": "优化了【任务追踪】系统，若开拓者已追踪了特定任务，在任务界面即可直接传送至任务追踪点附近的界域定锚。若未追踪特定任务，在任务界面将新增定位按钮，可追踪至最近的定位点。"
+            },
+            {
+              "name": "优化 · 模拟宇宙",
+              "explanation": "优化了「模拟宇宙」中，下载初始角色时的体验。若开拓者上阵角色等级低于推荐等级或上阵人数不满时，需要开拓者二次确认。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/113648",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466419,
+          "sourceUpdatedAt": "2026-09-07T08:07:32Z"
+        }
+      ]
+    },
+    {
+      "version": "1.4",
+      "alias": null,
+      "title": "冬梦激醒",
+      "titleOriginal": "Jolted Awake From a Winter Dream",
+      "releaseDate": "2023-10-11",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-10-11 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2023-11-15 06:00"
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "造物之柱",
+              "facts": [
+                "藏匿贝洛伯格所有秘密的终末之地。可可利亚，星核，巨像…冰雪将封存一切记忆。"
+              ]
+            },
+            {
+              "name": "旧武器试验场"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓续闻「雅利洛-Ⅵ」-「未来市场」",
+              "availability": "permanent",
+              "times": [
+                "1.4版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」"
+              ]
+            },
+            {
+              "name": "同行任务「云无留迹」",
+              "availability": "permanent",
+              "times": [
+                "1.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "优化 · 阿兰（毁灭·雷） / 刃（毁灭·风） / 模拟宇宙",
+              "explanation": "优化了生命值UI显示，施放需要消耗生命值的技能前，将显示技能预计消耗的生命值。该优化涉及内容如下：角色「阿兰（毁灭·雷）」「刃（毁灭·风）」，及「模拟宇宙」毁灭命途的部分祝福。"
+            },
+            {
+              "name": "优化 · 击破特攻",
+              "explanation": "优化了遗器排序功能，新增了「击破特攻」排序项。"
+            },
+            {
+              "name": "提升 · 商店中部分合成材料的购买数量上限",
+              "explanation": "提升了商店中部分合成材料的购买数量上限。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/113276",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466418,
+          "sourceUpdatedAt": "2026-09-07T08:06:59Z"
+        }
+      ]
+    },
+    {
+      "version": "1.3",
+      "alias": null,
+      "title": "天镜映劫尘",
+      "titleOriginal": "Celestial Eyes Above Mortal Ruins",
+      "releaseDate": "2023-08-30",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-08-30 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "金人巷"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远 」",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新完成后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「有龙矫矫，其渊渺渺」"
+              ]
+            },
+            {
+              "name": "「龙返其乡」",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」，且阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「我的挚爱，我的血肉」",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「雅利洛-Ⅵ」-「静静的星河」，且在场景「磐岩镇」与NPC「希儿」及「奥列格」对话后开放。"
+              ]
+            },
+            {
+              "name": "「全面回忆」",
+              "availability": "permanent",
+              "times": [
+                "2023/09/20 12:00（服务器时间） 后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「安灵布奠，天清路远」，且阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「比雪原更遥远」",
+              "availability": "permanent",
+              "times": [
+                "2023/09/20 12:00 （服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成同行任务「只是孩子」，且阅读指定短信后开放。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 虫群•真蛰虫（完整） / 幼蛰虫 / 次蛰虫",
+              "explanation": "模拟宇宙中新增敌方「虫群•真蛰虫（完整）」「幼蛰虫」「次蛰虫」「丰饶灵兽•长右（错误）」「承露天人（错误）」。"
+            },
+            {
+              "name": "扩展 · 扩展装置 / 虫皇",
+              "explanation": "模拟宇宙展开了一个大更新！黑塔、阮•梅、螺丝咕姆与斯蒂芬，单独打造了一个「扩展装置」，锚定研究「虫皇」塔伊兹育罗斯陨落前的那段时空……",
+              "requirements": [
+                "通关「模拟宇宙•第五世界」"
+              ]
+            },
+            {
+              "name": "新增后备开拓力系统",
+              "explanation": "新增后备开拓力系统，当开拓力恢复或超出上限时，后备开拓力开始随时间恢复。每18分钟恢复1点，存储上限2400点。后备开拓力可等量取出为开拓力。每次最多可取出240点。",
+              "facts": [
+                "登录界面新增【设置】图标，开拓者可在登录前调整部分游戏设置。"
+              ]
+            },
+            {
+              "name": "新增 · 罗刹（丰饶•虚数）",
+              "explanation": "角色「罗刹（丰饶•虚数）」天赋的技能描述中，针对【无法战斗状态】新增解释内容。"
+            },
+            {
+              "name": "新增 · 卡芙卡（虚无•雷）",
+              "explanation": "角色「卡芙卡（虚无•雷）」天赋的技能描述中，针对【基础概率】新增解释内容。"
+            },
+            {
+              "name": "调整 · 模拟宇宙 / 命途回响：『欢愉』 / 命途回响：『虚无』",
+              "explanation": "调整了「模拟宇宙」中除「命途回响：『欢愉』」「命途回响：『虚无』」外的命途回响的攻击类型。调整后相关命途回响不再被视为【追加攻击】。"
+            },
+            {
+              "name": "降低 · 蚕食者之影 / 流年盾纱 / 命途回响：『欢愉』",
+              "explanation": "敌方「蚕食者之影」天赋「流年盾纱」降低伤害的效果，不再对除「命途回响：『欢愉』」的其他命途回响生效。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/112854",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466417,
+          "sourceUpdatedAt": "2026-09-07T08:06:14Z"
+        }
+      ]
+    },
+    {
+      "version": "1.2",
+      "alias": null,
+      "title": "仙骸有终",
+      "titleOriginal": "Even Immortality Ends",
+      "releaseDate": "2023-07-19",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-07-19 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "丹鼎司"
+            },
+            {
+              "name": "鳞渊境"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "「仙舟『罗浮』」-「云树百丈蔽重楼」"
+            },
+            {
+              "name": "「将星核带入仙舟并启动的另有其人，这其中既有内忧，也有外患。」",
+              "availability": "permanent",
+              "times": [
+                "1.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「茸客鸣呦，玉角盘虬」。"
+              ]
+            },
+            {
+              "name": "「因为我已触碰过天空」",
+              "availability": "permanent",
+              "times": [
+                "1.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「有龙矫矫，其渊渺渺」，且在场景「回星港」阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「陌生女人的来信」",
+              "availability": "permanent",
+              "times": [
+                "2023/08/09 12:00:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「有龙矫矫，其渊渺渺」，且阅读指定短信后开放。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 模拟宇宙 / 丰饶玄鹿（完整） / 金人司阍（错误）",
+              "explanation": "「模拟宇宙」中新增敌方「丰饶玄鹿（完整）」「金人司阍（错误）」「『药王秘传』炼形者（错误）」 。"
+            },
+            {
+              "name": "调整 · 部分关卡的传送点范围",
+              "explanation": "调整了部分关卡的传送点范围，传送后可以直接与关卡交互。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/112340",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-1.2.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 470853,
+          "sourceUpdatedAt": "2026-09-26T16:28:30Z"
+        }
+      ]
+    },
+    {
+      "version": "1.1",
+      "alias": null,
+      "title": "银河漫游",
+      "titleOriginal": "Galactic Roaming",
+      "releaseDate": "2023-06-07",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2023-06-07 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "全新场景——「历史文化博物馆」",
+              "availability": "permanent",
+              "times": [
+                "2023/06/09 10:00（服务器时间）后，在满足特定条件永久开放。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "「朋克洛德精神」",
+              "availability": "permanent",
+              "times": [
+                "1.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "开拓等级≥21级，且阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「异邦骑士」",
+              "availability": "permanent",
+              "times": [
+                "2023/06/28 12:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「茸客鸣呦，玉角盘虬」，且阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「譬如朝露」",
+              "availability": "permanent",
+              "times": [
+                "2023/06/28 12:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「茸客鸣呦，玉角盘虬」，且阅读指定短信后开放。"
+              ]
+            },
+            {
+              "name": "「霜刃一试」",
+              "availability": "permanent",
+              "times": [
+                "2023/06/28 12:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成开拓任务「仙舟『罗浮』」-「茸客鸣呦，玉角盘虬」，在场景「星槎海中枢」与NPC「谛听」对话后开放。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 模拟宇宙",
+              "explanation": "「模拟宇宙」图鉴中新增随机事件一览，开拓者可在图鉴中查阅已解锁及未解锁事件。"
+            },
+            {
+              "name": "新增 · 敌方追踪",
+              "explanation": "新增「敌方追踪」功能，开拓者可点击希望获取的材料查看敌方掉落途径，点击对应敌方可在导航中查看对应位置。"
+            },
+            {
+              "name": "优化 · 万能合成机",
+              "group": "光锥「幽邃（虚无）」",
+              "explanation": "优化了「万能合成机」中置换材料时的体验，优化后可自动置入用于置换的材料。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://hsr.hoyoverse.com/zh-cn/news/111793",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-1.1.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466415,
+          "sourceUpdatedAt": "2026-09-07T07:58:26Z"
+        }
+      ]
+    },
+    {
+      "version": "1.0",
+      "alias": null,
+      "title": "公测开服",
+      "titleOriginal": "The Rail Unto the Stars",
+      "releaseDate": "2023-04-26",
+      "dateBasis": "社区版本索引明示日期",
+      "maintenance": {},
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "空间站「黑塔」、雅利洛-VI、仙舟「罗浮」开拓任务",
+              "explanation": "开服包含空间站序章、雅利洛-VI主线，以及仙舟「罗浮」首批主线；罗浮后续章节按实际开放版本收录。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "空间站「黑塔」",
+              "explanation": "初始区域包括主控舱段、基座舱段、收容舱段、支援舱段。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            },
+            {
+              "name": "雅利洛-VI",
+              "explanation": "开放贝洛伯格地上与地下的初始探索区域。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            },
+            {
+              "name": "仙舟「罗浮」",
+              "explanation": "初始探索区域包括星槎海中枢、长乐天、流云渡、迴星港、太卜司、工造司。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "模拟宇宙",
+              "explanation": "通过随机祝福与奇物组合进行多轮战斗；初始模拟宇宙与后续扩充玩法分版本记录。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        }
+      ],
+      "coverage": "launch-index",
+      "gaps": [
+        "开服版本按社区目录整理主要章节、区域与玩法；重要系统的初始规则尚待官方中文资料补充"
+      ],
+      "sourceRefs": [
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://honkai-star-rail.fandom.com/wiki/Version/1.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/starrail-wiki-0.json.gz",
+          "revision": 466414,
+          "sourceUpdatedAt": "2026-09-07T07:53:49Z"
+        }
+      ]
+    }
+  ]
+}

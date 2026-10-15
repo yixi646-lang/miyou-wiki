@@ -1,0 +1,21 @@
+import {majorVersion} from './catalog.mjs';
+import {withBannerSchedules} from './banner-schedule.mjs';
+const day=value=>Date.parse(String(value).slice(0,10)+'T00:00:00Z')/86400000;
+export const BANNER_ROLES={up:'概率 UP',selectable:'可选目标',pool:'普通池内容',unknown:'未标注'};
+export const bannerStatisticFacetKeys=category=>category==='weapons'?['rarity','type','secondary']:['rarity','element','type'];
+export const periodKey=b=>[b.releaseVersion,b.banner.start.slice(0,10),b.banner.end?.slice(0,10)??'长期'].join('|');
+export function buildBannerStatistics(entries,game,{asOf=new Date().toLocaleDateString('sv-SE',{timeZone:'Asia/Shanghai'}),version='',major='',type='',phase=''}={}) {
+ if(phase)entries=withBannerSchedules(entries);
+ const banners=entries.filter(e=>e.game===game&&e.category==='banners'&&e.banner?.start?.slice(0,10)<=asOf&&(!major||majorVersion(e.releaseVersion)===major)&&(!version||e.releaseVersion===version)&&(!type||e.type===type)&&(!phase||e.banner.schedule?.key===phase)).sort((a,b)=>a.banner.start.localeCompare(b.banner.start));
+ const units=entries.filter(e=>e.game===game&&['characters','weapons'].includes(e.category));
+ const records=new Map(units.map(e=>[e.id,[]]));
+ for(const banner of banners){const roles=new Map();for(const group of banner.banner.groups??[]){const role=Object.hasOwn(BANNER_ROLES,group.role)?group.role:'unknown';for(const item of group.items??[])if(records.has(item.id)){const previous=roles.get(item.id);if(!previous||['up','selectable','pool','unknown'].indexOf(role)<['up','selectable','pool','unknown'].indexOf(previous))roles.set(item.id,role);}}
+  for(const [id,role] of roles)records.get(id).push({bannerId:banner.id,name:banner.name,version:banner.releaseVersion,type:banner.type,schedule:banner.banner.schedule,start:banner.banner.start,end:banner.banner.end,timeZone:banner.banner.timeZone,role,period:periodKey(banner)});
+ }
+ const rows=units.map(entry=>{const history=records.get(entry.id),up=history.filter(h=>h.role==='up'),selection=history.filter(h=>h.role==='selectable'),periods=[...new Map(up.map(h=>[h.period,h])).values()].sort((a,b)=>a.start.localeCompare(b.start));
+  const gaps=periods.slice(1).map((p,i)=>day(p.start)-day(periods[i].start)),first=periods[0]??null,last=periods.at(-1)??null;
+  return {entry,history:[...history].reverse(),upCount:periods.length,upPoolCount:up.length,repeatCount:Math.max(0,periods.length-1),selectableCount:new Set(selection.map(h=>h.period)).size,selectablePoolCount:selection.length,poolCount:history.filter(h=>h.role==='pool').length,unknownCount:history.filter(h=>h.role==='unknown').length,first,last,versions:[...new Set(periods.map(p=>p.version))],daysSince:last?Math.max(0,day(asOf)-day(last.start)):null,maxGap:gaps.length?Math.max(...gaps):null,averageGap:gaps.length?Math.round(gaps.reduce((a,b)=>a+b,0)/gaps.length*10)/10:null,lastGap:gaps.at(-1)??null};
+ });
+ const versions=new Map();for(const b of banners){let v=versions.get(b.releaseVersion);if(!v){v={version:b.releaseVersion,banners:[],periods:new Set(),characters:new Set(),weapons:new Set(),selectable:new Set()};versions.set(v.version,v);}v.banners.push(b);if(b.banner.mode!=='standard')v.periods.add(periodKey(b));for(const g of b.banner.groups??[])for(const i of g.items??[]){const entry=units.find(e=>e.id===i.id);if(g.role==='up'&&entry)v[entry.category].add(i.id);else if(g.role==='selectable'&&entry)v.selectable.add(i.id);}}
+ return {asOf,banners,rows,versions:[...versions.values()].sort((a,b)=>b.version.localeCompare(a.version,'zh-CN',{numeric:true})).map(v=>({...v,periodCount:v.periods.size,characterCount:v.characters.size,weaponCount:v.weapons.size,selectableCount:v.selectable.size})),summary:{bannerCount:banners.length,periodCount:new Set(banners.filter(b=>b.banner.mode!=='standard').map(periodKey)).size,versionCount:versions.size,characters:rows.filter(r=>r.entry.category==='characters'&&r.upCount).length,weapons:rows.filter(r=>r.entry.category==='weapons'&&r.upCount).length,selectionCount:banners.filter(b=>b.banner.mode==='selection').length,standardCount:banners.filter(b=>b.banner.mode==='standard').length,from:banners[0]?.banner.start.slice(0,10)??null,to:banners.at(-1)?.banner.start.slice(0,10)??null}};
+}

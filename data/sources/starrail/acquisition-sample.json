@@ -1,0 +1,55 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1258,
+        "ns": 0,
+        "title": "In the Night",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Light Cone Infobox\n|id             = 23001\n|image          = <gallery>\nLight Cone In the Night.png|Light Cone\nLight Cone In the Night Artwork.png|Full Artwork\nLight Cone In the Night Icon.png|Icon\n</gallery>\n|rarity         = 5\n|base_hp        = 48\n|base_atk       = 26\n|base_def       = 21\n|characters     = Seele\n|passive        = Flowers and Butterflies\n|effect         = Increases the wearer's CRIT Rate by {{Color|h|(var1)%}}. While the wearer is in battle, for every 10 SPD that exceeds 100, increases DMG dealt by Basic ATK and Skill by {{Color|h|(var2)%}}. At the same time, increases the CRIT DMG of Ultimate by {{Color|h|(var3)%}}. This effect can stack up to 6 time(s).\n|effect_path    = The Hunt\n|eff_rank1_var1 = 18\n|eff_rank1_var2 = 6\n|eff_rank1_var3 = 12\n|eff_rank2_var1 = 21\n|eff_rank2_var2 = 7\n|eff_rank2_var3 = 14\n|eff_rank3_var1 = 24\n|eff_rank3_var2 = 8\n|eff_rank3_var3 = 16\n|eff_rank4_var1 = 27\n|eff_rank4_var2 = 9\n|eff_rank4_var3 = 18\n|eff_rank5_var1 = 30\n|eff_rank5_var2 = 10\n|eff_rank5_var3 = 20\n|utility1       = CRIT Rate Increase\n|utility2       = CRIT DMG Increase\n|utility3       = DMG Boost\n|utility4       = Basic ATK\n|utility5       = Skill\n|utility6       = Ultimate\n}}\n'''In the Night''' is a 5-star [[Light Cone]] of [[The Hunt]] path.\n\n==Description==\n{{Description|A [[Seele|young girl]] smiles subtly.<br />''\"How?\"<br />\"Right here, right now, I am alone...\"<br />\"But it feels... very lively.\"''}}\n\n==Ascensions and Stats==\n{{Light Cone Ascensions and Stats|In the Night}}\n\n==Availability==\n===Sold By===\n{{Shop Availability}}\n\n===Event Warps===\n{{Featured}}\n\n==Other Languages==\n{{Other Languages\n|en    = In the Night\n|zhs   = 于夜色中\n|zht   = 於夜色中\n|ja    = 夜の帳の中で\n|ko    = 야경 속에서\n|es    = En la noche\n|fr    = Dans la nuit\n|ru    = В ночи\n|th    = In the Night\n|vi    = Trong Đêm Tối\n|de    = In der Nacht\n|id    = In the Night\n|pt    = Na Noite\n}}\n\n==Change History==\n{{Change History|0.60}}\n\n==Navigation==\n{{Light Cone Navbox}}\n\n[[de:In der Nacht]]\n[[es:En la noche]]\n[[fr:Dans la nuit]]\n[[th:In the Night]]\n[[ru:В ночи]]\n[[vi:Trong Đêm Tối]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 2756,
+        "ns": 0,
+        "title": "The Seriousness of Breakfast",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Light Cone Infobox\n|id             = 21027\n|image          = <gallery>\nLight Cone The Seriousness of Breakfast.png|Light Cone\nLight Cone The Seriousness of Breakfast Artwork.png|Full Artwork\nLight Cone The Seriousness of Breakfast Icon.png|Icon\n</gallery>\n|rarity         = 4\n|base_hp        = 38\n|base_atk       = 21\n|base_def       = 18\n|passive        = Get Ready\n|characters     = Pom-Pom\n|effect_path    = Erudition\n|effect         = Increases the wearer's DMG by {{Color|h|(var1)%}}. For every enemy defeated by the wearer, the wearer's ATK increases by {{Color|h|(var2)%}}, stacking up to 3 time(s).\n|eff_rank1_var1 = 12\n|eff_rank1_var2 = 4\n|eff_rank2_var1 = 15\n|eff_rank2_var2 = 5\n|eff_rank3_var1 = 18\n|eff_rank3_var2 = 6\n|eff_rank4_var1 = 21\n|eff_rank4_var2 = 7\n|eff_rank5_var1 = 24\n|eff_rank5_var2 = 8\n|utility1       = DMG Boost\n|utility2       = ATK Increase\n}}\n'''The Seriousness of Breakfast''' is a 4-star [[Light Cone]] of the [[Erudition]] path.\n\n==Description==\n{{Description|Though the table is set...<br />[[Himeko|Some people]] want a cup of tea first.<br />[[March 7th|Some people]] want to take a picture first.<br />[[Welt|Some people]] want to read the newspaper first.<br />[[Dan Heng|Some people]] want to write a page in their notebook first.<br />[[Trailblazer|Some people]] want to play on their phone first.<br /><br />''\"All of you, eat while the food is hot!\"''}}\n\n==Ascensions and Stats==\n{{Light Cone Ascensions and Stats|The Seriousness of Breakfast}}\n\n==Availability==\n*[[To Rot or to Burn]] Mission Reward\n*[[Emptiness of Locus Silentii]] Mission Reward\n*[[Echo of War]]\n**{{Icon|Echo of War Destruction's Beginning|40}}[[Echo of War: Destruction's Beginning]]\n**{{Icon|Echo of War End of the Eternal Freeze|40}}[[Echo of War: End of the Eternal Freeze]]\n**{{Icon|Echo of War Divine Seed|40}}[[Echo of War: Divine Seed]]\n**{{Icon|Echo of War Borehole Planet's Old Crater|40}}[[Echo of War: Borehole Planet's Old Crater]]\n*{{Item|Memo-Keeping Light Casket}}\n\n===Sold By===\n{{Shop Availability}}\n\n==Trivia==\n*[[Day One of My New Life]] can be seen in the full artwork as a photo of [[Pom-Pom]] and [[March 7th]].\n\n==Other Languages==\n{{Other Languages\n|en   = The Seriousness of Breakfast\n|zhs  = 早餐的仪式感\n|zht  = 早餐的儀式感\n|ja   = 朝食の儀式感\n|ko   = 느낌 있는 아침 식사 루틴\n|es   = La solemnidad del desayuno\n|fr   = Le petit-déjeuner, c'est sacré\n|ru   = Важность завтрака\n|th   = The Seriousness of Breakfast\n|vi   = Bữa Sáng Đúng Điệu\n|de   = Die Ernsthaftigkeit des Frühstücks\n|id   = The Seriousness of Breakfast\n|pt   = A Solenidade do Café da Manhã\n}}\n\n==Change History==\n{{Change History|0.70}}\n\n==Navigation==\n{{Light Cone Navbox}}\n\n[[de:Die Ernsthaftigkeit des Frühstücks]]\n[[es:La solemnidad del desayuno]]\n[[fr:Le petit-déjeuner, c'est sacré]]\n[[ru:Важность завтрака]]\n[[vi:Bữa Sáng Đúng Điệu]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 6771,
+        "ns": 10,
+        "title": "Template:Warp List",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "<includeonly>{{#invoke:Warp List\n|main\n|warps={{#DPL:\n|namespace=\n|category=Warp\n|uses=Template:Warp\n|notcategory=Recurring Warps\n|notcategory=Permanent Warps\n|mode=userformat\n|include={Change History}:1,{Warp¦Phantom Warp Format}\n|secseparators=version=,;\n|ordermethod=sortkey\n}}}}</includeonly><noinclude>{{Documentation|type=Design}}</noinclude>"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

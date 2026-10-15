@@ -1,0 +1,185 @@
+{
+  "fetchedAt": "2026-10-02T21:13:40.762Z",
+  "records": [
+    {
+      "title": "Version/1.0",
+      "pageId": 21752,
+      "revisionId": 2141914,
+      "revisionAt": "2026-08-11T13:35:00Z",
+      "date": "2020-09-28",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F1.0",
+      "official": null
+    },
+    {
+      "title": "Version/1.2",
+      "pageId": 21755,
+      "revisionId": 2043446,
+      "revisionAt": "2026-01-30T01:20:19Z",
+      "date": "2020-12-23",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F1.2",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/7632"
+    },
+    {
+      "title": "Version/1.5",
+      "pageId": 45318,
+      "revisionId": 2093777,
+      "revisionAt": "2026-05-19T16:52:46Z",
+      "date": "2021-04-28",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F1.5",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/12376"
+    },
+    {
+      "title": "Version/2.0",
+      "pageId": 63191,
+      "revisionId": 2141915,
+      "revisionAt": "2026-08-11T13:36:22Z",
+      "date": "2021-07-21",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F2.0",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/14450"
+    },
+    {
+      "title": "Version/2.3",
+      "pageId": 96953,
+      "revisionId": 2093770,
+      "revisionAt": "2026-05-19T16:50:35Z",
+      "date": "2021-11-24",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F2.3",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/17278"
+    },
+    {
+      "title": "Version/2.6",
+      "pageId": 120258,
+      "revisionId": 2093781,
+      "revisionAt": "2026-05-19T16:54:35Z",
+      "date": "2022-03-30",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F2.6",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/20284"
+    },
+    {
+      "title": "Version/3.0",
+      "pageId": 129847,
+      "revisionId": 2141916,
+      "revisionAt": "2026-08-11T13:38:08Z",
+      "date": "2022-08-24",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F3.0",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/23268"
+    },
+    {
+      "title": "Version/3.3",
+      "pageId": 154014,
+      "revisionId": 2093782,
+      "revisionAt": "2026-05-19T16:55:08Z",
+      "date": "2022-12-07",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F3.3",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/27964"
+    },
+    {
+      "title": "Version/3.6",
+      "pageId": 209231,
+      "revisionId": 2093792,
+      "revisionAt": "2026-05-19T16:59:23Z",
+      "date": "2023-04-12",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F3.6",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/111044"
+    },
+    {
+      "title": "Version/4.0",
+      "pageId": 235487,
+      "revisionId": 2141917,
+      "revisionAt": "2026-08-11T13:39:18Z",
+      "date": "2023-08-16",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F4.0",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/112690"
+    },
+    {
+      "title": "Version/4.3",
+      "pageId": 274486,
+      "revisionId": 2101206,
+      "revisionAt": "2026-05-25T18:15:11Z",
+      "date": "2023-12-20",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F4.3",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/114101"
+    },
+    {
+      "title": "Version/4.6",
+      "pageId": 301539,
+      "revisionId": 2093761,
+      "revisionAt": "2026-05-19T16:47:28Z",
+      "date": "2024-04-24",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F4.6",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/123426"
+    },
+    {
+      "title": "Version/5.0",
+      "pageId": 306073,
+      "revisionId": 2141907,
+      "revisionAt": "2026-08-11T13:21:14Z",
+      "date": "2024-08-28",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F5.0",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/125553"
+    },
+    {
+      "title": "Version/5.5",
+      "pageId": 358279,
+      "revisionId": 2043597,
+      "revisionAt": "2026-01-30T06:56:35Z",
+      "date": "2025-03-26",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F5.5",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/155172"
+    },
+    {
+      "title": "Version/Luna I",
+      "pageId": 395089,
+      "revisionId": 2136584,
+      "revisionAt": "2026-07-29T18:21:52Z",
+      "date": "2025-09-10",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2FLuna_I",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/159349"
+    },
+    {
+      "title": "Version/Luna IV",
+      "pageId": 395216,
+      "revisionId": 2141853,
+      "revisionAt": "2026-08-11T07:21:46Z",
+      "date": "2026-01-14",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2FLuna_IV",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/162159"
+    },
+    {
+      "title": "Version/Luna VII",
+      "pageId": 456486,
+      "revisionId": 2172002,
+      "revisionAt": "2026-09-10T14:56:30Z",
+      "date": "2026-05-20",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2FLuna_VII",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/164256"
+    },
+    {
+      "title": "Version/7.0",
+      "pageId": 471299,
+      "revisionId": 2183949,
+      "revisionAt": "2026-09-25T09:54:03Z",
+      "date": "2026-08-12",
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Version%2F7.0",
+      "official": "https://genshin.hoyoverse.com/en/news/detail/165655"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 2761,
+        "ns": 0,
+        "title": "Signal Shop",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Custom Tabs\n|tab1 = Overview\n|tab2 = History\n}}\n{{Terminology Infobox\n|title        = Signal Shop\n|icon         = 1\n|image        = Signal Shop.png\n|type         = Shops\n|type2        = Monetization\n}}\n'''Signal Shop''' is a store that offers [[Signal Search Items]], [[Materials]], and a rotating selection of [[Agent]]s, [[W-Engine]]s and [[Combat Bangboo]].\n\n==Residual Signal==\n[[File:Item Residual Signal.png|right|75px|thumb|Residual Signal|link=Residual Signal]]\nAll items are exchanged for [[Residual Signal]].<br/>\nThe shop offers an {{AgentRank|A}}-Rank-Agent-selector item and a selection of {{Rank|S}}-Rank W-Engines every month.\n\n===Permanent Items===\n{{Shop|shop=Signal Shop|currency=Residual Signal|refresh=1|total=1\n|Encrypted Master Tape ;;Residual Signal*20 ;; inf\n|Master Tape ;;Residual Signal*20 ;; inf\n|Fusion Compiler ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|Hellfire Gears ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|Steel Cushion ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|The Brimstone ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|The Restrained ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|Weeping Cradle ;;type{{=}}W-Engine ;; Residual Signal*600 ;; 1 ;;refresh{{=}}m\n|Immediate Invitation Gift ;; Residual Signal*140 ;; 1 ;;refresh{{=}}m\n|Suit-Up Gift ;; Residual Signal*100 ;; 1 ;;refresh{{=}}m\n}}\n\n==Fading Signal==\n[[File:Item Fading Signal.png|right|75px|thumb|Fading Signal|link=Fading Signal]]\nAll items are exchanged for [[Fading Signal]], and the monthly limits reset at the same time as other exchanges.\n\n{{Shop|shop=Signal Shop|currency=Fading Signal|refresh=1|note=1|total=1\n|Encrypted Master Tape ;;Fading Signal*90 ;; 5 ;;refresh{{=}}m\n|Master Tape ;;Fading Signal*90 ;; 5 ;;refresh{{=}}m\n|Prepaid Power Card ;; 50 ;; 20 ;;refresh{{=}}m\n|Advanced Burn Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Ether Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Freeze Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Physical Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Shock Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Windbite Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Lumiflux Chip ;; Fading Signal*12 ;; 50 ;;refresh{{=}}m\n|Advanced Attack Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Stun Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Anomaly Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Support Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Defense Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Rupture Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Advanced Armorer Certification Seal ;; Fading Signal*15 ;; 35 ;;refresh{{=}}m\n|Reinforced Attack Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Stun Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Anomaly Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Support Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Defense Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Rupture Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Reinforced Armorer Component ;; Fading Signal*10 ;; 35 ;;refresh{{=}}m\n|Official Investigator Log ;; x{{=}}2 ;; Fading Signal*6 ;; 80 ;;refresh{{=}}m\n|W-Engine Power Supply ;; x{{=}}2 ;; Fading Signal*5 ;; 80 ;;refresh{{=}}m\n|Crystallized Plating Agent ;; x{{=}}2 ;; Fading Signal*5 ;; 80 ;;refresh{{=}}m\n|Denny ;; x{{=}}6000 ;; Fading Signal*15 ;; 80 ;;refresh{{=}}m\n|Denny ;; x{{=}}6000 ;; Fading Signal*30 ;; inf ;; note{{=}}Unlocks after purchasing all limited Denny stock\n}} \n\n==Bangbuck Exchange==\n[[File:Item Bangbuck.png|right|75px|thumb|Bangbuck|link=Bangbuck]]\nAll items are exchanged for [[Bangbuck]], and the monthly limits reset at the same time as other exchanges.<br/>\nThe shop offers an {{Bangboo Rank|A}}-Rank-Bangboo-selector item and a selection of [[Bangboo EXP Material]] and [[Bangboo System Optimization Material]] each month.\n\n===Permanent Items===\n{{Shop|shop=Signal Shop|currency=Bangbuck|refresh=1|total=1\n|Boopon ;;Bangbuck*20 ;; 5 ;;refresh{{=}}m\n|Boopon ;;Bangbuck*40 ;; inf\n|Marcel Modified Part ;;Bangbuck*1200 ;; 1\n|Collaboorator Invitation Gift ;;Bangbuck*200 ;; 1 ;;refresh{{=}}m\n|Concentrated Cooling Fluid ;; Bangbuck*16 ;; 10 ;;refresh{{=}}m\n|Bangboo System Widget ;; Bangbuck*8 ;; 25 ;;refresh{{=}}m\n|Denny ;; x{{=}}2500 ;; Bangbuck*2 ;; inf\n}}\n\n==Master Tape Exchange==\n[[File:Item Polychrome.png|right|75px|thumb|Polychrome|link=Polychrome]]\n{{Shop|shop=Signal Shop|currency=Polychrome\n|Encrypted Master Tape ;; 160 ;; inf\n|Master Tape ;; 160 ;; inf\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Signal Shop\n|zhs      = 信源清单\n|zhs_rm   = \n|zht      = 訊源清單\n|zht_rm   = \n|ja       = 発信源ストア\n|ja_rm    = \n|ko       = 신호 상점\n|es       = Bazar de señales\n|fr       = Magasin de signaux\n|ru       = Реестр сигналов\n|th       = แหล่งสัญญาณ\n|th_rm    = \n|vi       = Danh Sách Tín Hiệu\n|de       = Signalladen\n|id       = Toko Sinyal\n|pt       = Loja de Sinais\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Wiki Navbox}}"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3134,
+        "ns": 0,
+        "title": "Box Galaxy",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Location Infobox\n|title    = Box Galaxy\n|subtitle = Gadget Store\n|image    = \n<gallery>\nTravel Point Box Galaxy Icon.png|Icon\nShop Box Galaxy.png|In-Game\n</gallery>\n|type     = Shop\n|area     = Sixth Street\n|region   = Janus Quarter\n|city     = New Eridu\n}}\n{{Description|You can use the relevant materials in the gadget store to {{Color|Buzz|buy W-Engines}}. Equip them to your Agents to enhance their combat performance.<br />You can {{Color|Buzz|recycle W-Engines}} to obtain related materials.}}\n'''Box Galaxy''', also known as the '''Gadget Store''', is a [[Shop]] run by [[Susie]] and her boss in [[Sixth Street]].\n\n==General==\nBox Galaxy is a store that specializes in selling [[W-Engine]]s, offering a variety of B-Rank W-Engines and a small selection of A-Rank W-Engines. Additionally, the store has a Database tab where players can check out information on various W-Engines at a glance.\n\nPurchasing W-Engines not only requires [[Denny|Dennies]], but also a resource known as [[W-Engine Chip]]s, which are acquired by dismantling W-Engines and from clearing [[Notorious Hunt]]. The store also has a Recycle tab, allowing players to dismantle unwanted W-Engines to acquire [[W-Engine EXP Material]] and W-Engine Modification Material, along with a small amount of Dennies.\n\n==Shop==\n{{Shop|shop=Box Galaxy|currency=Denny\n|(Identity) Base ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Identity) Inflection ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Lunar) Decrescent ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Lunar) Noviluna ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Lunar) Pleniluna ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Magnetic Storm) Alpha ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Magnetic Storm) Bravo ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Magnetic Storm) Charlie ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Reverb) Mark I ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Reverb) Mark II ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Reverb) Mark III ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Vortex) Arrow ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Vortex) Hatchet ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Vortex) Revolver ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Cinder) Cobalt ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|(Lunar) Semiluna ;;type{{=}}W-Engine ;; Denny*3000,W-Engine Chip*1 ;; inf\n|Bunny Band ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Original Transmorpher ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Precious Fossilized Core ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Rainforest Gourmet ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Slice of Time ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Starlight Engine ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Steam Oven ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Street Superstar ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Weeping Gemini ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Puzzle Sphere ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n|Catty Luck ;;type{{=}}W-Engine ;; Denny*18000,W-Engine Chip*6 ;; inf\n}}\n\n==Other Languages==\n{{Other Languages\n|1_en       = Box Galaxy\n|1_zhs      = 「盒」\n|1_zhs_rm   =  \"Hé\"\n|1_zht      = 「盒」\n|1_zht_rm   =  \"Hé\"\n|1_ja       = 「BOX GALAXY」\n|1_ja_rm    = \n|1_ko       = 「박스 갤럭시」\n|1_es       = Universo Sorpresa\n|1_fr       = La Boîte\n|1_ru       = «Вселенной в коробке»\n|1_th       = \"Box Galaxy\"\n|1_th_rm    = \n|1_vi       = \"Box Galaxy\"\n|1_de       = Box-Galaxy\n|1_id       = Box Galaxy\n|1_pt       = Box Galaxy\n\n|2_en       = Gadget Store\n|2_zhs      = 玩具店\n|2_zhs_rm   = Wánjù-diàn\n|2_zht      = 玩具店\n|2_zht_rm   = Wánjù-diàn\n|2_ja       = ホビーショップ\n|2_ja_rm    = Hobīshoppu\n|2_ko       = 장난감 가게\n|2_es       = Tienda de juguetes\n|2_fr       = Boutique de gadgets\n|2_ru       = Магазин игрушек\n|2_th       = ร้านแกดเจ็ต\n|2_th_rm    = \n|2_vi       = Tiệm đồ chơi\n|2_de       = Gadget-Shop\n|2_id       = Toko Gadget\n|2_pt       = Loja de Gadgets\n}}\n\n==Change History==\n{{Change History|0.2.0}}\n\n==Navigation==\n{{POI Navbox|Sixth Street}}\n\n[[ru:Вселенная в коробке]]\n[[vi:Box Galaxy]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3425,
+        "ns": 0,
+        "title": "Original Transmorpher",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{W-Engine Infobox\n|id            = 13007\n|name          = Original Transmorpher\n|image         = W-Engine Original Transmorpher.png\n|releaseDate   = 2024-07-04\n|base_stat     = 40-594\n|adv_stat      = 10%-25%\n|adv_stat_name = HP\n|effect_name   = Starlight Knight Flying Kick\n|effect        = Increases Max HP by {{color|green|(var1)%}}. When attacked, the equipper's Impact is increased by {{color|green|(var2)%}} for 12s.\n|eff_var1_u1   = 8\n|eff_var1_u2   = 9\n|eff_var1_u3   = 10\n|eff_var1_u4   = 11\n|eff_var1_u5   = 12.5\n|eff_var2_u1   = 10\n|eff_var2_u2   = 11.5\n|eff_var2_u3   = 13\n|eff_var2_u4   = 14.5\n|eff_var2_u5   = 16\n|eff_att1      = Max HP Increase\n|eff_att2      = Impact Increase\n}}\n{{Description|An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs.}}\n{{Lead/W-Engine|Original Transmorpher}}\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|An epic W-Engine favored by Starlight Knight fans. Its high popularity and scarcity marketing strategy have caused an influx of knock-offs. \"Using a fake transmorpher will only turn you into a villain's minion!\" said its distributor at the product launch conference. Did you see that mighty kick that can send any evil-doer flying? Such is the power of the original product license!}}\n\n==Availability==\n* The permanent [[Signal Search]]: [[Star-Studded Cast]]\n* Every [[Exclusive Channel]] and [[W-Engine Channel]]\n\n===Shop Availability===\n{{Shop Availability|stock=Other Components}}\n\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Original Transmorpher Images}}\n[[File:Original Transmorpher Animation.mp4|250px]]\n\n==Other Languages==\n{{Other Languages\n|en       = Original Transmorpher\n|zhs      = 正版变身器\n|zhs_rm   = Zhèngbǎn Biànshēn-qì\n|zht      = 正版變身器\n|zht_rm   = Zhèngbǎn Biànshēn-qì\n|ja       = 正規版変身装置\n|ja_rm    = \n|ko       = 오리지널 변신 아이템\n|es       = Transmorfer original\n|fr       = Transformateur originel\n|ru       = Оригинальный трансформатор\n|th       = Original Transmorpher\n|vi       = {{tt|Máy|𢵯}} {{tt|Biến|變}} {{tt|Hình|形}} {{tt|Chính Hãng|正行}}\n|de       = Original-Verwandler\n|id       = Original Transmorpher\n|pt       = Transmorfo Original\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[ru:Оригинальный трансформатор]]\n[[vi:Máy Biến Hình Chính Hãng]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 20450,
+        "ns": 0,
+        "title": "Agent Focus",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Terminology Infobox\n|image = Item Agent Focus Anby.png\n|type  = Item Types\n}}\n'''Agent Focus''' are special items that can be used to increase an [[Agent]]'s [[Mindscape Cinema]] level by one.\n\n==List==\n{{#DPL:\n|namespace     = \n|category      = Agent Focus\n|include       = {Item Infobox}:\n|format        = ²{Column¦2¦,,,}² \n|secseparators = \\n*²{Item¦%PAGE%}²\n|resultsheader = '''%PAGES%''' Agent Focuses are currently available:\n|ordermethod   = title\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Agent Focus\n|zhs      = 代理人特写\n|zhs_rm   = \n|zht      = 代理人特寫\n|zht_rm   = \n|ja       = クローズアップ\n|ja_rm    = \n|ko       = 에이전트 클로즈업\n|es       = Exclusiva de agente\n|fr       = Profil d'agent&nbsp;\n|ru       = Профиль агента\n|th       = Agent Focus\n|vi       = Ảnh Người Đại Diện\n|de       = Agentenfokus\n|id       = Agent Focus\n|pt       = Close-up de Agente\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n[[vi:Ảnh Người Đại Diện]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 57772,
+        "ns": 0,
+        "title": "Catty Luck",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{W-Engine Infobox\n|id            = 13017\n|name          = Catty Luck\n|image         = W-Engine Catty Luck.png\n|releaseDate   = 2026-09-09\n|base_stat     = 24-356\n|adv_stat      = 16%-40%\n|adv_stat_name = DEF\n|effect_name   = Lucky Pawpad\n|effect        = DEF increases by {{color|green|(var1)%}}. When using '''EX Special Attack''', DEF increases by an additional {{color|green|(var1)%}} for 40s. Repeated triggers reset the duration.\n|eff_var1_u1   = 8\n|eff_var1_u2   = 9\n|eff_var1_u3   = 10\n|eff_var1_u4   = 11\n|eff_var1_u5   = 12\n|eff_att1      = DEF Increase\n}}\n{{Description|Meow your way to good luck!}}\n{{Lead/W-Engine|Catty Luck}}\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|A specially modified W-Engine that's become hugely popular on [[Inter-Knot]]. Some functionality was sacrificed for the sake of its appearance, but that hasn't stopped it from becoming a massive hit.<br />Even its designer never expected it to be this successful. In an interview, he explained, \"In the ever-changing [[Hollows]], the anxiety brought on by uncertainty can easily overwhelm a person's will. For people trapped in desperate situations, even a small sign of good fortune can be enough to give them hope.\"<br />\"Of course, maybe people just like cats.\" He added with a laugh at the end of the interview.}}\n\n==Availability==\n* The permanent [[Signal Search]]: [[Star-Studded Cast]]\n* Every [[Exclusive Channel]] and [[W-Engine Channel]]\n\n===Shop Availability===\n{{Shop Availability|stock=Other Components}}\n<!--\n==Trivia==\n-->\n==Gallery==\n{{Files by Character Gallery|Catty Luck Images}}\n<!--[[File:Catty Luck Animation.mp4|250px]]-->\n\n==Other Languages==\n{{Other Languages\n|en       = Catty Luck\n|zhs      = 喵运当头\n|zhs_rm   = \n|zht      = 喵運當頭\n|zht_rm   = \n|ja       = ニャン運到来\n|ja_rm    = \n|ko       = 묘운이 눈앞에\n|es       = Fortuna felina\n|fr       = Felis Fortuna\n|ru       = Котик удачи\n|th       = Catty Luck\n|vi       = Vận Meow Gõ Cửa\n|de       = Enormiaues Glück\n|id       = Catty Luck\n|pt       = Sorte Felina\n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{W-Engine Navbox}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2033 @@
+{
+  "id": 1341,
+  "icon": "IconRole56",
+  "name": "照",
+  "code_name": "Zhao",
+  "rarity": 4,
+  "weapon_type": {
+    "5": "防护"
+  },
+  "element_type": {
+    "202": "冰属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "101": "斩击"
+  },
+  "camp": {
+    "12": "坎卜斯黑枝"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "10/14",
+    "full_name": "照",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle56.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0056.png",
+    "impression_f": "和小照一起进行调查行动时特别有安全感，就觉得…她和任何人打交道时都不会吃亏。",
+    "impression_m": "大家做出的每个选择，如果小照没有提出异议，那就一定是衡量过得失后，最有尝试价值的选择。",
+    "impressions": [
+      "对照的印象：\n · 对于重视价值的小照而言，交易伙伴是一种非常可靠的人际关系。",
+      " · 而当伙伴不求回报地提供帮助时，小照则会有些不适应。并非不喜欢伙伴，只是想不出有什么有价值的东西可以拿来完成这桩「交易」。",
+      " · 随着这样的伙伴逐渐增加，小照最终明白，被别人喜欢并不是一件坏事，这与自己价值的高低无关。"
+    ],
+    "profile_desc": "照，坎卜斯黑枝的裁决官，早期加入黑枝的精锐成员之一。\n\n外表看起来单纯可爱，其实心思细腻缜密，有原则。重视「价值」与「等价交换」。并非指用金钱来衡量某个单位的价格，而是分析目标的能力与潜力，对其能产生的作用进行更客观与长远的评估。\n\n据说这并不是照进入黑枝之后因为工作原因树立的观念，而是在孩童时代便已萌生的想法。照不仅对他人会做出评估，对自己也是这么要求的。「只有存在价值的人才能被看见。」\n\n虽然不会明显表露，但照对没有缘由的外来善意抱有警惕心。因为这有悖于她「等价交换」的观点，会认为对方是有更深层的目的所以才提供帮助。\n因此与照打交道时，建议以实现共同利益为首要考量，如果想要以纯粹的善意与热忱打破她的防备，恐怕需要花费很大的精力。\n\n另有一条无法明确证实的情报：照很喜欢吃蔬菜，并且不喜欢吃肉类食物，但她似乎在假装自己也爱吃肉。",
+    "role_icon": "IconRole/UnPacker/IconRole56",
+    "stature": "118",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第六章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "照，坎卜斯黑枝的裁决官，早期加入黑枝的精锐成员之一。\n\n外表看起来单纯可爱，其实心思细腻缜密，有原则。重视「价值」与「等价交换」。并非指用金钱来衡量某个单位的价格，而是分析目标的能力与潜力，对其能产生的作用进行更客观与长远的评估。\n\n据说这并不是照进入黑枝之后因为工作原因树立的观念，而是在孩童时代便已萌生的想法。照不仅对他人会做出评估，对自己也是这么要求的。「只有存在价值的人才能被看见。」\n\n虽然不会明显表露，但照对没有缘由的外来善意抱有警惕心。因为这有悖于她「等价交换」的观点，会认为对方是有更深层的目的所以才提供帮助。\n因此与照打交道时，建议以实现共同利益为首要考量，如果想要以纯粹的善意与热忱打破她的防备，恐怕需要花费很大的精力。\n\n另有一条无法明确证实的情报：照很喜欢吃蔬菜，并且不喜欢吃肉类食物，但她似乎在假装自己也爱吃肉。",
+      "2": "",
+      "3": "照从小生活在一个贫穷困顿又人数众多的家族中，大部分时候，亲情与信任加起来都敌不过一句「谁能带来利益，谁就能有更多食物。」\n\n照的长相讨喜，但也会让人觉得好欺负。在那种弱肉强食的环境中容易被一眼判定为「低价值」的存在。因此在家族中，照被长辈们判定为无法派上用场的人，难逃被轻视和抛弃的命运。直到她遇到了某位来自黑枝的掌权人，她潜藏的能力被一眼发掘了出来。自此，她将家族的过往密封起来，加入了黑枝，立志要展现真正的价值。\n「只要你有价值，就能在泥沼中被看见。」",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3113410": {
+      "name": "照·绒耳寒枝",
+      "desc": "暖绒的双耳、娇小的身姿，倘若因此投以轻视，「利益」的裁决官将不吝挥下枝条。",
+      "obtain_desc": "",
+      "image": "IconRole56"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 110,
+    "attack_growth": 65027,
+    "avatar_piece_id": 5341,
+    "break_stun": 93,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 56,
+    "defence_growth": 76592,
+    "element_abnormal_power": 93,
+    "element_mystery": 96,
+    "endurance": 0,
+    "hp_growth": 994816,
+    "hp_max": 733,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Furry",
+      "Cut",
+      "Ice",
+      "Female",
+      "Camp12",
+      "Size0",
+      "AidTypeParry",
+      "XiaoZhao",
+      "EtherEyesSize0"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100215": 4
+      }
+    },
+    "2": {
+      "hp_max": 503,
+      "attack": 39,
+      "defence": 39,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100225": 12
+      }
+    },
+    "3": {
+      "hp_max": 1006,
+      "attack": 79,
+      "defence": 77,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100225": 20
+      }
+    },
+    "4": {
+      "hp_max": 1509,
+      "attack": 118,
+      "defence": 116,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100235": 10
+      }
+    },
+    "5": {
+      "hp_max": 2012,
+      "attack": 157,
+      "defence": 155,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100235": 20
+      }
+    },
+    "6": {
+      "hp_max": 2515,
+      "attack": 197,
+      "defence": 194,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 600
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 600
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1200
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1200
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1800
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1800
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：凛冽裁决",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多五段的斩击，第一段造成<color=#F0D12B>物理伤害</color>，后四段造成<color=#98EFF0>冰属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：最终裁决",
+          "desc": "长按 <IconMap:Icon_Normal> 发动：\n预备后进入蓄力，松开时向前方进行斩击，造成大量<color=#98EFF0>冰属性伤害</color>；\n蓄力时，照将累积最多5秒蓄力时长，<color=#FFFFFF>[普通攻击：最终裁决]</color>、<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[支援突击]</color>的终结一击命中时，将消耗蓄力时长造成额外伤害，每有1秒蓄力时长，造成照<color=#2BAD00>{CAL:0.12+AvatarSkillLevel(0)*0.01,100,2}%</color>最大生命值的额外伤害；\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，如果在蓄力中成为非当前操作中角色，可以继续进行蓄力；\n招式发动时，如果<color=#FFFFFF>[霜寒值]</color>满，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>，并触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动期间抗打断等级提升，受到的伤害降低40%；\n不为当前操作中角色时，招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：凛冽裁决",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1341001, Prop:1001}",
+              "param": {
+                "1341001": {
+                  "main": 7340,
+                  "growth": 670,
+                  "format": "%",
+                  "damage_percentage": 7340,
+                  "damage_percentage_growth": 670,
+                  "stun_ratio": 5510,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 18010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 137775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5001
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1341002, Prop:1001}",
+              "param": {
+                "1341002": {
+                  "main": 6600,
+                  "growth": 600,
+                  "format": "%",
+                  "damage_percentage": 6600,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 4920,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 16080,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 122925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4463,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4464
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1341003, Prop:1001}",
+              "param": {
+                "1341003": {
+                  "main": 11580,
+                  "growth": 1060,
+                  "format": "%",
+                  "damage_percentage": 11580,
+                  "damage_percentage_growth": 1060,
+                  "stun_ratio": 8440,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 27620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 211200,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7672,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7673
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1341004, Prop:1001}",
+              "param": {
+                "1341004": {
+                  "main": 18560,
+                  "growth": 1690,
+                  "format": "%",
+                  "damage_percentage": 18560,
+                  "damage_percentage_growth": 1690,
+                  "stun_ratio": 15460,
+                  "stun_ratio_growth": 710,
+                  "sp_recovery": 44680,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 341550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12410,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14053
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段伤害倍率",
+              "desc": "{{Skill:1341005, Prop:1001} + {Skill:1341006, Prop:1001}}",
+              "param": {
+                "1341005": {
+                  "main": 30910,
+                  "growth": 2810,
+                  "format": "%",
+                  "damage_percentage": 30910,
+                  "damage_percentage_growth": 2810,
+                  "stun_ratio": 23450,
+                  "stun_ratio_growth": 1070,
+                  "sp_recovery": 81450,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 622325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 22623,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21311
+                },
+                "1341006": {
+                  "main": 7730,
+                  "growth": 710,
+                  "format": "%",
+                  "damage_percentage": 7730,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 5860,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 20360,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155580,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5660,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5330
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1341001, Prop:1002}",
+              "param": {
+                "1341001": {
+                  "main": 5510,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 7340,
+                  "damage_percentage_growth": 670,
+                  "stun_ratio": 5510,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 18010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 137775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5001
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1341002, Prop:1002}",
+              "param": {
+                "1341002": {
+                  "main": 4920,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 6600,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 4920,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 16080,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 122925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4463,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4464
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1341003, Prop:1002}",
+              "param": {
+                "1341003": {
+                  "main": 8440,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 11580,
+                  "damage_percentage_growth": 1060,
+                  "stun_ratio": 8440,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 27620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 211200,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7672,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7673
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1341004, Prop:1002}",
+              "param": {
+                "1341004": {
+                  "main": 15460,
+                  "growth": 710,
+                  "format": "%",
+                  "damage_percentage": 18560,
+                  "damage_percentage_growth": 1690,
+                  "stun_ratio": 15460,
+                  "stun_ratio_growth": 710,
+                  "sp_recovery": 44680,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 341550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12410,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14053
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段失衡倍率",
+              "desc": "{{Skill:1341005, Prop:1002} + {Skill:1341006, Prop:1002}}",
+              "param": {
+                "1341005": {
+                  "main": 23450,
+                  "growth": 1070,
+                  "format": "%",
+                  "damage_percentage": 30910,
+                  "damage_percentage_growth": 2810,
+                  "stun_ratio": 23450,
+                  "stun_ratio_growth": 1070,
+                  "sp_recovery": 81450,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 622325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 22623,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21311
+                },
+                "1341006": {
+                  "main": 5860,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 7730,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 5860,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 20360,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155580,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5660,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5330
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：最终裁决",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341008, Prop:1001}",
+              "param": {
+                "1341008": {
+                  "main": 6970,
+                  "growth": 640,
+                  "format": "%",
+                  "damage_percentage": 6970,
+                  "damage_percentage_growth": 640,
+                  "stun_ratio": 5230,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 17100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 130625,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4750,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4750
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341008, Prop:1002}",
+              "param": {
+                "1341008": {
+                  "main": 5230,
+                  "growth": 240,
+                  "format": "%",
+                  "damage_percentage": 6970,
+                  "damage_percentage_growth": 640,
+                  "stun_ratio": 5230,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 17100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 130625,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4750,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4750
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力最大生命额外倍率",
+              "desc": "{CAL:0.12+AvatarSkillLevel(0)*0.01,100,2}%",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：脱兔踏",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：弹跳冲刺",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方发动斩击，造成<color=#F0D12B>物理伤害</color>和<color=#98EFF0>冰属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：倏忽闪",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方发动下落斩击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：弹跳冲刺",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341011, Prop:1001}",
+              "param": {
+                "1341011": {
+                  "main": 8630,
+                  "growth": 790,
+                  "format": "%",
+                  "damage_percentage": 8630,
+                  "damage_percentage_growth": 790,
+                  "stun_ratio": 4320,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 14110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 107800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3918,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3919
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341011, Prop:1002}",
+              "param": {
+                "1341011": {
+                  "main": 4320,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 8630,
+                  "damage_percentage_growth": 790,
+                  "stun_ratio": 4320,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 14110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 107800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3918,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3919
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：倏忽闪",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341012, Prop:1001}",
+              "param": {
+                "1341012": {
+                  "main": 33880,
+                  "growth": 3080,
+                  "format": "%",
+                  "damage_percentage": 33880,
+                  "damage_percentage_growth": 3080,
+                  "stun_ratio": 28600,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341012, Prop:1002}",
+              "param": {
+                "1341012": {
+                  "main": 28600,
+                  "growth": 1300,
+                  "format": "%",
+                  "damage_percentage": 33880,
+                  "damage_percentage_growth": 3080,
+                  "stun_ratio": 28600,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30997
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：碎冰溢寒",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方发动斩击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动时，消耗5%当前生命值，使全队角色每秒基于照<color=#2BAD00>{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%</color>最大生命值回复生命值，持续5秒，<color=#FFFFFF>[特殊技：碎冰溢寒]</color>和<color=#FFFFFF>[强化特殊技：流霜冻土]</color>的消耗生命效果每30秒最多触发一次。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：流霜冻土",
+          "desc": "能量足够时，点按  <IconMap:Icon_SpecialReady> 发动：\n向前方连续发动斩击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动时，消耗5%当前生命值，使全队角色每秒基于照<color=#2BAD00>{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%</color>最大生命值回复生命值，持续5秒，<color=#FFFFFF>[特殊技：碎冰溢寒]</color>和<color=#FFFFFF>[强化特殊技：流霜冻土]</color>的消耗生命效果每30秒最多触发一次；\n招式发动时，积攒20点<color=#FFFFFF>[霜寒值]</color>，如果<color=#FFFFFF>[霜寒值]</color>满，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n招式发动时，如果处于任意<color=#FFFFFF>[以太帷幕]</color>中，将触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：碎冰溢寒",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341009, Prop:1001}",
+              "param": {
+                "1341009": {
+                  "main": 5690,
+                  "growth": 520,
+                  "format": "%",
+                  "damage_percentage": 5690,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 5690,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 142175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5168,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5169
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341009, Prop:1002}",
+              "param": {
+                "1341009": {
+                  "main": 5690,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 5690,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 5690,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 142175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5168,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5169
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "回复生命百分比",
+              "desc": "{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：流霜冻土",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341010, Prop:1001}",
+              "param": {
+                "1341010": {
+                  "main": 121080,
+                  "growth": 11010,
+                  "format": "%",
+                  "damage_percentage": 121080,
+                  "damage_percentage_growth": 11010,
+                  "stun_ratio": 81000,
+                  "stun_ratio_growth": 3690,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2806650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 80738,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 31000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341010, Prop:1002}",
+              "param": {
+                "1341010": {
+                  "main": 81000,
+                  "growth": 3690,
+                  "format": "%",
+                  "damage_percentage": 121080,
+                  "damage_percentage_growth": 11010,
+                  "stun_ratio": 81000,
+                  "stun_ratio_growth": 3690,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2806650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 80738,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 31000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "80点",
+              "potential": []
+            },
+            {
+              "name": "回复生命百分比",
+              "desc": "{CAL:1+AvatarSkillLevel(1)*0.06,1,2}%",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：临时合作",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n向前方发动连续斩击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动后，积攒5点<color=#FFFFFF>[霜寒值]</color>，如果<color=#FFFFFF>[霜寒值]</color>满，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n招式发动后，如果处于任意<color=#FFFFFF>[以太帷幕]</color>中，将触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：兔兔连斩",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n向前方连续攻击，随后下落斩击敌人，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动后，积攒20点<color=#FFFFFF>[霜寒值]</color>，如果<color=#FFFFFF>[霜寒值]</color>满，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n招式发动后，如果处于任意<color=#FFFFFF>[以太帷幕]</color>中，将触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：临时合作",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341013, Prop:1001}",
+              "param": {
+                "1341013": {
+                  "main": 77080,
+                  "growth": 7010,
+                  "format": "%",
+                  "damage_percentage": 77080,
+                  "damage_percentage_growth": 7010,
+                  "stun_ratio": 33190,
+                  "stun_ratio_growth": 1510,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2658425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 50116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30167
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341013, Prop:1002}",
+              "param": {
+                "1341013": {
+                  "main": 33190,
+                  "growth": 1510,
+                  "format": "%",
+                  "damage_percentage": 77080,
+                  "damage_percentage_growth": 7010,
+                  "stun_ratio": 33190,
+                  "stun_ratio_growth": 1510,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2658425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 50116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30167
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：兔兔连斩",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{{Skill:1341014, Prop:1001} + {Skill:1341023, Prop:1001}}",
+              "param": {
+                "1341014": {
+                  "main": 174980,
+                  "growth": 15910,
+                  "format": "%",
+                  "damage_percentage": 174980,
+                  "damage_percentage_growth": 15910,
+                  "stun_ratio": 16140,
+                  "stun_ratio_growth": 740,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 54667
+                },
+                "1341023": {
+                  "main": 43750,
+                  "growth": 3980,
+                  "format": "%",
+                  "damage_percentage": 43750,
+                  "damage_percentage_growth": 3980,
+                  "stun_ratio": 4030,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13670
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{{Skill:1341014, Prop:1002} + {Skill:1341023, Prop:1002}}",
+              "param": {
+                "1341014": {
+                  "main": 16140,
+                  "growth": 740,
+                  "format": "%",
+                  "damage_percentage": 174980,
+                  "damage_percentage_growth": 15910,
+                  "stun_ratio": 16140,
+                  "stun_ratio_growth": 740,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 54667
+                },
+                "1341023": {
+                  "main": 4030,
+                  "growth": 190,
+                  "format": "%",
+                  "damage_percentage": 43750,
+                  "damage_percentage_growth": 3980,
+                  "stun_ratio": 4030,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13670
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "登场技：霜迸",
+          "desc": "照的<color=#FFFFFF>[霜寒值]</color>满，且处于接战状态下时，点按 <IconMap:Icon_Switch> 发动：\n向前方连续攻击，随后发动斩击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n招式发动时，触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动时视为发动<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：查漏补缺",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n向前方发动下落斩击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：霜婵镇场",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n具有较为优秀的招架性能，承受高强度攻击时<color=#FFFFFF>[支援点数]</color>的消耗量降低；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：凛光返照",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方连续斩击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动时，如果<color=#FFFFFF>[霜寒值]</color>满，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n招式发动时，如果处于任意<color=#FFFFFF>[以太帷幕]</color>中，将触发<color=#FFFFFF>[快速支援]</color>，此时如果发动队友的<color=#FFFFFF>[快速支援]</color>，照将自动衔接<color=#FFFFFF>[普通攻击：最终裁决]</color>并进行蓄力；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "登场技：霜迸",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341015, Prop:1001}",
+              "param": {
+                "1341015": {
+                  "main": 68030,
+                  "growth": 6190,
+                  "format": "%",
+                  "damage_percentage": 68030,
+                  "damage_percentage_growth": 6190,
+                  "stun_ratio": 23020,
+                  "stun_ratio_growth": 1050,
+                  "sp_recovery": 75310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 575300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20918,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20919
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341015, Prop:1002}",
+              "param": {
+                "1341015": {
+                  "main": 23020,
+                  "growth": 1050,
+                  "format": "%",
+                  "damage_percentage": 68030,
+                  "damage_percentage_growth": 6190,
+                  "stun_ratio": 23020,
+                  "stun_ratio_growth": 1050,
+                  "sp_recovery": 75310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 575300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20918,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20919
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "快速支援：查漏补缺",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341016, Prop:1001}",
+              "param": {
+                "1341016": {
+                  "main": 17600,
+                  "growth": 1600,
+                  "format": "%",
+                  "damage_percentage": 17600,
+                  "damage_percentage_growth": 1600,
+                  "stun_ratio": 8800,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 28800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 220000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7998,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7999
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341016, Prop:1002}",
+              "param": {
+                "1341016": {
+                  "main": 8800,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 17600,
+                  "damage_percentage_growth": 1600,
+                  "stun_ratio": 8800,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 28800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 220000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7998,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7999
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：霜婵镇场",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1341017, Prop:1002}",
+              "param": {
+                "1341017": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1341018, Prop:1002}",
+              "param": {
+                "1341018": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1341019, Prop:1002}",
+              "param": {
+                "1341019": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：凛光返照",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1341020, Prop:1001}",
+              "param": {
+                "1341020": {
+                  "main": 36610,
+                  "growth": 3330,
+                  "format": "%",
+                  "damage_percentage": 36610,
+                  "damage_percentage_growth": 3330,
+                  "stun_ratio": 31810,
+                  "stun_ratio_growth": 1450,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1035100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31097,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1341020, Prop:1002}",
+              "param": {
+                "1341020": {
+                  "main": 31810,
+                  "growth": 1450,
+                  "format": "%",
+                  "damage_percentage": 36610,
+                  "damage_percentage_growth": 3330,
+                  "stun_ratio": 31810,
+                  "stun_ratio_growth": 1450,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1035100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31097,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1341001,
+      "avatar_id": 1341,
+      "first_priority": [
+        5,
+        1,
+        0
+      ],
+      "second_priority": [
+        3,
+        6
+      ],
+      "third_priority": [
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1341001": {
+      "name": "普通攻击：凛冽裁决",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341002": {
+      "name": "普通攻击：最终裁决",
+      "desc": "<IconMap:Icon_Normal>（长按）",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341003": {
+      "name": "特殊技：碎冰溢寒",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341004": {
+      "name": "强化特殊技：流霜冻土",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341005": {
+      "name": "冲刺攻击：弹跳冲刺",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341006": {
+      "name": "闪避反击：倏忽闪",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341007": {
+      "name": "连携技：临时合作",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341008": {
+      "name": "终结技：兔兔连斩",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341009": {
+      "name": "登场技：霜迸",
+      "desc": "<IconMap:Icon_Switch>（[霜寒值]满时）",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341010": {
+      "name": "快速支援：查漏补缺",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1341011": {
+      "name": "招架支援：霜婵镇场",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1341012": {
+      "name": "支援突击：凛光返照",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 202,
+      "hit_type": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1341501": {
+        "level": 1,
+        "id": 1341501,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>0.8%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>100</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341502": {
+        "level": 2,
+        "id": 1341502,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>0.9%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>250</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341503": {
+        "level": 3,
+        "id": 1341503,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>1%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>400</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341504": {
+        "level": 4,
+        "id": 1341504,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>1.1%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>550</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341505": {
+        "level": 5,
+        "id": 1341505,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>1.2%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>700</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341506": {
+        "level": 6,
+        "id": 1341506,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>1.3%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>850</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1341507": {
+        "level": 7,
+        "id": 1341507,
+        "name": [
+          "核心被动：最佳同事",
+          "额外能力：凝聚力"
+        ],
+        "desc": [
+          "照会额外根据初始最大生命值提高暴击率，每1000点初始最大生命值提高<color=#2BAD00>1.4%</color>暴击率；\n进入战场时，照获得100点<color=#FFFFFF>[霜寒值]</color>，在勘域模式中此效果180秒内最多触发一次，<color=#FFFFFF>[霜寒值]</color>的上限为100点；\n当前操作中角色攻击命中敌人时，照积攒6点<color=#FFFFFF>[霜寒值]</color>，每3秒最多触发一次；\n<color=#FFFFFF>[霜寒值]</color>满时，如果处于接战状态下，将照换入前场可以发动<color=#FFFFFF>[登场技]</color>；\n照发动<color=#FFFFFF>[登场技]</color>时，消耗所有<color=#FFFFFF>[霜寒值]</color>，开启<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续40秒，照重复开启<color=#FFFFFF>[以太帷幕·涌泉]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕·涌泉]</color>；\n照开启<color=#FFFFFF>[以太帷幕·涌泉]</color>时，使全队角色的攻击力提升<color=#2BAD00>1000</color>点，持续50秒，重复触发时刷新持续时间。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[支援]</color>角色时触发：\n照处于任意<color=#FFFFFF>[以太帷幕]</color>中时，使全队造成的伤害提升10%，照的初始最大生命值高于15000点时，每超过400点初始最大生命值，可使增伤效果额外提升1%，初始效果与额外提升最大总共提升至40%，当初始最大生命值达到27000点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110513": 2
+      },
+      "3": {
+        "10": 28000,
+        "110513": 4
+      },
+      "4": {
+        "10": 60000,
+        "110008": 2,
+        "110513": 9
+      },
+      "5": {
+        "10": 100000,
+        "110008": 3,
+        "110513": 15
+      },
+      "6": {
+        "10": 200000,
+        "110008": 4,
+        "110513": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "凛然裁决",
+      "desc": "照被切换为非当前操作角色时，使全队角色造成的伤害无视目标15%全属性伤害抗性，持续50秒，重复触发时刷新持续时间。",
+      "desc2": "「别被那可爱的外表迷惑了！我永远记得那场大会上，她当着几十号人的面挥着手指，用最可爱的样子说出最冷酷的裁决：『以上整改条目如有任何一条不接受，那贵司必将被剔除出TOPS，这不是威胁，是绝对正确的评估。』这个画面我一辈子都忘不掉！…唉，但还是感谢照小姐。」\n——接受毁灭式整改后起死回生的某位企业管理者扶着额头，表情复杂地说道。"
+    },
+    "2": {
+      "level": 2,
+      "name": "黑枝前辈",
+      "desc": "照的生命值回复时，提升20%攻击力，并使队伍中其他角色提升15%攻击力，持续50秒，重复触发时刷新持续时间。",
+      "desc2": "小照在早期就加入了黑枝，哪怕在精锐中的精锐——坎卜斯黑枝中也要被尊称一声「大前辈」，事情本应如此…怎奈后续加入的后辈同事们，都是一些遵循个性远大于遵守规矩的人。"
+    },
+    "3": {
+      "level": 3,
+      "name": "霜婵冰刃",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "小照的武器名为「霜婵」，是TOPS秘密研发项目所提供的实验资产。使用这把武器时，并非单纯地释放冰属性以太造成打击，而是将以太转化为武器本身的一部分。通常状态下，「霜婵」只有同规格武器一半的重量，但在进入战斗状态时，快速凝结的前端冰刃能获得更强的破坏力，这个特性简直是为小照量身定做的。"
+    },
+    "4": {
+      "level": 4,
+      "name": "轻盈踏痕",
+      "desc": "照开启<color=#FFFFFF>[以太帷幕]</color>时，获得250点喧响值；<color=#FFFFFF>[终结技]</color>、<color=#FFFFFF>[连携技]</color>和<color=#FFFFFF>[普通攻击：最终裁决]</color>的暴击伤害提升40%。",
+      "desc2": "灵活、轻盈、难以捕捉。这些本是描述小兔子的词汇，正被用来描述一位手持巨刃，无坚不摧的可怕战士…"
+    },
+    "5": {
+      "level": 5,
+      "name": "毛茸茸聆听者",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "如果小照的耳朵不自觉地抖了一下并且微微竖起，说明她听到了最在意的话语。可能是情报、任务、交易…或者夸奖。"
+    },
+    "6": {
+      "level": 6,
+      "name": "无价亦是价值",
+      "desc": "<color=#FFFFFF>[核心被动：最佳同事]</color>提高暴击率的效果提升至原本的125%；<color=#FFFFFF>[普通攻击：最终裁决]</color>累积蓄力时长的额外伤害提升至原本的140%，并使累积的蓄力时长不会在攻击中被消耗。",
+      "desc2": "自儿时起受无数人影响所筑成的观念壁垒，正因与一个人的相遇产生裂隙。\n小照对于「价值」的想法有了改变：有些东西没有标价，并非是它无用，而是珍贵到不存在对等的东西能与之交换。"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33700,
+    "slot2": 33100,
+    "slot_sub": 31600,
+    "part_sub_list": [
+      11102,
+      11103
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33700,
+          33100
+        ],
+        "part_sub_list": [
+          11102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          11102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          11102,
+          30502
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 11102,
+      "name": "生命值",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "part5": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part6": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_Ice>冰属性，泛用型速切辅助",
+    "可稳定开启[以太帷幕]",
+    "提高全队角色攻击力"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpinezhao"
+}

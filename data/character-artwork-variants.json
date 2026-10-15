@@ -1,0 +1,763 @@
+{
+  "schemaVersion": 1,
+  "variants": {
+    "genshin-characters-10000038": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000038-introduction.png"
+      }
+    ],
+    "genshin-characters-10000021": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000021-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·100%侦察骑士",
+        "image": "/assets/genshin/artwork-skins/10000021-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000014": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000014-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·闪耀协奏",
+        "image": "/assets/genshin/artwork-skins/10000014-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000032": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000032-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·炽绘奇旅",
+        "image": "/assets/genshin/artwork-skins/10000032-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000024": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000024-introduction.png"
+      }
+    ],
+    "genshin-characters-10000033": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000033-introduction.png"
+      }
+    ],
+    "genshin-characters-10000039": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000039-introduction.png"
+      }
+    ],
+    "genshin-characters-10000016": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000016-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·殷红终夜",
+        "image": "/assets/genshin/artwork-skins/10000016-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000031": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000031-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·极夜真梦",
+        "image": "/assets/genshin/artwork-skins/10000031-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000089": [
+      {
+        "key": "dark",
+        "label": "荒性·短发黑装",
+        "image": "/assets/genshin/artwork-extra/10000089-dark.png"
+      },
+      {
+        "key": "light",
+        "label": "芒性·长发白装",
+        "image": "/assets/genshin/artwork-extra/10000089-light.png"
+      }
+    ],
+    "genshin-characters-10000037": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000037-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·玄玉瑶芳",
+        "image": "/assets/genshin/artwork-skins/10000037-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000125": [
+      {
+        "key": "eyes-closed",
+        "label": "闭眼版",
+        "image": "/assets/genshin/artwork-extra/10000125-eyes-closed.png"
+      }
+    ],
+    "genshin-characters-10000046": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000046-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·宿雪桃红",
+        "image": "/assets/genshin/artwork-skins/10000046-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000015": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000015-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·帆影游风",
+        "image": "/assets/genshin/artwork-skins/10000015-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000029": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000029-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·琪花星烛",
+        "image": "/assets/genshin/artwork-skins/10000029-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000042": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000042-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·霓裾翩跹",
+        "image": "/assets/genshin/artwork-skins/10000042-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000005": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000005-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·复地重天（空、荧合照）",
+        "image": "/assets/genshin/artwork-skins/travelers-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000020": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000020-introduction.png"
+      }
+    ],
+    "genshin-characters-10000006": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000006-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·叶隐芳名",
+        "image": "/assets/genshin/artwork-skins/10000006-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000084": [
+      {
+        "key": "expression",
+        "label": "表情版",
+        "image": "/assets/genshin/artwork-extra/10000084-expression.png"
+      }
+    ],
+    "genshin-characters-10000041": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000041-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·星与月之约",
+        "image": "/assets/genshin/artwork-skins/10000041-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000027": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000027-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·纱中幽兰",
+        "image": "/assets/genshin/artwork-skins/10000027-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000034": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000034-introduction.png"
+      }
+    ],
+    "genshin-characters-10000035": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000035-introduction.png"
+      }
+    ],
+    "genshin-characters-10000003": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000003-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·古恩希尔德的传承",
+        "image": "/assets/genshin/artwork-skins/10000003-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·海风之梦",
+        "image": "/assets/genshin/artwork-skins/10000003-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000043": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000043-introduction.png"
+      }
+    ],
+    "genshin-characters-10000111": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000111-introduction.png"
+      }
+    ],
+    "genshin-characters-10000022": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000022-introduction.png"
+      }
+    ],
+    "genshin-characters-10000023": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000023-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·岁夜欢哗",
+        "image": "/assets/genshin/artwork-skins/10000023-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000026": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000026-introduction.png"
+      }
+    ],
+    "genshin-characters-10000044": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000044-introduction.png"
+      }
+    ],
+    "genshin-characters-10000025": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000025-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·雨化竹身",
+        "image": "/assets/genshin/artwork-skins/10000025-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000007": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000007-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·复地重天（空、荧合照）",
+        "image": "/assets/genshin/artwork-skins/travelers-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000030": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000030-introduction.png"
+      }
+    ],
+    "genshin-characters-10000036": [
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000036-introduction.png"
+      }
+    ],
+    "zenless-characters-1371": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·墨形影踪",
+        "image": "/assets/zenless/artwork-skins/1371-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1491": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·午后茶歇",
+        "image": "/assets/zenless/artwork-skins/1491-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·梦想营业中",
+        "image": "/assets/zenless/artwork-skins/1491-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1511": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·心动应援中",
+        "image": "/assets/zenless/artwork-skins/1511-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·狂想缪斯",
+        "image": "/assets/zenless/artwork-skins/1511-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1431": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·暖霞拾光",
+        "image": "/assets/zenless/artwork-skins/1431-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-artwork-wise": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·浪影闲庭",
+        "image": "/assets/zenless/artwork-skins/wise-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·苍穹执誓",
+        "image": "/assets/zenless/artwork-skins/wise-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·鹤唳青霄",
+        "image": "/assets/zenless/artwork-skins/wise-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1031": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·狡黠甜心",
+        "image": "/assets/zenless/artwork-skins/1031-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1591": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·惊鸿逐浪",
+        "image": "/assets/zenless/artwork-skins/1591-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1091": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·银庭花信",
+        "image": "/assets/zenless/artwork-skins/1091-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1411": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·晴空化狸",
+        "image": "/assets/zenless/artwork-skins/1411-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1421": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·馔玉烹金",
+        "image": "/assets/zenless/artwork-skins/1421-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1401": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·百里香之海",
+        "image": "/assets/zenless/artwork-skins/1401-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1501": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·不协和音·人形",
+        "image": "/assets/zenless/artwork-skins/1501-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·不协和音·机械形态",
+        "image": "/assets/zenless/artwork-skins/1501-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·萌力加载中",
+        "image": "/assets/zenless/artwork-skins/1501-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1441": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·白心旧影",
+        "image": "/assets/zenless/artwork-skins/1441-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1261": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·漪光夜曲",
+        "image": "/assets/zenless/artwork-skins/1261-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1561": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·暇时闲影",
+        "image": "/assets/zenless/artwork-skins/1561-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1311": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·水晶灯下",
+        "image": "/assets/zenless/artwork-skins/1311-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1191": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·从周一到周五",
+        "image": "/assets/zenless/artwork-skins/1191-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1581": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·月夜密语·普通版",
+        "image": "/assets/zenless/artwork-skins/1581-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·月夜密语·遮面版",
+        "image": "/assets/zenless/artwork-skins/1581-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·影池独舞",
+        "image": "/assets/zenless/artwork-skins/1581-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1331": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·鸢花池畔",
+        "image": "/assets/zenless/artwork-skins/1331-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-artwork-belle": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·夏日晴空",
+        "image": "/assets/zenless/artwork-skins/belle-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·曦色玲珑",
+        "image": "/assets/zenless/artwork-skins/belle-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·极星澄明",
+        "image": "/assets/zenless/artwork-skins/belle-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1151": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·公主假日",
+        "image": "/assets/zenless/artwork-skins/1151-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1001": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·冬去煦至",
+        "image": "/assets/starrail/artwork-skins/1001-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1310": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·春日手信",
+        "image": "/assets/starrail/artwork-skins/1310-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1501": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·甜梦电波",
+        "image": "/assets/starrail/artwork-skins/1501-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1505": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·月待花时",
+        "image": "/assets/starrail/artwork-skins/1505-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1407": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·幽梦翩跹",
+        "image": "/assets/starrail/artwork-skins/1407-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1303": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·雪绽梅笺",
+        "image": "/assets/starrail/artwork-skins/1303-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1409": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·云边拾暖",
+        "image": "/assets/starrail/artwork-skins/1409-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000088": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·赫尔洛克变奏曲",
+        "image": "/assets/genshin/artwork-skins/10000088-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000060": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·静暇雅宴",
+        "image": "/assets/genshin/artwork-skins/10000060-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000070": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·莎邦之息",
+        "image": "/assets/genshin/artwork-skins/10000070-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000123": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·故事的远方",
+        "image": "/assets/genshin/artwork-skins/10000123-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000077": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·聆雨听竹",
+        "image": "/assets/genshin/artwork-skins/10000077-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000063": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·冷花幽露",
+        "image": "/assets/genshin/artwork-skins/10000063-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000002": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·花时来信",
+        "image": "/assets/genshin/artwork-skins/10000002-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000061": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·倩影游侠",
+        "image": "/assets/genshin/artwork-skins/10000061-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000045": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·致教会自由人",
+        "image": "/assets/genshin/artwork-skins/10000045-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000107": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·星与烟帷的夜语",
+        "image": "/assets/genshin/artwork-skins/10000107-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000087": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·莘露的赠礼",
+        "image": "/assets/genshin/artwork-skins/10000087-skin-01.png",
+        "type": "skin"
+      }
+    ]
+  },
+  "galleryEntries": [
+    {
+      "id": "zenless-artwork-belle",
+      "game": "zenless",
+      "category": "characters",
+      "name": "铃",
+      "aliases": [
+        "Belle"
+      ],
+      "galleryOnly": true
+    },
+    {
+      "id": "zenless-artwork-wise",
+      "game": "zenless",
+      "category": "characters",
+      "name": "哲",
+      "aliases": [
+        "Wise"
+      ],
+      "galleryOnly": true
+    }
+  ]
+}

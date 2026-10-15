@@ -1,0 +1,601 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 2845,
+        "ns": 0,
+        "title": "Butler",
+        "revisions": [
+          {
+            "revid": 171771,
+            "parentid": 145766,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54004\n|name             = Butler\n|image            = Butler Portrait.png\n|type             = Playable\n|faction          = Victoria Housekeeping Co.\n|model            = Serverboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Butler}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of {{Faction|Victoria Housekeeping Co.|35px|nobr=1}}.\n\n==Profile==\nButler is the exclusive Bangboo of Victoria Housekeeping Co., entrusted with handling banquet arrangements and logistics.<br />\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Butler}}\n\n==Skills==\n{{Skill Table/Bangboo|Butler}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Butler\n}}\n\n==Availability==\n* '''Butler''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Butler\n|zhs     = 巴特勒\n|zhs_rm  = Bātèlè\n|zht     = 巴特勒\n|zht_rm  = Bātèlè\n|ja      = バトラー\n|ja_rm   = \n|ko      = 버틀러\n|es      = Mayordomo\n|fr      = Butler\n|ru      = Мажордом\n|th      = Butler\n|vi      = Butler\n|de      = Butler\n|id      = Butler\n|pt      = Butler\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Мажордом]]\n[[vi:Butler]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 2854,
+        "ns": 0,
+        "title": "Amillion",
+        "revisions": [
+          {
+            "revid": 179760,
+            "parentid": 174119,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54005\n|name             = Amillion\n|image            = Amillion Portrait.png\n|type             = Playable\n|type2            = Hollow Raiders\n|faction          = Cunning Hares\n|model            = Gatlingboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Amillion}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the {{Faction|Cunning Hares|35px|nobr=1}}.\n\n==Profile==\nAmillion is [[Nicole]]'s ever-faithful sidekick and member of the Cunning Hares, ranking just below [[Billy Kid]]. The name represents Nicole's dreams and ambitions of getting rich (hence \"A-million\").\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Amillion}}\n\n==Skills==\n{{Skill Table/Bangboo|Amillion}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Amillion\n}}\n\n==Availability==\n* '''Amillion''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Amillion\n|zhs     = 艾米莉安\n|zhs_rm  = Àimǐlì'ān\n|zht     = 艾米莉安\n|zht_rm  = Àimǐlì'ān\n|ja      = アミリオン\n|ja_rm   = \n|ko      = 에밀리온\n|es      = Amillion\n|fr      = Amillion\n|ru      = Амиллион\n|th      = Amillion\n|vi      = Amillion\n|de      = Amillion\n|id      = Amillion\n|pt      = Amillion\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Амиллион]]\n[[vi:Amillion]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 2856,
+        "ns": 0,
+        "title": "Safety",
+        "revisions": [
+          {
+            "revid": 171482,
+            "parentid": 155284,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54002\n|name             = Safety\n|image            = Safety Portrait.png\n|type             = Playable\n|faction          = Belobog Heavy Industries\n|model            = Builderboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Safety}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of {{Faction|Belobog Heavy Industries|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Safety}}\n\n==Skills==\n{{Skill Table/Bangboo|Safety}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Safety\n}}\n\n==Availability==\n* '''Safety''' is only available from [[An Outstanding Partner]]\n\n==Trivia==\n* The helmet worn by Safety recites {{zh|安全第一|rm=ānquán dìyī|tl=safety first}}.\n\n==Other Languages==\n{{Other Languages\n|en      = Safety\n|zhs     = 阿全\n|zhs_rm  = Ā Quán\n|zht     = 阿全\n|zht_rm  = Ā Quán\n|ja      = ゴアンゼン\n|ja_rm   = \n|ko      = 세이프티\n|es      = Amparo\n|fr      = Sécu\n|ru      = Прорабу\n|th      = Safety\n|vi      = Safety\n|de      = Sicherheitsboo\n|id      = Safety\n|pt      = Safety\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Прорабу]]\n[[vi:Safety]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 2989,
+        "ns": 0,
+        "title": "Resonaboo",
+        "revisions": [
+          {
+            "revid": 145772,
+            "parentid": 86909,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54009\n|name             = Resonaboo\n|image            = Resonaboo Portrait.png\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Resonaboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Resonaboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Resonaboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Resonaboo\n}}\n\n==Availability==\n* '''Resonaboo''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Resonaboo\n|zhs     = 共鸣布\n|zhs_rm  = Gòngmíng-bù\n|zht     = 共鳴布\n|zht_rm  = Gòngmíng-bù\n|ja      = レゾナンボンプ\n|ja_rm   = Rezonanbonpu\n|ko      = {{tt|공명|共鳴}}부\n|es      = Ecobú\n|fr      = Résonabou\n|ru      = Резонабу\n|th      = Resonaboo\n|vi      = Boo Cộng Hưởng\n|de      = Resonanzboo\n|id      = Resonaboo\n|pt      = Ecoaboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Резонабу]]\n[[vi:Boo Cộng Hưởng]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3007,
+        "ns": 0,
+        "title": "Sharkboo",
+        "revisions": [
+          {
+            "revid": 171481,
+            "parentid": 165369,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54001\n|name             = Sharkboo\n|image            = Sharkboo Portrait.png\n|type             = Playable\n|model            = Sharkboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Sharkboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Sharkboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Sharkboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Sharkboo\n}}\n\n==Availability==\n* '''Sharkboo''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Sharkboo\n|zhs     = 鲨牙布\n|zhs_rm  = Shāyá-bù\n|zht     = 鯊牙布\n|zht_rm  = Shāyá-bù\n|ja      = ガブットボンプ\n|ja_rm   = Gabuttobonpu\n|ko      = 샤크부\n|es      = Tiburonbú\n|fr      = Requinbou\n|ru      = Акулабу\n|th      = Sharkboo\n|vi      = Boo Cá Mập\n|de      = Haiboo\n|id      = Sharkboo\n|pt      = Tubaboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Акулабу]]\n[[vi:Boo Cá Mập]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3008,
+        "ns": 0,
+        "title": "Rocketboo",
+        "revisions": [
+          {
+            "revid": 171471,
+            "parentid": 171466,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54006\n|name             = Rocketboo\n|image            = Rocketboo Portrait.png\n|type             = Playable\n|model            = Rocketboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Rocketboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Rocketboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Rocketboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Rocketboo\n}}\n\n==Availability==\n* '''Rocketboo''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Rocketboo\n|zhs     = 飚速布\n|zhs_rm  = Biāosù-bù\n|zht     = 飆速布\n|zht_rm  = Biāosù-bù\n|ja      = ハヤスギボンプ\n|ja_rm   = Hayasugibonpu\n|ko      = 날쌘부\n|es      = Sonibú\n|fr      = Roquettobou\n|ru      = Ракетабу\n|th      = Rocketboo\n|vi      = Boo Tốc Độ\n|de      = Raketenboo\n|id      = Rocketboo\n|pt      = Fogueteboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Ракетабу]]\n[[vi:Boo Tốc Độ]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3032,
+        "ns": 0,
+        "title": "Bangvolver",
+        "revisions": [
+          {
+            "revid": 178958,
+            "parentid": 145763,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54013\n|name             = Bangvolver\n|image            = Bangvolver Portrait.png\n|type             = Playable\n|model            = Bangvolver\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Bangvolver}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Bangvolver}}\n\n==Skills==\n{{Skill Table/Bangboo|Bangvolver}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Bangvolver\n}}\n\n==Availability==\n* '''Bangvolver''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Bangvolver\n|zhs     = 左轮布\n|zhs_rm  = Zuǒlún-bù\n|zht     = 左輪布\n|zht_rm  = Zuǒlún-bù\n|ja      = リボルバボンプ\n|ja_rm   = Riborubabonpu\n|ko      = 리볼버부\n|es      = Revolverbú\n|fr      = Bangvolver\n|ru      = Револьвербу\n|th      = Bangvolver\n|vi      = Boo Pằng Pằng\n|de      = Bangvolver\n|id      = Bangvolver\n|pt      = Bangvólver\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Револьвербу]]\n[[vi:Boo Pằng Pằng]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 3033,
+        "ns": 0,
+        "title": "Plugboo",
+        "revisions": [
+          {
+            "revid": 145770,
+            "parentid": 91416,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54008\n|name             = Plugboo\n|image            = Plugboo Portrait.png\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Plugboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Plugboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Plugboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Plugboo\n}}\n\n==Availability==\n* '''Plugboo''' is only available from [[An Outstanding Partner]].\n\n==Trivia==\n*Unlike most Bangboo, Plugboo's design has a translucent head and lacks the traditional ring-shaped eyes.\n\n==Other Languages==\n{{Other Languages\n|en      = Plugboo\n|zhs     = 插头布\n|zhs_rm  = Chātóu-bù\n|zht     = 插頭布\n|zht_rm  = Chātóu-bù\n|ja      = プラグノボンプ\n|ja_rm   = Puragu no Bonpu\n|ko      = 플러그부\n|es      = Cablebú\n|fr      = Prisabou\n|ru      = Штекербу\n|th      = Plugboo\n|vi      = Boo Trình Cắm\n|de      = Plugboo\n|id      = Plugboo\n|pt      = Plugboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Boo Trình Cắm]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4637,
+        "ns": 0,
+        "title": "Penguinboo",
+        "revisions": [
+          {
+            "revid": 178975,
+            "parentid": 145754,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53001\n|name             = Penguinboo\n|image            = Penguinboo Portrait.png\n|type             = Playable\n|model            = Penguinboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Penguinboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Penguinboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Penguinboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Penguinboo\n}}\n\n==Availability==\n* '''Penguinboo''' is only available from [[An Outstanding Partner]].\n\n==Trivia==\n* According to the [[Inter-Knot]] Post [[(Post) Anyone got their hands on the latest Bangboo model yet?]], ''Penguinboo'' is the latest model of Bangboo, with a SKU of ''Marcel HP-601c'' and features:\n** The newest Ethereal alert\n** 1-second super fast Carrot import\n** Super long battery life and in-Hollow navigation\n** 4 custom module expansion slots\n** 16 outfits\n\n==Other Languages==\n{{Other Languages\n|en       = Penguinboo\n|zhs      = 企鹅布\n|zhs_rm   = Qǐ'é-bù\n|zht      = 企鵝布\n|zht_rm   = Qǐ'é-bù\n|ja       = ペンギンボンプ\n|ja_rm    = Penginbonpu\n|ko       = 펭귄부\n|es       = Pingubú\n|fr       = Pinguobou\n|ru       = Пингвибу\n|th       = Penguinboo\n|vi       = Boo Cánh Cụt\n|de       = Pinguinboo\n|id       = Penguinboo\n|pt       = Pinguimboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Пингвибу]]\n[[vi:Boo Cánh Cụt]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4664,
+        "ns": 0,
+        "title": "Magnetiboo",
+        "revisions": [
+          {
+            "revid": 171476,
+            "parentid": 165437,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53011\n|name             = Magnetiboo\n|image            = Magnetiboo Portrait.png\n|type             = Playable\n|model            = Magnetiboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Magnetiboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Magnetiboo}}\n\n==Skills==\n{{Skill Table/Bangboo|no_chain=1|Magnetiboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Magnetiboo\n}}\n\n==Availability==\n* '''Magnetiboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Magnetiboo\n|zhs      = 磁力布\n|zhs_rm   = Cílì-bù\n|zht      = 磁力布\n|zht_rm   = Cílì-bù\n|ja       = クッツキボンプ\n|ja_rm    = Kuttsukibonpu\n|ko       = {{tt|자석|磁石}}부\n|es       = Magnebú\n|fr       = Magnétibou\n|ru       = Магнитобу\n|th       = Magnetiboo\n|vi       = Boo {{tt|Từ Trường|磁場}}\n|id       = Magnetiboo\n|pt       = Magnetiboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Магнитобу]]\n[[vi:Boo Từ Trường]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4666,
+        "ns": 0,
+        "title": "Avocaboo",
+        "revisions": [
+          {
+            "revid": 178954,
+            "parentid": 145739,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53008\n|name             = Avocaboo\n|image            = Avocaboo Portrait.png\n|type             = Playable\n|model            = Avocaboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Avocaboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Avocaboo}}\n\n==Skills==\n{{Skill Table/Bangboo|no_chain=1|Avocaboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Avocaboo\n}}\n\n==Availability==\n* '''Avocaboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Avocaboo\n|zhs      = 果核布\n|zhs_rm   = Guǒhé-bù\n|zht      = 果核布\n|zht_rm   = Guǒhé-bù\n|ja       = アボカドボンプ\n|ja_rm    = Abokadobonpu\n|ko       = 아보카부\n|es       = Aguacabú\n|fr       = Avocabou\n|ru       = Авокабу\n|th       = Avocaboo\n|vi       = Boo Hạt Bơ\n|de       = Obstkernboo\n|id       = Avocaboo\n|pt       = Abacaboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Авокабу]]\n[[vi:Boo Hạt Bơ]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4669,
+        "ns": 0,
+        "title": "Devilboo",
+        "revisions": [
+          {
+            "revid": 178948,
+            "parentid": 145747,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54003\n|name             = Devilboo\n|image            = Devilboo Portrait.png\n|type             = Playable\n|model            = Devilboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Devilboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Devilboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Devilboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Devilboo\n}}\n\n==Availability==\n* '''Devilboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Devilboo\n|zhs      = 恶魔布\n|zhs_rm   = Èmó-bù\n|zht      = 惡魔布\n|zht_rm   = Èmó-bù\n|ja       = アクマデボンプ\n|ja_rm    = Akumadebonpu\n|ko       = 데빌부\n|es       = Belcebú\n|fr       = Belzébou\n|ru       = Вельзебу\n|th       = Devilboo\n|vi       = Boo {{tt|Ác Ma|惡魔}}\n|de       = Teufelsboo\n|id       = Devilboo\n|pt       = Malignoboo\n}}\n\n==Change History==\n{{Change History|0.2.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Вельзебу]]\n[[vi:Boo Ác Ma]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4671,
+        "ns": 0,
+        "title": "Electroboo",
+        "revisions": [
+          {
+            "revid": 145748,
+            "parentid": 91417,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53010\n|name             = Electroboo\n|image            = Electroboo Portrait.png\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Electroboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Electroboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Electroboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Electroboo\n}}\n\n==Availability==\n* '''Electroboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Electroboo\n|zhs      = 电击布\n|zhs_rm   = Diànjī-bù\n|zht      = 電擊布\n|zht_rm   = Diànjí-bù\n|ja       = ビリビリボンプ\n|ja_rm    = Biribiribonpu\n|ko       = 찌릿부\n|es       = Electrobú\n|fr       = Électrobou\n|ru       = Электробу\n|th       = Electroboo\n|vi       = Boo {{tt|Điện|電}} Giật\n|de       = Elektroboo\n|id       = Electroboo\n|pt       = Eletroboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Электробу]]\n[[vi:Boo Điện Giật]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4673,
+        "ns": 0,
+        "title": "Boollseye",
+        "revisions": [
+          {
+            "revid": 172137,
+            "parentid": 145743,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53009\n|name             = Boollseye\n|image            = Boollseye Portrait.png\n|model            = Boollseye\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Boollseye}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Boollseye}}\n\n==Skills==\n{{Skill Table/Bangboo|Boollseye}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Boollseye\n}}\n\n==Availability==\n* '''Boollseye''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Boollseye\n|zhs      = 飞靶布\n|zhs_rm   = Fēibiāo-bù\n|zht      = 飛鏢布\n|zht_rm   = Fēibiāo-bù\n|ja       = ズバットボンプ\n|ja_rm    = Zubattobonpu\n|ko       = 과녁부\n|es       = Dianabú\n|fr       = Abou-Portant\n|ru       = Яблочкобу\n|th       = Boollseye\n|vi       = Boo Bia Bắn\n|de       = Zielscheiboo\n|id       = Boollseye\n|pt       = Namiraboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Яблочкобу]]\n[[vi:Boo Bia Bắn]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4675,
+        "ns": 0,
+        "title": "Cryboo",
+        "revisions": [
+          {
+            "revid": 177850,
+            "parentid": 145746,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53007\n|model            = Cryboo\n|name             = Cryboo\n|image            = Cryboo Portrait.png\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Cryboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Cryboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Cryboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Cryboo\n}}\n\n==Availability==\n* '''Cryboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Cryboo\n|zhs      = 泪眼布\n|zhs_rm   = Lèiyǎn-bù\n|zht      = 淚眼布\n|zht_rm   = Lèiyǎn-bù\n|ja       = ウルリンボンプ\n|ja_rm    = Ururinbonpu\n|ko       = 울보부\n|es       = Lloronbú\n|fr       = Lamentabou\n|ru       = Плаксабу\n|th       = Cryboo\n|vi       = Boo Khóc Nhè\n|de       = Tränenboo\n|id       = Cryboo\n|pt       = Choraboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Плаксабу]]\n[[vi:Boo Khóc Nhè]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4678,
+        "ns": 0,
+        "title": "Paperboo",
+        "revisions": [
+          {
+            "revid": 172126,
+            "parentid": 145756,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53005\n|name             = Paperboo\n|image            = Paperboo Portrait.png\n|model            = Paperboo\n|type             = Playable\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Paperboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Paperboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Paperboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Paperboo\n}}\n\n==Availability==\n* '''Paperboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Paperboo\n|zhs      = 纸壳布\n|zhs_rm   = Zhǐké-bù\n|zht      = 紙箱布\n|zht_rm   = Zhǐxiāng-bù\n|ja       = ハコイリボンプ\n|ja_rm    = Hakoiribonpu\n|ko       = 종이부\n|es       = Cartonbú\n|fr       = Papierbou\n|ru       = Бумабу\n|th       = Paperboo\n|vi       = Boo Vỏ Giấy\n|de       = Papierboo\n|id       = Paperboo\n|pt       = Papelboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Бумабу]]\n[[vi:Boo Vỏ Giấy]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4682,
+        "ns": 0,
+        "title": "Sumoboo",
+        "revisions": [
+          {
+            "revid": 171472,
+            "parentid": 171465,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53004\n|name             = Sumoboo\n|image            = Sumoboo Portrait.png\n|type             = Playable\n|model            = Sumoboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Sumoboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Sumoboo}}\n\n==Skills==\n{{Skill Table/Bangboo|no_chain=1|Sumoboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Sumoboo\n}}\n\n==Availability==\n* '''Sumoboo''' is only available from [[An Outstanding Partner]].\n\n==Trivia==\n* Sumoboo wears a ''{{w|mawashi}}'', a wrapped loincloth worn by sumo wrestlers for trainings and competitions.\n\n==Other Languages==\n{{Other Languages\n|en       = Sumoboo\n|zhs      = 扑击布\n|zhs_rm   = Pūjī-bù\n|zht      = 撲擊布\n|zht_rm   = Pūjí-bù\n|ja       = オスモウボンプ\n|ja_rm    = Osumōbonpu\n|ko       = 스모부\n|es       = Sumobú\n|fr       = Sumobou\n|ru       = Сумобу\n|th       = Sumoboo\n|vi       = Boo Sumo\n|de       = Sumoboo\n|id       = Sumoboo\n|pt       = Sumôboo\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Сумобу]]\n[[vi:Boo Sumo]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4687,
+        "ns": 0,
+        "title": "Exploreboo",
+        "revisions": [
+          {
+            "revid": 171475,
+            "parentid": 165438,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{About|the Combat Bangboo|the Qingming Realm NPCs|Exploreboo (Qingming Realm)}}\n{{Bangboo Infobox\n|id               = 53003\n|name             = Exploreboo\n|image            = Exploreboo Portrait.png\n|type             = Playable\n|model            = Exploreboo\n|releaseDate      = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Exploreboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Exploreboo}}\n\n==Skills==\n{{Skill Table/Bangboo|no_chain=1|Exploreboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Exploreboo\n}}\n\n==Availability==\n* '''Exploreboo''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Exploreboo\n|zhs      = 寻宝布\n|zhs_rm   = Xúnbǎo-bù\n|zht      = 尋寶布\n|zht_rm   = Xúnbǎo-bù\n|ja       = タンケンボンプ\n|ja_rm    = Takenbonpu\n|ko       = {{tt|탐험|探險}}부\n|es       = Explorabú\n|fr       = Explorabou\n|ru       = Искатель\n|th       = Exploreboo\n|vi       = Boo {{tt|Tầm Bảo|三寶}}\n|de       = Entdeckerboo\n|id       = Exploreboo\n|pt       = Exploboo\n}}\n\n==Change History==\n{{Change History|0.2.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Искатель]]\n[[vi:Boo Tầm Bảo]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4689,
+        "ns": 0,
+        "title": "Bagboo",
+        "revisions": [
+          {
+            "revid": 174505,
+            "parentid": 145760,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|model       = Bagboo\n|id          = 53006\n|name        = Bagboo\n|image       = Bagboo Portrait.png\n|type        = Playable\n|affiliation = Random Play\n|releaseDate = 2024-07-04\n}}\n{{Intro/Bangboo/Full|Bagboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]''.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Bagboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Bagboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Bagboo\n}}\n\n==Availability==\n'''Bagboo''' is available from:\n* The Bangboo Channel [[An Outstanding Partner]]\n* [[Signal Shop]] Monthly Rotation (June & December)\n\n==Other Languages==\n{{Other Languages\n|en       = Bagboo\n|zhs      = 纸袋布\n|zhs_rm   = Zhǐdài-bù\n|zht      = 紙袋布\n|zht_rm   = Zhǐdài-bù\n|ja       = フクロノボンプ\n|ja_rm    = Fukuronobonpu\n|ko       = {{tt|봉투|封套}}부\n|es       = Bolsabú\n|fr       = Sac-cabou\n|ru       = Пакетник\n|th       = Bagboo\n|vi       = Boo Túi Giấy\n|de       = Tüteboo\n|id       = Bagboo\n|pt       = Mascaraboo\n}}\n\n==Change History==\n{{Change History|0.2.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Пакетник]]\n[[vi:Boo Túi Giấy]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 6245,
+        "ns": 0,
+        "title": "Officer Cui",
+        "revisions": [
+          {
+            "revid": 171515,
+            "parentid": 171480,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54012\n|name             = Officer Cui\n|image            = Officer Cui Portrait.png\n|type             = Playable\n|faction          = New Eridu Public Security\n|affiliation      = Criminal Investigation Special Response Team\n|model            = Securityboo\n|releaseDate      = 2024-08-14\n}}\n{{Intro/Bangboo/Full|Officer Cui}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of [[New Eridu Public Security]].\n\n==Gameplay Notes==\n{{Transclude|New Eridu Public Security|Gameplay Notes}}\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Officer Cui}}\n\n==Skills==\n{{Skill Table/Bangboo|Officer Cui}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Officer Cui\n}}\n\n==Availability==\n* '''Officer Cui''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Officer Cui\n|zhs      = 阿崔巡查\n|zhs_rm   = Ācuī Xúnchá\n|zht      = 阿崔巡查\n|zht_rm   = Ācuī Xúnchá\n|ja       = ツェイ巡査\n|ja_rm    = Tsei Junsa\n|ko       = 최 순찰대원\n|es       = Cui\n|fr       = Officier Cui\n|ru       = Офицер Цуй\n|th       = Officer Cui\n|vi       = Tuần Vệ Cui\n|de       = Offizier Cui\n|id       = Officer Cui\n|pt       = Oficial Cui\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[ru:Офицер Цуй]]\n[[vi:Tuần Vệ Cui]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 7056,
+        "ns": 0,
+        "title": "Baddieboo",
+        "revisions": [
+          {
+            "revid": 171545,
+            "parentid": 171517,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 53013\n|name             = Baddieboo\n|image            = Baddieboo Portrait.png\n|type             = Playable\n|affiliation      = Mountain Lion Gang\n|model            = Baddieboo\n|releaseDate      = 2024-11-06\n}}\n{{Intro/Bangboo/Full|Baddieboo}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the [[Mountain Lion Gang]].\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Baddieboo}}\n\n==Skills==\n{{Skill Table/Bangboo|Baddieboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Baddieboo\n}}\n\n==Availability==\n'''Baddieboo''' is available from:\n* The Bangboo Channel [[An Outstanding Partner]]\n* [[Signal Shop]] Monthly Rotation (June & December)\n\n==Other Languages==\n{{Other Languages\n|en       = Baddieboo\n|zhs      = 不良布\n|zhs_rm   = Bùliáng-bù\n|zht      = 不良布\n|zht_rm   = Bùliáng-bù\n|ja       = チンピラボンプ\n|ja_rm    = Chinpirabonpu\n|ko       = {{tt|불량|不良}}부\n|es       = Malotebú\n|fr       = Voyoubou\n|ru       = Злобнобу\n|th       = Baddieboo\n|vi       = Boo {{tt|Bất Lương|不良}}\n|de       = Böseboo\n|id       = Baddieboo\n|pt       = Marrentoboo\n}}\n\n==Change History==\n{{Change History|introduced=1.1}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Boo Bất Lương]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 8528,
+        "ns": 0,
+        "title": "Red Moccus",
+        "revisions": [
+          {
+            "revid": 171770,
+            "parentid": 145771,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54011\n|name             = Red Moccus\n|image            = Red Moccus Portrait.png\n|type             = Playable\n|faction          = Sons of Calydon\n|model            = Riderboo\n|releaseDate      = 2024-09-25\n}}\n{{Intro/Bangboo/Full|Red Moccus}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the {{Faction|Sons of Calydon|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Red Moccus}}\n\n==Skills==\n{{Skill Table/Bangboo|Red Moccus}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Red Moccus\n}}\n\n==Availability==\n* '''Red Moccus''' is only available from [[An Outstanding Partner]]\n\n==Trivia==\n===Etymology===\n* Moccus is the latinization of the Gaulish ''moccos'' \"swine\", and the name of the {{w|Moccus|swine-god}} of the continental Celtic tribe of Lingones.\n\n==Other Languages==\n{{Other Languages\n|en       = Red Moccus\n|zhs      = 赤红莫库斯\n|zhs_rm   = Chìhóng Mòkùsī\n|zht      = 赤紅莫庫斯\n|zht_rm   = Chìhóng Mòkùsī\n|ja       = 真紅のモックス\n|ja_rm    = Shinku no Mokkusu\n|ko       = 레드모쿠스\n|es       = Moccus Tinto\n|fr       = Moccus pourpre\n|ru       = Красный Моккус\n|th       = Red Moccus\n|vi       = Red Moccus\n|de       = Rotes Moccus\n|id       = Red Moccus\n|pt       = Moccus Carmesim\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Red Moccus]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 13277,
+        "ns": 0,
+        "title": "Agent Gulliver",
+        "revisions": [
+          {
+            "revid": 171473,
+            "parentid": 164747,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|image            = Agent Gulliver Portrait.png\n|type             = Playable\n|name             = Agent Gulliver\n|faction          = Hollow Special Operations Section 6\n|affiliation      = H.A.N.D.\n|model            = Agentboo\n|releaseDate      = 2024-12-18\n}}\n{{Intro/Bangboo/Full|Agent Gulliver}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of {{Faction|Hollow Special Operations Section 6|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Agent Gulliver}}\n\n==Skills==\n{{Skill Table/Bangboo|Agent Gulliver}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Agent Gulliver\n}}\n\n==Availability==\n* '''Agent Gulliver''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en       = Agent Gulliver\n|zhs      = 格列佛探员\n|zhs_rm   = Gélièfó Tànyuán\n|zht      = 格列佛探員\n|zht_rm   = Gélièfó Tànyuán\n|ja       = ガリバー隊員\n|ja_rm    = Garibā Tai'in\n|ko       = 걸리버 {{tt|요원|要員}}\n|es       = Agente Gulliver\n|fr       = Agent Gulliver\n|ru       = Агент Гулливер\n|th       = Agent Gulliver\n|vi       = {{tt|Đặc|特}} Vụ Gulliver\n|de       = Agent Gulliver\n|id       = Agent Gulliver\n|pt       = Agente Gulliver\n}}\n\n==Change History==\n{{Change History|1.4|introduced=1.3}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Đặc Vụ Gulliver]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 13963,
+        "ns": 0,
+        "title": "Snap",
+        "revisions": [
+          {
+            "revid": 171768,
+            "parentid": 145777,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id              = 54015\n|image           = Snap Portrait.png\n|type            = Playable\n|name            = Snap\n|faction         = Stars of Lyra\n|model           = Booparazzi\n|releaseDate     = 2025-01-22\n}}\n{{Intro/Bangboo/Full|Snap}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the {{Faction|Stars of Lyra|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Snap}}\n\n==Skills==\n{{Skill Table/Bangboo|Snap}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Snap\n}}\n\n==Availability==\n* '''Snap''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en      = Snap\n|zhs     = 咔嚓仔\n|zhs_rm  = Kāchā-zǎi\n|zht     = 咔嚓仔\n|zht_rm  = Kācā-zǎi\n|ja      = カチャコ\n|ja_rm   = Kachako\n|ko      = 찰칵이\n|es      = Snap\n|fr      = Clac\n|ru      = Щелкун\n|th      = Snap\n|vi      = Snap\n|de      = Snap\n|id      = Snap\n|pt      = Snapster\n}}\n\n==Change History==\n{{Change History|1.5|introduced=1.3}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Snap]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 18592,
+        "ns": 0,
+        "title": "Robin",
+        "revisions": [
+          {
+            "revid": 171792,
+            "parentid": 171769,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54016\n|name             = Robin\n|image            = <gallery>\nRobin Portrait.png|Portrait\nNPC Robin.png|In-Game\n</gallery>\n|type             = Playable\n|faction          = Mockingbird\n|affiliation      = Marcel Group\n|model            = Thiefboo\n|releaseDate      = 2025-04-23\n}}\n{{Intro/Bangboo/Full|Robin}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of {{Faction|Mockingbird|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Robin}}\n\n==Skills==\n{{Skill Table/Bangboo|Robin}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Robin\n}}\n\n==Availability==\n* '''Robin''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Robin\n|zhs      = 罗宾\n|zhs_rm   = Luóbīn\n|zht      = 羅賓\n|zht_rm   = Luóbīn\n|ja       = ロビン\n|ja_rm    = Robin\n|ko       = 로빈\n|es       = Robin\n|fr       = Robin\n|ru       = Робин\n|th       = Robin\n|vi       = Robin\n|de       = Robin\n|id       = Robin\n|pt       = Robin\n}}\n\n==Change History==\n{{Change History|introduced=1.5|1.7}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Robin]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 23309,
+        "ns": 0,
+        "title": "Belion",
+        "revisions": [
+          {
+            "revid": 177042,
+            "parentid": 171467,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54017\n|name             = Belion\n|image            = Belion Portrait.png\n|type             = Playable\n|faction          = Yunkui Summit\n|model            = Stone Lionboo\n|releaseDate      = 2025-06-06\n}}\n{{Intro/Bangboo/Full|Belion}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of {{Faction|Yunkui Summit|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Belion}}\n\n===Skills===\n{{Skill Table/Bangboo|Belion}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Belion\n}}\n\n==Availability==\n* '''Belion''' is only available from [[An Outstanding Partner]].\n\n==Other Languages==\n{{Other Languages\n|en       = Belion\n|zhs      = 狮耶\n|zhs_rm   = Shīyé\n|zht      = 獅耶\n|zht_rm   = Shīyé\n|ja       = オシシ\n|ja_rm    = \n|ko       = 사야\n|es       = Rocaleón\n|fr       = Palion\n|ru       = Львец\n|th       = Belion\n|vi       = Belion\n|de       = Belion\n|id       = Belion\n|pt       = Leãoboo\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Belion]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 28390,
+        "ns": 0,
+        "title": "Miss Esme",
+        "revisions": [
+          {
+            "revid": 171559,
+            "parentid": 171528,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54018\n|name             = Miss Esme\n|image            = Miss Esme Portrait.png\n|type             = Playable\n|faction          = Spook Shack\n|affiliation      = Thymefield Family\n|gender           = Female\n|model            = Sailor Boo\n|releaseDate      = 2025-07-16\n}}\n{{Intro/Bangboo/Full|Miss Esme}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the {{Faction|Spook Shack|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Miss Esme}}\n\n===Skills===\n{{Skill Table/Bangboo|Miss Esme}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Miss Esme\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Miss Esme\n|zhs      = 艾丝弥小姐\n|zhs_rm   = Àisīmí Xiǎojiě\n|zht      = 艾絲彌小姐\n|zht_rm   = Àisīmí Xiǎojiě\n|ja       = ミス・エスメ\n|ja_rm    = Misu Esume\n|ko       = 에스메 양\n|es       = Señorita Esme\n|fr       = Mlle Esmée\n|ru       = Госпожа Эсме\n|th       = Miss Esme\n|vi       = Miss Esme\n|de       = Miss Esme\n|id       = Miss Esme\n|pt       = Senhorita Esme\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Miss Esme]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 30400,
+        "ns": 0,
+        "title": "Mercury",
+        "revisions": [
+          {
+            "revid": 173502,
+            "parentid": 171510,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54019\n|name             = Mercury\n|image            = Mercury Portrait.png\n|type             = Playable\n|faction          = New Eridu Defense Force\n|affiliation      = Obsidian Division\n|affiliation2     = Obol Squad\n|realname         = Coalby\n|model            = Battleboo\n|releaseDate      = 2025-09-04 10:00:00 GMT+8\n}}\n{{Intro/Bangboo/Full|Mercury}} is a playable [[Combat Bangboo]], and a member of the [[New Eridu Defense Force]].\n\n==Gameplay Notes==\n{{Transclude|New Eridu Defense Force|Gameplay Notes}}\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Mercury}}\n\n===Skills===\n{{Skill Table/Bangboo|Mercury}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Mercury\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Mercury\n|zhs      = 「墨丘利」\n|zhs_rm   = Mòqiūlì\n|zht      = 「墨丘利」\n|zht_rm   = Mòqiūlì\n|ja       = 「マーキュリー」\n|ja_rm    = \n|ko       = 「머큐리」\n|es       = Mercury\n|fr       = Mercure\n|ru       = Меркурий\n|th       = \"Mercury\"\n|vi       = Mercury\n|de       = Mercury\n|id       = Mercury\n|pt       = Mercury\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Mercury]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 42087,
+        "ns": 0,
+        "title": "Birkblick",
+        "revisions": [
+          {
+            "revid": 145765,
+            "parentid": 140949,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54020\n|name             = Birkblick\n|image            = Birkblick Portrait.png\n|type             = Playable\n|faction          = Krampus Compliance Authority\n|releaseDate      = 2025-11-26\n}}\n{{Intro/Bangboo/Full|Birkblick}} is a playable combat [[Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of the {{Faction|Krampus Compliance Authority|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Birkblick}}\n\n===Skills===\n{{Skill Table/Bangboo|Birkblick}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Birkblick\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Birkblick\n|zhs      = 比克布利克\n|zhs_rm   = Bǐkèbùlìkè\n|zht      = 比克布利克\n|zht_rm   = Bǐkèbùlìkè\n|ja       = ビャークブリック\n|ja_rm    = Byākuburikku\n|ko       = 비르크블리크\n|es       = Birkblick\n|fr       = Birkblick\n|ru       = Биркблик\n|th       = Birkblick\n|vi       = Birkblick\n|de       = Birkblick\n|id       = Birkblick\n|pt       = Birkblick\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Birkblick]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 43554,
+        "ns": 0,
+        "title": "Sprout",
+        "revisions": [
+          {
+            "revid": 178440,
+            "parentid": 178438,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54021\n|name             = Sprout\n|image            = Sprout Portrait.png\n|type             = Playable\n|faction          = Yunkui Summit\n|releaseDate      = 2025-12-30\n}}\n{{Intro/Bangboo/Full|Sprout}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'' and a member of {{Faction|Yunkui Summit|35px|nobr=1}}. It is also the personal Bangboo of [[Ye Shunguang]].\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats|Sprout}}\n\n===Skills===\n{{Skill Table/Bangboo|Sprout}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo\n|bangboo = Sprout\n}}\n\n==Availability==\n* '''Sprout''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en       = Sprout\n|zhs      = 芽芽\n|zhs_rm   = Yáya\n|zht      = 芽芽\n|zht_rm   = Yáya\n|ja       = メメ\n|ja_rm    = Meme\n|ko       = 싹싹\n|es       = Pimpollo\n|fr       = Petite pousse\n|ru       = Колосок\n|th       = Sprout\n|vi       = Sprout\n|de       = Sprout\n|id       = Sprout\n|pt       = Sprout\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Sprout]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 46399,
+        "ns": 0,
+        "title": "Biggest Fan",
+        "revisions": [
+          {
+            "revid": 152214,
+            "parentid": 151162,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54010\n|name             = Biggest Fan\n|image            = Biggest Fan Portrait.png\n|type             = Playable\n|faction          = Angels of Delusion\n|releaseDate      = 2026-02-06\n}}\n{{Intro/Bangboo/Full}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]],'' and a member of {{Faction|Angels of Delusion|35px|nobr=1}}.\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats}}\n\n===Skills===\n{{Skill Table/Bangboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo}}\n\n==Other Languages==\n{{Other Languages\n|en       = Biggest Fan\n|zhs      = 阿饭\n|zhs_rm   = \n|zht      = 阿飯\n|zht_rm   = \n|ja       = コサン\n|ja_rm    = \n|ko       = 팬팬\n|es       = Megafán\n|fr       = MégaFan\n|ru       = Фанбу\n|th       = Biggest Fan\n|vi       = Fan Cứng\n|de       = Größter Fan\n|id       = Biggest Fan\n|pt       = Mega Fã\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Fan Cứng]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 53176,
+        "ns": 0,
+        "title": "Ultra Jake",
+        "revisions": [
+          {
+            "revid": 176610,
+            "parentid": 174113,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54022\n|name             = Ultra Jake\n|image            = Ultra Jake Portrait.png\n|type             = Playable\n|faction          = Roscaelifer\n|affiliation      = External Strategy Department\n|model            = Ultraboo\n|releaseDate      = 2026-06-17\n}}\n{{Intro/Bangboo/Full}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]]'', and a member of [[Roscaelifer]].\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats}}\n\n===Skills===\n{{Skill Table/Bangboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo}}\n\n==Availability==\n* '''Ultra Jake''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en       = Ultra Jake\n|zhs      = 超极杰克\n|zhs_rm   = \n|zht      = 超極傑克\n|zht_rm   = \n|ja       = ウルトラネイヴ\n|ja_rm    = \n|ko       = 울트라 제이크\n|es       = Ultra Jake\n|fr       = Ultra Jake\n|ru       = Супер-Джейк\n|th       = Ultra Jake\n|vi       = Jake Siêu Cấp\n|de       = Ultra-Jake\n|id       = Ultra Jake\n|pt       = Ultra Jake\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Jake Siêu Cấp]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55040,
+        "ns": 0,
+        "title": "Ariel",
+        "revisions": [
+          {
+            "revid": 182413,
+            "parentid": 182412,
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Bangboo Tabs}}\n{{Bangboo Infobox\n|id               = 54023\n|name             = Ariel\n|image            = Ariel Portrait.png\n|type             = Playable\n|faction          = \n|releaseDate      = 2026-07-29\n}}\n{{Intro/Bangboo/Full}} is a playable [[Combat Bangboo]] in ''[[Zenless Zone Zero]].'' It is the personal Bangboo of [[Remielle Dan]].\n\n==Combat Info==\n===Stats & Optimizations===\n{{Bangboo System Optimization and Stats}}\n\n===Skills===\n{{Skill Table/Bangboo}}\n\n===Skill Enhancement===\n{{Skill Enhancement/Bangboo}}\n\n==Availability==\n* '''Ariel''' is only available from [[An Outstanding Partner]]\n\n==Other Languages==\n{{Other Languages\n|en       = Ariel\n|zhs      = 艾瑞儿\n|zhs_rm   = \n|zht      = 艾瑞兒\n|zht_rm   = \n|ja       = アリエル\n|ja_rm    = \n|ko       = 아리엘\n|es       = Ariel\n|fr       = Ariel\n|ru       = Ариэль\n|th       = Ariel\n|vi       = Ariel\n|de       = Ariel\n|id       = Ariel\n|pt       = Ariel\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Bangboo Navbox}}\n\n[[vi:Ariel]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

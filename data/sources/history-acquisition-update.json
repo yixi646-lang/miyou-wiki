@@ -1,0 +1,26 @@
+{
+  "appliedAt": "2026-10-03T03:16:57.395Z",
+  "changed": 6,
+  "added": 0,
+  "total": 2187,
+  "favoritesPreserved": true,
+  "coverage": {
+    "cutoff": "2026-10-03",
+    "games": {
+      "genshin": {
+        "acquisition": 374,
+        "banners": 300
+      },
+      "starrail": {
+        "acquisition": 268,
+        "banners": 230
+      },
+      "zenless": {
+        "acquisition": 160,
+        "banners": 140
+      }
+    },
+    "missing": [],
+    "unlinked": []
+  }
+}

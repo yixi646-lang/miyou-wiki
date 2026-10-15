@@ -1,0 +1,53 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {blankState} from '../modules/character-assessment/core/model.mjs';
+import {defaultScenario,readWorkspace,writeWorkspace} from '../modules/character-assessment/core/workspace.mjs';
+import {captureTeamPlan} from '../modules/character-assessment/core/combat.mjs';
+import {createWorkbench} from '../modules/character-assessment/workbench.mjs';
+const data=JSON.parse(readFileSync(new URL('../modules/character-assessment/core/game-stats.json',import.meta.url)));
+const catalog=JSON.parse(readFileSync(new URL('../modules/character-assessment/core/catalog.json',import.meta.url)));
+const input=(dataset,value='')=>({dataset,value,type:'',hasAttribute:name=>Object.hasOwn(dataset,name.replace(/^data-/,'').replace(/-([a-z])/g,(_,c)=>c.toUpperCase())),checkValidity:()=>true});
+const label=(html,attribute)=>html.match(new RegExp(`<span ${attribute}>([^<]*)</span>`))[1];
+
+test('比较基准显示方案来源并在切换后保持；未保存试算、保存命名和恢复账号装备正确区分',async()=>{
+  const prior=globalThis.document;globalThis.document={activeElement:null};let bench;
+  try{
+    const state=blankState();state.selected='Furina';state.good.characters=[{key:'Furina',level:90,ascension:6,constellation:0,talent:{auto:1,skill:9,burst:9}}];
+    state.good.weapons=[{key:'FavoniusSword',level:90,ascension:6,refinement:1,location:'Furina',lock:true,id:'a'},{key:'HarbingerOfDawn',level:90,ascension:6,refinement:5,location:'',lock:false,id:'b'}];
+    const original=structuredClone(state.good),scenario={...defaultScenario(),active:'Furina'},alternative=structuredClone(original);alternative.weapons[0].location='';alternative.weapons[1].location='Furina';
+    const plan=(good,name,id)=>({...captureTeamPlan(good,'Furina',scenario,name),id,teamId:'team'});
+    writeWorkspace(state,{...readWorkspace(state),activeTeamId:'team',teams:[{id:'team',name:'测试队伍',character:'Furina',members:['Furina'],scenario}],teamPlans:[plan(original,'西风方案','a'),plan(alternative,'输出方案','b')]});
+    const pane={innerHTML:'',contains:()=>false,querySelector:()=>null,querySelectorAll:()=>[]};
+    bench=createWorkbench({pane,readState:()=>state,readSelected:()=>state.selected,catalog,data,selectionHTML:()=>'',changed:()=>{},toast:()=>{},isReadOnly:()=>true});bench.render();
+    assert.match(pane.innerHTML,/class="ae-inline-actions ae-team-plan-toolbar"/);
+    const conditions=pane.innerHTML.indexOf('<span>角色、武器、套装与共鸣条件开关</span>'),bonuses=pane.innerHTML.indexOf('data-native-disclosure="member-settings"'),loadouts=pane.innerHTML.indexOf('data-native-disclosure="team-loadouts"'),panels=pane.innerHTML.indexOf('<summary>队伍战斗面板</summary>');
+    assert.ok(conditions>=0&&conditions<bonuses&&bonuses<loadouts&&loadouts<panels);
+    assert.doesNotMatch(pane.innerHTML,/data-loadout-condition-notice/);
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：当前账号装备');
+    await bench.click(input({native:'preview-plan',index:'0'}));await bench.click(input({native:'set-team-baseline'}));
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：队伍方案：西风方案');
+    await bench.click(input({native:'preview-plan',index:'1'}));
+    assert.match(pane.innerHTML,/data-loadout-condition-notice role="status">配装已切换，请检查角色、武器、套装与共鸣条件开关/);
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：队伍方案：西风方案');
+    assert.equal(label(pane.innerHTML,'data-team-current-label'),'当前配装：队伍方案：输出方案');
+    assert.match(pane.innerHTML,/比较基准 → 当前试算/);
+    await bench.change(input({teamEquipment:'weapons',member:'Furina'},'0'));
+    assert.equal(label(pane.innerHTML,'data-team-current-label'),'当前配装：未保存试算');
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：队伍方案：西风方案');
+    await bench.click(input({native:'set-team-baseline'}));
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：未保存试算');
+    await bench.change(input({nativePlanName:''},'已保存的基准'));await bench.click(input({native:'save-plan'}));
+    assert.equal(label(pane.innerHTML,'data-team-current-label'),'当前配装：队伍方案：已保存的基准');
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：队伍方案：已保存的基准');
+    await bench.click(input({native:'clear-plan-preview'}));
+    assert.equal(label(pane.innerHTML,'data-team-baseline-label'),'计算基准：当前账号装备');
+    assert.equal(label(pane.innerHTML,'data-team-current-label'),'当前配装：当前账号装备');
+    assert.equal(readWorkspace(state).teamPlans.length,3);assert.deepEqual(state.good,original);
+    assert.deepEqual(readWorkspace(state).teams[0].scenario,scenario);
+    bench.reset();bench.render();assert.doesNotMatch(pane.innerHTML,/data-loadout-condition-notice/);
+    await bench.change(input({teamEquipment:'weapons',member:'Furina'},'1'));
+    assert.match(pane.innerHTML,/data-loadout-condition-notice/);
+    assert.deepEqual(readWorkspace(state).teams[0].scenario,scenario);assert.deepEqual(state.good,original);
+  }finally{bench?.dispose();if(prior===undefined)delete globalThis.document;else globalThis.document=prior;}
+});

@@ -1,0 +1,107 @@
+import type { WeaponBowKey } from '@genshin-optimizer/gi/consts'
+import type { WeaponSheet } from '../WeaponSheet'
+
+import AlleyHunter from './AlleyHunter'
+import AmosBow from './AmosBow'
+import AquaSimulacra from './AquaSimulacra'
+import AstralVulturesCrimsonPlumage from './AstralVulturesCrimsonPlumage'
+import BlackcliffWarbow from './BlackcliffWarbow'
+import BreezeborneRefrain from './BreezeborneRefrain'
+import ChainBreaker from './ChainBreaker'
+import Cloudforged from './Cloudforged'
+import CompoundBow from './CompoundBow'
+import CovenantOfFrostAndSnow from './CovenantOfFrostAndSnow'
+import ElegyForTheEnd from './ElegyForTheEnd'
+import EndOfTheLine from './EndOfTheLine'
+import FadingTwilight from './FadingTwilight'
+import FavoniusWarbow from './FavoniusWarbow'
+import FlowerWreathedFeathers from './FlowerWreathedFeathers'
+import GoldenFrostboundOath from './GoldenFrostboundOath'
+import Hamayumi from './Hamayumi'
+import HuntersBow from './HuntersBow'
+import HuntersPath from './HuntersPath'
+import IbisPiercer from './IbisPiercer'
+import JadeVista from './JadeVista'
+import KingsSquire from './KingsSquire'
+import Messenger from './Messenger'
+import MitternachtsWaltz from './MitternachtsWaltz'
+import MouunsMoon from './MouunsMoon'
+import PolarStar from './PolarStar'
+import Predator from './Predator'
+import PrototypeCrescent from './PrototypeCrescent'
+import RainbowSerpentsRainBow from './RainbowSerpentsRainBow'
+import RangeGauge from './RangeGauge'
+import RavenBow from './RavenBow'
+import RecurveBow from './RecurveBow'
+import RoyalBow from './RoyalBow'
+import Rust from './Rust'
+import SacrificialBow from './SacrificialBow'
+import ScionOfTheBlazingSun from './ScionOfTheBlazingSun'
+import SeasonedHuntersBow from './SeasonedHuntersBow'
+import SequenceOfSolitude from './SequenceOfSolitude'
+import SharpshootersOath from './SharpshootersOath'
+import SilvershowerHeartstrings from './SilvershowerHeartstrings'
+import SkywardHarp from './SkywardHarp'
+import Slingshot from './Slingshot'
+import SnareHook from './SnareHook'
+import SongOfStillness from './SongOfStillness'
+import TheDaybreakChronicles from './TheDaybreakChronicles'
+import TheFirstGreatMagic from './TheFirstGreatMagic'
+import TheStringless from './TheStringless'
+import TheViridescentHunt from './TheViridescentHunt'
+import ThunderingPulse from './ThunderingPulse'
+import WindblumeOde from './WindblumeOde'
+
+const bow: Record<WeaponBowKey, WeaponSheet> = {
+  AlleyHunter,
+  AmosBow,
+  AquaSimulacra,
+  AstralVulturesCrimsonPlumage,
+  BlackcliffWarbow,
+  BreezeborneRefrain,
+  ChainBreaker,
+  Cloudforged,
+  CompoundBow,
+  CovenantOfFrostAndSnow,
+  ElegyForTheEnd,
+  EndOfTheLine,
+  FadingTwilight,
+  FavoniusWarbow,
+  FlowerWreathedFeathers,
+  GoldenFrostboundOath,
+  Hamayumi,
+  HuntersBow,
+  HuntersPath,
+  IbisPiercer,
+  JadeVista,
+  KingsSquire,
+  Messenger,
+  MitternachtsWaltz,
+  MouunsMoon,
+  PolarStar,
+  Predator,
+  PrototypeCrescent,
+  RainbowSerpentsRainBow,
+  RangeGauge,
+  RavenBow,
+  RecurveBow,
+  RoyalBow,
+  Rust,
+  SacrificialBow,
+  ScionOfTheBlazingSun,
+  SeasonedHuntersBow,
+  SequenceOfSolitude,
+  SharpshootersOath,
+  SilvershowerHeartstrings,
+  SkywardHarp,
+  Slingshot,
+  SnareHook,
+  SongOfStillness,
+  TheDaybreakChronicles,
+  TheFirstGreatMagic,
+  TheStringless,
+  TheViridescentHunt,
+  ThunderingPulse,
+  WindblumeOde,
+} as const
+export default bow

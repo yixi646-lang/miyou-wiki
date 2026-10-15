@@ -1,0 +1,155 @@
+{
+  "fetchedAt": "2026-10-03T11:24:41.752Z",
+  "files": [
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-5.json",
+      "path": "data/sources/genshin/traveler/10000007-5.json.gz",
+      "bytes": 78489
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-2.json",
+      "path": "data/sources/genshin/traveler/10000007-2.json.gz",
+      "bytes": 77887
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-3.json",
+      "path": "data/sources/genshin/traveler/10000007-3.json.gz",
+      "bytes": 77747
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-4.json",
+      "path": "data/sources/genshin/traveler/10000007-4.json.gz",
+      "bytes": 77871
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-8.json",
+      "path": "data/sources/genshin/traveler/10000007-8.json.gz",
+      "bytes": 77379
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-7.json",
+      "path": "data/sources/genshin/traveler/10000007-7.json.gz",
+      "bytes": 77301
+    },
+    {
+      "url": "https://static.nanoka.cc/gi/7.1/zh/character/10000007-6.json",
+      "path": "data/sources/genshin/traveler/10000007-6.json.gz",
+      "bytes": 77211
+    },
+    {
+      "url": "https://paimon.moe/images/elements/pyro.png",
+      "path": "assets/genshin/elements/pyro.png",
+      "bytes": 5976
+    },
+    {
+      "url": "https://paimon.moe/images/elements/hydro.png",
+      "path": "assets/genshin/elements/hydro.png",
+      "bytes": 5495
+    },
+    {
+      "url": "https://paimon.moe/images/elements/cryo.png",
+      "path": "assets/genshin/elements/cryo.png",
+      "bytes": 6237
+    },
+    {
+      "url": "https://paimon.moe/images/elements/anemo.png",
+      "path": "assets/genshin/elements/anemo.png",
+      "bytes": 6471
+    },
+    {
+      "url": "https://paimon.moe/images/elements/geo.png",
+      "path": "assets/genshin/elements/geo.png",
+      "bytes": 5026
+    },
+    {
+      "url": "https://paimon.moe/images/elements/electro.png",
+      "path": "assets/genshin/elements/electro.png",
+      "bytes": 5421
+    },
+    {
+      "url": "https://paimon.moe/images/elements/dendro.png",
+      "path": "assets/genshin/elements/dendro.png",
+      "bytes": 6130
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Physical.png",
+      "path": "assets/starrail/elements/Physical.png",
+      "bytes": 31197
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Fire.png",
+      "path": "assets/starrail/elements/Fire.png",
+      "bytes": 45337
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Ice.png",
+      "path": "assets/starrail/elements/Ice.png",
+      "bytes": 30263
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Thunder.png",
+      "path": "assets/starrail/elements/Thunder.png",
+      "bytes": 30678
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Quantum.png",
+      "path": "assets/starrail/elements/Quantum.png",
+      "bytes": 20831
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Wind.png",
+      "path": "assets/starrail/elements/Wind.png",
+      "bytes": 63038
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/icon/element/Imaginary.png",
+      "path": "assets/starrail/elements/Imaginary.png",
+      "bytes": 32627
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconFire.webp",
+      "path": "assets/zenless/elements/Fire.webp",
+      "bytes": 944
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconIce.webp",
+      "path": "assets/zenless/elements/Ice.webp",
+      "bytes": 712
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconElectric.webp",
+      "path": "assets/zenless/elements/Electric.webp",
+      "bytes": 814
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconWind.webp",
+      "path": "assets/zenless/elements/Wind.webp",
+      "bytes": 1110
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconPhysical.webp",
+      "path": "assets/zenless/elements/Physical.webp",
+      "bytes": 682
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconEther.webp",
+      "path": "assets/zenless/elements/Ether.webp",
+      "bytes": 714
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconFrost.webp",
+      "path": "assets/zenless/elements/Frost.webp",
+      "bytes": 1804
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconAuricInk.webp",
+      "path": "assets/zenless/elements/AuricInk.webp",
+      "bytes": 968
+    },
+    {
+      "url": "https://static.nanoka.cc/assets/zzz/IconHonedEdge.webp",
+      "path": "assets/zenless/elements/HonedEdge.webp",
+      "bytes": 1796
+    }
+  ]
+}

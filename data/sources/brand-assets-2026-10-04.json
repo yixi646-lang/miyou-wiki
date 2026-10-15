@@ -1,0 +1,175 @@
+{
+  "fetchedAt": "2026-10-03T17:37:06.085Z",
+  "records": [
+    {
+      "game": "genshin",
+      "type": "logo",
+      "url": "https://webstatic.hoyoverse.com/dora/biz/mihoyo-hk4e-concept-animation/images/logo-gray-v2.246eaf58.png",
+      "sourceUrl": "https://genshin.hoyoverse.com/zh-cn/home",
+      "original": "/assets/genshin/branding/logo-source.png",
+      "image": "/assets/genshin/branding/logo.webp",
+      "sourceBytes": 20976,
+      "sourceSha256": "9f520dd493c6ea59c70a9474799eb22c3afdae8c566ad28e0cf5ecaae8004c0a",
+      "sourceDimensions": [
+        640,
+        400
+      ],
+      "dimensions": [
+        400,
+        143
+      ],
+      "bytes": 17470,
+      "sha256": "6e2533e287e45fcbd8ba7044580a239cc17e2dc351216a6ae7f17dada05998b9"
+    },
+    {
+      "game": "starrail",
+      "type": "logo",
+      "url": "https://hsr.hoyoverse.com/_nuxt/img/loadingLogo.af01151.png",
+      "sourceUrl": "https://hsr.hoyoverse.com/zh-cn/home",
+      "original": "/assets/starrail/branding/logo-source.png",
+      "image": "/assets/starrail/branding/logo.webp",
+      "sourceBytes": 30081,
+      "sourceSha256": "4e3d93d1667d6b29353b2487bbc46de93c493f29754992b14fffab73f7284b2a",
+      "sourceDimensions": [
+        183,
+        134
+      ],
+      "dimensions": [
+        183,
+        101
+      ],
+      "bytes": 11142,
+      "sha256": "fb02a224229636f4f1f3ac05f91ac9c2ef894135d5d4b61ce6dee9c59ea0a267"
+    },
+    {
+      "game": "zenless",
+      "type": "logo",
+      "url": "https://zenless.hoyoverse.com/_nuxt/img/logo.1e072ee.png",
+      "sourceUrl": "https://zenless.hoyoverse.com/zh-cn/main",
+      "original": "/assets/zenless/branding/logo-source.png",
+      "image": "/assets/zenless/branding/logo.webp",
+      "sourceBytes": 11220,
+      "sourceSha256": "1d26b38b6c5c82b10bbccb8ce73be12aceb0389cdcd8b8754cac72b5b43af447",
+      "sourceDimensions": [
+        229,
+        244
+      ],
+      "dimensions": [
+        135,
+        144
+      ],
+      "bytes": 3580,
+      "sha256": "a839d520d7a44e3042ffb6d1b0dc925ae92a28d401debeea2fd0e88b1f21a2d9"
+    },
+    {
+      "game": "genshin",
+      "version": "7.0",
+      "title": "7.0版本前瞻与预约活动壁纸",
+      "sourceUrl": "https://www.miyoushe.com/ys/article/77085870",
+      "url": "https://upload-bbs.miyoushe.com/upload/2026/07/31/395818810/ba3bf666632826f4a3879a1da5046c8b_3011880675272060575.jpg",
+      "type": "cover",
+      "sourceType": "community-wallpaper",
+      "userSelected": true,
+      "original": "/assets/genshin/branding/cover-7.0-hd.jpg",
+      "image": "/assets/genshin/branding/cover-7.0-hd.jpg",
+      "sourceBytes": 3641972,
+      "bytes": 3641972,
+      "sourceSha256": "851e65cfeb387d80b95031363444a9aa81bef6b01611247a7cfa138e5728bc2f",
+      "sha256": "851e65cfeb387d80b95031363444a9aa81bef6b01611247a7cfa138e5728bc2f",
+      "dimensions": [
+        4248,
+        2548
+      ],
+      "sourceDimensions": [
+        4248,
+        2548
+      ]
+    },
+    {
+      "game": "starrail",
+      "version": "4.0",
+      "title": "4.0版本主视觉壁纸",
+      "sourceUrl": "https://www.miyoushe.com/sr/article/73233548",
+      "url": "https://upload-bbs.miyoushe.com/upload/2026/03/31/291110358/888c455f9c99250cc06236414a7856c1_6593025884467050158.jpg",
+      "type": "cover",
+      "sourceType": "community-wallpaper",
+      "userSelected": true,
+      "original": "/assets/starrail/branding/cover-4.0-hd.jpg",
+      "image": "/assets/starrail/branding/cover-4.0-hd.jpg",
+      "sourceBytes": 1157470,
+      "bytes": 1157470,
+      "sourceSha256": "811d5640f0eb69bc714af21ab5828fd1af54591e25f4ca1b4fdcde01a4d8c3ec",
+      "sha256": "811d5640f0eb69bc714af21ab5828fd1af54591e25f4ca1b4fdcde01a4d8c3ec",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sourceDimensions": [
+        3840,
+        2160
+      ]
+    },
+    {
+      "game": "zenless",
+      "version": "3.0",
+      "title": "3.0某个梦游者的自白无字壁纸",
+      "sourceUrl": "https://www.miyoushe.com/zzz/article/75918518",
+      "url": "https://upload-bbs.miyoushe.com/upload/2026/06/10/160087329/9505f69d76213ea4aba33fc29d5bcd3c_1322179240418771751.png",
+      "type": "cover",
+      "sourceType": "community-wallpaper",
+      "userSelected": true,
+      "original": "/assets/zenless/branding/cover-3.0-hd.png",
+      "image": "/assets/zenless/branding/cover-3.0-hd.png",
+      "sourceBytes": 13266433,
+      "bytes": 13266433,
+      "sourceSha256": "2bd75215e968b42f985ec918bf19f1e1ae8e99e3a553a61feae1e87d32bb042e",
+      "sha256": "2bd75215e968b42f985ec918bf19f1e1ae8e99e3a553a61feae1e87d32bb042e",
+      "dimensions": [
+        4096,
+        2304
+      ],
+      "sourceDimensions": [
+        4096,
+        2304
+      ]
+    }
+  ],
+  "notes": [
+    "采用用户圈选的三张版本主视觉：原神7.0、星铁4.0、绝区零3.0，来源为米游社壁纸帖子。",
+    "首页直接加载所选原文件，保留高清尺寸及全部原始字节，不缩放或重编码。像素尺寸已核对，不宣称社区图片为官方原生4K。"
+  ],
+  "updatedAt": "2026-10-03T18:03:54.134Z",
+  "cleanup": {
+    "cleanedAt": "2026-10-03T18:08:21.239052+00:00",
+    "removedUnusedCovers": [
+      {
+        "path": "assets/genshin/branding/cover-7.0.webp",
+        "bytes": 118164
+      },
+      {
+        "path": "assets/genshin/branding/cover-7.0-source.jpg",
+        "bytes": 434113
+      },
+      {
+        "path": "assets/starrail/branding/cover-4.0.webp",
+        "bytes": 112864
+      },
+      {
+        "path": "assets/starrail/branding/cover-4.0-source.jpg",
+        "bytes": 416608
+      },
+      {
+        "path": "assets/zenless/branding/cover-3.0.webp",
+        "bytes": 112730
+      },
+      {
+        "path": "assets/zenless/branding/cover-3.0-source.jpg",
+        "bytes": 401629
+      }
+    ],
+    "scratchDirectory": "D:\\Wiki\\.codex_tmp\\tests\\brand-search-qtudd8bl",
+    "scratchFiles": 18,
+    "scratchBytes": 37939981,
+    "scope": "Only files created in this visual-assets session"
+  }
+}

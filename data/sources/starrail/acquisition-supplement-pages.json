@@ -1,0 +1,92 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Warp/Item Pool",
+        "missing": true
+      },
+      {
+        "pageid": 362,
+        "ns": 10,
+        "title": "Template:Light Cone Infobox",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "<includeonly><infobox theme-source=\"rarity\">\n\t<title source=\"title\">\n\t\t<default>{{PAGENAME}}</default>\n\t</title>\n\t<image source=\"image\">\n\t\t<default>[[Light Cone {{PAGENAME}}.png|40px]]</default>\n\t\t<caption source=\"caption\"/>\n\t</image>\n\t<panel>\n\t\t<section>\n\t\t\t<label>Details</label>\n\t\t\t<data source=\"rarity\">\n\t\t\t\t<label>Rarity</label>\n\t\t\t\t<format>{{Icon/Stars|{{{rarity}}}}}</format>\n\t\t\t\t<default>Unknown</default>\n\t\t\t</data>\n\t\t\t<data source=\"obtain\">\n\t\t\t\t<label>[[#Availability|How to Obtain]]</label>\n\t\t\t</data>\n\t\t</section>\n\t</panel>\n\t<header>Base Stats</header>\n\t<group layout=\"horizontal\" row-items=\"3\">\n\t\t<data source=\"rarity\">\n\t\t\t<label>Base HP<br/>(Lv. 1&nbsp;-&nbsp;80)</label>\n\t\t\t<format>{{Get Light Cone Stat Range|{{#titleparts:{{PAGENAME}}}}|hp|nostattype=1}}</format>\n\t\t\t<default>Unknown</default>\n\t\t</data>\n\t\t<data source=\"rarity\">\n\t\t\t<label>Base ATK<br/>(Lv. 1&nbsp;-&nbsp;80)</label>\n\t\t\t<format>{{Get Light Cone Stat Range|{{#titleparts:{{PAGENAME}}}}|atk|nostattype=1}}</format>\n\t\t\t<default>Unknown</default>\n\t\t</data>\n\t\t<data source=\"rarity\">\n\t\t\t<label>Base DEF<br/>(Lv. 1&nbsp;-&nbsp;80)</label>\n\t\t\t<format>{{Get Light Cone Stat Range|{{#titleparts:{{PAGENAME}}}}|def|nostattype=1}}</format>\n\t\t\t<default>Unknown</default>\n\t\t</data>\n\t</group>\n\t<header>Superimposition</header>\n\t<data source=\"effect_path\">\n\t\t<format>The following effects only work on characters of the Path of [[{{{effect_path}}}]].</format>\n\t</data>\n\t<data source=\"passive\">\n\t\t<default>Unknown</default>\n\t</data>\n\t<panel>\n\t\t<section>\n\t\t\t<label>1</label>\n\t\t\t<group layout=\"horizontal\">\n\t\t\t\t<data source=\"eff_rank1_var1\">\n\t\t\t\t\t<label>{{{passive|}}}</label>\n\t\t\t\t\t<format>{{#replace: {{#replace: {{#replace: {{#replace: {{#replace:{{{effect|}}}\n\t\t\t\t\t\t|(var1)|'''{{{eff_rank1_var1|}}}'''}} \n\t\t\t\t\t\t|(var2)|'''{{{eff_rank1_var2|}}}'''}} \n\t\t\t\t\t\t|(var3)|'''{{{eff_rank1_var3|}}}'''}}\n\t\t\t\t\t\t|(var4)|'''{{{eff_rank1_var4|}}}'''}}\n\t\t\t\t\t\t|(var5)|'''{{{eff_rank1_var5|}}}'''}}\n\t\t\t\t\t</format>\n\t\t\t\t\t<default>{{{effect|}}}</default>\n\t\t\t\t</data>\n\t\t\t</group>\n\t\t</section>\n\t\t<section>\n\t\t\t<label>2</label>\n\t\t\t<group layout=\"horizontal\">\n\t\t\t\t<data source=\"eff_rank2_var1\">\n\t\t\t\t\t<label>{{{passive|}}}</label>\n\t\t\t\t\t<format>{{#replace: {{#replace: {{#replace: {{#replace: {{#replace:{{{effect|}}}\n\t\t\t\t\t\t|(var1)|'''{{{eff_rank2_var1|}}}'''}} \n\t\t\t\t\t\t|(var2)|'''{{{eff_rank2_var2|}}}'''}} \n\t\t\t\t\t\t|(var3)|'''{{{eff_rank2_var3|}}}'''}}\n\t\t\t\t\t\t|(var4)|'''{{{eff_rank2_var4|}}}'''}}\n\t\t\t\t\t\t|(var5)|'''{{{eff_rank2_var5|}}}'''}}\n\t\t\t\t\t</format>\n\t\t\t\t\t<default>{{#if:{{{eff_rank1_var1|}}}||{{{effect|}}}}}</default>\n\t\t\t\t</data>\n\t\t\t</group>\n\t\t</section>\n\t\t<section>\n\t\t\t<label>3</label>\n\t\t\t<group layout=\"horizontal\">\n\t\t\t\t<data source=\"eff_rank3_var1\">\n\t\t\t\t\t<label>{{{passive|}}}</label>\n\t\t\t\t\t<format>{{#replace: {{#replace: {{#replace: {{#replace: {{#replace:{{{effect|}}}\n\t\t\t\t\t\t|(var1)|'''{{{eff_rank3_var1|}}}'''}} \n\t\t\t\t\t\t|(var2)|'''{{{eff_rank3_var2|}}}'''}} \n\t\t\t\t\t\t|(var3)|'''{{{eff_rank3_var3|}}}'''}}\n\t\t\t\t\t\t|(var4)|'''{{{eff_rank3_var4|}}}'''}}\n\t\t\t\t\t\t|(var5)|'''{{{eff_rank3_var5|}}}'''}}\n\t\t\t\t\t</format>\n\t\t\t\t\t<default>{{#if:{{{eff_rank1_var1|}}}||{{{effect|}}}}}</default>\n\t\t\t\t</data>\n\t\t\t</group>\n\t\t</section>\n\t\t<section>\n\t\t\t<label>4</label>\n\t\t\t<group layout=\"horizontal\">\n\t\t\t\t<data source=\"eff_rank4_var1\">\n\t\t\t\t\t<label>{{{passive|}}}</label>\n\t\t\t\t\t<format>{{#replace: {{#replace: {{#replace: {{#replace: {{#replace:{{{effect|}}}\n\t\t\t\t\t\t|(var1)|'''{{{eff_rank4_var1|}}}'''}} \n\t\t\t\t\t\t|(var2)|'''{{{eff_rank4_var2|}}}'''}} \n\t\t\t\t\t\t|(var3)|'''{{{eff_rank4_var3|}}}'''}}\n\t\t\t\t\t\t|(var4)|'''{{{eff_rank4_var4|}}}'''}}\n\t\t\t\t\t\t|(var5)|'''{{{eff_rank4_var5|}}}'''}}\n\t\t\t\t\t</format>\n\t\t\t\t\t<default>{{#if:{{{eff_rank1_var1|}}}||{{{effect|}}}}}</default>\n\t\t\t\t</data>\n\t\t\t</group>\n\t\t</section>\n\t\t<section>\n\t\t\t<label>5</label>\n\t\t\t<group layout=\"horizontal\">\n\t\t\t\t<data source=\"eff_rank5_var1\">\n\t\t\t\t\t<label>{{{passive|}}}</label>\n\t\t\t\t\t<format>{{#replace: {{#replace: {{#replace: {{#replace: {{#replace:{{{effect|}}}\n\t\t\t\t\t\t|(var1)|'''{{{eff_rank5_var1|}}}'''}} \n\t\t\t\t\t\t|(var2)|'''{{{eff_rank5_var2|}}}'''}} \n\t\t\t\t\t\t|(var3)|'''{{{eff_rank5_var3|}}}'''}}\n\t\t\t\t\t\t|(var4)|'''{{{eff_rank5_var4|}}}'''}}\n\t\t\t\t\t\t|(var5)|'''{{{eff_rank5_var5|}}}'''}}\n\t\t\t\t\t</format>\n\t\t\t\t\t<default>{{#if:{{{eff_rank1_var1|}}}||{{{effect|}}}}}</default>\n\t\t\t\t</data>\n\t\t\t</group>\n\t\t</section>\n\t</panel>\n\t<group>\n\t<header>Featured Character{{#if:{{{#explode:{{{characters|}}}|;|1}}|s}}</header>\n\t<data source=\"characters\">\n\t\t<format>{{Array|{{{characters|}}}|;|[[{item}]]|,<nowiki> </nowiki>|sort=1}}</format>\n\t</data>\n\t</group>\n</infobox>{{Namespace|main=<!--\nSet Display Title if different from pagename\n\n-->{{#ifeq:{{NAMESPACE}}||<!--\n-->{{#if:{{{title|}}}{{{displaytitle|}}}|{{#ifeq:{{PAGENAME}}|{{{title}}}||{{#ifeq:{{lc:{{{displaytitle|}}}}}|no||{{DISPLAYTITLE:{{{displaytitle|{{{title}}}}}}|noreplace}}}}}}}}<!--\n-->}}<!--\n\n-->[[Category:Light Cones]]<!--\n-->{{#if:{{{event|}}}|[[Category:{{{event}}}]][[Category:Event-Exclusive Light Cones]]}}<!--\n-->{{#if:{{{type|}}}|[[Category:{{{type}}}s]]}}<!--\n-->{{#if:{{{rarity|}}}|<!--\n   -->[[Category:Light Cones by Rarity|{{#expr:5-{{{rarity}}}}}]]<!--\n   -->[[Category:Light Cones by Rarity Ascending|{{{rarity}}}]]<!--\n-->}}<!--\n-->{{#if:{{{effect_path|}}}|[[Category:{{{effect_path}}} Light Cones]]}}<!--\n-->{{#switch:{{{rarity|}}}|1|2|3|4|5=[[Category:{{{rarity|}}}-Star Light Cones]]}}<!--\n-->{{#if:{{{utility1|}}}|[[Category:{{{utility1}}} Light Cones]]}}<!--\n-->{{#if:{{{utility2|}}}|[[Category:{{{utility2}}} Light Cones]]}}<!--\n-->{{#if:{{{utility3|}}}|[[Category:{{{utility3}}} Light Cones]]}}<!--\n-->{{#if:{{{utility4|}}}|[[Category:{{{utility4}}} Light Cones]]}}<!--\n-->{{#if:{{{utility5|}}}|[[Category:{{{utility5}}} Light Cones]]}}<!--\n-->{{#if:{{{utility6|}}}|[[Category:{{{utility6}}} Light Cones]]}}<!--\n-->{{#if:{{{utility7|}}}|[[Category:{{{utility7}}} Light Cones]]}}<!--\n-->{{#if:{{{utility8|}}}|[[Category:{{{utility8}}} Light Cones]]}}<!--\n-->{{#if:{{{utility9|}}}|[[Category:{{{utility9}}} Light Cones]]}}<!--\n-->{{#if:{{{utility10|}}}|[[Category:{{{utility10}}} Light Cones]]}}<!--\n-->{{#if:{{{utility11|}}}|[[Category:{{{utility11}}} Light Cones]]}}<!--\n-->{{#if:{{{utility12|}}}|[[Category:{{{utility12}}} Light Cones]]}}<!--\n-->{{#if:{{{utility13|}}}|[[Category:{{{utility13}}} Light Cones]]}}<!--\n-->{{#if:{{{utility14|}}}|[[Category:{{{utility14}}} Light Cones]]}}<!--\n-->{{#if:{{{utility15|}}}|[[Category:{{{utility15}}} Light Cones]]}}<!--\n-->{{#if:{{{utility16|}}}|[[Category:{{{utility16}}} Light Cones]]}}<!--\n-->{{#if:{{{utility17|}}}|[[Category:{{{utility17}}} Light Cones]]}}<!--\n-->{{#if:{{{utility18|}}}|[[Category:{{{utility18}}} Light Cones]]}}<!--\n-->{{#if:{{{utility19|}}}|[[Category:{{{utility19}}} Light Cones]]}}<!--\n-->{{#if:{{{utility20|}}}|[[Category:{{{utility20}}} Light Cones]]}}<!--\n-->{{#if:{{{scale_att1|}}}|[[Category:{{{scale_att1}}} Scaling Light Cones]]}}<!--\n-->{{#if:{{{scale_att2|}}}|[[Category:{{{scale_att2}}} Scaling Light Cones]]}}<!--\n-->{{#if:{{{scale_att3|}}}|[[Category:{{{scale_att3}}} Scaling Light Cones]]}}<!--\n-->{{#ifeq:{{{superimposition|}}}|None|[[Category:No Passive Light Cones]]|}}<!--\n-->{{#if:{{{id|}}}|[[Category:Light Cone|{{{id}}}]]|[[Category:Light Cone]][[Category:Light Cone Missing ID]]}}<!--\n-->{{#if:{{{characters|}}}|{{Array|{{{characters}}}|;|[[Category:Light Cones Featuring {item}]]}}}}<!--\n-->}}</includeonly><noinclude>{{Documentation|type=Infobox}}</noinclude>"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4600,
+        "ns": 0,
+        "title": "Herta's Store",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Location Infobox\n|title   = {{Icon/White|Icon Shop Materials.png}} Herta's Store\n|image   = \n|icon    = Icon Simulated Universe.png\n|type    = Shop\n|world   = Herta Space Station\n|world2  = Penacony\n|region  = \n|region2 = Dreamscape\n|area    = Master Control Zone\n|area2   = The Radiant Feldspar\n|subarea = Herta's Office\n}}\n'''Herta's Store''' is a [[Shop]] accessible from the [[Simulated Universe]] or [[Divergent Universe]] menu.\n\nUpon completion of {{Mission|Divergent Universe: Loading Equation}}, it can also be accessed in the [[Interastral Peace Guide]] through [[Interastral Peace Guide/Cosmic Strife|Cosmic Strife]].\n\nIts currency is {{Item|Herta Bond}}.\n\n__TOC__\n\n==Inventory==\n{{Shop|shop=Herta's Store|currency=Herta Bond|note=1|total=1\n|On the Fall of an Aeon ;; 8 ;; 1\n|Cruising in the Stellar Sea ;; 8 ;; 1\n|Texture of Memories ;; 8 ;; 1\n|Solitary Healing ;; 8 ;; 1\n|Eternal Calculus ;; 8 ;; 1\n|Memory's Curtain Never Falls ;; 8 ;; 1\n|Elation Brimming With Blessings ;; 8 ;; 1\n|Superimposer (Custom-made) ;; 2 ;; 28\n|Star Rail Pass ;; 2 ;; inf\n|Before the Tutorial Mission Starts ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Lil' Twisty Bubble Gum ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|Hey, Over Here ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Exorcismal Fulu ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|For Tomorrow's Journey ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Clockwork Inspiration Notebook ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|Ninja Record: Sound Hunt ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Music Disc ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|Where's the Rabbit? ;; 4 ;; 1 ;; note{{=}}Unlocks if not yet owned\n|The Great Cosmic Enterprise ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Physical Game Cartridge ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|The Forever Victual ;; 4 ;; 1 ;; note{{=}}Only if not yet owned\n|Chrysos Spoon ;; 1 ;; inf ;; note{{=}}Only if the associated Light Cone has not reached Superimposition V\n|Age of Trailblaze! Formalwear Set ;; 8 ;; 1 ;; note{{=}}Only if not yet owned\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = Herta's Store\n|zhs  = 黑塔的商店\n|zht  = 黑塔的商店\n|ja   = ヘルタショップ\n|ko   = 헤르타 상점\n|es   = Tienda de Herta\n|fr   = Boutique de Herta\n|ru   = Магазин Герты\n|th   = ร้าน Herta\n|vi   = Cửa Hàng Herta\n|de   = Hertas Laden\n|id   = Toko Herta\n|pt   = Loja da Herta\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n[[de:Hertas Laden]]\n[[es:Tienda de Herta]]\n[[ru:Магазин Герты]]\n[[vi:Cửa Hàng Herta]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 5321,
+        "ns": 0,
+        "title": "Starlight Exchange",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Custom Tabs\n|tab1 = Overview\n|tab2 = History\n}}\n{{Location Infobox\n|title   = \n|image   = \n|icon    = Icon Shop Starlight Exchange.png\n|type    = Store\n|world   = \n|region  =\n|area    = \n|subarea = \n}}\n'''Starlight Exchange''' is a shop accessible from the [[Store]] in the Phone menu.\n\nIts currency is {{Item|Undying Starlight}}.\n\n__TOC__\n\n==Inventory==\n===Rotation===\n{| class=\"article-table\"\n!'''Months'''\n!'''Characters'''\n|-\n| January & July || {{Card List|delim=;|mini=1|show_caption=1|March 7th (Preservation);Tingyun}}\n|-\n| February & August || {{Card List|delim=;|mini=1|show_caption=1|Hook;Pela}}\n|-\n| March & September || {{Card List|delim=;|mini=1|show_caption=1|Qingque;Sushang}}\n|-\n| April & October || {{Card List|delim=;|mini=1|show_caption=1|Arlan;Asta}}\n|-\n| May & November || {{Card List|delim=;|mini=1|show_caption=1|Dan Heng;Serval}}\n|-\n| June & December || {{Card List|delim=;|mini=1|show_caption=1|Natasha;Sampo}}\n|}\n* Characters rotate monthly and cannot be purchased if they already have all 6 [[Eidolon]]s.\n* Availability of Characters and Light Cones refreshes monthly.\n\n===Current Monthly Items===\n{{Starlight Exchange Items}}\n\n===Permanent Items===\n{{Shop|shop=Starlight Exchange|currency=Undying Starlight|refresh=1|note=1|total=1\n|Star Rail Special Pass ;; 20 ;; inf\n|Star Rail Pass ;; 20 ;; inf\n|Tracks of Destiny ;; 50 ;; inf ;; note{{=}}Unlocks at [[Trailblaze Level]] 40\n|Night on the Milky Way ;; 600 ;; 1 ;; refresh{{=}}m\n|Something Irreplaceable ;; 600 ;; 1 ;; refresh{{=}}m\n|But the Battle Isn't Over ;; 600 ;; 1 ;; refresh{{=}}m\n|In the Name of the World ;; 600 ;; 1 ;; refresh{{=}}m\n|Moment of Victory ;; 600 ;; 1 ;; refresh{{=}}m\n|Sleep Like the Dead ;; 600 ;; 1 ;; refresh{{=}}m\n|Time Waits for No One ;; 600 ;; 1 ;; refresh{{=}}m\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = Starlight Exchange\n|zhs  = 星芒兑换\n|zht  = 星芒兌換\n|ja   = 星芒交換\n|ko   = 스타라이트 교환\n|es   = Canjeo de Cosmiluz\n|fr   = Lumières d'étoile\n|ru   = Неугасаемый звёздный свет\n|th   = ร้าน Starlight\n|vi   = Đổi Ánh Sao\n|de   = Sternenlicht-Tausch\n|id   = Penukaran Starlight\n|pt   = Troca de Luz Estelar\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n[[de:Sternenlicht-Tausch]]\n[[vi:Đổi Ánh Sao]]\n[[ru:Неугасаемый звёздный свет (магазин)]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 5346,
+        "ns": 0,
+        "title": "Light Cone Manifest",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Location Infobox\n|title      = {{Icon/White|Icon Shop Light Cone Manifest.png}} Light Cone Manifest\n|image      = \n|icon       = Icon Map Forgotten Hall.png; Icon Map Pure Fiction.png; Icon Map Apocalyptic Shadow.png\n|type       = Shop\n|world      = Astral Express\n|region     = \n|area       = \n|subarea    = Parlor Car\n|world2     = The Xianzhou Luofu\n|region2    = \n|area2      = Exalting Sanctum\n|subarea2   = \n|world3     = Penacony\n|region3    = Dreamscape\n|area3      = Dreamflux Reef\n|subarea3   = \n}}\nThe '''Light Cone Manifest''' is a [[Shop]] located:\n* In the [[Parlor Car]] aboard the [[Astral Express]], after completing {{Mission|Fleeting Lights}}, operated by the [[Messenger]].\n* In [[Exalting Sanctum]] aboard [[The Xianzhou Luofu]] after completing {{Mission|Youci's Clever Decor}}, operated by [[Youci]].\n* In [[Dreamflux Reef]] in [[Penacony]]'s [[Dreamscape]] after completing {{Mission|Grim Film of Finality|showChapter=0}}, operated by [[Elegy]].\n* It can also be accessed in the [[Interastral Peace Guide]] through [[Interastral Peace Guide/Treasures Lightward|Treasures Lightward]].\n\nIts currency is {{Item|Lucent Afterglow}}.\n\n__TOC__\n\n==Inventory==\n{{Shop|shop=Light Cone Manifest|currency=Lucent Afterglow|total=1\n|Quid Pro Quo ;; 200 ;; inf\n|Fermata ;; 200 ;; inf\n|We Are Wildfire ;; 200 ;; inf\n|River Flows in Spring ;; 200 ;; inf\n|Past and Future ;; 200 ;; inf\n|Woof! Walk Time! ;; 200 ;; inf\n|The Seriousness of Breakfast ;; 200 ;; inf\n|What Is Real? ;; 200 ;; inf\n|Dreamville Adventure ;; 200 ;; inf\n|Final Victor ;; 200 ;; inf\n|Flames Afar ;; 200 ;; inf\n|Destiny's Threads Forewoven ;; 200 ;; inf\n|The Day The Cosmos Fell ;; 200 ;; inf\n|It's Showtime ;; 200 ;; inf\n|Victory In a Blink ;; 200 ;; inf\n|Mushy Shroomy's Adventures ;; 200 ;; inf\n}}\n\n==Locations==\n{{Map Embed|Parlor Car|6|caption=Light Cone Manifest|inline=1|nohat=0}}\n{{Map Embed|Exalting Sanctum|i1532|caption=Light Cone Manifest|inline=1|nohat=0}}\n{{Map Embed|Dreamflux Reef Floor 1|11|caption=Light Cone Manifest|inline=1|nohat=0}}\n\n==Other Languages==\n{{Other Languages\n|en   = Light Cone Manifest\n|zhs  = 光锥呈现\n|zht  = 光錐呈現\n|ja   = 光円錐プレゼンス\n|ko   = 광추 박람\n|es   = Conos de luz\n|fr   = Cônes de lumière\n|ru   = Пассаж Световых конусов\n|th   = ร้าน Light Cone\n|vi   = Đổi Nón Ánh Sáng\n|de   = Lichtkegelmanifest\n|id   = Toko Light Cone\n|pt   = Cones de Luz\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n[[de:Lichtkegelmanifest]]\n[[es:Tienda de conos de luz]]\n[[vi:Đổi Nón Ánh Sáng]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 21993,
+        "ns": 10,
+        "title": "Template:Shop Availability",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "<includeonly>{{#invoke:Shop Availability|main|1={{{1|}}}|pages={{#DPL:\n|namespace=\n|uses=Template:Shop\n|category={{#if:{{{1|}}}|{{Array|{{{1|}}}|;|Sells {item}|¦}}|Sells {{#titleparts:{{PAGENAME}}}} }}\n|notcategory=Removed\n|ordermethod=title\n|format=,%PAGE%$$$,,\n}}}}</includeonly><noinclude>{{Documentation|content={{Lua|Shop Availability}}}}</noinclude>"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2026-10-03T05:37:55.331Z",
+  "games": {
+    "genshin": {
+      "recipes": 245
+    },
+    "starrail": {
+      "recipes": 60
+    },
+    "zenless": {
+      "recipes": 38
+    }
+  }
+}

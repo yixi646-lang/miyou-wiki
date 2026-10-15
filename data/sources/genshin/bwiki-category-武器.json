@@ -1,0 +1,3600 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "阵营",
+        "key": "阵营",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "「渔获」": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "「渔获」",
+        "fullurl": "https://wiki.biligame.com/ys/%E3%80%8C%E6%B8%94%E8%8E%B7%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「究极霸王超级魔剑」": {
+        "printouts": {
+          "实装版本": [
+            "4.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "「究极霸王超级魔剑」",
+        "fullurl": "https://wiki.biligame.com/ys/%E3%80%8C%E7%A9%B6%E6%9E%81%E9%9C%B8%E7%8E%8B%E8%B6%85%E7%BA%A7%E9%AD%94%E5%89%91%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "万世流涌大典": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "万世流涌大典",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%87%E4%B8%96%E6%B5%81%E6%B6%8C%E5%A4%A7%E5%85%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "万国诸海图谱": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "万国诸海图谱",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%87%E5%9B%BD%E8%AF%B8%E6%B5%B7%E5%9B%BE%E8%B0%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "万能钥匙": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "万能钥匙",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "不灭月华": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "不灭月华",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%8D%E7%81%AD%E6%9C%88%E5%8D%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "且住亭御咄": {
+        "printouts": {
+          "实装版本": [
+            "5.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "且住亭御咄",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%94%E4%BD%8F%E4%BA%AD%E5%BE%A1%E5%92%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "东花坊时雨": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "东花坊时雨",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B8%9C%E8%8A%B1%E5%9D%8A%E6%97%B6%E9%9B%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "乌髓孑灯": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "乌髓孑灯",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B9%8C%E9%AB%93%E5%AD%91%E7%81%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "乘浪的回旋": {
+        "printouts": {
+          "实装版本": [
+            "5.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "乘浪的回旋",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%B9%98%E6%B5%AA%E7%9A%84%E5%9B%9E%E6%97%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "以理服人": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "以理服人",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%BB%A5%E7%90%86%E6%9C%8D%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "佣兵重剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "佣兵重剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%BD%A3%E5%85%B5%E9%87%8D%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "便携动力锯": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "便携动力锯",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%BE%BF%E6%90%BA%E5%8A%A8%E5%8A%9B%E9%94%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "信使": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "信使",
+        "fullurl": "https://wiki.biligame.com/ys/%E4%BF%A1%E4%BD%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "公义的酬报": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "公义的酬报",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%85%AC%E4%B9%89%E7%9A%84%E9%85%AC%E6%8A%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "冬极白星": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "冬极白星",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%86%AC%E6%9E%81%E7%99%BD%E6%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "冲浪时光": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "冲浪时光",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%86%B2%E6%B5%AA%E6%97%B6%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "决斗之枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "决斗之枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%86%B3%E6%96%97%E4%B9%8B%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "冷刃": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "冷刃",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%86%B7%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "冷寂迸音": {
+        "printouts": {
+          "实装版本": [
+            "5.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "冷寂迸音",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%86%B7%E5%AF%82%E8%BF%B8%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "凝雪沉心": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "凝雪沉心",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%87%9D%E9%9B%AA%E6%B2%89%E5%BF%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "勘探钻机": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "勘探钻机",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8B%98%E6%8E%A2%E9%92%BB%E6%9C%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "匣里日月": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "匣里日月",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8C%A3%E9%87%8C%E6%97%A5%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "匣里灭辰": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "匣里灭辰",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8C%A3%E9%87%8C%E7%81%AD%E8%BE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "匣里龙吟": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "匣里龙吟",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8C%A3%E9%87%8C%E9%BE%99%E5%90%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千夜浮梦": {
+        "printouts": {
+          "实装版本": [
+            "3.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "千夜浮梦",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8D%83%E5%A4%9C%E6%B5%AE%E6%A2%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千岩古剑": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "千岩古剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8D%83%E5%B2%A9%E5%8F%A4%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千岩长枪": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "千岩长枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8D%83%E5%B2%A9%E9%95%BF%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "厄水之祸": {
+        "printouts": {
+          "实装版本": [
+            "5.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "厄水之祸",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8E%84%E6%B0%B4%E4%B9%8B%E7%A5%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "历练的猎弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "历练的猎弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8E%86%E7%BB%83%E7%9A%84%E7%8C%8E%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "原木刀": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "原木刀",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8E%9F%E6%9C%A8%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "反曲弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "反曲弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8F%8D%E6%9B%B2%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "口袋魔导书": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "口袋魔导书",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%8F%A3%E8%A2%8B%E9%AD%94%E5%AF%BC%E4%B9%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "吃虎鱼刀": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "吃虎鱼刀",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%90%83%E8%99%8E%E9%B1%BC%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "和璞鸢": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "和璞鸢",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%92%8C%E7%92%9E%E9%B8%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "喜多院十文字": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "喜多院十文字",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%96%9C%E5%A4%9A%E9%99%A2%E5%8D%81%E6%96%87%E5%AD%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嘟嘟可故事集": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "嘟嘟可故事集",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%98%9F%E5%98%9F%E5%8F%AF%E6%95%85%E4%BA%8B%E9%9B%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "四风原典": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "四风原典",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%9B%9B%E9%A3%8E%E5%8E%9F%E5%85%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "图莱杜拉的回忆": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "图莱杜拉的回忆",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%9B%BE%E8%8E%B1%E6%9D%9C%E6%8B%89%E7%9A%84%E5%9B%9E%E5%BF%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "圣显之钥": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "圣显之钥",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%9C%A3%E6%98%BE%E4%B9%8B%E9%92%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "圣祭者的辉杖": {
+        "printouts": {
+          "实装版本": [
+            "6.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "圣祭者的辉杖",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%9C%A3%E7%A5%AD%E8%80%85%E7%9A%84%E8%BE%89%E6%9D%96",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天光的纺琴": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天光的纺琴",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E5%85%89%E7%9A%84%E7%BA%BA%E7%90%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天目影打刀": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天目影打刀",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%9B%AE%E5%BD%B1%E6%89%93%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天空之傲": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天空之傲",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%82%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天空之刃": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天空之刃",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天空之卷": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天空之卷",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%8D%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天空之翼": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天空之翼",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E7%BF%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天空之脊": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天空之脊",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E8%84%8A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "学徒笔记": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "学徒笔记",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AD%A6%E5%BE%92%E7%AC%94%E8%AE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宗室大剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宗室大剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AE%97%E5%AE%A4%E5%A4%A7%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宗室猎枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宗室猎枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AE%97%E5%AE%A4%E7%8C%8E%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宗室秘法录": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宗室秘法录",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AE%97%E5%AE%A4%E7%A7%98%E6%B3%95%E5%BD%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宗室长剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宗室长剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AE%97%E5%AE%A4%E9%95%BF%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宗室长弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宗室长弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AE%97%E5%AE%A4%E9%95%BF%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寒息": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "寒息",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AF%92%E6%81%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寝正月初晴": {
+        "printouts": {
+          "实装版本": [
+            "5.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "寝正月初晴",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AF%9D%E6%AD%A3%E6%9C%88%E5%88%9D%E6%99%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寸心余响": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "寸心余响",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%AF%B8%E5%BF%83%E4%BD%99%E5%93%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "尘世之锁": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "尘世之锁",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B0%98%E4%B8%96%E4%B9%8B%E9%94%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "尘光七谕": {
+        "printouts": {
+          "实装版本": [
+            "6.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "尘光七谕",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B0%98%E5%85%89%E4%B8%83%E8%B0%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "山王长牙": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "山王长牙",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B1%B1%E7%8E%8B%E9%95%BF%E7%89%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "岩峰巡歌": {
+        "printouts": {
+          "实装版本": [
+            "5.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "岩峰巡歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B2%A9%E5%B3%B0%E5%B7%A1%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "峡湾长歌": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "峡湾长歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B3%A1%E6%B9%BE%E9%95%BF%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "帷间夜曲": {
+        "printouts": {
+          "实装版本": [
+            "6.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "帷间夜曲",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B8%B7%E9%97%B4%E5%A4%9C%E6%9B%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "幽夜华尔兹": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "幽夜华尔兹",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%B9%BD%E5%A4%9C%E5%8D%8E%E5%B0%94%E5%85%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "异世界行记": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "异世界行记",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BC%82%E4%B8%96%E7%95%8C%E8%A1%8C%E8%AE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "弓藏": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "弓藏",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BC%93%E8%97%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "引火之源": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "引火之源",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BC%95%E7%81%AB%E4%B9%8B%E6%BA%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "弥坚骨": {
+        "printouts": {
+          "实装版本": [
+            "5.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "弥坚骨",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BC%A5%E5%9D%9A%E9%AA%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "弹弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "弹弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BC%B9%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "忍冬之果": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "忍冬之果",
+        "fullurl": "https://wiki.biligame.com/ys/%E5%BF%8D%E5%86%AC%E4%B9%8B%E6%9E%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "息灾": {
+        "printouts": {
+          "实装版本": [
+            "2.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "息灾",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%81%AF%E7%81%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "息燧之笛": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "息燧之笛",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%81%AF%E7%87%A7%E4%B9%8B%E7%AC%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "恶王丸": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "恶王丸",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%81%B6%E7%8E%8B%E4%B8%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "悬黎千钧": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "悬黎千钧",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%82%AC%E9%BB%8E%E5%8D%83%E9%92%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "戍望谣歌": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "戍望谣歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%88%8D%E6%9C%9B%E8%B0%A3%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "护摩之杖": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "护摩之杖",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%8A%A4%E6%91%A9%E4%B9%8B%E6%9D%96",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "拾慧铸熔": {
+        "printouts": {
+          "实装版本": [
+            "5.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "拾慧铸熔",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%8B%BE%E6%85%A7%E9%93%B8%E7%86%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "掘金之锹": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "掘金之锹",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%8E%98%E9%87%91%E4%B9%8B%E9%94%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "掠食者": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "掠食者",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%8E%A0%E9%A3%9F%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "撼地者": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "撼地者",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%92%BC%E5%9C%B0%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "支离轮光": {
+        "printouts": {
+          "实装版本": [
+            "5.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "支离轮光",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%94%AF%E7%A6%BB%E8%BD%AE%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "救赎之斩": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "救赎之斩",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%95%91%E8%B5%8E%E4%B9%8B%E6%96%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "斫峰之刃": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "斫峰之刃",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%96%AB%E5%B3%B0%E4%B9%8B%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "断浪长鳍": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "断浪长鳍",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%96%AD%E6%B5%AA%E9%95%BF%E9%B3%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "新手长枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "新手长枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%96%B0%E6%89%8B%E9%95%BF%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "新枝": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "新枝",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%96%B0%E6%9E%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "旅行剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "旅行剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%97%85%E8%A1%8C%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无垠蔚蓝之歌": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "无垠蔚蓝之歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%97%A0%E5%9E%A0%E8%94%9A%E8%93%9D%E4%B9%8B%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无工之剑": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "无工之剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%97%A0%E5%B7%A5%E4%B9%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无锋剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "无锋剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%97%A0%E9%94%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "昆吾断虹": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "昆吾断虹",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%98%86%E5%90%BE%E6%96%AD%E8%99%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星锋剑": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "星锋剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%98%9F%E9%94%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星鹫赤羽": {
+        "printouts": {
+          "实装版本": [
+            "5.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "星鹫赤羽",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%98%9F%E9%B9%AB%E8%B5%A4%E7%BE%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "昭心": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "昭心",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%98%AD%E5%BF%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "暗巷猎手": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "暗巷猎手",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9A%97%E5%B7%B7%E7%8C%8E%E6%89%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "暗巷的酒与诗": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "暗巷的酒与诗",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9A%97%E5%B7%B7%E7%9A%84%E9%85%92%E4%B8%8E%E8%AF%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "暗巷闪光": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "暗巷闪光",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9A%97%E5%B7%B7%E9%97%AA%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "暗铁剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "暗铁剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9A%97%E9%93%81%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "曚云之月": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "曚云之月",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9B%9A%E4%BA%91%E4%B9%8B%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "最初的大魔术": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "最初的大魔术",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9C%80%E5%88%9D%E7%9A%84%E5%A4%A7%E9%AD%94%E6%9C%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "有乐御簾切": {
+        "printouts": {
+          "实装版本": [
+            "4.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "有乐御簾切",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9C%89%E4%B9%90%E5%BE%A1%E7%B0%BE%E5%88%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "朏魄含光": {
+        "printouts": {
+          "实装版本": [
+            "6.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "朏魄含光",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9C%8F%E9%AD%84%E5%90%AB%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "木棉之环": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "木棉之环",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9C%A8%E6%A3%89%E4%B9%8B%E7%8E%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "松籁响起之时": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "松籁响起之时",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9D%BE%E7%B1%81%E5%93%8D%E8%B5%B7%E4%B9%8B%E6%97%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "柔灯挽歌": {
+        "printouts": {
+          "实装版本": [
+            "4.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "柔灯挽歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9F%94%E7%81%AF%E6%8C%BD%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "柔风游弦": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "柔风游弦",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%9F%94%E9%A3%8E%E6%B8%B8%E5%BC%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "桂木斩长正": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "桂木斩长正",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%A1%82%E6%9C%A8%E6%96%A9%E9%95%BF%E6%AD%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "森林王器": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "森林王器",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%A3%AE%E6%9E%97%E7%8E%8B%E5%99%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "水仙十字之剑": {
+        "printouts": {
+          "实装版本": [
+            "4.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "水仙十字之剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B0%B4%E4%BB%99%E5%8D%81%E5%AD%97%E4%B9%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "沐浴龙血的剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "沐浴龙血的剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B2%90%E6%B5%B4%E9%BE%99%E8%A1%80%E7%9A%84%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "沙中伟贤的对答": {
+        "printouts": {
+          "实装版本": [
+            "4.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "沙中伟贤的对答",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B2%99%E4%B8%AD%E4%BC%9F%E8%B4%A4%E7%9A%84%E5%AF%B9%E7%AD%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "波乱月白经津": {
+        "printouts": {
+          "实装版本": [
+            "2.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "波乱月白经津",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B3%A2%E4%B9%B1%E6%9C%88%E7%99%BD%E7%BB%8F%E6%B4%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流月针": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流月针",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%81%E6%9C%88%E9%92%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流浪乐章": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流浪乐章",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%81%E6%B5%AA%E4%B9%90%E7%AB%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流浪的晚星": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流浪的晚星",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%81%E6%B5%AA%E7%9A%84%E6%99%9A%E6%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "测距规": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "测距规",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%8B%E8%B7%9D%E8%A7%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "浪影阔剑": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "浪影阔剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%AA%E5%BD%B1%E9%98%94%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "海渊终曲": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "海渊终曲",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%B5%B7%E6%B8%8A%E7%BB%88%E6%9B%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "溢彩心念": {
+        "printouts": {
+          "实装版本": [
+            "5.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "溢彩心念",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%BA%A2%E5%BD%A9%E5%BF%83%E5%BF%B5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "漩流颂歌": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "漩流颂歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E6%BC%A9%E6%B5%81%E9%A2%82%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灰河渡手": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "灰河渡手",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%81%B0%E6%B2%B3%E6%B8%A1%E6%89%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灾悔": {
+        "printouts": {
+          "实装版本": [
+            "6.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "灾悔",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%81%BE%E6%82%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "烈阳之嗣": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "烈阳之嗣",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%83%88%E9%98%B3%E4%B9%8B%E5%97%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "焚曜千阳": {
+        "printouts": {
+          "实装版本": [
+            "5.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "焚曜千阳",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%84%9A%E6%9B%9C%E5%8D%83%E9%98%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "熔猎异端之刃": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "熔猎异端之刃",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%86%94%E7%8C%8E%E5%BC%82%E7%AB%AF%E4%B9%8B%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "狼牙": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "狼牙",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8B%BC%E7%89%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "狼的末路": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "狼的末路",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8B%BC%E7%9A%84%E6%9C%AB%E8%B7%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "狼的武功歌": {
+        "printouts": {
+          "实装版本": [
+            "6.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "狼的武功歌",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8B%BC%E7%9A%84%E6%AD%A6%E5%8A%9F%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猎人之径": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "猎人之径",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8C%8E%E4%BA%BA%E4%B9%8B%E5%BE%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猎弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "猎弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8C%8E%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "王下近侍": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "王下近侍",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8E%8B%E4%B8%8B%E8%BF%91%E4%BE%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "玛海菈的水色": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "玛海菈的水色",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%8E%9B%E6%B5%B7%E8%8F%88%E7%9A%84%E6%B0%B4%E8%89%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "琥珀玥": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "琥珀玥",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%90%A5%E7%8F%80%E7%8E%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "甲级宝珏": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "甲级宝珏",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%94%B2%E7%BA%A7%E5%AE%9D%E7%8F%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白影剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白影剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E5%BD%B1%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白湖冬羽": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白湖冬羽",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E6%B9%96%E5%86%AC%E7%BE%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白缨枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白缨枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E7%BC%A8%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白辰之环": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白辰之环",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E8%BE%B0%E4%B9%8B%E7%8E%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白铁大剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白铁大剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E9%93%81%E5%A4%A7%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白雨心弦": {
+        "printouts": {
+          "实装版本": [
+            "4.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "白雨心弦",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%99%BD%E9%9B%A8%E5%BF%83%E5%BC%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "盈满之实": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "盈满之实",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%9B%88%E6%BB%A1%E4%B9%8B%E5%AE%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真语秘匣": {
+        "printouts": {
+          "实装版本": [
+            "6.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "真语秘匣",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%9C%9F%E8%AF%AD%E7%A7%98%E5%8C%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "破魔之弓": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "破魔之弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A0%B4%E9%AD%94%E4%B9%8B%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "硕果钩": {
+        "printouts": {
+          "实装版本": [
+            "5.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "硕果钩",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A1%95%E6%9E%9C%E9%92%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "碎链": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "碎链",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A2%8E%E9%93%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "碧落之珑": {
+        "printouts": {
+          "实装版本": [
+            "3.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "碧落之珑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A2%A7%E8%90%BD%E4%B9%8B%E7%8F%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "磐岩结绿": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "磐岩结绿",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A3%90%E5%B2%A9%E7%BB%93%E7%BB%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "神乐之真意": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "神乐之真意",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%9E%E4%B9%90%E4%B9%8B%E7%9C%9F%E6%84%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "神射手之誓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "神射手之誓",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%9E%E5%B0%84%E6%89%8B%E4%B9%8B%E8%AA%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "祭星者之望": {
+        "printouts": {
+          "实装版本": [
+            "5.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "祭星者之望",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%AD%E6%98%9F%E8%80%85%E4%B9%8B%E6%9C%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "祭礼剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "祭礼剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%AD%E7%A4%BC%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "祭礼大剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "祭礼大剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%AD%E7%A4%BC%E5%A4%A7%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "祭礼弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "祭礼弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%AD%E7%A4%BC%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "祭礼残章": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "祭礼残章",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%A5%AD%E7%A4%BC%E6%AE%8B%E7%AB%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "竭泽": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "竭泽",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%AB%AD%E6%B3%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "笛剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "笛剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%AC%9B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "笼钓瓶一心": {
+        "printouts": {
+          "实装版本": [
+            "2.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "笼钓瓶一心",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%AC%BC%E9%92%93%E7%93%B6%E4%B8%80%E5%BF%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "筑云": {
+        "printouts": {
+          "实装版本": [
+            "4.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "筑云",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%AD%91%E4%BA%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "纯水流华": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "纯水流华",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BA%AF%E6%B0%B4%E6%B5%81%E5%8D%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "纺夜天镜": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "纺夜天镜",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BA%BA%E5%A4%9C%E5%A4%A9%E9%95%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "织月者的曙色": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "织月者的曙色",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BB%87%E6%9C%88%E8%80%85%E7%9A%84%E6%9B%99%E8%89%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "终末嗟叹之诗": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "终末嗟叹之诗",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BB%88%E6%9C%AB%E5%97%9F%E5%8F%B9%E4%B9%8B%E8%AF%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "绝弦": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "绝弦",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BB%9D%E5%BC%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "缀花之翎": {
+        "printouts": {
+          "实装版本": [
+            "5.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "缀花之翎",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BC%80%E8%8A%B1%E4%B9%8B%E7%BF%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "罗网勾针": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "罗网勾针",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BD%97%E7%BD%91%E5%8B%BE%E9%92%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "群王局戏": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "群王局戏",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BE%A4%E7%8E%8B%E5%B1%80%E6%88%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "翡玉法球": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "翡玉法球",
+        "fullurl": "https://wiki.biligame.com/ys/%E7%BF%A1%E7%8E%89%E6%B3%95%E7%90%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "聊聊棒": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "聊聊棒",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%81%8A%E8%81%8A%E6%A3%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "腐殖之剑": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "腐殖之剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%85%90%E6%AE%96%E4%B9%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "船坞长剑": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "船坞长剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%88%B9%E5%9D%9E%E9%95%BF%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苇海信标": {
+        "printouts": {
+          "实装版本": [
+            "3.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苇海信标",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%87%E6%B5%B7%E4%BF%A1%E6%A0%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍古自由之誓": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苍古自由之誓",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%8D%E5%8F%A4%E8%87%AA%E7%94%B1%E4%B9%8B%E8%AA%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍纹角杯": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苍纹角杯",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%8D%E7%BA%B9%E8%A7%92%E6%9D%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍翠猎弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苍翠猎弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%8D%E7%BF%A0%E7%8C%8E%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍耀": {
+        "printouts": {
+          "实装版本": [
+            "5.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苍耀",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%8D%E8%80%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "若水": {
+        "printouts": {
+          "实装版本": [
+            "2.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "若水",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%8B%A5%E6%B0%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "落霞": {
+        "printouts": {
+          "实装版本": [
+            "2.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "落霞",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%90%BD%E9%9C%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "薙草之稻光": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "薙草之稻光",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%96%99%E8%8D%89%E4%B9%8B%E7%A8%BB%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "虹的行迹": {
+        "printouts": {
+          "实装版本": [
+            "5.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "虹的行迹",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%99%B9%E7%9A%84%E8%A1%8C%E8%BF%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "虹蛇的雨弦": {
+        "printouts": {
+          "实装版本": [
+            "6.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "虹蛇的雨弦",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%99%B9%E8%9B%87%E7%9A%84%E9%9B%A8%E5%BC%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "蝶变": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "蝶变",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%9D%B6%E5%8F%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "螭骨剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "螭骨剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%9E%AD%E9%AA%A8%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "血染荒城": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "血染荒城",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A1%80%E6%9F%93%E8%8D%92%E5%9F%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "衔珠海皇": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "衔珠海皇",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A1%94%E7%8F%A0%E6%B5%B7%E7%9A%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "裁叶萃光": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "裁叶萃光",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A3%81%E5%8F%B6%E8%90%83%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "裁断": {
+        "printouts": {
+          "实装版本": [
+            "4.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "裁断",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A3%81%E6%96%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西福斯的月光": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西福斯的月光",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E7%A6%8F%E6%96%AF%E7%9A%84%E6%9C%88%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西风剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西风剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E9%A3%8E%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西风大剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西风大剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E9%A3%8E%E5%A4%A7%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西风猎弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西风猎弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E9%A3%8E%E7%8C%8E%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西风秘典": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西风秘典",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E9%A3%8E%E7%A7%98%E5%85%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "西风长枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "西风长枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%A5%BF%E9%A3%8E%E9%95%BF%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "讨龙英杰谭": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "讨龙英杰谭",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AE%A8%E9%BE%99%E8%8B%B1%E6%9D%B0%E8%B0%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "训练大剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "训练大剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AE%AD%E7%BB%83%E5%A4%A7%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "证誓之明瞳": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "证誓之明瞳",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%81%E8%AA%93%E4%B9%8B%E6%98%8E%E7%9E%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "试作古华": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "试作古华",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%95%E4%BD%9C%E5%8F%A4%E5%8D%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "试作斩岩": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "试作斩岩",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%95%E4%BD%9C%E6%96%A9%E5%B2%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "试作星镰": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "试作星镰",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%95%E4%BD%9C%E6%98%9F%E9%95%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "试作澹月": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "试作澹月",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%95%E4%BD%9C%E6%BE%B9%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "试作金珀": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "试作金珀",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%AF%95%E4%BD%9C%E9%87%91%E7%8F%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "谧音吹哨": {
+        "printouts": {
+          "实装版本": [
+            "6.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "谧音吹哨",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B0%A7%E9%9F%B3%E5%90%B9%E5%93%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "贯月矢": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "贯月矢",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B4%AF%E6%9C%88%E7%9F%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "贯虹之槊": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "贯虹之槊",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B4%AF%E8%99%B9%E4%B9%8B%E6%A7%8A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赤月之形": {
+        "printouts": {
+          "实装版本": [
+            "4.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "赤月之形",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B5%A4%E6%9C%88%E4%B9%8B%E5%BD%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赤沙之杖": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "赤沙之杖",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B5%A4%E6%B2%99%E4%B9%8B%E6%9D%96",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赤角石溃杵": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "赤角石溃杵",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B5%A4%E8%A7%92%E7%9F%B3%E6%BA%83%E6%9D%B5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赦罪": {
+        "printouts": {
+          "实装版本": [
+            "4.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "赦罪",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B5%A6%E7%BD%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "超越之匙": {
+        "printouts": {
+          "实装版本": [
+            "6.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "超越之匙",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%B6%85%E8%B6%8A%E4%B9%8B%E5%8C%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "辰砂之纺锤": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "辰砂之纺锤",
+        "fullurl": "https://wiki.biligame.com/ys/%E8%BE%B0%E7%A0%82%E4%B9%8B%E7%BA%BA%E9%94%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "遗祀玉珑": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "遗祀玉珑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%81%97%E7%A5%80%E7%8E%89%E7%8F%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "金律铸影": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "金律铸影",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%87%91%E5%BE%8B%E9%93%B8%E5%BD%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "金流监督": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "金流监督",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%87%91%E6%B5%81%E7%9B%91%E7%9D%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "钟剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "钟剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%92%9F%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "钢轮弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "钢轮弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%92%A2%E8%BD%AE%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "钺矛": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "钺矛",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%92%BA%E7%9F%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "铁尖枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "铁尖枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%93%81%E5%B0%96%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "铁影阔剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "铁影阔剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%93%81%E5%BD%B1%E9%98%94%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "铁蜂刺": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "铁蜂刺",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%93%81%E8%9C%82%E5%88%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "银剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%93%B6%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银釭": {
+        "printouts": {
+          "实装版本": [
+            "7.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "银釭",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%93%B6%E9%87%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "镇山之钉": {
+        "printouts": {
+          "实装版本": [
+            "5.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "镇山之钉",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%95%87%E5%B1%B1%E4%B9%8B%E9%92%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阿莫斯之弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "阿莫斯之弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%98%BF%E8%8E%AB%E6%96%AF%E4%B9%8B%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "降临之剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "降临之剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%99%8D%E4%B8%B4%E4%B9%8B%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雨裁": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "雨裁",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9B%A8%E8%A3%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雪葬的星银": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "雪葬的星银",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9B%AA%E8%91%AC%E7%9A%84%E6%98%9F%E9%93%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雾切之回光": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "雾切之回光",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9B%BE%E5%88%87%E4%B9%8B%E5%9B%9E%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "霜结的誓金枝": {
+        "printouts": {
+          "实装版本": [
+            "6.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "霜结的誓金枝",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9C%9C%E7%BB%93%E7%9A%84%E8%AA%93%E9%87%91%E6%9E%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "霜辰": {
+        "printouts": {
+          "实装版本": [
+            "6.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "霜辰",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9C%9C%E8%BE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "霜雪誓约": {
+        "printouts": {
+          "实装版本": [
+            "7.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "霜雪誓约",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9C%9C%E9%9B%AA%E8%AA%93%E7%BA%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "静水流涌之辉": {
+        "printouts": {
+          "实装版本": [
+            "4.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "静水流涌之辉",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9D%99%E6%B0%B4%E6%B5%81%E6%B6%8C%E4%B9%8B%E8%BE%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "静谧之曲": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "静谧之曲",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%9D%99%E8%B0%A7%E4%B9%8B%E6%9B%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风信之锋": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "风信之锋",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%8E%E4%BF%A1%E4%B9%8B%E9%94%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风花之颂": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "风花之颂",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%8E%E8%8A%B1%E4%B9%8B%E9%A2%82",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风鹰剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "风鹰剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%8E%E9%B9%B0%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞天大御剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "飞天大御剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%9E%E5%A4%A9%E5%A4%A7%E5%BE%A1%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞天御剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "飞天御剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%9E%E5%A4%A9%E5%BE%A1%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞雷之弦振": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "飞雷之弦振",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A3%9E%E9%9B%B7%E4%B9%8B%E5%BC%A6%E6%8C%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "饰铁之花": {
+        "printouts": {
+          "实装版本": [
+            "3.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "饰铁之花",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A5%B0%E9%93%81%E4%B9%8B%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "香韵奏者": {
+        "printouts": {
+          "实装版本": [
+            "5.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "香韵奏者",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%A6%99%E9%9F%B5%E5%A5%8F%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "魔导绪论": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "魔导绪论",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%AD%94%E5%AF%BC%E7%BB%AA%E8%AE%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鸦羽弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "鸦羽弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%B8%A6%E7%BE%BD%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鹤鸣余音": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "鹤鸣余音",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%B9%A4%E9%B8%A3%E4%BD%99%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鹮穿之喙": {
+        "printouts": {
+          "实装版本": [
+            "3.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "鹮穿之喙",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%B9%AE%E7%A9%BF%E4%B9%8B%E5%96%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黎明破晓之史": {
+        "printouts": {
+          "实装版本": [
+            "6.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黎明破晓之史",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%8E%E6%98%8E%E7%A0%B4%E6%99%93%E4%B9%8B%E5%8F%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黎明神剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黎明神剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%8E%E6%98%8E%E7%A5%9E%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑岩刺枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑岩刺枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%B2%A9%E5%88%BA%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑岩战弓": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑岩战弓",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%B2%A9%E6%88%98%E5%BC%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑岩斩刀": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑岩斩刀",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%B2%A9%E6%96%A9%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑岩绯玉": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑岩绯玉",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%B2%A9%E7%BB%AF%E7%8E%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑岩长剑": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑岩长剑",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E5%B2%A9%E9%95%BF%E5%89%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑缨枪": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑缨枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E7%BC%A8%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑蚀": {
+        "printouts": {
+          "实装版本": [
+            "6.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "黑蚀",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BB%91%E8%9A%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "龙脊长枪": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "龙脊长枪",
+        "fullurl": "https://wiki.biligame.com/ys/%E9%BE%99%E8%84%8A%E9%95%BF%E6%9E%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "6f12a129af00f5afde0226af319c2318",
+      "count": 254,
+      "offset": 0,
+      "source": "",
+      "time": "0.042195"
+    }
+  }
+}

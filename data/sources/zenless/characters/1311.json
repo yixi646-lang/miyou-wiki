@@ -1,0 +1,2184 @@
+{
+  "id": 1311,
+  "icon": "IconRole36",
+  "name": "耀嘉音",
+  "code_name": "Astra",
+  "rarity": 4,
+  "weapon_type": {
+    "4": "支援"
+  },
+  "element_type": {
+    "205": "以太"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "8": "天琴座"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "1/31",
+    "full_name": "耀嘉音",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle36.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0036.png",
+    "impression_f": "嘉音又发敲敲给我了——哇！是为《嫉妒》拍的泳装写真！呜呜，这身材也太棒了吧~",
+    "impression_m": "什么？！为什么我没有…咳，我手机好像坏了。铃，你的借我用一下…",
+    "impressions": [
+      "对耀嘉音的印象：\n · 与在聚光灯下的「女王」完全不同，平日里的耀嘉音更接近普通女孩…不过，她有着数倍于普通女孩的好奇心。",
+      " · 对于公司规章之类的事，嘉音似乎不是很在意…她更喜欢偷偷溜上街和粉丝们玩成一片。",
+      " · 强势的「女王」和活泼的「女孩」，哪个才是真正的嘉音呢？总觉得她的内心包裹着什么东西，驱使着她成为现在的样子…"
+    ],
+    "profile_desc": "耀嘉音是公认的「丽都第一歌姬」，凭借其超凡的嗓音、舞台感染力和创作才华，引领了整个时代的音乐风潮。「如果音乐是灵魂的共鸣，那耀嘉音就是点燃这一切的火花。」某知名乐评人曾如此评价她。\n\n尽管耀眼如斯，嘉音却保持着难得的真诚与纯粹。舞台上，她的歌声直抵人心。这种特质，让她得以拥有庞大的忠实粉丝群「加饭」，当然嘉音的光芒，也离不开经纪人伊芙琳的悉心守护。而舞台之下，似乎只是一个在生活上依赖着伊芙琳，在空洞里依赖着哲和铃的可爱女孩。\n\n「现在挠伊埃斯咯吱窝的话，你会大笑吧？」抱起连接着H.D.D.系统的绳匠，嘉音这样好奇地发问。\n\n似乎格外宠爱伊埃斯。\n思考：人类的情感的确是有趣的课题。嘉音究竟是因为伊埃斯爱屋及乌主人，还是因为主人才爱屋及乌伊埃斯，尚且无法判断。",
+    "role_icon": "IconRole/UnPacker/IconRole36",
+    "stature": "176",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线「悠然插曲·金翅雀逃跑计划」（主线第五章完成后开启）",
+      "完成独家视界「闪耀的此刻」",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "耀嘉音是公认的「丽都第一歌姬」，凭借其超凡的嗓音、舞台感染力和创作才华，引领了整个时代的音乐风潮。「如果音乐是灵魂的共鸣，那耀嘉音就是点燃这一切的火花。」某知名乐评人曾如此评价她。\n\n尽管耀眼如斯，嘉音却保持着难得的真诚与纯粹。舞台上，她的歌声直抵人心。这种特质，让她得以拥有庞大的忠实粉丝群「加饭」，当然嘉音的光芒，也离不开经纪人伊芙琳的悉心守护。而舞台之下，似乎只是一个在生活上依赖着伊芙琳，在空洞里依赖着哲和铃的可爱女孩。\n\n「现在挠伊埃斯咯吱窝的话，你会大笑吧？」抱起连接着H.D.D.系统的绳匠，嘉音这样好奇地发问。\n\n似乎格外宠爱伊埃斯。\n思考：人类的情感的确是有趣的课题。嘉音究竟是因为伊埃斯爱屋及乌主人，还是因为主人才爱屋及乌伊埃斯，尚且无法判断。",
+      "2": "",
+      "3": "嘉音对「Random Play」情有独钟。但她的行踪受到各方的高度关注，目前似乎还能以「这是一家提供各种珍稀版本老电影的店铺，嘉音选片的品味那么好，当然会喜欢啊！」这样的借口搪塞过去。但毕竟是丽都第一大明星，如此频繁地出入录像店，十分不利于隐藏身份。\n\n但，谁在乎这种事呢？身份暴露就暴露吧，嘉音不能不来。\n思考：创造各种状况撮合嘉音和主人，是获取主人欢心的好方法。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3113110": {
+      "name": "耀嘉音·绯红摇滚",
+      "desc": "红色的张扬只为点燃内心深处的自由。舞台之上，没有什么能掩盖她的光芒。",
+      "obtain_desc": "",
+      "image": "IconRole36"
+    },
+    "3113111": {
+      "name": "耀嘉音·水晶灯下",
+      "desc": "黑白相间的小礼服在光影间闪烁，她的每一丝微笑，仿佛沉入夜色的流光，成为永不过时的经典。",
+      "obtain_desc": "",
+      "image": "IconRole36_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 103,
+    "attack_growth": 59961,
+    "avatar_piece_id": 5311,
+    "break_stun": 83,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 48,
+    "defence_growth": 65524,
+    "element_abnormal_power": 93,
+    "element_mystery": 92,
+    "endurance": 0,
+    "hp_growth": 939358,
+    "hp_max": 692,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Astra",
+      "Punch",
+      "Ether",
+      "Female",
+      "Camp8",
+      "Size3",
+      "AidTypeEvade",
+      "Astra",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100214": 4
+      }
+    },
+    "2": {
+      "hp_max": 475,
+      "attack": 37,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100224": 12
+      }
+    },
+    "3": {
+      "hp_max": 950,
+      "attack": 74,
+      "defence": 66,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100224": 20
+      }
+    },
+    "4": {
+      "hp_max": 1425,
+      "attack": 110,
+      "defence": 99,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100234": 10
+      }
+    },
+    "5": {
+      "hp_max": 1900,
+      "attack": 147,
+      "defence": 133,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100234": 20
+      }
+    },
+    "6": {
+      "hp_max": 2375,
+      "attack": 184,
+      "defence": 166,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：《随想曲》",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多三段的攻击，造成<color=#FE437E>以太伤害</color>；\n第三段攻击期间，可长按 <IconMap:Icon_Normal> 进行蓄力，持续聚集敌人，提升攻击范围，释放更加强力的攻击；\n其他招式发动后，可长按 <IconMap:Icon_Normal> 直接发动第三段攻击。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：间奏",
+          "desc": "<color=#FFFFFF>[咏叹华彩]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前方释放<color=#FFFFFF>[震音]</color>进行攻击，造成<color=#FE437E>以太伤害</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：副歌",
+          "desc": "<color=#FFFFFF>[咏叹华彩]</color>状态下，触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动多道<color=#FFFFFF>[震音]</color>进行攻击，造成大量<color=#FE437E>以太伤害</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：终曲",
+          "desc": "<color=#FFFFFF>[咏叹华彩]</color>状态下，长按 <IconMap:Icon_Normal> 发动：\n向前方释放<color=#FFFFFF>[震音]</color>进行攻击，造成<color=#FE437E>以太伤害</color>，并退出<color=#FFFFFF>[咏叹华彩]</color>状态；\n招式发动时，会对自身施加<color=#FFFFFF>[核心被动：《如歌的行板》]</color>中的增益效果；\n能量足够时，会消耗能量追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击，该次<color=#FFFFFF>[震音]</color>会被视为<color=#FFFFFF>[强化特殊技]</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：《随想曲》",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1311001, Prop:1001}",
+              "param": {
+                "1311001": {
+                  "main": 4380,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 4380,
+                  "damage_percentage_growth": 400,
+                  "stun_ratio": 4130,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 6750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 103125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3745,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3746
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1311002, Prop:1001}",
+              "param": {
+                "1311002": {
+                  "main": 5910,
+                  "growth": 540,
+                  "format": "%",
+                  "damage_percentage": 5910,
+                  "damage_percentage_growth": 540,
+                  "stun_ratio": 5640,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 9230,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 141075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5125,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5126
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段最小伤害倍率",
+              "desc": "{Skill:1311003, Prop:1001}",
+              "param": {
+                "1311003": {
+                  "main": 12090,
+                  "growth": 1100,
+                  "format": "%",
+                  "damage_percentage": 12090,
+                  "damage_percentage_growth": 1100,
+                  "stun_ratio": 11480,
+                  "stun_ratio_growth": 530,
+                  "sp_recovery": 18780,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 287100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10431,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10432
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段最大伤害倍率",
+              "desc": "{Skill:1311004, Prop:1001}",
+              "param": {
+                "1311004": {
+                  "main": 27070,
+                  "growth": 2470,
+                  "format": "%",
+                  "damage_percentage": 27070,
+                  "damage_percentage_growth": 2470,
+                  "stun_ratio": 21940,
+                  "stun_ratio_growth": 1000,
+                  "sp_recovery": 35900,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 548350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 19939,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19940
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1311001, Prop:1002}",
+              "param": {
+                "1311001": {
+                  "main": 4130,
+                  "growth": 190,
+                  "format": "%",
+                  "damage_percentage": 4380,
+                  "damage_percentage_growth": 400,
+                  "stun_ratio": 4130,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 6750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 103125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3745,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3746
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1311002, Prop:1002}",
+              "param": {
+                "1311002": {
+                  "main": 5640,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 5910,
+                  "damage_percentage_growth": 540,
+                  "stun_ratio": 5640,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 9230,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 141075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5125,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5126
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段最小失衡倍率",
+              "desc": "{Skill:1311003, Prop:1002}",
+              "param": {
+                "1311003": {
+                  "main": 11480,
+                  "growth": 530,
+                  "format": "%",
+                  "damage_percentage": 12090,
+                  "damage_percentage_growth": 1100,
+                  "stun_ratio": 11480,
+                  "stun_ratio_growth": 530,
+                  "sp_recovery": 18780,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 287100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10431,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10432
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段最大失衡倍率",
+              "desc": "{Skill:1311004, Prop:1002}",
+              "param": {
+                "1311004": {
+                  "main": 21940,
+                  "growth": 1000,
+                  "format": "%",
+                  "damage_percentage": 27070,
+                  "damage_percentage_growth": 2470,
+                  "stun_ratio": 21940,
+                  "stun_ratio_growth": 1000,
+                  "sp_recovery": 35900,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 548350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 19939,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19940
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：间奏",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001}",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001}",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001} * 2",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001}",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001} * 2",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002}",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002}",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002} * 2",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002}",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002} * 2",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：副歌",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001} * 4",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002} * 4",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：终曲",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311005, Prop:1001}",
+              "param": {
+                "1311005": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311005, Prop:1002}",
+              "param": {
+                "1311005": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：《小华尔兹》",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：《蚀月奏》",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行攻击，造成<color=#FE437E>以太伤害</color>；\n发动时若拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以向对应方向位移。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：《折伞华尔兹》",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方敌人发动攻击，造成<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：《蚀月奏》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311010, Prop:1001}",
+              "param": {
+                "1311010": {
+                  "main": 8070,
+                  "growth": 740,
+                  "format": "%",
+                  "damage_percentage": 8070,
+                  "damage_percentage_growth": 740,
+                  "stun_ratio": 4040,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 13200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 100925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3664,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3665
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311010, Prop:1002}",
+              "param": {
+                "1311010": {
+                  "main": 4040,
+                  "growth": 190,
+                  "format": "%",
+                  "damage_percentage": 8070,
+                  "damage_percentage_growth": 740,
+                  "stun_ratio": 4040,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 13200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 100925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3664,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3665
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：《折伞华尔兹》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311011, Prop:1001}",
+              "param": {
+                "1311011": {
+                  "main": 11000,
+                  "growth": 1000,
+                  "format": "%",
+                  "damage_percentage": 11000,
+                  "damage_percentage_growth": 1000,
+                  "stun_ratio": 9680,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 12670,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 96800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3518,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8796
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311011, Prop:1002}",
+              "param": {
+                "1311011": {
+                  "main": 9680,
+                  "growth": 440,
+                  "format": "%",
+                  "damage_percentage": 11000,
+                  "damage_percentage_growth": 1000,
+                  "stun_ratio": 9680,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 12670,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 96800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3518,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8796
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：《风铃与旧约》",
+          "desc": "点按 <IconMap:Icon_Special>  发动：\n快速位移，随后释放<color=#FFFFFF>[震音]</color>造成<color=#FE437E>以太伤害</color>，并进入<color=#FFFFFF>[咏叹华彩]</color>状态；\n发动时若拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以向对应方向位移；\n发动时可长按 <IconMap:Icon_Special> 进行蓄力，持续聚集敌人，并根据蓄力时长追加释放1~4道<color=#FFFFFF>[震音]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n快速位移期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "咏叹华彩",
+          "desc": "耀嘉音进入<color=#FFFFFF>[咏叹华彩]</color>状态后，全队角色造成的伤害提升<color=#2BAD00>{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%</color>，全队角色暴击伤害提升<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%</color>;\n<color=#FFFFFF>[咏叹华彩]</color>状态下，耀嘉音无法移动，但可以点按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：间奏]</color>，或点按 <IconMap:Icon_Evade> 发动闪避，触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> ，可以发动<color=#FFFFFF>[普通攻击：副歌]</color>；\n状态持续期间，耀嘉音的抗打断等级提升，受到的伤害降低40%，切换至其他角色后，耀嘉音会继续留在前场，并获得无敌效果，切换回耀嘉音时，则会自动衔接发动<color=#FFFFFF>[特殊技：《风铃与旧约》]</color>；\n状态持续期间，长按 <IconMap:Icon_Normal> 发动<color=#FFFFFF>[普通攻击：终曲]</color>，或长按 <IconMap:Icon_Evade> ，可以退出<color=#FFFFFF>[咏叹华彩]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "和弦",
+          "desc": "每拥有25点能量，耀嘉音将拥有1点<color=#FFFFFF>[和弦]</color>；\n<color=#FFFFFF>[咏叹华彩]</color>状态下，耀嘉音拥有<color=#FFFFFF>[和弦]</color>时，能够在以下情况中触发<color=#FFFFFF>[快速支援]</color>：\n· 操作中的角色攻击命中敌人时，3秒内最多触发一次；\n· 操作中的角色重击命中敌人时，1秒内最多触发一次；\n队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场时，耀嘉音将消耗25点能量，并追加释放1道<color=#FFFFFF>[震音]</color>进行攻击，该次<color=#FFFFFF>[震音]</color>会被视为<color=#FFFFFF>[强化特殊技]</color>；\n触发<color=#FFFFFF>[快速支援]</color>后，短时间内点按 <IconMap:Icon_Switch> 切换角色，将触发<color=#FFFFFF>[精准支援]</color>，耀嘉音会额外追加释放3枚<color=#FFFFFF>[音簇]</color>进行攻击，队伍中其他角色通过<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场时，将直接触发<color=#FFFFFF>[精准支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：《风铃与旧约》",
+          "param": [
+            {
+              "name": "全队角色伤害提升",
+              "desc": "{CAL:0.08+AvatarSkillLevel(1)*0.01,100,2}%",
+              "potential": []
+            },
+            {
+              "name": "全队角色暴击伤害提升",
+              "desc": "{CAL:0.07+AvatarSkillLevel(1)*0.015,100,2}%",
+              "potential": []
+            },
+            {
+              "name": "最小伤害倍率",
+              "desc": "{Skill:1311006, Prop:1001}",
+              "param": {
+                "1311006": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "最大伤害倍率",
+              "desc": "{Skill:1311006, Prop:1001} * 4",
+              "param": {
+                "1311006": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "最小失衡倍率",
+              "desc": "{Skill:1311006, Prop:1002}",
+              "param": {
+                "1311006": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "最大失衡倍率",
+              "desc": "{Skill:1311006, Prop:1002} * 4",
+              "param": {
+                "1311006": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "和弦",
+          "param": [
+            {
+              "name": "追加震音伤害倍率",
+              "desc": "{Skill:1311008, Prop:1001}",
+              "param": {
+                "1311008": {
+                  "main": 4600,
+                  "growth": 420,
+                  "format": "%",
+                  "damage_percentage": 4600,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2977,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "追加音簇伤害倍率",
+              "desc": "{Skill:1311009, Prop:1001} * 3",
+              "param": {
+                "1311009": {
+                  "main": 2400,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 2400,
+                  "damage_percentage_growth": 220,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1032,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "25点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：《微醺协奏》",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n用歌声引导能量轰击，造成大量<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动后，耀嘉音将进入<color=#FFFFFF>[咏叹华彩]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "终结技：《幻想式奏鸣》",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n用歌声引导能量轰击，造成大量<color=#FE437E>以太伤害</color>，并为全队角色回复<color=#2BAD00>{CAL:-50+AvatarSkillLevel(3)*250,1,2}</color>点生命值；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动后，耀嘉音将进入<color=#FFFFFF>[咏叹华彩]</color>状态；\n招式发动后，下两次发动的<color=#FFFFFF>[快速支援]</color>，将被替换为<color=#FFFFFF>[连携技]</color>；\n次数耗尽前，全队角色<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "连携技：《微醺协奏》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311012, Prop:1001}",
+              "param": {
+                "1311012": {
+                  "main": 67180,
+                  "growth": 6110,
+                  "format": "%",
+                  "damage_percentage": 67180,
+                  "damage_percentage_growth": 6110,
+                  "stun_ratio": 23290,
+                  "stun_ratio_growth": 1060,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2410925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 41116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21167
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311012, Prop:1002}",
+              "param": {
+                "1311012": {
+                  "main": 23290,
+                  "growth": 1060,
+                  "format": "%",
+                  "damage_percentage": 67180,
+                  "damage_percentage_growth": 6110,
+                  "stun_ratio": 23290,
+                  "stun_ratio_growth": 1060,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2410925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 41116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21167
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：《幻想式奏鸣》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311013, Prop:1001}",
+              "param": {
+                "1311013": {
+                  "main": 195980,
+                  "growth": 17820,
+                  "format": "%",
+                  "damage_percentage": 195980,
+                  "damage_percentage_growth": 17820,
+                  "stun_ratio": 23830,
+                  "stun_ratio_growth": 1090,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 71664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311013, Prop:1002}",
+              "param": {
+                "1311013": {
+                  "main": 23830,
+                  "growth": 1090,
+                  "format": "%",
+                  "damage_percentage": 195980,
+                  "damage_percentage_growth": 17820,
+                  "stun_ratio": 23830,
+                  "stun_ratio_growth": 1090,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 71664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "生命值回复",
+              "desc": "{CAL:-50+AvatarSkillLevel(3)*250,1,2}点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：《一川烟火》",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n向前方敌人发动攻击，造成<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "回避支援：《两份相惜》",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n回避敌人的攻击，并触发<color=#FFFFFF>[极限视域]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：《三生初见》",
+          "desc": "发动<color=#FFFFFF>[回避支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方发出能量光束，造成<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：《一川烟火》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311014, Prop:1001}",
+              "param": {
+                "1311014": {
+                  "main": 5500,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311014, Prop:1002}",
+              "param": {
+                "1311014": {
+                  "main": 4840,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5500,
+                  "damage_percentage_growth": 500,
+                  "stun_ratio": 4840,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 6340,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 48400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1759,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：《三生初见》",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1311015, Prop:1001}",
+              "param": {
+                "1311015": {
+                  "main": 30460,
+                  "growth": 2770,
+                  "format": "%",
+                  "damage_percentage": 30460,
+                  "damage_percentage_growth": 2770,
+                  "stun_ratio": 26100,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 870375,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25701,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11837
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1311015, Prop:1002}",
+              "param": {
+                "1311015": {
+                  "main": 26100,
+                  "growth": 1190,
+                  "format": "%",
+                  "damage_percentage": 30460,
+                  "damage_percentage_growth": 2770,
+                  "stun_ratio": 26100,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 870375,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25701,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11837
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1311001,
+      "avatar_id": 1311,
+      "first_priority": [
+        5,
+        1
+      ],
+      "second_priority": [
+        3
+      ],
+      "third_priority": [
+        6,
+        0,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 1311002,
+      "avatar_id": 1311,
+      "first_priority": [
+        5,
+        1
+      ],
+      "second_priority": [
+        0,
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1311001": {
+      "name": "普通攻击：《随想曲》",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311002": {
+      "name": "普通攻击：间奏",
+      "desc": "<IconMap:Icon_Normal>（[咏叹华彩]状态下）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311003": {
+      "name": "普通攻击：副歌",
+      "desc": "<IconMap:Icon_Evade>（[咏叹华彩]状态下）（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311004": {
+      "name": "普通攻击：终曲",
+      "desc": "<IconMap:Icon_Normal>（[咏叹华彩]状态下）（长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311005": {
+      "name": "特殊技：《风铃与旧约》",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311006": {
+      "name": "特殊技：《风铃与旧约》",
+      "desc": "<IconMap:Icon_Special>（长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311007": {
+      "name": "冲刺攻击：《蚀月奏》",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311008": {
+      "name": "闪避反击：《折伞华尔兹》",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311009": {
+      "name": "连携技：《微醺协奏》",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311010": {
+      "name": "终结技：《幻想式奏鸣》",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311011": {
+      "name": "快速支援：《一川烟火》",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1311012": {
+      "name": "回避支援：《两份相惜》",
+      "desc": "<IconMap:Icon_Switch>（触发回避支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1311013": {
+      "name": "支援突击：《三生初见》",
+      "desc": "<IconMap:Icon_Normal>（发动回避支援后）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1311501": {
+        "level": 1,
+        "id": 1311501,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>22%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311502": {
+        "level": 2,
+        "id": 1311502,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>24%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311503": {
+        "level": 3,
+        "id": 1311503,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>26%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311504": {
+        "level": 4,
+        "id": 1311504,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>28%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311505": {
+        "level": 5,
+        "id": 1311505,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>30%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311506": {
+        "level": 6,
+        "id": 1311506,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>32%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1311507": {
+        "level": 7,
+        "id": 1311507,
+        "name": [
+          "核心被动：《如歌的行板》",
+          "额外能力：《月华乱舞》"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场，耀嘉音消耗能量追加释放<color=#FFFFFF>[震音]</color>进行攻击时，耀嘉音和入场角色的攻击力提升，提升效果等同于耀嘉音初始攻击力的<color=#2BAD00>35%</color>，最高不超过1200点，持续20秒，重复触发时延长持续时间，最多不超过30秒。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>、<color=#FFFFFF>[异常]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n消耗能量发动<color=#FFFFFF>[精准支援]</color>或<color=#FFFFFF>[普通攻击：终曲]</color>时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110508": 2
+      },
+      "3": {
+        "10": 28000,
+        "110508": 4
+      },
+      "4": {
+        "10": 60000,
+        "110003": 2,
+        "110508": 9
+      },
+      "5": {
+        "10": 100000,
+        "110003": 3,
+        "110508": 15
+      },
+      "6": {
+        "10": 200000,
+        "110003": 4,
+        "110508": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "十二平均律",
+      "desc": "耀嘉音攻击命中敌人时，目标的全属性伤害抗性降低6%，最多叠加3层，持续30秒，重复触发时刷新持续时间；进入战场时，耀嘉音立刻获得1000点喧响值，在勘域模式中此效果180秒内最多触发一次；发动<color=#FFFFFF>[终结技]</color>时，全队角色各自获得1层<color=#FFFFFF>[庇佑之音]</color>效果，持续60秒，受到敌方攻击时，将消耗<color=#FFFFFF>[庇佑之音]</color>并获得无敌效果，持续1秒。",
+      "desc2": "「老师老师，什么是十二平均律？」\n「十二平均律是一种音乐的律式，就像小朋友们要排队队一样，声音也要排队队。」\n「那声音肯定也和小朋友一样，不爱排队队！」\n——嘉音六岁时的音乐老师，在她成名之后回忆道。"
+    },
+    "2": {
+      "level": 2,
+      "name": "贪心艺术",
+      "desc": "<color=#FFFFFF>[核心被动：《如歌的行板》]</color>中的攻击力提升效果额外提升19%，上限额外提升400点；<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[连携技]</color>、<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[回避支援]</color>入场时，耀嘉音将额外追加释放1道<color=#FFFFFF>[震音]</color>和3枚<color=#FFFFFF>[音簇]</color>进行攻击，3秒内最多触发一次。",
+      "desc2": "「这个世界上最闪亮的东西，当然是爱！」\n像筑巢的小鸟，想要收集亮晶晶的东西。艺术家内心的那份小贪心，就是收集世界上所有的爱吧？只要将所有的爱汇聚在一起，就能创作出最动人的旋律。"
+    },
+    "3": {
+      "level": 3,
+      "name": "交错五线谱",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "空白的五线谱，是永不相交的平行线，就像未曾相遇的灵魂，静静等待着彼此的旋律交织成曲。\n「那就用音符填满它好了！还要很多很多连音符，会是一首很棒的歌吧？」\n就这样创作了一首从头到尾用连音符横跨了136小节的新歌…"
+    },
+    "4": {
+      "level": 4,
+      "name": "《后颈的碎发》",
+      "desc": "发动<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>后，15秒内，耀嘉音未拥有<color=#FFFFFF>[和弦]</color>时也能够触发<color=#FFFFFF>[快速支援]</color>，且攻击命中敌人时触发<color=#FFFFFF>[快速支援]</color>的间隔缩短至1秒；<color=#FFFFFF>[咏叹华彩]</color>状态下，队伍中其他角色通过<color=#FFFFFF>[快速支援]</color>入场时，将根据自身特性获得不同的增益效果，全队3秒内最多触发一次：<color=#FFFFFF>[强攻]</color>：下一次<color=#FFFFFF>[快速支援]</color>重击命中敌人时，额外造成等同于耀嘉音300%攻击力的伤害；<color=#FFFFFF>[异常]</color>：下一次<color=#FFFFFF>[快速支援]</color>累积的属性异常积蓄值提升50%；<color=#FFFFFF>[击破]</color>：下一次<color=#FFFFFF>[快速支援]</color>造成的失衡值提升50%。",
+      "desc2": "一只手悬在钢琴上\n不知该按下哪一个键\n是悲伤的小调\n还是悠扬的思念？\n在音符间寻觅你的影子\n闭上眼，就能看到\n你后颈的碎发"
+    },
+    "5": {
+      "level": 5,
+      "name": "绳匠与丝弦",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「伊芙！我有一个重大发现——伊芙和{M#哲}{F#铃}都是长条形的！」\n「…这两者的共性是什么？」\n「你们都是我最喜欢的人啊！」\n嘉音像发现了什么不得了的机密一般，开心而明媚。"
+    },
+    "6": {
+      "level": 6,
+      "name": "我们即是世界",
+      "desc": "在<color=#FFFFFF>[咏叹华彩]</color>状态下释放和追加释放的<color=#FFFFFF>[震音]</color>和<color=#FFFFFF>[音簇]</color>的伤害倍率提升至原本的200%，暴击率提升80%；触发<color=#FFFFFF>[精准支援]</color>时，耀嘉音会自动追加发动蓄力完成后的<color=#FFFFFF>[普通攻击：《随想曲》]</color>第三段攻击，并使该招式的暴击率提升80%，10秒内最多触发一次。",
+      "desc2": "世界的纷纷扰扰，都是源自人心的孤寂。如果每个人的心都可以得到回音，会不会，这个世界的苦难、悲伤、沉默都可以被统统抹去？\n若能用歌声编织起这份连结，是否所有的裂痕都会愈合，所有的痛楚都会化作悠扬的音律，在寂静中响起？那时，整个世界，便不再是任何一座孤岛。\n「这首歌，献给这个世界！」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 32800,
+    "slot2": 33400,
+    "slot_sub": 31600,
+    "part_sub_list": [
+      12102,
+      12103
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          32800,
+          31600
+        ],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [
+          32800,
+          31400
+        ],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          30502,
+          12102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part5": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part6": {
+      "prop": 31903,
+      "name": "以太伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png"
+    },
+    "part_sub": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_DungeonBuffEther>以太属性，后台辅助",
+    "提高入场代理人的攻击力",
+    "将[快速支援]升级为[连携技]"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpineYaoJiayin"
+}

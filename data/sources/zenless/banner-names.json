@@ -1,0 +1,1175 @@
+{
+  "pages": [
+    {
+      "pageid": 2572,
+      "ns": 0,
+      "title": "Star-Studded Cast",
+      "revisions": [
+        {
+          "revid": 182971,
+          "parentid": 146226,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Infobox\n|name              = Star-Studded Cast\n|image             = Star-Studded Cast.png\n|type              = Stable Channel\n|duration          = perm\n|time_known        = yes\n|time_start        = 2024/07/04 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n|nocountdown       = 1\n|link              = \n}}\n'''Star-Studded Cast''' is the permanent Stable [[Signal Search]] with no time limit.\n\n==Rates==\n{| class=\"wikitable\" style=\"text-align:center;\"\n!Item!!Base Rate!!Average Rate<br />including Pity\n|-\n|S-Rank Agent or W-Engine\n|0.6% ||1.6%\n|-\n|A-Rank Agent or W-Engine\n|9.4%||14.400%\n|-\n|B-Rank W-Engine\n|90%||84%\n|}\n\n==Rules==\n* '''A-Rank drop guarantee:''' If a player does not obtain any A-Rank (or above) signal within 9 signal searches in a row, the 10th signal is ''guaranteed'' to be a A-Rank (or higher) signal.  <!--(On guarantee, the probability of getting a 4{{star}} item is 99.4%, and the probability of getting a 5{{star}} item is 0.6%.)-->\n** This counter will reset if the player obtains any A-Rank signal.\n* '''S-Rank drop guarantee:''' If a player does not obtain any S-Rank signal after 89 signal searches, the 90th signal is ''guaranteed'' to be an S-Rank signal.  <!--(''On average'', a greater proportion of 5{{star}} items are dropped between 74 and 90 pity.)-->\n** This counter will reset if the player obtains any S-Rank signal.\n\n* '''New Player Discount''': when performing signal search on the Stable Channel for the first time, the first five consecutive 10-searches cost 20% fewer [[Master Tapes]], for a cost of 8 Master Tapes each time.\n\n* '''New Player Guarantee''': The first S-Rank Signal Proxies obtain on the Stable Channel is guaranteed within the first 50 signal searches and is also guaranteed to be an Agent.The New Player Guarantee is permanent and can only be triggered once. After obtaining this first S-Rank Agent, the guarantee rules are those reported above.\n\n* '''Additional Recruitment:''' After accumulating a total of 300 signal searches in the Star-Studded Cast Stable Channel, the player can select one bonus S-Rank Agent ({{Item List|Grace Howard; Alexandrina Sebastiane; Koleda Belobog; Nekomiya Mana; Soldier 11;Von Lycaon|type=Agent|size=25|mode=sent}}) to recruit from this channel. This recruitment is permanent and may only be triggered once.\n\n===Residual Signal===\n{{Transclude|Residual Signal|Acquisition|main=1}}\n\n===Special Invitation Letter===\n{{Transclude|Special Invitation Letter|Acquisition|main=1}}\n\n==Entity Pool==\n{{Signal Search Pool\n|agent_S      = Alexandrina Sebastiane; Grace Howard; Koleda Belobog; Nekomiya Mana; Soldier 11; Von Lycaon\n|agent_A      = Anby Demara; Anton Ivanov; Ben Bigger; Billy Kid; Corin Wickes; Komano Manato; Luciana de Montefio; Nicole Demara; Pan Yinhu; Piper Wheel; Pulchra Fellini; Seth Lowell; Soukaku\n|w-engine_S   = Fusion Compiler; Hellfire Gears; Steel Cushion; The Restrained; The Brimstone; Weeping Cradle\n|w-engine_A   = Bashful Demon; Big Cylinder; Box Cutter; Bunny Band; Catty Luck; Demara Battery Mark II; Drill Rig - Red Axis; Grill O'Wisp; Housekeeper; Kaboom the Cannon; Original Transmorpher; Peacekeeper - Specialized; Precious Fossilized Core; Puzzle Sphere; Rainforest Gourmet; Roaring Ride; Slice of Time; Starlight Engine Replica; Starlight Engine; Steam Oven; Street Superstar; The Vault; Tremor Trigram Vessel; Weeping Gemini\n|w-engine_B   = (Identity) Base;(Identity) Inflection;(Lunar) Decrescent;(Lunar) Noviluna;(Lunar) Pleniluna;(Lunar) Semiluna;(Magnetic Storm) Alpha;(Magnetic Storm) Bravo;(Magnetic Storm) Charlie;(Reverb) Mark I;(Reverb) Mark II;(Reverb) Mark III;(Vortex) Arrow;(Vortex) Hatchet;(Vortex) Revolver;(Cinder) Cobalt\n}}\n\n==Other Languages==\n{{Other Languages\n|en       = Star-Studded Cast\n|zhs      = 热门卡司\n|zhs_rm   = Rèmén Kǎsī\n|zht      = 熱門卡司\n|zht_rm   = Rèmén Kǎsī\n|ja       = 話題のキャスト\n|ja_rm    = Wadai no Kyasuto\n|ko       = 인기 출연진\n|es       = Aparición estelar\n|fr       = Liste en vedette\n|ru       = Звёздный состав\n|th       = ดาราจรัสแสง\n|th_rm    = \n|vi       = Dàn Sao Nổi Bật\n|de       = Starbesetzung\n|id       = Bintang Tamu Populer\n|pt       = Elenco Estelar\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Звёздный состав]]\n[[vi:Dàn Sao Nổi Bật]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2914,
+      "ns": 0,
+      "title": "Mellow Waveride",
+      "revisions": [
+        {
+          "revid": 44177,
+          "parentid": 31890,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Mellow Waveride\n|agent     = Ellen Joe\n|type      = Exclusive Channel\n}}\n'''Mellow Waveride''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Ellen Joe}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = Mellow Waveride\n|zhs     = 慵懒逐浪\n|zhs_rm  = Yōnglǎn Zhúlàng\n|zht     = 慵懶逐浪\n|zht_rm  = Yōnglǎn Zhúlàng\n|ja      = 気だるげな波\n|ja_rm   = \n|ko      = 게으른 {{tt|파도|波濤}}\n|es      = Ondas en calma\n|fr      = Ondes indolentes\n|ru      = На волне спокойствия\n|th      = เกลียวคลื่นซัดฝั่ง\n|th_rm   = Kliao Khluen Sat Fang\n|vi      = Tản Mạn Đuổi Sóng\n|de      = Lässiger Wellenritt\n|id      = Derai Santai Riak Ombak\n|pt      = Onda Suave\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:На волне спокойствия]]\n[[vi:Tản Mạn Đuổi Sóng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2923,
+      "ns": 0,
+      "title": "Unswerving Bullet",
+      "revisions": [
+        {
+          "revid": 75491,
+          "parentid": 44201,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Unswerving Bullet\n|icon      = \n|image     = Unswerving Bullet.png\n|agent     = Zhu Yuan\n|type      = Exclusive Channel\n}}\n'''Unswerving Bullet''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Zhu Yuan}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* The Chinese title of this Exclusive Channel is taken from the first verse of the poem {{zh|代白頭吟|Dài Báitóu Yín}} by writer {{w|Bao Zhao}}, who lived during the Northern and Southern Dynasties period. This verse in particular prescribes that a person of ideals and integrity must be as upright as a red silk rope. Notably, the adjective to describe the rope's crimson color is the same character as Zhu Yuan's surname ({{zh|朱|Zhū}}).\n** This title is thus parallel to [[Qingyi]]'s Exclusive Channel [[Untainted Jade]], with which it completes the poem's first couplet {{zh|直如朱絲繩，清如玉壺冰|zhí rú zhū sī shéng, qīng rú yù hú bīng}}.\n\n==Other Languages==\n{{Other Languages\n|en      = Unswerving Bullet\n|zhs     = 直如朱丝绳\n|zhs_rm  = Zhí Rú Zhū Sī Shéng\n|zht     = 直如朱絲繩\n|zht_rm  = Zhí Rú Zhū Sī Shéng\n|ja      = 朱弦が如き実直\n|ja_rm   = \n|ko      = 곧게 {{tt|발사|發射}}된 {{tt|총|銃}}알\n|es      = Proyectil infalible\n|fr      = Balle indéfectible\n|ru      = Пробивная пуля\n|th      = กระสุนพุ่งตรง\n|th_rm   = \n|vi      = Thẳng Như Dây Đàn\n|de      = Unerschütterliche Kugel\n|id      = Peluru Tak Tergoyahkan\n|pt      = Projétil Infalível\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Пробивная пуля]]\n[[vi:Thẳng Như Dây Đàn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2936,
+      "ns": 0,
+      "title": "An Outstanding Partner",
+      "revisions": [
+        {
+          "revid": 176621,
+          "parentid": 176620,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Infobox\n|name              = An Outstanding Partner\n|image             = An Outstanding Partner 3.1.png\n|type              = Bangboo Channel\n|duration          = perm\n|time_known        = yes\n|time_start        = 2024-07-04 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n|nocountdown       = 1\n|link              = \n}}\n'''An Outstanding Partner''' is the permanent [[Combat Bangboo]] [[Signal Search]] with no time limit. \n\n==Rules==\n* '''A-Rank drop guarantee:''' If a player does not obtain any A-Rank (or above) signal within 9 signal searches in a row, the 10th signal is ''guaranteed'' to be an A-Rank (or higher) signal. <!--(On guarantee, the probability of getting an A-Rank item is 99.4%, and the probability of getting an S-Rank item is 0.6%.)-->\n* '''S-Rank drop guarantee:''' If a player does not obtain any S-Rank signal after 79 signal searches, the 80th signal search is ''guaranteed'' to be an S-Rank signal. <!--(''On average'', a greater proportion of S-Rank items are dropped between 74 and 90 pity.)-->\n** This counter will reset if the player obtains any S-Rank signal.\n** Bangboo Channel does not contain S-Rank W-Engines or Agents in their item pool, as such each S-Rank signal will be a Combat Bangboo.\n* '''Selected S-Rank Bangboo guarantee:''' Before signal searching on the Bangboo Channel, players need to select one S-Rank Bangboo. Every time a player obtains an S-Rank signal, it is guaranteed to be the previously selected S-Rank Bangboo. \n* '''Counter and Guarantee carry-over:''' Once an S-Rank Bangboo is selected, players can switch targets to a different S-Rank Bangboo without resetting the number of signal searches, thus retaining the guarantee.\n\n==Item Pool==\n{{Signal Search Pool\n|bangboo_S    = Agent Gulliver; Amillion; Ariel; Bangvolver; Belion; Biggest Fan; Birkblick; Butler; Mercury; Miss Esme; Officer Cui; Plugboo; Red Moccus; Resonaboo; Robin; Rocketboo; Safety; Sharkboo; Snap; Sprout; Ultra Jake\n|bangboo_A    = Avocaboo; Baddieboo; Bagboo; Boollseye; Cryboo; Devilboo; Electroboo; Exploreboo; Magnetiboo; Paperboo; Penguinboo; Sumoboo\n|w-engine_B   = (Identity) Base;(Identity) Inflection;(Lunar) Decrescent;(Lunar) Noviluna;(Lunar) Pleniluna;(Magnetic Storm) Alpha;(Magnetic Storm) Bravo;(Magnetic Storm) Charlie;(Reverb) Mark I;(Reverb) Mark II;(Reverb) Mark III;(Vortex) Arrow;(Vortex) Hatchet;(Vortex) Revolver;(Cinder) Cobalt\n}}\n\n==Gallery==\n===Banners===\n<gallery>\nAn Outstanding Partner 1.0.png|[[Version 1.0]] banner featuring [[Butler]]\nAn Outstanding Partner 1.1.png|[[Version 1.1]] banner featuring [[Officer Cui]]\nAn Outstanding Partner 1.2.png|[[Version 1.2]] banner featuring [[Red Moccus]]\nAn Outstanding Partner 1.4.png|[[Version 1.4]] banner featuring [[Agent Gulliver]]\nAn Outstanding Partner 1.5.png|[[Version 1.5]] banner featuring [[Snap]]\nAn Outstanding Partner 1.7.png|[[Version 1.7]] banner featuring [[Robin]]\nAn Outstanding Partner 2.0.png|[[Version 2.0]] banner featuring [[Belion]]\nAn Outstanding Partner 2.1.png|[[Version 2.1]] banner featuring [[Miss Esme]]\nAn Outstanding Partner 2.2.png|[[Version 2.2]] banner featuring [[Mercury]]\nAn Outstanding Partner 2.4.png|[[Version 2.4]] banner featuring [[Birkblick]]\nAn Outstanding Partner 2.5.png|[[Version 2.5]] banner featuring [[Sprout]]\nAn Outstanding Partner 2.6.png|[[Version 2.6]] banner featuring [[Biggest Fan]]\nAn Outstanding Partner 3.0.png|[[Version 3.0]] banner featuring [[Ultra Jake]]\nAn Outstanding Partner 3.1.png|[[Version 3.1]] banner featuring [[Ariel]]\n</gallery>\n\n===Gacha Artwork===\n{{Files by Category Gallery|Bangboo Gacha Artwork}}\n\n==Other Languages==\n{{Other Languages\n|en      = An Outstanding Partner\n|zhs     = 卓越搭档\n|zhs_rm  = Zhuóyuè Dādàng\n|zht     = 卓越搭檔\n|zht_rm  = Zhuóyuè Dādǎng\n|ja      = 優秀なパートナー\n|ja_rm   = Yūshū na Pātonā\n|ko      = 뛰어난 파트너\n|es      = Acompañante sobresaliente\n|fr      = Partenaire exceptionnel\n|ru      = Превосходный партнёр\n|th      = สุดยอดคู่หู\n|th_rm   = \n|vi      = {{tt|Đồng Đội|同隊}} {{tt|Xuất Chúng|出眾}}\n|de      = Erstklassiger Partner\n|id      = Partner Terbaik\n|pt      = Parceria Fora de Série\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Превосходный партнёр]]\n[[vi:Đồng Đội Xuất Chúng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2971,
+      "ns": 0,
+      "title": "Dissonant Sonata",
+      "revisions": [
+        {
+          "revid": 146509,
+          "parentid": 86073,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Dissonant Sonata\n|type      = W-Engine Channel\n}}\n'''Dissonant Sonata''' is a [[W-Engine Channel]] alongside [[Dazzling Choir]], [[Dazzling Melody]] and [[Vibrant Resonance]]. It provides a rate-up for different W-Engines in the item pool.<!-- S-rank agents cannot be obtained from Dissonant Sonata, but A-rank agents may be acquired.-->\n\nSee [[Signal Search]] for more information on rates.\n\n==History==\n{{Signal Search History Table|Dissonant Sonata}}\n\n==Other Languages==\n{{Other Languages\n|en       = Dissonant Sonata\n|zhs      = 喧哗奏鸣\n|zhs_rm   = Xuānhuá Zòumíng\n|zht      = 喧譁奏鳴\n|zht_rm   = Xuānhuá Zòumíng\n|ja       = 喧噪のソナタ\n|ja_rm    = Kensō no Sonata\n|ko       = 불협화음 소나타\n|es       = Sonata disonante\n|fr       = Sonate dissonante\n|ru       = Соната диссонанса\n|th       = เสียงดังกึกก้อง\n|vi       = Hòa Tấu Âm Vang\n|de       = Dissonante Sonate\n|id       = Sonata Disonan\n|pt       = Sonata Dissonante\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Соната диссонанса]]\n[[vi:Hòa Tấu Âm Vang]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 6471,
+      "ns": 0,
+      "title": "Untainted Jade",
+      "revisions": [
+        {
+          "revid": 121169,
+          "parentid": 121168,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Untainted Jade\n|agent     = Qingyi\n|type      = Exclusive Channel\n}}\n'''Untainted Jade''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Qingyi}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* The Chinese title of this Exclusive Channel is taken from the second verse of the poem {{zh|代白頭吟|Dài Báitóu Yín}} by writer {{w|Bao Zhao}}, who lived during the Northern and Southern Dynasties period. This verse in particular prescribes that a person of ideals and integrity must be as unsullied and uncorrupted as the ice that forms inside a jade jug. The verse is actually {{zh|{{Color|new|清}}如玉壺冰|qīng rú yù hú bīng}}, but ''Zenless Zone Zero'' has adapted it to use Qingyi's {{zh|青|Qīng}} as the first character instead, playing on the homophony of the two words. Moreover, the choice of the title reflects Qingyi's tie to jade, since has several jade objects, from her hair decorations to the tea set she uses in her [[:File:Dynamic Wallpaper Qingyi.mp4|Dynamic Wallpaper]], and her W-Engine [[Ice-Jade Teapot]], which is a reference to this verse, too.\n** This title is thus parallel to [[Zhu Yuan]]'s Exclusive Channel [[Unswerving Bullet]], with which it completes the poem's first couplet {{zh|直如朱絲繩，清如玉壺冰|zhí rú zhū sī shéng, qīng rú yù hú bīng}}.\n\n==Other Languages==\n{{Other Languages\n|en       = Untainted Jade\n|zhs      = 青如玉壶冰\n|zhs_rm   = Qīng Rú Yù Hú Bīng\n|zht      = 青如玉壺冰\n|zht_rm   = Qīng Rú Yù Hú Bīng\n|ja       = 青氷が如き清白\n|ja_rm    = Ao Kori ga Gotoki Seihaku\n|ko       = {{tt|옥호빙|玉壺氷}}처럼 푸른\n|es       = Jade impoluto\n|fr       = Jade immaculé\n|ru       = Чиста, как нефрит и лёд\n|th       = พิสุทธิ์ใสดุจหยกน้ำแข็ง\n|th_rm    = \n|vi       = {{tt|Tựa Ngọc Băng Thanh|似玉冰青}}\n|de       = Unberührte Jade\n|id       = Giok Tak Ternodai\n|pt       = Jade Imaculada\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Чиста, как нефрит и лёд]]\n[[vi:Tựa Ngọc Băng Thanh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 6472,
+      "ns": 0,
+      "title": "(No Match Found)",
+      "revisions": [
+        {
+          "revid": 44175,
+          "parentid": 31960,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = [No Match Found]\n|image     = (No Match Found).png\n|agent     = Jane Doe\n|type      = Exclusive Channel\n}}\n'''[No Match Found]''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Jane Doe}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = No Match Found\n|zhs      = 「查无此人」\n|zhs_rm   = \"Chá Wú Cǐ Rén\"\n|zht      = 「查無此人」\n|zht_rm   = \"Chá Wú Cǐ Rén\"\n|ja       = 「該当する人物なし」\n|ja_rm    = \n|ko       = 「신원 조회 불가」\n|es       = Ningún resultado obtenido\n|fr       = Aucune correspondance\n|ru       = По запросу никого не найдено\n|th       = บุคคลนิรนาม\n|th_rm    = \n|vi       = \"Hồ Sơ Trống\"\n|de       = Keine Treffer gefunden\n|id       = Ilusi Seribu Sisi\n|pt       = Pessoa Não Encontrada\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:По запросу никого не найдено]]\n[[vi:\"Hồ Sơ Trống\"]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 8559,
+      "ns": 0,
+      "title": "Ember-Crowned Overlord",
+      "revisions": [
+        {
+          "revid": 74821,
+          "parentid": 62683,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Ember-Crowned Overlord\n|image     = Ember-Crowned Overlord.png\n|agent     = Caesar King\n|type      = Exclusive Channel\n}}\n'''Ember-Crowned Overlord''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Caesar King}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Ember-Crowned Overlord\n|zhs      = 荣焰桂冠\n|zhs_rm   = Róng Yàn Guìguān\n|zht      = 榮焰桂冠\n|zht_rm   = Róng Yàn Guìguān\n|ja       = 燃ゆる桂冠\n|ja_rm    = \n|ko       = {{tt|광염|狂炎}}<->의 {{tt|월계관|月桂冠}}\n|es       = Flámea coronación\n|fr       = Suzeraine couronnée de braises\n|ru       = Лавовый венок\n|th       = บัลลังก์อัคนี\n|th_rm    = \n|vi       = {{tt|Vương Miện Rực|王冕熤}} Lửa\n|de       = Mit Flammen gekrönte Oberherrin\n|id       = Sang Mahkota Api\n|pt       = Soberana Flamejante\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Лавовый венок]]\n[[vi:Vương Miện Rực Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 8562,
+      "ns": 0,
+      "title": "Born to Burn",
+      "revisions": [
+        {
+          "revid": 74817,
+          "parentid": 61128,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Born to Burn\n|image     = Born to Burn.png\n|agent     = Burnice White\n|type      = Exclusive Channel\n}}\n'''Born to Burn''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Burnice White}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Born to Burn\n|zhs      = 天生丽炽\n|zhs_rm   = Tiānshēng Lì Chì\n|zht      = 天生麗熾\n|zht_rm   = Tiānshēng Lì Chì\n|ja       = 高嶺の火花\n|ja_rm    = \n|ko       = 타고난 불꽃\n|es       = Hado incendiario\n|fr       = Née pour brûler\n|ru       = Дай газу, дай жару\n|th       = กำเนิดเพื่อลุกโชน\n|th_rm    = \n|vi       = Khát Khao Bùng Cháy\n|de       = Zum Brennen geboren\n|id       = Titisan Api\n|pt       = Talento Incendiário\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Дай газу, дай жару]]\n[[vi:Khát Khao Bùng Cháy]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 12592,
+      "ns": 0,
+      "title": "Moonlit Serenity",
+      "revisions": [
+        {
+          "revid": 74949,
+          "parentid": 61135,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Moonlit Serenity\n|image     = Moonlit Serenity.png\n|agent     = Tsukishiro Yanagi\n|type      = Exclusive Channel\n}}\n'''Moonlit Serenity''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Tsukishiro Yanagi}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Moonlit Serenity\n|zhs      = 休心沐月\n|zhs_rm   = Xiū Xīn Mù Yuè\n|zht      = 休心沐月\n|zht_rm   = Xiū Xīn Mù Yuè\n|ja       = 賜暇の心月\n|ja_rm    = \n|ko       = 달빛 아래 {{tt|휴식|休息}}\n|es       = Sosiego del claro cinéreo\n|fr       = Sérénité lunaire\n|ru       = Покой под луной\n|th       = แสงจันทร์ชโลมใจ\n|th_rm    = \n|vi       = Tâm Tịnh Dưới Trăng\n|de       = Gelassenheit im Mondschein\n|id       = Ketenangan Terang Rembulan\n|pt       = Serenidade Sob o Luar\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Покой под луной]]\n[[vi:Tâm Tịnh Dưới Trăng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 12593,
+      "ns": 0,
+      "title": "Champion of Embers",
+      "revisions": [
+        {
+          "revid": 74953,
+          "parentid": 61131,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Champion of Embers\n|image     = Champion of Embers.png\n|agent     = Lighter\n|type      = Exclusive Channel\n}}\n'''Champion of Embers''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Lighter}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Champion of Embers\n|zhs      = 余烬之冕\n|zhs_rm   = Yújìn zhī Miǎn\n|zht      = 餘燼之冕\n|zht_rm   = Yújìn zhī Miǎn\n|ja       = 栄光の残り火\n|ja_rm    = \n|ko       = 잿불의 챔피언\n|es       = Campeón de las ascuas\n|fr       = Champion des braises\n|ru       = Пламенный чемпион\n|th       = มงกุฎเถ้าธุลี\n|th_rm    = \n|vi       = {{tt|Vương Miện|王冕}} Của {{tt|Tàn Tro|殘𤊣}}\n|de       = Champion der Glut\n|id       = Juara Membara\n|pt       = Campeão das Cinzas\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Пламенный чемпион]]\n[[vi:Vương Miện Của Tàn Tro]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 14755,
+      "ns": 0,
+      "title": "Honed Blade of Reflection",
+      "revisions": [
+        {
+          "revid": 74813,
+          "parentid": 61127,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Honed Blade of Reflection\n|image     = Honed Blade of Reflection.png\n|agent     = Hoshimi Miyabi\n|type      = Exclusive Channel\n}}\n'''Honed Blade of Reflection''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Hoshimi Miyabi}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Honed Blade of Reflection\n|zhs     = 砺世澄沧\n|zhs_rm  = \n|zht     = 礪世澄滄\n|zht_rm  = \n|ja      = 世を正す清澄\n|ja_rm   = \n|ko      = 세상을 벼리는 시린 검\n|es      = Hoja pulimentada de la reflexión\n|fr      = Lame transcendante de clarté\n|ru      = \n|th      = \n|th_rm   = \n|vi      = Giá Băng Rèn Giũa\n|de      = Geschliffenes Schwert der Besinnung\n|id      = Pedang Kiliran Berkilau\n|pt      = Lâmina Transcendente\n}}\n\n==Change History==\n{{Change History|1.4}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Блеск клинка во мгле]]\n[[vi:Giá Băng Rèn Giũa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 14756,
+      "ns": 0,
+      "title": "Per Aspera",
+      "revisions": [
+        {
+          "revid": 74819,
+          "parentid": 67692,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Per Aspera\n|image     = Per Aspera.png\n|agent     = Asaba Harumasa\n|type      = Exclusive Channel\n}}\n'''Per Aspera''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Asaba Harumasa}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* {{lang|la= Per aspera|mini= 1}} is half of the Latin phrase {{w|per aspera ad astra (disambiguation)|{{lang|la= per aspera ad astra|mini= 1}}}}, literally: \"through hardships, to the stars\", used to describe how the road to greatness is paved with difficulties and suffering.\n\n==Other Languages==\n{{Other Languages\n|en       = Per Aspera\n|zhs      = 循此苦旅\n|zhs_rm   = Xún Cǐ Kǔ Lǚ\n|zht      = 循此苦旅\n|zht_rm   = Xún Cǐ Kǔ Lǚ\n|ja       = 苦難の果てに\n|ja_rm    = Kunan no Hate ni\n|ko       = 역경을 넘어 별을 향해\n|es       = Per aspera\n|fr       = Per aspera\n|ru       = Горькая чаша\n|th       = สู่วิถีอุปสรรค\n|th_rm    = \n|vi       = Hành Trình Khổ Hạnh\n|de       = Auf rauen Pfaden\n|id       = Melalui Pengorbanan\n|pt       = Caminho das Pedras\n}}\n\n==Change History==\n{{Change History|1.4}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Горькая чаша]]\n[[vi:Hành Trình Khổ Hạnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 14763,
+      "ns": 0,
+      "title": "Dazzling Choir",
+      "revisions": [
+        {
+          "revid": 167962,
+          "parentid": 146511,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Dazzling Choir\n|type      = W-Engine Channel\n}}\n'''Dazzling Choir''' is a [[W-Engine Channel]] alongside [[Dissonant Sonata]], [[Dazzling Melody]] and [[Vibrant Resonance]]. It provides a rate-up for different W-Engines in the item pool.<!-- S-rank agents cannot be obtained from Dazzling Choir, but A-rank agents may be acquired.-->\n\nSee [[Signal Search]] for more information on rates.\n\n==History==\n{{Signal Search History Table|Dazzling Choir}}\n\n==Other Languages==\n{{Other Languages\n|en       = Dazzling Choir\n|zhs      = 灿烂和声\n|zhs_rm   = Cànlàn Héshéng\n|zht      = 燦爛和聲\n|zht_rm   = Cànlàn Héshéng\n|ja       = 燦々たるハーモニー\n|ja_rm    = Sansan taru Hāmonī\n|ko       = 찬란한 화음\n|es       = Cadencia fulgurante\n|fr       = Chœur radieux\n|ru       = Гимн гармонии\n|th       = การประสานเสียงอันยอดเยี่ยม\n|th_rm    = \n|vi       = Hòa Âm Rực Rỡ\n|de       = Umwerfender Chor\n|id       = Harmoni Indah\n|pt       = Harmonia Estonteante\n}}\n\n==Change History==\n{{Change History|1.4}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Гимн гармонии]]\n[[vi:Hòa Âm Rực Rỡ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 16883,
+      "ns": 0,
+      "title": "Thousand Melodies",
+      "revisions": [
+        {
+          "revid": 74947,
+          "parentid": 67705,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Thousand Melodies\n|agent     = Astra Yao\n|type      = Exclusive Channel\n}}\n'''Thousand Melodies''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Astra Yao}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* The Chinese title ''{{zh|千千闕音|Qiānqiān Quèyīn}}'' is a reference to the song ''{{zh|千千闕歌|Qiānqiān Quègē}}'' by Hong Kong singer {{w|Priscilla Chan (singer)|Priscilla Chan}}, one of the all-time Cantopop classics and her signature song. \n** The song itself is the Cantonese version of Japanese singer {{w|Masahiko Kondō|Kondō Masahiko}}'s hit {{Lang|''Song of Sunset''|ja=夕焼けの歌|ja_rm=Yūyake no Uta}}.\n\n==Other Languages==\n{{Other Languages\n|en      = Thousand Melodies\n|zhs     = 千千阙音\n|zhs_rm  = Qiānqiān Què Yīn\n|zht     = 千千闕音\n|zht_rm  = Qiānqiān Què Yīn\n|ja      = 千の音を奏でて\n|ja_rm   = Sen no Oto wo Kaede te\n|ko      = {{tt|수천|數千}} {{tt|개|個}}<->의 {{tt|선율|旋律}}\n|es      = Torrente de melodías\n|fr      = Mille mélodies\n|ru      = Мириады мелодий\n|th      = พันหมื่นท่วงทำนอง\n|th_rm   = \n|vi      = {{tt|Giai Điệu|階調}} {{tt|Du Dương|悠揚}}\n|de      = Tausend Melodien\n|id      = Ribuan Alunan Melodi\n|pt      = Melodias Infinitas\n}}\n\n==Change History==\n{{Change History|1.5}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Мириады мелодий]]\n[[vi:Giai Điệu Du Dương]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 18185,
+      "ns": 0,
+      "title": "Electric Reflection",
+      "revisions": [
+        {
+          "revid": 74957,
+          "parentid": 72132,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Electric Reflection\n|image     = Electric Reflection.png\n|agent     = Soldier 0 - Anby\n|type      = Exclusive Channel\n}}\n'''Electric Reflection''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Soldier 0 - Anby}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Electric Reflection\n|zhs      = 露电倒影\n|zhs_rm   = Lùdiàn Dàoyǐng\n|zht      = 露電倒影\n|zht_rm   = Lùdiàn Dàoyǐng\n|ja       = 瞬雷に映る影\n|ja_rm    = \n|ko       = {{tt|찰나|刹那}}<->의 그림자\n|es       = Refracción eléctrica\n|fr       = Reflet électrique\n|ru       = Проекция разряда\n|th       = เงาสะท้อนอสนี\n|th_rm    = \n|vi       = Ánh Chớp {{tt|Phản Chiếu|反照}}\n|de       = Elektrisches Spiegelbild\n|id       = Siluet Elektrik\n|pt       = Reflexo Relampejante\n}}\n\n==Change History==\n{{Change History|1.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Проекция разряда]]\n[[vi:Ánh Chớp Phản Chiếu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 18186,
+      "ns": 0,
+      "title": "Sights of Asphodel",
+      "revisions": [
+        {
+          "revid": 75454,
+          "parentid": 74951,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Sights of Asphodel\n|image     = Sights of Asphodel.png\n|agent     = Trigger\n|type      = Exclusive Channel\n}}\n'''Sights of Asphodel''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Trigger}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* The title is a reference to the {{w|Asphodel Meadows}}, a section of the the Greek underworld covered in {{w|Asphodelus|asphodels}}.\n** The choice is in line with the Greek underworld theme of [[Obol Squad#Trivia|Obol Squad]] and Trigger especially.\n\n==Other Languages==\n{{Other Languages\n|en       = Sights of Asphodel\n|zhs      = 冥目幽华\n|zhs_rm   = Míngmù Yōuhuá\n|zht      = 冥目幽華\n|zht_rm   = Míngmù Yōuhuá\n|ja       = 冥き目と幽世の花\n|ja_rm    = Kurakime to Kakuriyo no Hana\n|ko       = 어둠 속에서 핀 꽃\n|es       = Visión de asfódelos\n|fr       = Vision d'Asphodèles\n|ru       = По ту сторону реки\n|th       = รัศมีอนธการ\n|th_rm    = \n|vi       = Đôi Mắt Sâu Lắng\n|de       = Visionen der Asphodill\n|id       = Kilasan Asphodel\n|pt       = Olho do Crepúsculo\n}}\n\n==Change History==\n{{Change History|1.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:По ту сторону реки]]\n[[vi:Đôi Mắt Sâu Lắng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 18792,
+      "ns": 0,
+      "title": "Vibrant Resonance",
+      "revisions": [
+        {
+          "revid": 146508,
+          "parentid": 74954,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Vibrant Resonance\n|type      = W-Engine Channel\n}}\n'''Vibrant Resonance''' is a [[W-Engine Channel]] alongside [[Dissonant Sonata]], [[Dazzling Choir]] and [[Dazzling Melody]]. It provides a rate-up for different W-Engines in the item pool.<!-- S-rank agents cannot be obtained from Vibrant Resonance, but A-rank agents may be acquired.-->\n\nSee [[Signal Search]] for more information on rates.\n\n==History==\n{{Signal Search History Table|Vibrant Resonance}}\n\n==Other Languages==\n{{Other Languages\n|en       = Vibrant Resonance\n|zhs      = 激荡谐振\n|zhs_rm   = \n|zht      = 激盪諧振\n|zht_rm   = \n|ja       = 揺れ動く共振\n|ja_rm    = \n|ko       = 요동치는 공명\n|es       = Reverbero impetuoso\n|fr       = Résonance vibratoire\n|ru       = Рапсодия резонанса\n|th       = เสียงสะท้อนแว่วกังวาน\n|th_rm    = \n|vi       = Cộng Hưởng Vang Dội\n|de       = Lebhafte Resonanz\n|id       = Resonansi Gempita\n|pt       = Ressonância Vibrante\n}}\n\n==Change History==\n{{Change History|1.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Рапсодия резонанса]]\n[[vi:Cộng Hưởng Vang Dội]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 19941,
+      "ns": 0,
+      "title": "Dazzling Melody",
+      "revisions": [
+        {
+          "revid": 146510,
+          "parentid": 138504,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Dazzling Melody\n|type      = W-Engine Channel\n}}\n'''Dazzling Melody''' is a [[W-Engine Channel]] alongside [[Dissonant Sonata]], [[Dazzling Choir]] and [[Vibrant Resonance]]. It provides a rate-up for different W-Engines in the item pool.<!-- S-rank agents cannot be obtained from Dazzling Melody, but A-rank agents may be acquired.-->\n\nSee [[Signal Search]] for more information on rates.\n\n==History==\n{{Signal Search History Table|Dazzling Melody}}\n\n==Other Languages==\n{{Other Languages\n|en       = Dazzling Melody\n|zhs      = 璀璨韵律\n|zhs_rm   = Cuǐcàn Yùnlǜ\n|zht      = 璀璨韻律\n|zht_rm   = Cuǐcàn Yùnlǜ\n|ja       = 煌めくリズム\n|ja_rm    = Kirameku Rizumu\n|ko       = {{tt|찬란|燦爛}}한 {{tt|운율|韻律}}\n|es       = Cadencia rutilante\n|fr       = Tempo éblouissant\n|ru       = Феерия ритма\n|th       = ทำนองส่องประกาย\n|th_rm    = \n|vi       = {{tt|Giai Điệu|階調}} Rực Rỡ\n|de       = Glanzvolle Melodie\n|id       = Kilauan Melodi\n|pt       = Melodia Brilhante\n}}\n\n==Change History==\n{{Change History|1.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Феерия ритма]]\n[[vi:Giai Điệu Rực Rỡ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 20567,
+      "ns": 0,
+      "title": "As Yesterday Dies",
+      "revisions": [
+        {
+          "revid": 88952,
+          "parentid": 88927,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = As Yesterday Dies\n|image     = As Yesterday Dies.png\n|agent     = Hugo Vlad\n|type      = Exclusive Channel\n}}\n'''As Yesterday Dies''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Hugo Vlad}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = As Yesterday Dies\n|zhs     = 譬如昨日死\n|zhs_rm  = Pìrú Zuórì Sǐ\n|zht     = 譬如昨日死\n|zht_rm  = Pìrú Zuórì Sǐ\n|ja      = 昨日、死んだとして\n|ja_rm   = Kinō, Shinda toshite\n|ko       = 어제는 과거에 묻어두고\n|es       = Cual óbito del ayer\n|fr       = Comme si le passé mourait\n|ru       = Пусть прошлое мертво\n|th       = ดั่งความตายในวันวาน\n|th_rm    = \n|vi       = Ví Như Cái Chết Hôm Qua\n|de       = Der Tod des Vortags\n|id       = Kala Silam Terkubur\n|pt       = Sepultamento do Passado\n}}\n\n==Trivia==\n===Etymology===\n*The Chinese name of the banner may come from ''{{w|Liao-Fan's Four Lessons}} (Chinese:{{zh|了凡四训}})'' by {{zh|袁黄|rm=Yuán Huáng}} (Other Name: {{zh|袁了凡|rm= Yuán Liǎofán}}).\n**The original sentence is {{zh|從前種種，'''譬如昨日死'''；從後種種，譬如今日生。此義理再生之身。}}. \"Regard the past as if it '''died''' with '''yesterday'''; consider what lies ahead as it born with today. This is your rebirth through moral awakening.\"\n\n==Change History==\n{{Change History|1.7}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Пусть прошлое мертво]]\n[[vi:Ví Như Cái Chết Hôm Qua]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 23319,
+      "ns": 0,
+      "title": "Fu-rocious Feline",
+      "revisions": [
+        {
+          "revid": 98513,
+          "parentid": 92683,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Fu-rocious Feline\n|image     = Fu-rocious Feline.png\n|agent     = Ju Fufu\n|type      = Exclusive Channel\n}}\n'''Fu-rocious Feline''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Ju Fufu}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en      = Fu-rocious Feline\n|zhs      = 福福生威\n|zhs_rm   = \n|zht      = 福福生威\n|zht_rm   = \n|ja       = 福福しきこと、虎の如し！\n|ja_rm    = \n|ko       = 복 나와라, 어흥!\n|es       = Fu-erza Fu-lminante\n|fr       = Tigresse Fu-fulminante\n|ru       = Грррозная Фуфу-рия\n|th       = พยัคฆ์ผาสุก\n|th_rm    = \n|vi       = Fufu Uy Mãnh\n|de       = Fufu-riose Wildgroßkatze\n|id       = Fufu Fu-nomenal\n|pt       = Felina Fufuriosa\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Fufu Uy Mãnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 30398,
+      "ns": 0,
+      "title": "Cordis Germina",
+      "revisions": [
+        {
+          "revid": 145854,
+          "parentid": 145609,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14146\n|name          = Cordis Germina\n|image         = W-Engine Cordis Germina.png\n|releaseDate   = 2025-09-04 10:00:00 GMT+8\n|base_stat     = 48-713\n|adv_stat      = 9.6%-24%\n|adv_stat_name = CRIT Rate\n|effect_name   = Sprouting Core\n|effect        = Increases CRIT Rate by {{Color|Green|(var1)%}}. When the equipper deals DMG with a '''Basic Attack''' or '''EX Special Attack''', they gain 1 stack of a buff. Each stack increases the equipper's {{Color|Electric DMG}} by {{Color|Green|(var2)%}}, up to 2 stacks. Each stack lasts 40s. The duration of each stack is calculated separately. Can trigger once per use of a skill. At 2 stacks, the wearer's '''Basic Attack''' and '''Ultimate''' DMG ignore {{Color|Green|(var3)%}} of enemy DEF.\n|eff_var1_u1   = 15\n|eff_var1_u2   = 17\n|eff_var1_u3   = 19\n|eff_var1_u4   = 21\n|eff_var1_u5   = 23\n|eff_var2_u1   = 12.5\n|eff_var2_u2   = 14.5\n|eff_var2_u3   = 16.5\n|eff_var2_u4   = 18.5\n|eff_var2_u5   = 20\n|eff_var3_u1   = 20\n|eff_var3_u2   = 23\n|eff_var3_u3   = 26\n|eff_var3_u4   = 29\n|eff_var3_u5   = 32\n|eff_att1      = CRIT Rate Increase\n|eff_att2      = Electric DMG Increase\n|eff_att3      = DEF Ignore\n}}\n{{Description|Her journey continues along the long, endless circle.}}\n{{Lead/W-Engine}} It is [[Seed]]'s Exclusive [[W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|What is a \"heart\"?<br/><br/>What is the weight of life?<br/><br/>No matter how many machines she takes apart, no matter how many flowers she tends to, she still can't find the answer.<br/><br/>She programmed the W-Engine to mimic her heartbeat exactly, hoping it would lead her to an answer. But as the rhythm echoed, she slowly drifted to sleep. In her dreams, [[Seed Sr.]] came to life — with a heartbeat of his own — and once again responded to her wild, wandering questions, just like he used to...<br/>Her journey continues along the long, endless circle.<br/><br/>\"[[Trigger]]'s heartbeat is nice and steady. [[Soldier 11]]'s is a bit fast. [[Orphie]]'s picks up when the Captain scolds her, but it's kind of slow otherwise. As for you, Proxies~ Hmm, yours feels really intense?\" &mdash;[[Seed]], pressing an ear against the chests of the [[Phaethon]] siblings to listen to their heartbeats.}}\n\n==Availability==\n* '''Cordis Germina''' is only available from ''Exclusive Channel'' [[Signal Search]]: [[Dissonant Sonata]].\n\n===Featured===\n{{Featured}}\n\n==W-Engine Showcase==\n[[File:W-Engine Showcase Cordis Germina.mp4|256px]]\n\n==Gallery==\n{{Files by Character Gallery|Cordis Germina Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Trivia==\n===Etymology===\n* Cordis Germina is Latin for \"seeds of the heart.\"\n\n==Other Languages==\n{{Other Languages\n|en       = Cordis Germina\n|zhs      = 机巧心种\n|zhs_rm   = Jīqiǎo Xīnzhǒng\n|zht      = 機巧心種\n|zht_rm   = Jīqiǎo Xīnzhǒng\n|ja       = 駆動する種\n|ja_rm    = Kudō suru Tane\n|ko       = 기계 심장에 내린 씨앗\n|es       = Cordis germina\n|fr       = Cordis germina\n|ru       = Рукотворное сердце\n|th       = Cordis Germina\n|vi       = Hạt Giống Con Tim\n|de       = Cordis Germina\n|id       = Cordis Germina\n|pt       = Cordis Germina\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Hạt Giống Con Tim]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 30399,
+      "ns": 0,
+      "title": "Bellicose Blaze",
+      "revisions": [
+        {
+          "revid": 166572,
+          "parentid": 145595,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14130\n|name          = Bellicose Blaze\n|image         = W-Engine Bellicose Blaze.png\n|releaseDate   = 2025-09-24 12:00:00\n|base_stat     = 48-713\n|adv_stat      = 24%-60%\n|adv_stat_name = Energy Regen\n|effect_name   = Flame-Devouring Choir\n|effect        = Increases CRIT Rate by {{Color|Green|(var1)%}}. When the equipper triggers an '''Aftershock''' that deals {{Color|Fire|Fire DMG}}, their attacks ignore {{Color|Green|(var2)%}} of the target's DEF for 8s. Can stack once every 3s, up to 2 stacks. Repeated triggers reset the duration.\n|eff_var1_u1   = 20\n|eff_var1_u2   = 23\n|eff_var1_u3   = 26\n|eff_var1_u4   = 29\n|eff_var1_u5   = 32\n|eff_var2_u1   = 15\n|eff_var2_u2   = 17.2\n|eff_var2_u3   = 19.5\n|eff_var2_u4   = 21.7\n|eff_var2_u5   = 24\n|eff_att1      = CRIT Rate Increase\n|eff_att2      = DEF Ignore\n}}\n{{Description|She lingers by the banks of the Styx, waiting for the tide to extinguish the fury burning in her chamber.}}\n{{Lead/W-Engine|Bellicose Blaze}} It is [[Orphie Magnusson & Magus]]' Exclusive [[W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|While developing this W-Engine, Captain Magus stood nearby repeating, \"Not hot enough, not intense enough,\" pushing the maker to keep raising the temperature &mdash; right up to the brink of the material's melting point. The poor craftsman had to endure Magus's grumbling, Orphie's apologies, and suffocating steam to get the job done. Finally, with a sharp whine from the pressure, the special W-Engine emerged from its hellish forge &mdash; refined through fire and hammering, and cooled with a roar rivaling its master.<br /><br />\"Captain, why are you always so angry?\"<br />\"I'm a gun, Orphie. All that flows through my chamber is metal and gunpowder.\"<br />&mdash;For the first time, Orphie saw a trace of sorrow in the weapon she called \"Captain.\"}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Bellicose Blaze Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Bellicose Blaze\n|zhs      = 嚣枪喧焰\n|zhs_rm   = Xiāo Qiāng Xuān Yàn\n|zht      = 囂槍喧焰\n|zht_rm   = Xiāo Qiāng Xuān Yàn\n|ja       = 憤怒の銃騒\n|ja_rm    = Funnu no Jyūsō\n|ko       = 소란한 총성과 화염\n|es       = Fogonazo belicoso\n|fr       = Brasier belliqueux\n|ru       = Пламя брани\n|th       = Bellicose Blaze\n|vi       = Nòng Súng Rực Lửa\n|de       = Angriffslustiges Geloder\n|id       = Bellicose Blaze\n|pt       = Chamas Estrondosas\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Nòng Súng Rực Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 39560,
+      "ns": 0,
+      "title": "Dreamlit Hearth",
+      "revisions": [
+        {
+          "revid": 168312,
+          "parentid": 145612,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14145\n|name          = Dreamlit Hearth\n|image         = W-Engine Dreamlit Hearth.png\n|releaseDate   = 2025-10-15\n|base_stat     = 48-713\n|adv_stat      = 12%-30%\n|adv_stat_name = HP\n|effect_name   = Moontide Epic\n|effect        = The equipper's Energy Regen increases by {{Color|Green|(var1)}}/s. When the equipper activates '''Ether Veil''' or extends its duration, all squad members gain {{Color|Green|(var2)%}} increased DMG and {{Color|Green|(var3)%}} increased Max HP for 45s. Repeated triggers reset the duration. Only one instance of this effect can exist in the same squad.\n|eff_var1_u1   = 0.4\n|eff_var1_u2   = 0.46\n|eff_var1_u3   = 0.52\n|eff_var1_u4   = 0.58\n|eff_var1_u5   = 0.64\n|eff_var2_u1   = 25\n|eff_var2_u2   = 28.8\n|eff_var2_u3   = 32.5\n|eff_var2_u4   = 36.3\n|eff_var2_u5   = 40\n|eff_var3_u1   = 15\n|eff_var3_u2   = 17.3\n|eff_var3_u3   = 19.5\n|eff_var3_u4   = 21.8\n|eff_var3_u5   = 24\n|eff_att1      = Energy Regen Increase\n|eff_att2      = DMG Increase\n|eff_att3      = Max HP Increase\n}}\n{{Description|After countless years, it remains a silent puzzle.}}\n{{Lead/W-Engine|Dreamlit Hearth}} It is [[Lucia Elowen]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Its origin cannot be dated, its craftsmanship beyond record. From appearance alone, it seems to be a relic of the old capital, preserved to this day by the Ether burning within its core.<br />Many years later, the river washed it ashore on a shallow bank, where a young girl picked up the finely crafted toy. From then on, it stood in for her lost family, keeping her company each night, offering a small light in the dark.<br /><br />\"Yeah, it's a super great night-light!\" &mdash;That's what Lucia said when asked.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Dreamlit Hearth Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Dreamlit Hearth\n|zhs      = 铸梦炉歌\n|zhs_rm   = \n|zht      = 鑄夢爐歌\n|zht_rm   = \n|ja       = 炉で歌い上げられる夢\n|ja_rm    = \n|ko       = 꿈을 빚는 용광로의 노래\n|es       = Hogar de ensueño\n|fr       = Fourneau des rêves\n|ru       = Очаг грёз\n|th       = Dreamlit Hearth\n|vi       = Khúc Ca Rèn Mộng\n|de       = Traumlichtherd\n|id       = Dreamlit Hearth\n|pt       = Forja dos Sonhos\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Khúc Ca Rèn Mộng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 39618,
+      "ns": 0,
+      "title": "Alone in a Shared Dream",
+      "revisions": [
+        {
+          "revid": 131603,
+          "parentid": 126272,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Alone in a Shared Dream\n|agent     = Yidhari Murphy\n|type      = Exclusive Channel\n}}\n'''Alone in a Shared Dream''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Yidhari Murphy}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Alone in a Shared Dream\n|zhs      = 孤旅同梦\n|zhs_rm   = Gū Lǚ Tóng Mèng\n|zht      = 孤旅同夢\n|zht_rm   = Gū Lǚ Tóng Mèng\n|ja       = 独り旅で同じ夢を\n|ja_rm    = \n|ko       = {{tt|고독|孤獨}}한 여정, 함께하는 꿈\n|es       = Soledad en un sueño compartido\n|fr       = Route solitaire, rêve partagé\n|ru       = Персональное бессознательное\n|th       = โดดเดี่ยวในแดนร่วมฝัน\n|th_rm    = \n|vi       = {{tt|Độc Hành|獨行}} {{tt|Cùng|共}} {{tt|Mộng|夢}}\n|de       = Einsam in einem gemeinsamen Traum\n|id       = Sendiri dalam Mimpi Bersama\n|pt       = Solidão num Sonho Compartilhado\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Độc Hành Cùng Mộng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 43514,
+      "ns": 0,
+      "title": "Cloudcleave Radiance",
+      "revisions": [
+        {
+          "revid": 159380,
+          "parentid": 145511,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14143\n|name          = Cloudcleave Radiance\n|image         = W-Engine Cloudcleave Radiance.png\n|releaseDate   = 2025-12-30\n|base_stat     = 50-743\n|adv_stat      = 19.2%-48%\n|adv_stat_name = CRIT DMG\n|effect_name   = Jade Soul, Frozen Heart\n|effect        = The equipper's DMG ignores {{Color|Green|(var1)%}} of the target's {{Color|Physical|Physical RES}}. When the equipper activates an '''Ether Veil''', the equipper's DMG increases by {{Color|Green|(var2)%}} and CRIT DMG increases by {{Color|Green|(var2)%}} for 40s. Repeated triggers reset the duration.\n|eff_var1_u1   = 20\n|eff_var1_u2   = 22\n|eff_var1_u3   = 24\n|eff_var1_u4   = 26\n|eff_var1_u5   = 28\n|eff_var2_u1   = 25\n|eff_var2_u2   = 28.7\n|eff_var2_u3   = 32.5\n|eff_var2_u4   = 36.2\n|eff_var2_u5   = 40\n|eff_att1      = Attribute RES Ignore\n|eff_att2      = DMG Increase\n|eff_att3      = CRIT DMG Increase\n}}\n{{Description|The world may change, but my heart remains constant, like clouds standing eternal.}}\n{{Lead/W-Engine|Cloudcleave Radiance}} It is [[Ye Shunguang]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|From innocence to maturity, from confusion to resolve.<br />The long path ahead stretches on, and she grips her sword and presses forward, walking a path untrodden.<br />Until her blade flashes like a soaring swan, illuminating the clouds above.<br><br>\"Whenever I swing my sword, it grows warm... It's comforting.\" &mdash;Ye Shunguang}}\n\n==Availability==\n* '''Cloudcleave Radiance''' is only available from ''Exclusive Channel'' [[Signal Search]]: [[Dazzling Choir]].\n\n===Featured===\n{{Featured}}\n\n==Trivia==\n===Etymology===\n* The Chinese name of the W-Engine, {{zh|云霓孤'''光'''|Yúnnì Gū '''Guāng'''|lit=Solitary Light Amongst Rainbow Clouds}}, is yet another play on words with {{zh|光|guāng|light}}, as a reference to {{lang|Ye Shun'''guang'''<nowiki/>'s name|zh=叶瞬'''光'''}}, since it is her Exclusive W-Engine.\n\n==Gallery==\n{{Files by Character Gallery|Cloudcleave Radiance Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Cloudcleave Radiance\n|zhs      = 云霓孤光\n|zhs_rm   = Yúnnì Gū Guāng\n|zht      = 雲霓孤光\n|zht_rm   = Yúnnì Gū Guāng\n|ja       = 孤光彩雲\n|ja_rm    = \n|ko       = 구름을 헤친 빛\n|es       = Esplendor surcanimbos\n|fr       = Éclat fend-nuages\n|ru       = Проблеск в облаках\n|th       = Cloudcleave Radiance\n|vi       = Tia Sáng Giữa Làn Mây\n|de       = Wolkenspaltglanz\n|id       = Cloudcleave Radiance\n|pt       = Radiância das Nuvens\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Tia Sáng Giữa Làn Mây]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 45603,
+      "ns": 0,
+      "title": "Exclusive Rescreening",
+      "revisions": [
+        {
+          "revid": 167961,
+          "parentid": 167952,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Exclusive Rescreening\n|agent     = \n|type      = Exclusive Rescreening\n}}\n'''Exclusive Rescreening''' is a [[Signal Search]] channel that features three promotional S-Rank [[Agent]]s. All the promotional S-Rank Agents will have an increased probability for players to signal search for them when compared to the basic rates when the guarantees are factored in.\n\n==Signal Search Details==\n* The first S-Rank Signal obtained from the Exclusive Rescreening channel is guaranteed to be the currently selected limited S-Rank Agent (this guarantee mechanism is referred to below as the \"Special Guarantee\"). Every period's channels will have three different limited S-Rank Agents available for selection. Proxies can switch tabs on the Signal Search page at any time to change the featured Agent.\n* During each Exclusive Rescreening period, the first 10-Signal Searches will be 20% off, consuming only {{Item|Encrypted Master Tape|x=8}}. From the 2nd 10-Signal Searches onwards, the number of Encrypted Master Tapes required will return to the original amount.\n* The Search count for guaranteed Signals is cumulative across all Exclusive Rescreening channels but is independent of and unaffected by other types of Channels.\n\n==Special Notes==\n* The 20% discount on the first 10-Signal Searches applies to all channels in the current Exclusive Rescreening and can only be applied once during the current period. Changing the rate-up Agent will not reset the discount.\n* The 20% discount on the first 10-Signal Searches resets with each Exclusive Rescreening update, and unused discounts will not carry over to the next period.\n* This Special Guarantee applies to all channels in the current Exclusive Rescreening and can only trigger once during the current period. Changing the rate-up Agent will not reset the Special Guarantee.\n* This guarantee resets with each Exclusive Rescreening update, and untriggered guarantee counts will not carry over to the next period.\n* The Special Guarantee and standard guarantee counts are tracked separately and do not affect each other: When a Proxy obtains an S-Rank Agent for the first time during the current Exclusive Rescreening channel, the Special Guarantee will be triggered first. After the Special Guarantee is triggered, subsequent S-Rank Agent signals will follow the standard guarantee rules, and the standard guarantee count will continue to accumulate throughout that channel.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Exclusive Rescreening\n|zhs      = 独家重映\n|zhs_rm   = \n|zht      = 獨家重映\n|zht_rm   = \n|ja       = 独占再上映\n|ja_rm    = \n|ko       = 독점 재개봉\n|es       = Reposición Exclusiva\n|fr       = Rediffusion exclusive\n|ru       = Эксклюзивный показ\n|th       = Exclusive Rescreening\n|vi       = Độc Quyền Phát Lại\n|de       = Exklusive Wiederholung\n|id       = Siaran Ulang Eksklusif\n|pt       = Reexibição Exclusiva\n}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n==Change History==\n{{Change History|2.5}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 46407,
+      "ns": 0,
+      "title": "Angel in the Shell",
+      "revisions": [
+        {
+          "revid": 175913,
+          "parentid": 159350,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14150\n|name          = Angel in the Shell\n|image         = W-Engine Angel in the Shell.png\n|releaseDate   = 2026-03-04\n|base_stat     = 48-713\n|adv_stat      = 12%-30%\n|adv_stat_name = Anomaly Mastery\n|effect_name   = Energetic Strike\n|effect        = Increases the equipper's Anomaly Proficiency by {{Color|Green|(var1)}}. When the equipper is an {{Color|Ether}} character, and comes on-field or uses a '''Special Attack''' or '''EX Special Attack''', they gain a buff: DMG dealt to enemies afflicted with Attribute Anomalies increases by {{Color|Green|(var2)%}}, and all Attribute Anomaly DMG they trigger increases by {{Color|Green|(var3)%}}, lasting 15s. Repeated triggers reset the duration, and the effect is removed when switching off-field.\n|eff_var1_u1   = 90\n|eff_var1_u2   = 103\n|eff_var1_u3   = 117\n|eff_var1_u4   = 130\n|eff_var1_u5   = 144\n|eff_var2_u1   = 20\n|eff_var2_u2   = 23\n|eff_var2_u3   = 26\n|eff_var2_u4   = 29\n|eff_var2_u5   = 32\n|eff_var3_u1   = 10\n|eff_var3_u2   = 11\n|eff_var3_u3   = 13\n|eff_var3_u4   = 14.5\n|eff_var3_u5   = 16\n|eff_att1      = Anomaly Proficiency Increase\n|eff_att2      = DMG Increase\n|eff_att3      = Attribute Anomaly DMG Increase\n}}\n{{Description|There is a soul, even within a shell of steel.}}\n{{Lead/W-Engine}} It is [[Aria]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Virtual or imagined, once something is truly felt, it stops being unreal. Everything a person touches in a lifetime is just a drop in the vast river of time. Still, I hope this song can carry you into a sweet delusion.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Trivia==\n===Etymology===\n* The name of the W-Engine is a reference to the Japanese manga and anime series ''{{w|Ghost in the Shell}}''.\n\n==Gallery==\n{{Files by Character Gallery|Angel in the Shell Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Angel in the Shell\n|zhs      = 壳中之灵\n|zhs_rm   = Ké Zhōng zhī Líng\n|zht      = 殼中之靈\n|zht_rm   = Ké Zhōng zhī Líng\n|ja       = 殻の中の魂\n|ja_rm    = Kara no Naka no Tamashi\n|ko       = 껍데기 속 {{tt|영혼|靈魂}}\n|es       = El ángel en la carcasa\n|fr       = Ange dans la coquille\n|ru       = Душа в доспехах\n|th       = Angel in the Shell\n|vi       = Lớp Vỏ Ẩn {{tt|Linh Hồn|靈魂}}\n|de       = Engel in Verhüllung\n|id       = Angel in the Shell\n|pt       = Anjo na Concha\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Lớp Vỏ Ẩn Linh Hồn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 49341,
+      "ns": 0,
+      "title": "Axiom of Captivation",
+      "revisions": [
+        {
+          "revid": 159389,
+          "parentid": 159056,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Axiom of Captivation\n|agent     = Nangong Yu\n|type      = Exclusive Channel\n}}\n'''Axiom of Captivation''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Nangong Yu}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Axiom of Captivation\n|zhs      = 视线定格公理\n|zhs_rm   = \n|zht      = 視線定格公理\n|zht_rm   = \n|ja       = 目を奪う絶対法則\n|ja_rm    = \n|ko       = 시선 고정 공식\n|es       = Axioma de la fascinación\n|fr       = Axiome de la captivation\n|ru       = Эталон очарования\n|th       = สัจพจน์สะกดใจ\n|th_rm    = \n|vi       = Tầm Nhìn Định Hình Công Lý\n|de       = Im Bann der Wahrheit\n|id       = Aksioma Pesona\n|pt       = Olhares que Fixam a Distância\n}}\n\n==Change History==\n{{Change History|2.7}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Tầm Nhìn Định Hình Công Lý]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 49342,
+      "ns": 0,
+      "title": "Evolution of Gluttony",
+      "revisions": [
+        {
+          "revid": 159370,
+          "parentid": 159057,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Evolution of Gluttony\n|agent     = Cissia\n|type      = Exclusive Channel\n}}\n'''Evolution of Gluttony''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Cissia}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Evolution of Gluttony\n|zhs      = 贪食进化论\n|zhs_rm   = \n|zht      = 貪食進化論\n|zht_rm   = \n|ja       = 食いしん坊の進化論\n|ja_rm    = \n|ko       = 식탐 진화론\n|es       = Evolución de la glotonería\n|fr       = Évolution de la gourmandise\n|ru       = Естественный отжор\n|th       = วิวัฒนาการของจอมเขมือบ\n|th_rm    = \n|vi       = Thuyết Tiến Hóa Tham Ăn\n|de       = Evolution der Gefräßigkeit\n|id       = Evolusi Kerakusan\n|pt       = Evolução da Gula\n}}\n\n==Change History==\n{{Change History|2.7}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Thuyết Tiến Hóa Tham Ăn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 50997,
+      "ns": 0,
+      "title": "Cold Rain Wanes in the Night",
+      "revisions": [
+        {
+          "revid": 167583,
+          "parentid": 165982,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Cold Rain Wanes in the Night\n|agent     = Promeia\n|type      = Exclusive Channel\n}}\n'''Cold Rain Wanes in the Night''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Promeia}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Cold Rain Wanes in the Night\n|zhs      = 冷雨将尽之夜\n|zhs_rm   = \n|zht      = 冷雨將盡之夜\n|zht_rm   = \n|ja       = 冷たい雨の止む夜に\n|ja_rm    = \n|ko       = 찬비가 그치는 밤\n|es       = La fría lluvia amaina en la noche\n|fr       = Quand la pluie s'efface avec la nuit\n|ru       = Ночь, когда кончился дождь\n|th       = ค่ำคืนก่อนฝนซา\n|th_rm    = \n|vi       = Đêm Mưa Lạnh Sắp Tan\n|de       = Kalter Regen verklingt in der Nacht\n|id       = Malam Menjelang Hujan Reda\n|pt       = O Fim da Chuva Fria\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Đêm Mưa Lạnh Sắp Tan]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 51000,
+      "ns": 0,
+      "title": "Frostfall Sickle",
+      "revisions": [
+        {
+          "revid": 166128,
+          "parentid": 166127,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14154\n|name          = Frostfall Sickle\n|image         = W-Engine Frostfall Sickle.png\n|releaseDate   = 2026-05-06\n|base_stat     = 48 - 713\n|adv_stat      = 12% - 30%\n|adv_stat_name = Anomaly Mastery\n|effect_name   = Terminating Verdict\n|effect        = When an {{Color|Ice|Ice attribute}} equipper uses a '''Special Attack''' or '''EX Special Attack''', their {{Color|Ice|Ice DMG}} is increased by {{Color|Green|(var1)%}} for 40s, stacking up to 2 times, once per use of a skill. Repeated triggers refresh the duration. At 2 stacks, the equipper's '''Abloom''' DMG dealt is increased by an additional {{Color|Green|(var2)%}}.\n|eff_var1_u1   = 20\n|eff_var1_u2   = 23\n|eff_var1_u3   = 26\n|eff_var1_u4   = 29\n|eff_var1_u5   = 32\n|eff_var2_u1   = 35\n|eff_var2_u2   = 38.5\n|eff_var2_u3   = 42\n|eff_var2_u4   = 45.5\n|eff_var2_u5   = 50\n|eff_att1      = Ice DMG Increase\n|eff_att2      = Abloom DMG Increase\n|eff_att3      =\n}}\n{{Description|Carry out judgment until the end comes.}}\n{{Lead/W-Engine}} It is [[Promeia]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Clutching a wavering ideal.<br />Running and shouting across the barren red earth, then falling into sleep, only to wake up grown.<br />Choosing chains of one's own making.<br />Living on as a blade, scraping by. Investigating, interrogating, hunting... endless, numb, cold.<br />Waiting for the promised judgment.<br />Plucking a rotting new bud and stepping into winter, until at last welcoming life's final hope... death, warm and peaceful.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Category Gallery|Frostfall Sickle Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en   = Frostfall Sickle\n|zhs  = 朔月裁霜\n|zhs_rm   = \n|zht  = 朔月裁霜\n|zht_rm   = \n|ja   = フロスト・クレセント\n|ja_rm    = \n|ko   = 삭월에 끊어지는 서리\n|es   = Falce escarchada\n|fr   = Faucilles de marbre\n|ru   = Ледяное новолуние\n|th   = Frostfall Sickle\n|vi   = Phán Quyết Sương Giá\n|de   = Frostschlitz-Sichel\n|id   = Frostfall Sickle\n|pt   = Lua Gélida\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Phán Quyết Sương Giá]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 52443,
+      "ns": 0,
+      "title": "Joyau Dore",
+      "revisions": [
+        {
+          "revid": 173030,
+          "parentid": 169332,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14156\n|name          = Joyau Dore\n|image         = W-Engine Joyau Dore.png\n|releaseDate   = 2026-06-17\n|base_stat     = 48 - 713\n|adv_stat      = 24% - 60%\n|adv_stat_name = Energy Regen\n|effect_name   = Flawless Etiquette\n|effect        = The equipper's Anomaly Proficiency increases by {{Color|Green|(var1)}}. When the equipper's '''EX Special Attack''' deals {{Color|Wind DMG}}, the DMG dealt by their '''Vortex''' and {{Color|Windswept}} increases by {{Color|Green|(var2)%}} for 40s, stacking up to 2 times. Repeated triggers reset the duration. This effect can trigger once per skill use. At 2 stacks, all squad members gain {{Color|Green|(var3)}} Anomaly Proficiency. Only one instance of this effect can exist in the same squad.\n|eff_var1_u1   = 70\n|eff_var1_u2   = 80\n|eff_var1_u3   = 90\n|eff_var1_u4   = 100\n|eff_var1_u5   = 110\n|eff_var2_u1   = 7\n|eff_var2_u2   = 8\n|eff_var2_u3   = 9\n|eff_var2_u4   = 10\n|eff_var2_u5   = 11\n|eff_var3_u1   = 60\n|eff_var3_u2   = 69\n|eff_var3_u3   = 78\n|eff_var3_u4   = 87\n|eff_var3_u5   = 96\n|eff_att1      = Anomaly Proficiency Increase\n|eff_att2      = Vortex DMG Increase\n|eff_att3      = Windswept DMG Increase\n}}\n{{Description|Sit quietly, and listen to the wind's song.}}\n{{Lead/W-Engine|Joyau Dore}} It is [[Velina Airgid]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Being the Administrative Director is no idle role. Fierce exchanges unfold at negotiation tables, strategic clashes play out in council meetings, and mountains of cumbersome documents pile endlessly high. The countless burdens and harsh responsibilities alone are enough to discourage anyone coveting the position. And yet, the Administrative Director always seems untroubled. After all, everyone knows that regardless of the difficulty of the situation or the absurdity of the chaos, that silver-gray figure remains poised, commanding, and effortlessly reassuring.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Joyau Dore Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Trivia==\n===Etymology===\n* Joyau doré means \"golden jewel\" in French.\n\n==Other Languages==\n{{Other Languages\n|en       = Joyau Dore\n|zhs      = 琳琅鎏心\n|zhs_rm   = \n|zht      = 琳琅鎏心\n|zht_rm   = \n|ja       = 金襴の心\n|ja_rm    = \n|ko       = 영롱한 금빛 마음\n|es       = Joyau doré\n|fr       = Joyau doré\n|ru       = Драгоценная прохлада\n|th       = Joyau Dore\n|vi       = Viên Ngọc Lưu Ly\n|de       = Joyau Doré\n|id       = Joyau Dore\n|pt       = Coração de Jade\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Viên Ngọc Lưu Ly]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 52445,
+      "ns": 0,
+      "title": "Chief Sidekick",
+      "revisions": [
+        {
+          "revid": 177272,
+          "parentid": 173169,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14157\n|name          = Chief Sidekick\n|image         = W-Engine Chief Sidekick.png\n|releaseDate   = 2026-07-08\n|base_stat     = 48-713\n|adv_stat      = 9.6%-24%\n|adv_stat_name = CRIT Rate\n|effect_name   = The Genius's Follower\n|effect        = The equipper's Impact increases by {{Color|Green|(var1)}}, and their DMG ignores {{Color|Green|(var2)%}} of the target's {{Color|Fire|Fire RES}}. When the equipper is not the active character, Energy Regen increases by {{Color|Green|(var3)}}/s. When the equipper deals {{Color|Fire|Fire DMG}} with an '''EX Special Attack''', all Agents' DMG increases by {{Color|Green|(var4)%}} for 30s, stacking up to 2 times. Repeated triggers reset the duration. This effect can trigger once per skill. Only one instance of this effect can exist in the same squad.\n|eff_var1_u1   = 30\n|eff_var1_u2   = 33\n|eff_var1_u3   = 36\n|eff_var1_u4   = 39\n|eff_var1_u5   = 42\n|eff_var2_u1   = 15\n|eff_var2_u2   = 17.2\n|eff_var2_u3   = 19.5\n|eff_var2_u4   = 21.7\n|eff_var2_u5   = 24\n|eff_var3_u1   = 0.4\n|eff_var3_u2   = 0.46\n|eff_var3_u3   = 0.52\n|eff_var3_u4   = 0.58\n|eff_var3_u5   = 0.640\n|eff_var4_u1   = 12.5\n|eff_var4_u2   = 14.4\n|eff_var4_u3   = 16.3\n|eff_var4_u4   = 18.1\n|eff_var4_u5   = 20\n|eff_att1      = Impact Increase\n|eff_att2      = Energy Regen Increase\n|eff_att3      = DMG Increase\n}}\n{{Description|Nhe-nha ehn ne! (Through fire and flames for Lady Norma!)}}\n{{Lead/W-Engine|Chief Sidekick}} It is [[Norma Hollowell]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Every [[Bangboo]] in [[Roscaelifer]] would gladly throw themselves into danger for the Chief Technician's scientific pursuits, and this particular one is clearly the quickest to charge in headfirst.<br />\"Ehn-nhu nhe na, ehn-nha en-en?\" (Boss Norma, is pretending a Bangboo is a [[W-Engine]] actually gonna fool anyone?)<br />\"Nhu-en nhe ehn na?\" (And if we can't fool them, can't we just overpower them?)<br />&mdash;The [[External Strategy Department]]'s Chief Technician is currently employing her finest technology to remodel her favorite Bangboo sidekick.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Chief Sidekick Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Chief Sidekick\n|zhs      = 首席跟班\n|zhs_rm   = \n|zht      = 首席跟班\n|zht_rm   = \n|ja       = エースのオトモ\n|ja_rm    = \n|ko       = 수석 조수\n|es       = Subalterno jefe\n|fr       = Bras droit en chef\n|ru       = Старший ассистент\n|th       = Chief Sidekick\n|vi       = Trợ Thủ Đắc Lực\n|de       = Leitendes Helferlein\n|id       = Chief Sidekick\n|pt       = Assistente-Chefe\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Trợ Thủ Đắc Lực]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 52546,
+      "ns": 0,
+      "title": "Graceful Gale",
+      "revisions": [
+        {
+          "revid": 173005,
+          "parentid": 167479,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Graceful Gale\n|agent     = Velina Airgid\n|type      = Exclusive Channel\n}}\n'''Light Upon Fingertips''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Velina Airgid}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en      = Graceful Gale\n|zhs     = \n|zhs_rm  = \n|zht     = \n|zht_rm  = \n|ja      = \n|ja_rm   = \n|ko      = \n|es      = \n|fr      = \n|ru      = \n|th      = \n|th_rm   = \n|vi      = \n|de      = \n|id      = \n|pt      = \n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Nghi Thức Gió Lạnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 55035,
+      "ns": 0,
+      "title": "'Till the Ends of the Sky",
+      "revisions": [
+        {
+          "revid": 179097,
+          "parentid": 179093,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = 'Till the Ends of the Sky\n|agent     = Sigrid de L'Azur\n|type      = Exclusive Channel\n}}\n''''Till the Ends of the Sky''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Sigrid de L'Azur}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Till the Ends of the Sky\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Signal Search Navbox}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56878,
+      "ns": 0,
+      "title": "Crimson Thirst",
+      "revisions": [
+        {
+          "revid": 182910,
+          "parentid": 182896,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id          = 14161\n|name        = Crimson Thirst\n|image       = W-Engine Crimson Thirst.png\n|releaseDate = 2026-09-09\n|base_stat   = 29 - 431\n|adv_stat    = 19.2% - 48%\n|effect_name = Bloodthirst\n|effect      = The equipper's CRIT Rate increases by {{Color|Green|(var1)%}}, and {{Color|Electric|Electric DMG}} increases by {{Color|Green|(var2)%}}. When the equipper uses an '''EX Special Attack''' or triggers '''Maim''', {{Color|Electric|Electric Sharp DMG}} dealt increases by {{Color|Green|(var3)%}} for 40s. Repeated triggers reset the duration.\n|eff_var1_u1 = 25\n|eff_var1_u2 = 27.5\n|eff_var1_u3 = 30\n|eff_var1_u4 = 32.5\n|eff_var1_u5 = 35\n|eff_var2_u1 = 15\n|eff_var2_u2 = 17.5\n|eff_var2_u3 = 20\n|eff_var2_u4 = 22.5\n|eff_var2_u5 = 25\n|eff_var3_u1 = 10\n|eff_var3_u2 = 11.5\n|eff_var3_u3 = 13\n|eff_var3_u4 = 14.5\n|eff_var3_u5 = 16\n|eff_att1    = CRIT Rate Increase\n|eff_att2    = Electric DMG Increase\n|eff_att3    = Electric Sharp DMG Increase\n}}\n{{Description|Beneath the crimson moon, the bloodline endures.}}\n{{Lead/W-Engine}} It is [[Claret Flint]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|For as long as anyone can remember, tales and rumors about the [[Flint family]] have never ceased, enough to fill an entire anthology of rumors. Blood, [[Porcelloy]], long-buried history, inherited miracles... None of these dangerous secrets have ever been fully laid bare, yet they have always held the public's fascination. Curiously, the family head has never come forward to offer any explanation. Some say her ambitions reach too far for her to waste time on gossip. Some say she possessed a steady mind even in her youth and chose to let the rumors gather momentum. And some claim there were never any rumors about Flint to begin with, only truths passed down through the world. Rumors drift like fog, obscuring what is real and what is not. But toward that young family head, people feel nothing beyond reverence and fear.<br />\"[[Roxy]], the ruby in this [[W-Engine]] looks pretty valuable. If we sold it...\" \"Milady, forgive me for saying so, but I'm afraid it wouldn't even cover the losses from a single meeting between you and Lady [[Lindverne]].\"<br />&mdash;The family head struggling with a budget shortfall and her capable assistant}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery}}\n\n==Other Languages==\n{{Other Languages\n|en       = Crimson Thirst\n|zhs      = 猩红渴望\n|zhs_rm   = \n|zht      = 猩紅渴望\n|zht_rm   = \n|ja       = 深紅の渇望\n|ja_rm    = \n|ko       = 핏빛 갈망\n|es       = Sed escarlata\n|fr       = Soif écarlate\n|ru       = Алая жажда\n|th       = Crimson Thirst\n|vi       = Khát Vọng Đỏ Thẫm\n|de       = Blutroter Durst\n|id       = Crimson Thirst\n|pt       = Sede Escarlate\n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{W-Engine Navbox}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56879,
+      "ns": 0,
+      "title": "Crimson Moon Casket",
+      "revisions": [
+        {
+          "revid": 180689,
+          "parentid": 0,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Upcoming}}\n{{W-Engine Infobox\n|id            = \n|name          = Crimson Moon Casket\n|image         = W-Engine Crimson Moon Casket.png\n|releaseDate   = \n|base_stat     = \n|adv_stat      = \n|adv_stat_name = \n|effect_name   = \n|effect        = \n|eff_var1_u1   = \n|eff_var1_u2   = \n|eff_var1_u3   = \n|eff_var1_u4   = \n|eff_var1_u5   = \n|eff_var2_u1   = \n|eff_var2_u2   = \n|eff_var2_u3   = \n|eff_var2_u4   = \n|eff_var2_u5   = \n|eff_var3_u1   = \n|eff_var3_u2   = \n|eff_var3_u3   = \n|eff_var3_u4   = \n|eff_var3_u5   = \n|eff_att1      = \n|eff_att2      = \n|eff_att3      =\n}}<!--\n{{Description|}}-->\n{{Lead/W-Engine|Crimson Moon Casket}} It is [[Roxy Ifrita Pryce]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n<!--\n==Description==\n{{Description|}}\n-->\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Crimson Moon Casket Images}}\n\n==Other Languages==\n{{Other Languages\n|en       = Crimson Moon Casket\n|zhs      = \n|zhs_rm   = \n|zht      = \n|zht_rm   = \n|ja       = \n|ja_rm    = \n|ko       = \n|es       = \n|fr       = \n|ru       = \n|th       = \n|th_rm    = \n|vi       = \n|de       = \n|id       = \n|pt       = \n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{W-Engine Navbox}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56896,
+      "ns": 0,
+      "title": "Bloodmoon Rising",
+      "revisions": [
+        {
+          "revid": 185758,
+          "parentid": 180721,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Bloodmoon Rising\n|agent     = Claret Flint\n|type      = Exclusive Channel\n}}\n'''Bloodmoon Rising''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Claret Flint}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Bloodmoon Rising\n|zhs      = 红月初升\n|zhs_rm   = \n|zht      = 紅月初升\n|zht_rm   = \n|ja       = 赤き月が昇るころ\n|ja_rm    = \n|ko       = 붉은 달이 떠오를 때\n|es       = Ascenso de la luna de sangre\n|fr       = Lever de la lune sanguine\n|ru       = Восход алой луны\n|th       = จันทร์โลหิตแรกฉาย\n|th_rm    = \n|vi       = Trăng Đỏ Vừa Lên\n|de       = Aufgang des Blutmonds\n|id       = Purnama Bersimbah Merah Darah\n|pt       = Ascensão da Lua Vermelha\n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{Signal Search Navbox}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56898,
+      "ns": 0,
+      "title": "Cindernight Respite",
+      "revisions": [
+        {
+          "revid": 185757,
+          "parentid": 185756,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Cindernight Respite\n|agent     = Roxy Ifrita Pryce\n|type      = Exclusive Channel\n}}\n'''Cindernight Respite''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Roxy Ifrita Pryce}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Cindernight Respite\n|zhs      = 烬夜安眠\n|zhs_rm   = \n|zht      = 燼夜安眠\n|zht_rm   = \n|ja       = 燃えさしのまどろみ\n|ja_rm    = \n|ko       = 잿빛 밤에 내린 안식\n|es       = Respiro de la noche cinérea\n|fr       = Répit nocturne dans les cendres\n|ru       = Сон у погасшего горнила\n|th       = ห้วงภวังค์แห่งเถ้าธุลี\n|th_rm    = \n|vi       = An Giấc Đêm Tàn\n|de       = Schlummer der aschfahlen Nacht\n|id       = Tatkala Bara Menjadi Abu\n|pt       = Trégua da Noite Cinzenta\n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{Signal Search Navbox}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 16887,
+      "ns": 0,
+      "title": "Web of Light and Shadow",
+      "revisions": [
+        {
+          "revid": 74963,
+          "parentid": 65104,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Web of Light and Shadow\n|agent     = Evelyn Chevalier\n|type      = Exclusive Channel\n}}\n'''Web of Light and Shadow''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Evelyn Chevalier}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = Web of Light and Shadow\n|zhs     = 光与影的纱网\n|zhs_rm  = \n|zht     = 光與影的紗網\n|zht_rm  = \n|ja      = 光と影の網\n|ja_rm   = \n|ko      = 얽혀있는 빛과 그림자\n|es      = Red de luces y sombras\n|fr      = Toile d'ombre et de lumière\n|ru      = Тенёта тьмы и нити света\n|th      = ตาข่ายแห่งแสงและเงา\n|th_rm   = \n|vi      = Rèm Thưa Giữa Sáng Và Tối\n|de      = Netz aus Licht und Schatten\n|id      = Jaring Cahaya dan Bayangan\n|pt      = Teia de Luz e Sombra\n}}\n\n==Change History==\n{{Change History|1.5}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:Тенёта тьмы и нити света]]\n[[vi:Rèm Thưa Giữa Sáng Và Tối]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 20566,
+      "ns": 0,
+      "title": "Soar Into the Gentle Night",
+      "revisions": [
+        {
+          "revid": 90550,
+          "parentid": 86074,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Soar Into the Gentle Night\n|image     = Soar Into the Gentle Night.png\n|agent     = Vivian Banshee\n|type      = Exclusive Channel\n}}\n'''Soar Into the Gentle Night''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Vivian Banshee}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Soar Into the Gentle Night\n|zhs      = 飞鸟坠入良夜\n|zhs_rm   = Fēiniǎo Zhuìrù Liángyè\n|zht      = 飛鳥墜入良夜\n|zht_rm   = Fēiniǎo Zhuìrù Liángyè \n|ja       = 鳥は優しい夜に抱かれ\n|ja_rm    = \n|ko       = 밤 속으로 날아든 새\n|es       = Vuelo hacia la delicada noche\n|fr       = Plongeon dans la douceur nocturne\n|ru       = На крыльях нежной ночи\n|th       = โผบินสู่ค่ำคืนอันแสนหวาน\n|th_rm    = \n|vi       = Cánh Chim Sa Màn Đêm\n|de       = Freiflug durch die sanfte Nacht\n|id       = Terbang ke Malam nan Tenang\n|pt       = Rasante Noturno\n}}\n\n==Change History==\n{{Change History|1.7}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[ru:На крыльях нежной ночи]]\n[[vi:Cánh Chim Sa Màn Đêm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 23318,
+      "ns": 0,
+      "title": "Lonely Wayfarer Beyond",
+      "revisions": [
+        {
+          "revid": 92682,
+          "parentid": 91087,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Lonely Wayfarer Beyond\n|image     = Lonely Wayfarer Beyond.png\n|agent     = Yixuan\n|type      = Exclusive Channel\n}}\n'''Lonely Wayfarer Beyond''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Yixuan}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en      = Lonely Wayfarer Beyond\n|zhs      = 独步沧溟\n|zhs_rm   = \n|zht      = 獨步滄溟\n|zht_rm   = \n|ja       = 蒼溟を独り歩む\n|ja_rm    = \n|ko       = 홀로 걷는 아득한 세상\n|es       = Peregrina de piélagos remotos\n|fr       = Pérégrine des mers mystiques\n|ru       = Одинокий путь ввысь\n|th       = ผู้สันโดษท่องใต้หล้า\n|th_rm    = \n|vi       = Độc Bộ Thương Minh\n|de       = Wanderin jenseits des Meeres\n|id       = Mengelana dalam Sunyi\n|pt       = Peregrinação Solitária\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Độc Bộ Thương Minh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 28398,
+      "ns": 0,
+      "title": "Whispered Tales",
+      "revisions": [
+        {
+          "revid": 103509,
+          "parentid": 103488,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Whispered Tales\n|image     = Whispered Tales.png\n|agent     = Ukinami Yuzuha\n|type      = Exclusive Channel\n}}\n'''Whispered Tales''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Ukinami Yuzuha}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en      = Whispered Tales\n|zhs     = 戏语幽谭\n|zhs_rm  = \n|zht     = 戲語幽譚\n|zht_rm  = \n|ja      = 芝居がかった幽々談\n|ja_rm   = \n|ko      = 기이하고 기괴한 기담\n|es      = Relatos musitados\n|fr      = Histoires chuchotées dans le noir\n|ru      = Байки из хижины\n|th      = เรื่องเล่าสุดพิศวง\n|th_rm   = \n|vi      = Hí Ngữ U Đàm\n|de      = Gemunkelte Märchen\n|id      = Kisah dalam Bisikan Teror\n|pt      = Contos do Vale Sombrio\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Hí Ngữ U Đàm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 28399,
+      "ns": 0,
+      "title": "Sworn to Noble Courage",
+      "revisions": [
+        {
+          "revid": 113180,
+          "parentid": 107339,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Sworn to Noble Courage\n|agent     = Alice Thymefield\n|type      = Exclusive Channel\n}}\n'''Sworn to Noble Courage''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Alice Thymefield}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en      = Sworn to Noble Courage\n|zhs      = 馥草芳誓\n|zhs_rm   = \n|zht      = 馥草芳誓\n|zht_rm   = \n|ja       = 芳しきタイムの誓い\n|ja_rm    = Kaguwashiki Taimu no Chikai\n|ko       = 고결한 백리향의 맹세\n|es       = Juramento de noble denuedo\n|fr       = Noblesse oblige\n|ru       = Дух тимьяна и традиций\n|th       = คำปฏิญาณแห่งมวลบุปผา\n|th_rm    = \n|vi       = Phương Thảo Ước Thệ\n|de       = Zum Edelmut verpflichtet\n|id       = Ikrar atas Keberanian Sejati\n|pt       = Juramento das Ervas Perfumadas\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Phương Thảo Ước Thệ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 30413,
+      "ns": 0,
+      "title": "Tearforged Blossoms",
+      "revisions": [
+        {
+          "revid": 113600,
+          "parentid": 113177,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Tearforged Blossoms\n|agent     = Seed\n|type      = Exclusive Channel\n}}\n'''Tearforged Blossoms''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Seed}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Tearforged Blossoms\n|zhs      = 泪铸生花\n|zhs_rm   = \n|zht      = 淚鑄生花\n|zht_rm   = \n|ja       = 鋼より芽吹くは涙の花\n|ja_rm    = \n|ko       = 눈물로 주조한 꽃\n|es       = Florecimiento entre lágrimas\n|fr       = Fleur abreuvée par les larmes\n|ru       = Цветы, политые слезами\n|th       = น้ำตาชโลมบุปผา\n|th_rm    = \n|vi       = Nước Mắt Sinh Hoa\n|de       = Aus Tränen geschmiedete Blüten\n|id       = Mekar dari Air Mata\n|pt       = Lágrimas que Florescem\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Nước Mắt Sinh Hoa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 30414,
+      "ns": 0,
+      "title": "Wrathborn Duo",
+      "revisions": [
+        {
+          "revid": 113603,
+          "parentid": 113207,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Wrathborn Duo\n|agent     = Orphie Magnusson & Magus\n|type      = Exclusive Channel\n}}\n'''Wrathborn Duo''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Orphie Magnusson & Magus}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Wrathborn Duo\n|zhs      = 孽火两畔\n|zhs_rm   = Niè Huǒ Liǎng Pàn\n|zht      = 孽火兩畔\n|zht_rm   = Niè Huǒ Liǎng Pàn\n|ja       = 業火の両端\n|ja_rm    = Gōka no Ryōtan\n|ko       = {{tt|양|兩}}기슭<->의 {{tt|업화|業火}}\n|es       = Dualidad gestada en la cólera\n|fr       = Binôme né dans la rage\n|ru       = Двойной запал\n|th       = คู่หูเพลิงกัลป์\n|th_rm    = \n|vi       = Hai {{tt|Bờ|坡}} {{tt|Nghiệt Hỏa|孽火}}\n|de       = Aus Zorn geborenes Duo\n|id       = Duo Gelora\n|pt       = Dupla Nascida da Fúria\n}}\n\n==Change History==\n{{Change History|2.2}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Hai Bờ Nghiệt Hỏa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 39617,
+      "ns": 0,
+      "title": "Wandering Night Lantern",
+      "revisions": [
+        {
+          "revid": 134400,
+          "parentid": 129312,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Wandering Night Lantern\n|agent     = Lucia Elowen\n|type      = Exclusive Channel\n}}\n'''Wandering Night Lantern''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Lucia Elowen}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Wandering Night Lantern\n|zhs      = 绮夜游灯\n|zhs_rm   = \n|zht      = 綺夜遊燈\n|zht_rm   = \n|ja       = きらびやかな夜の燈火\n|ja_rm    = \n|ko       = 비단결 밤을 노니는 등불\n|es       = Nocturnancia del farol errante\n|fr       = Une lanterne errant dans la nuit\n|ru       = Блуждающий огонёк\n|th       = ประกายแสงล่องราตรี\n|th_rm    = \n|vi       = Đèn Đêm Huyền Diệu\n|de       = Wandelnde Nachtlaternen\n|id       = Embara Lentera Malam\n|pt       = Lanternas Errantes\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Đèn Đêm Huyền Diệu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 39628,
+      "ns": 0,
+      "title": "Kraken's Cradle",
+      "revisions": [
+        {
+          "revid": 168303,
+          "parentid": 145628,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14105\n|name          = Kraken's Cradle\n|image         = W-Engine Kraken's Cradle.png\n|releaseDate   = 2025-11-05\n|base_stat     = 48-713\n|adv_stat      = 12%-30%\n|adv_stat_name = HP\n|effect_name   = Heartfelt Caress\n|effect        = When the equipper's HP decreases, their {{Color|Ice Sheer DMG}} increases by {{Color|Green|(var1)%}}, stacking up to 3 times and lasting 25s. The duration of each stack is calculated separately. This effect can trigger once every 0.5s. When the equipper's HP falls to 50% of Max HP or below, CRIT Rate increases by {{Color|Green|(var2)%}}.\n|eff_var1_u1   = 6\n|eff_var1_u2   = 7\n|eff_var1_u3   = 8\n|eff_var1_u4   = 9\n|eff_var1_u5   = 10\n|eff_var2_u1   = 20\n|eff_var2_u2   = 23\n|eff_var2_u3   = 26\n|eff_var2_u4   = 29\n|eff_var2_u5   = 32\n|eff_att1      = Ice Sheer DMG Increase\n|eff_att2      = CRIT Rate Increase\n}}\n{{Description|In chasing illusions, she was entranced by the light that pierced through the mist.}}\n{{Lead/W-Engine|Kraken's Cradle}} It is [[Yidhari Murphy]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Most inspiration streaks by like a meteor, vanishing in a blink. Yet while modifying this W-Engine, a surge of powerful emotion sparked an idea that anchored itself in her mind, refusing to fade. Not a shackle, nor a consuming force, but something treasured &mdash; something she longed to keep safe. That became the source of this W-Engine's design.<br /><br />\"It's simply trying to guard the greatest treasure in this world, in the way it knows how.\" &mdash;She spoke softly, noticing the puzzled expressions on the Proxy siblings.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Kraken's Cradle Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Kraken's Cradle\n|zhs      = 海妖摇篮\n|zhs_rm   = Hǎiyāo Yáolán\n|zht      = 海妖搖籃\n|zht_rm   = Hǎiyāo Yáolán\n|ja       = セイレーンクレードル\n|ja_rm    = Seirēn Kurēdoru\n|ko       = 크라켄의 요람\n|es       = Cuna del kraken\n|fr       = Berceau du kraken\n|ru       = Колыбель кракена\n|th       = Kraken's Cradle\n|vi       = Chiếc Nôi Hải Yêu\n|de       = Krakenwiege\n|id       = Kraken's Cradle\n|pt       = Ninho do Kraken\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Chiếc Nôi Hải Yêu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 42093,
+      "ns": 0,
+      "title": "Voice of the Once-Spoken",
+      "revisions": [
+        {
+          "revid": 136101,
+          "parentid": 135640,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Voice of the Once-Spoken\n|agent     = Dialyn\n|type      = Exclusive Channel\n}}\n'''Voice of the Once-Spoken''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Dialyn}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Voice of the Once-Spoken\n|zhs      = 唤寂昔声\n|zhs_rm   = \n|zht      = 喚寂昔聲\n|zht_rm   = \n|ja       = 木霊する往時の声\n|ja_rm    = \n|ko       = 적막을 울리는<br />과거의 소리\n|es       = Ecos de un pasado silente\n|fr       = Les voix du passé percent le silence\n|ru       = Оставайтесь на линии\n|th       = เสียงสะท้อนของวันวาน<br />อันเงียบงัน\n|th_rm    = \n|vi       = Tiếng Vọng Ngày Xưa\n|de       = Stimme des einst Gesprochenen\n|id       = Deru Kesunyian Masa Lalu\n|pt       = Ecos do Silêncio Esquecido\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Tiếng Vọng Ngày Xưa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 42094,
+      "ns": 0,
+      "title": "Through Night's Inferno",
+      "revisions": [
+        {
+          "revid": 136102,
+          "parentid": 135641,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Through Night's Inferno\n|agent     = Banyue\n|type      = Exclusive Channel\n}}\n'''Through Night's Inferno''' is a [[Exclusive Channel]] with {{Intro/Agent/Full|Banyue}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Through Night's Inferno\n|zhs      = 渡夜焚心\n|zhs_rm   = \n|zht      = 渡夜焚心\n|zht_rm   = \n|ja       = 焼くる心を篝火となす\n|ja_rm    = \n|ko       = 밤을 건너 타오르는 마음\n|es       = Ardiente corazón nocturno\n|fr       = Un cœur enflammé traversant la nuit\n|ru       = Огонь души во тьме\n|th       = ดวงใจเพลิงรัตติกาล\n|th_rm    = \n|vi       = Trường Dạ Thiêu Tâm\n|de       = Durch das Inferno der Nacht\n|id       = Kobaran Hati di Kegelapan Malam\n|pt       = Chamas do Coração Noturno\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Trường Dạ Thiêu Tâm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 43750,
+      "ns": 0,
+      "title": "Priceless Heart",
+      "revisions": [
+        {
+          "revid": 146595,
+          "parentid": 140801,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Priceless Heart\n|agent     = Zhao\n|type      = Exclusive Channel\n}}\n'''Priceless Heart''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Zhao}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Priceless Heart\n|zhs      = 无价之心\n|zhs_rm   = Wújià zhī Xīn\n|zht      = 無價之心\n|zht_rm   = Wújià zhī Xīn\n|ja       = 心はプライスレス\n|ja_rm    = \n|ko       = 값을 매길 수 없는 마음\n|es       = Corazón invaluable\n|fr       = Un cœur à la valeur inestimable\n|ru       = Душе нет цены\n|th       = หัวใจล้ำค่าเหนือคณา\n|th_rm    = \n|vi       = Con Tim Vô Giá\n|de       = Herz von unmessbarem Wert\n|id       = Hati Tak Ternilai\n|pt       = Coração Inestimável\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Con Tim Vô Giá]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 43751,
+      "ns": 0,
+      "title": "Light Upon Fingertips",
+      "revisions": [
+        {
+          "revid": 146587,
+          "parentid": 140802,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Light Upon Fingertips\n|agent     = Ye Shunguang\n|type      = Exclusive Channel\n}}\n'''Light Upon Fingertips''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Ye Shunguang}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Light Upon Fingertips\n|zhs      = 光落于指尖\n|zhs_rm   = Guāng Luò Yú Zhǐjiān\n|zht      = 光落於指尖\n|zht_rm   = Guāng Luò Yú Zhǐjiān\n|ja       = ふる光、この指とまれ\n|ja_rm    = \n|ko       = 손끝에 내려앉은 빛\n|es       = Resplandor sobre los dedos\n|fr       = Lueur au bout des doigts\n|ru       = Дотянуться до света\n|th       = แสงสว่างที่ปลายนิ้ว\n|th_rm    = \n|vi       = Ánh Quang Trên Đầu Ngón Tay\n|de       = In Licht getauchte Fingerspitzen\n|id       = Cahaya Menari di Jemari\n|pt       = Brilho Nas Pontas dos Dedos\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Ánh Quang Trên Đầu Ngón Tay]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 45611,
+      "ns": 0,
+      "title": "W-Engine Reverberation",
+      "revisions": [
+        {
+          "revid": 167959,
+          "parentid": 146507,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = W-Engine Reverberation\n|type      = W-Engine Channel\n}}\n'''W-Engine Reverberation''' is a [[Signal Search]] channel that features three promotional S-Rank [[W-Engine]]s. All the promotional S-Rank W-Engines will have an increased probability for players to signal search for them when compared to the basic rates when the guarantees are factored in.\n\n==Signal Search Details==\n* The first S-Rank Signal obtained from the W-Engine Reverberation is guaranteed to be the currently selected limited S-Rank W-Engine (this guarantee mechanism is referred to below as the \"Special Guarantee\"). Every period's channels will have three different limited S-Rank W-Engines available for selection. Proxies can switch tabs on the Signal Search page at any time to change the featured W-Engine.\n* During each W-Engine Reverberation period, the first 10-Signal Searches will be 20% off, consuming only {{Item|Encrypted Master Tape|x=8}}. From the 2nd 10-Signal Searches onwards, the number of Encrypted Master Tapes required will return to the original amount.\n* The Search count for guaranteed Signals is cumulative across all W-Engine Reverberation channels but is independent of and unaffected by other types of Channels.\n\n==Special Notes==\n* The 20% discount on the first 10-Signal Searches applies to all channels in the current W-Engine Reverberation and can only be applied once during the current period. Changing the rate-up W-Engine will not reset the discount.\n* The 20% discount on the first 10-Signal Searches resets with each W-Engine Reverberation update, and unused discounts will not carry over to the next period.\n* This Special Guarantee applies to all channels in the current W-Engine Reverberation and can only trigger once during the current period. Changing the rate-up W-Engine will not reset the Special Guarantee.\n* This guarantee resets with each W-Engine Reverberation update, and untriggered guarantee counts will not carry over to the next period.\n* The Special Guarantee and standard guarantee counts are tracked separately and do not affect each other: When a Proxy obtains an S-Rank W-Engine for the first time during the current W-Engine Reverberation channel, the Special Guarantee will be triggered first. After the Special Guarantee is triggered, subsequent S-Rank W-Engine signals will follow the standard guarantee rules, and the standard guarantee count will continue to accumulate throughout that channel.\n\n==History==\n{{Signal Search History Table|W-Engine Reverberation}}\n\n==Other Languages==\n{{Other Languages\n|en       = W-Engine Reverberation\n|zhs      = 音擎回响\n|zhs_rm   = \n|zht      = 音擎迴響\n|zht_rm   = \n|ja       = 音動機再奏\n|ja_rm    = \n|ko       = W-엔진의 메아리\n|es       = Reverberación de Amplificador\n|fr       = Réverbération de moteur-ampli\n|ru       = Звук на полную\n|th       = W-Engine Reverberation\n|vi       = W-Engine Vang Vọng\n|de       = W-Motor-Nachhall\n|id       = Gaung W-Engine\n|pt       = Ressonância de Motor-W\n}}\n\n==Change History==\n{{Change History|2.5}}"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 46404,
+      "ns": 0,
+      "title": "Thoughtbop",
+      "revisions": [
+        {
+          "revid": 159386,
+          "parentid": 150706,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14149\n|name          = Thoughtbop\n|image         = W-Engine Thoughtbop.png\n|releaseDate   = 2026-02-06\n|base_stat     = 48-713\n|adv_stat      = 24%-60%\n|adv_stat_name = Energy Regen\n|effect_name   = Decibel Monologue\n|effect        = While not the active character, the equipper's Energy Regen increases by {{Color|Green|0.(var1)}}/s. When the equipper uses an '''EX Special Attack''' and deals {{Color|Physical|Physical DMG}}, all squad members gain a buff that increases DMG dealt by {{Color|Green|(var2)%}} for 40s, stacking up to 2 times. Repeated triggers reset the duration. At 2 stacks, characters gain an additional {{Color|Green|(var3)%}} ATK. Only one instance of this effect can exist in the same squad.\n|eff_var1_u1   = 6\n|eff_var1_u2   = 69\n|eff_var1_u3   = 78\n|eff_var1_u4   = 87\n|eff_var1_u5   = 96\n|eff_var2_u1   = 12.5\n|eff_var2_u2   = 14.3\n|eff_var2_u3   = 16.1\n|eff_var2_u4   = 17.9\n|eff_var2_u5   = 20\n|eff_var3_u1   = 10\n|eff_var3_u2   = 11.5\n|eff_var3_u3   = 13\n|eff_var3_u4   = 14.5\n|eff_var3_u5   = 16\n|eff_att1      = Energy Regen Increase\n|eff_att2      = DMG Increase\n|eff_att3      = ATK Increase\n}}\n{{Description|Thoughts follow the veins of fantasy, weaving themselves into song.}}\n{{Lead/W-Engine}} It is [[Sunna]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Music is the girl's weapon against the world. The moment she puts on her headphones, she becomes a tiny hero on a quest to conquer the \"Kingdom of Unhappiness,\" proudly swinging her sword and shield and ordering the world to release the treasured fantasies it keeps stingily hidden away.<br />But... every campaign runs into unexpected trouble now and then. Like that old friend who disguises herself as an angel while secretly being an evil demon queen &mdash; why is she always able to catch Sunna slacking off in some corner?!<br />\"Hey, I went through all that trouble to help you assemble that W-Engine, and you're using it to slack off here?\"<br />Sadly, this demon queen of unhappiness is far too powerful, and her arguments are always airtight... Every time this happens, the hero Sunna can only put down her weapon and scurry back to the practice room, once again locked in a battle of wits with those complicated dance steps she never quite manages to get right.<br /><br />\"One day, I'll defeat the Demon Queen!\" &mdash;a certain hero who dares not reveal their name.}}\n\n==Availability==\n* '''Thoughtbop''' is only available from ''Exclusive Channel'' [[Signal Search]]: [[Dissonant Sonata]].\n\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Thoughtbop Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Thoughtbop\n|zhs      = 思络成歌\n|zhs_rm   = \n|zht      = 思絡成歌\n|zht_rm   = \n|ja       = 想いが織りなす歌\n|ja_rm    = \n|ko       = {{tt|사유|思惟}}로 빚은 노래\n|es       = Pensamientos hechos canción\n|fr       = Ballade au fil des pensées\n|ru       = Мысли в бит\n|th       = Thoughtbop\n|vi       = {{tt|Tư Duy|思維}} {{tt|Hóa|化}} {{tt|Nhạc Khúc|樂曲}}\n|de       = Gedankentakt\n|id       = Thoughtbop\n|pt       = Pensamentos em Canção\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Tư Duy Hóa Nhạc Khúc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 46467,
+      "ns": 0,
+      "title": "Whimsy in Triple Meter",
+      "revisions": [
+        {
+          "revid": 152194,
+          "parentid": 150299,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Whimsy in Triple Meter\n|agent     = Sunna\n|type      = Exclusive Channel\n}}\n'''Whimsy in Triple Meter''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Sunna}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Whimsy in Triple Meter\n|zhs      = 四三拍谬想\n|zhs_rm   = Sì-Sān Pāi Miùxiǎng\n|zht      = 三四拍謬想\n|zht_rm   = Sān-Sì Pāi Miùxiǎng\n|ja       = 3/4拍子の妄想\n|ja_rm    = \n|ko       = 3/4{{tt|박자|拍子}}<->의 {{tt|망상|妄想}}\n|es       = Inventiva en métrica ternaria\n|fr       = Miraggio à trois temps\n|ru       = Каприз в трёх четвертях\n|th       = จังหวะวอลซ์ในห้วงฝัน\n|th_rm    = \n|vi       = {{tt|Ảo Tưởng|幻想}} Nhịp Valse\n|de       = Wunder im Dreiertakt\n|id       = Birama Jenaka 3/4\n|pt       = Fantasia em Compasso 3/4\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Ảo Tưởng Nhịp Valse]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 46468,
+      "ns": 0,
+      "title": "Neon Angel",
+      "revisions": [
+        {
+          "revid": 157061,
+          "parentid": 157060,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Neon Angel\n|agent     = Aria\n|type      = Exclusive Channel\n}}\n'''Neon Angel''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Aria}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Neon Angel\n|zhs      = 霓色天使\n|zhs_rm   = \n|zht      = 霓色天使\n|zht_rm   = \n|ja       = ネオンエンジェル\n|ja_rm    = Neon Enjeru\n|ko       = 네온색 천사\n|es       = Ángel de neón\n|fr       = Ange de néon\n|ru       = Неоновый ангел\n|th       = นางฟ้าแสงนีออน\n|th_rm    = \n|vi       = Thiên Thần Neon\n|de       = Neonengel\n|id       = Malaikat Neon\n|pt       = Anjo Neon\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Thiên Thần Neon]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 49343,
+      "ns": 0,
+      "title": "Neon Fantasies",
+      "revisions": [
+        {
+          "revid": 162921,
+          "parentid": 161826,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14151\n|name          = Neon Fantasies\n|image         = W-Engine Neon Fantasies.png\n|releaseDate   = 2026-03-24\n|base_stat     = 48-713\n|adv_stat      = 12%-30%\n|adv_stat_name = Anomaly Mastery\n|effect_name   = Disco Demon\n|effect        = The equipper's Anomaly Proficiency increases by {{Color|Green|(var1)}}. When the equipper's '''EX Special Attack''' or '''Basic Attack''' deals {{Color|Ether|Ether DMG}}, all squad members' DMG dealt increases by {{Color|Green|(var2)%}} for 40s, stacking up to 2 times. This effect can trigger once per use of a skill and repeated triggers reset the duration. With 2 stacks, the equipper's Anomaly Proficiency increases by an additional {{Color|Green|(var3)}}. Only one instance of this effect can exist in the same squad.\n|eff_var1_u1   = 90\n|eff_var1_u2   = 103\n|eff_var1_u3   = 117\n|eff_var1_u4   = 130\n|eff_var1_u5   = 145\n|eff_var2_u1   = 15\n|eff_var2_u2   = 17\n|eff_var2_u3   = 19.5\n|eff_var2_u4   = 21\n|eff_var2_u5   = 24\n|eff_var3_u1   = 60\n|eff_var3_u2   = 69\n|eff_var3_u3   = 78\n|eff_var3_u4   = 87\n|eff_var3_u5   = 96\n|eff_att1      = Anomaly Proficiency Increase\n|eff_att2      = DMG Increase\n}}\n{{Description|A risky and unpredictable delusion that's impossible to refuse.}}\n{{Lead/W-Engine|Neon Fantasies}} It is [[Nangong Yu]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|The neon disco light's misty shimmer intertwined with a playful angel's delusions, twisting into colors too blurred to name. Like every desire that can turn fatal, unpredictable and dangerous, yet no one could quite bring themselves to refuse.\n\nEven seeing through the obsession behind the delusion wasn't enough to resist the temptation of sinking into it.\n\n\"If you say it looks like an octopus sausage, I'll turn you into one.\" &mdash; The captain of the [[Angels of Delusion]], eyes blazing as she glares at a [[Sunna|certain squad member]].}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Neon Fantasies Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Neon Fantasies\n|zhs      = 霓虹妄想\n|zhs_rm   = \n|zht      = 霓虹妄想\n|zht_rm   = \n|ja       = 妄想ディスコテック\n|ja_rm    = \n|ko       = 네온사인 망상\n|es       = Delusiones de neón\n|fr       = Fantaisie de néon\n|ru       = Неоновое наваждение\n|th       = Neon Fantasies\n|vi       = Vọng Tưởng Neon\n|de       = Neon-Fantasie\n|id       = Neon Fantasies\n|pt       = Fantasias de Neon\n}}\n\n==Change History==\n{{Change History|2.7}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Vọng Tưởng Neon]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 49344,
+      "ns": 0,
+      "title": "Serpentine Seeker",
+      "revisions": [
+        {
+          "revid": 161831,
+          "parentid": 161827,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14152\n|name          = Serpentine Seeker\n|image         = W-Engine Serpentine Seeker.png\n|releaseDate   = 2026-04-15\n|base_stat     = 48 - 713\n|adv_stat      = 24% - 60%\n|adv_stat_name = Energy Regen\n|effect_name   = Bioengineered Venom\n|effect        = CRIT Rate increases by {{Color|Green|(var1)%}}. When the equipper consumes at least 20 Energy in a single instance, every 20 Energy consumed grants 3s of a buff: when dealing {{Color|Electric|Electric DMG}}, ignore {{Color|Green|(var2)%}} of the target's DEF. Repeated triggers extend the duration, up to a maximum of 30s. When entering combat, gain 10s of this buff. While the equipper is not the active character, the duration no longer decreases.\n|eff_var1_u1   = 25\n|eff_var1_u2   = 28.8\n|eff_var1_u3   = 32.5\n|eff_var1_u4   = 36.3\n|eff_var1_u5   = 40\n|eff_var2_u1   = 28\n|eff_var2_u2   = 31.5\n|eff_var2_u3   = 35\n|eff_var2_u4   = 38.5\n|eff_var2_u5   = 42\n|eff_att1      = CRIT Rate Increase\n|eff_att2      = DEF Ignore\n}}\n{{Description|Digital venom flows beneath those alloy scales.}}\n{{Lead/W-Engine|Serpentine Seeker}} It is [[Cissia]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Beneath the cold alloy scales, venom made of data flows. Each flick of the serpent's tongue probes the dark, carving out an electronic circuit that leads the homeless snake back to its \"nest.\"<br /><br />Each cycle of data in and out leaves untraceable fragments of corrupted code &mdash; much like its user, driven by instinct to chew through truth's rigid shell.<br /><br />\"It says... this time, the target's hiding somewhere nice and warm.\" &mdash; Cissia brushes a hand over the subtly warm serpent head, her smile hovering between danger and anticipation.}}\n\n==Availability==\n* '''Serpentine Seeker''' is only available from ''Exclusive Channel'' [[Signal Search]]: [[Dissonant Sonata]].\n\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Serpentine Seeker Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Serpentine Seeker\n|zhs      = 鳞齿寻踪\n|zhs_rm   = \n|zht      = 鱗齒尋蹤\n|zht_rm   = \n|ja       = 影を追う白き牙\n|ja_rm    = \n|ko       = {{tt|추적|追跡}}하는 송곳니\n|es       = Rastreador serpentino\n|fr       = Traque serpentine\n|ru       = Рептилокатор\n|th       = Serpentine Seeker\n|vi       = Nanh Vảy {{tt|Tầm|尋}} Vết\n|de       = Schlängelnde Spurensuche\n|id       = Serpentine Seeker\n|pt       = Rastro Serpentino\n}}\n\n==Change History==\n{{Change History|2.7}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Nanh Vảy Tầm Vết]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 50998,
+      "ns": 0,
+      "title": "Starlight, Shine Bright!",
+      "revisions": [
+        {
+          "revid": 167953,
+          "parentid": 167747,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Starlight, Shine Bright!\n|agent     = Starlight - Billy Kid\n|type      = Exclusive Channel\n}}\n'''Starlight, Shine Bright!''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Starlight - Billy Kid}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n-->\n==Other Languages==\n{{Other Languages\n|en       = Starlight, Shine Bright!\n|zhs      = 星徽于此闪耀\n|zhs_rm   = \n|zht      = 星徽於此閃耀\n|zht_rm   = \n|ja       = スターライト、ここに輝く\n|ja_rm    = Sutāraito, koko ni kagayaku\n|ko       = 스타라이트, 여기서 빛나리\n|es       = Refulgencia estelar\n|fr       = Éclair stellaire, brille de mille feux&nbsp;!\n|ru       = Да воссияет звёздный свет!\n|th       = แสงดาวส่องประกาย\n|th_rm    = \n|vi       = Ánh Sao Tỏa Sáng Nơi Đây\n|de       = Sternenlicht, strahl hell!\n|id       = Starlight, Bersinarlah!\n|pt       = Brilho Estelar\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Ánh Sao Tỏa Sáng Nơi Đây]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 51001,
+      "ns": 0,
+      "title": "Starlight Rider Faceplate",
+      "revisions": [
+        {
+          "revid": 173008,
+          "parentid": 169328,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14153\n|name          = Starlight Rider Faceplate\n|image         = W-Engine Starlight Rider Faceplate.png\n|releaseDate   = 2026-05-27\n|base_stat     = 48 - 713\n|adv_stat      = 12% - 30%\n|adv_stat_name = HP\n|effect_name   = Knight's Morale\n|effect        = Increases CRIT Rate by {{Color|Green|(var1)%}}. When the equipper launches a '''Special Attack''', their {{Color|Physical|Physical Sheer DMG}} increases by {{Color|Green|(var2)%}}, stacking up to 2 times and lasting 30s. Repeated triggers reset the duration.\n|eff_var1_u1   = 20\n|eff_var1_u2   = 23\n|eff_var1_u3   = 26\n|eff_var1_u4   = 29\n|eff_var1_u5   = 32\n|eff_var2_u1   = 10\n|eff_var2_u2   = 11.5\n|eff_var2_u3   = 13\n|eff_var2_u4   = 14.5\n|eff_var2_u5   = 16\n|eff_att1      = CRIT Rate Increase\n|eff_att2      = Physical Sheer DMG Increase\n}}\n{{Description|The proof of being a knight is within your grasp.}}\n{{Lead/W-Engine}} It is [[Starlight - Billy Kid]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|What is a knight?<br />The Crimson Knight says, \"Carrying out the justice in my heart!\"<br />The Amber Knight says, \"Dealing with each sin in this world!\"<br />The Verdant Knight says, \"Protecting everyone's hope!\"<br />So what is a knight, in the end? The advanced tactical construct suddenly falls into serious thought over this profound question, no different from the philosophers who have long pondered the ultimate meaning of existence.<br />Regrettably, this great and noble meditation on chivalric aesthetics is cut short in under ten seconds by an unceremonious interruption from a companion.<br />\"Billy, you've watched 'Starlight Knight: A Knight's Proof' a hundred times already. So what even is the proof?\"<br />\"I'll know when I've watched it another hundred times!\"<br />&mdash; Two people arguing over the remote at the [[Cunning Hares]]' base.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Starlight Rider Faceplate Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Starlight Rider Faceplate\n|zhs      = 辉骑面铠\n|zhs_rm   = \n|zht      = 輝騎面鎧\n|zht_rm   = \n|ja       = スターライトバイザー\n|ja_rm    = \n|ko       = 별빛 기사의 가면\n|es       = Yelmo de motorista estelar\n|fr       = Heaume du Chevalier stellaire\n|ru       = Звёздное забрало\n|th       = Starlight Rider Faceplate\n|vi       = Mặt Nạ Huy Hoàng\n|de       = Sternenlicht-Bikervisier\n|id       = Starlight Rider Faceplate\n|pt       = Máscara do Cavaleiro Radiante\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Mặt Nạ Huy Hoàng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 52547,
+      "ns": 0,
+      "title": "Outlier of Prodigies",
+      "revisions": [
+        {
+          "revid": 173082,
+          "parentid": 173044,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Outlier of Prodigies\n|agent     = Norma Hollowell\n|type      = Exclusive Channel\n}}\n'''Light Upon Fingertips''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Norma Hollowell}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n<!--\n==Trivia==\n===Etymology===\n\n-->\n==Other Languages==\n{{Other Languages\n|en       = Outlier of Prodigies\n|zhs      = 天才不等式\n|zhs_rm   = \n|zht      = 天才不等式\n|zht_rm   = \n|ja       = 天才を解く式はない！\n|ja_rm    = \n|ko       = 천재 부등식\n|es       = Genialidad atípica\n|fr       = Inéquation du génie\n|ru       = Гений по самые уши\n|th       = อสมการอัจฉริยะ\n|th_rm    = \n|vi       = Bất Đẳng Thức Thiên Tài\n|de       = Ausnahme unter Ausnahmetalenten\n|id       = Jenius Antara Para Jenius\n|pt       = Genialidade Atípica\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Bất Đẳng Thức Thiên Tài]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 55032,
+      "ns": 0,
+      "title": "Ode of Resurrected Wings",
+      "revisions": [
+        {
+          "revid": 179208,
+          "parentid": 177233,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id            = 14158\n|name          = Ode of Resurrected Wings\n|image         = W-Engine Ode of Resurrected Wings.png\n|releaseDate   = 2026-07-29\n|base_stat     = 50-743\n|adv_stat      = 14.4%-36%\n|adv_stat_name = ATK\n|effect_name   = Paradise Lost\n|effect        = Increases Anomaly Proficiency by {{Color|Green|(var1)}}. When the equipper triggers a {{Color|#FFA9DD|Refringe}} reaction, they gain {{Color|Green|(var2)%}} increased Anomaly DMG, and all squad members gain {{Color|Green|(var3)%}} increased DMG dealt. Both effects last 30s. Repeated triggers reset the duration.\n|eff_var1_u1   = 96\n|eff_var1_u2   = 105\n|eff_var1_u3   = 115\n|eff_var1_u4   = 125\n|eff_var1_u5   = 135\n|eff_var2_u1   = 20%\n|eff_var2_u2   = 23%\n|eff_var2_u3   = 26%\n|eff_var2_u4   = 29%\n|eff_var2_u5   = 32%\n|eff_var3_u1   = 30%\n|eff_var3_u2   = 34.5%\n|eff_var3_u3   = 39%\n|eff_var3_u4   = 43.5%\n|eff_var3_u5   = 48%\n|eff_att1      = Anomaly Proficiency Increase\n|eff_att2      = Anomaly DMG Increase\n|eff_att3      = DMG Increase\n}}\n{{Description|Drifting through the cracks of time in search of the light.}}\n{{Lead/W-Engine|Ode of Resurrected Wings}} It is [[Remielle Dan]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|The wings scorched by the blazing sun once fell to the pale earth, into a lightless chasm.<br />Then fall... She will bear it all. The weight, the darkness, those defiant follies, those lives that slipped away...<br />In that long slumber forgotten by time, even sorrow faded away. Pain and despair faded too... As did joy. As did memory. All withered away, for all is vanity.<br />A hundred years passed in the blink of an eye. Kingdoms upon the earth fell and rose anew, yet she never awoke.<br />But no matter how much unspeakable darkness lay buried within her heart, a bird cannot pretend not to see the coming of spring.<br /><br />\"Spring flowers are winter's dream, and autumn clouds remember the summer breeze~\"<br />&mdash;Beneath the quiet moonlit sky, a pink-haired girl softly hums an ancient nursery rhyme.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Ode of Resurrected Wings Images}}\n\n===Videos===\n{{Files by Character Gallery|Official Videos}}\n\n==Other Languages==\n{{Other Languages\n|en       = Ode of Resurrected Wings\n|zhs      = 空羽复归之诗\n|zhs_rm   = \n|zht      = 空羽復歸之詩\n|zht_rm   = \n|ja       = 目覚めし翼の聖歌\n|ja_rm    = \n|ko       = 돌아온 날개의 시\n|es       = Oda de alas renacidas\n|fr       = Ode aux ailes ressuscitées\n|ru       = Ода о возвращении крыльев\n|th       = Ode of Resurrected Wings\n|vi       = Khúc Ca Đôi Cánh Tái Sinh\n|de       = Ode der auferstandenen Flügel\n|id       = Ode of Resurrected Wings\n|pt       = Ode à Ressurreição das Asas\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[vi:Khúc Ca Đôi Cánh Tái Sinh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 55033,
+      "ns": 0,
+      "title": "Paradise Regained",
+      "revisions": [
+        {
+          "revid": 178807,
+          "parentid": 178802,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Signal Search Series Infobox\n|title     = Paradise Regained\n|agent     = Remielle Dan\n|type      = Exclusive Channel\n}}\n'''Paradise Regained''' is an [[Exclusive Channel]] with {{Intro/Agent/Full|Remielle Dan}} as the promoted Agent with an increased chance to be obtained.\n\n==History==\n{{Signal Search History Table}}\n\n==Trivia==\n===Etymology===\n* The name of the banner is a reference of the epic poem ''{{w|Paradise Regained}}'' by English poet {{w|John Milton}}, which is a sequel to his renowned work, ''{{w|Paradise Lost}}''.\n\n==Other Languages==\n{{Other Languages\n|en       = Paradise Regained\n|zhs      = 复乐园\n|zhs_rm   = Fùlè-yuán\n|zht      = 復樂園\n|zht_rm   = Fùlè-yuán\n|ja       = 復楽園\n|ja_rm    = Fukuraku-en\n|ko       = 복낙원\n|es       = Paraíso recobrado\n|fr       = Le Paradis reconquis\n|ru       = Возвращённый рай\n|th       = หวนสู่วิมานสวรรค์\n|th_rm    = \n|vi       = Thiên Đường Trở Lại\n|de       = Wiedererlangtes Paradies\n|id       = Merengkuh Kembali Surga\n|pt       = Paraíso Recuperado\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Signal Search Navbox}}\n\n[[vi:Thiên Đường Trở Lại]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 55034,
+      "ns": 0,
+      "title": "Knight's Extolment",
+      "revisions": [
+        {
+          "revid": 182909,
+          "parentid": 179210,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{W-Engine Infobox\n|id          = 14159\n|name        = Knight's Extolment\n|image       = W-Engine Knight's Extolment.png\n|releaseDate = 2026-08-19\n|base_stat   = 48-713\n|adv_stat    = 19.2%-48%\n|effect_name = Knight's Rite\n|effect      = When the equipper's '''Basic Attack''' or '''EX Special Attack''''s heavy attack hits an enemy, they gain 1 stack of '''Battle Edge''', increasing CRIT DMG by {{Color|Green|(var1)%}} for 25s. '''Battle Edge''' can stack up to 2 times, and each skill type can provide up to 1 stack. Repeated triggers refresh the duration of all '''Battle Edge'''.<br />At 2 stacks of '''Battle Edge''', the equipper gains '''Bonechill''': Their DMG ignores {{Color|Green|(var2)%}} of the target's {{Color|Ice RES}}.\n|eff_var1_u1 = 32\n|eff_var1_u2 = 36.8\n|eff_var1_u3 = 41.6\n|eff_var1_u4 = 46.4\n|eff_var1_u5 = 51.2\n|eff_var2_u1 = 20\n|eff_var2_u2 = 23\n|eff_var2_u3 = 26\n|eff_var2_u4 = 29\n|eff_var2_u5 = 32\n|eff_att1    = CRIT DMG Increase\n|eff_att2    = Attribute RES Ignore\n}}\n{{Description|Across the vast skies and seas of clouds, the extolment for the knights echoes in quiet reverence.}}\n{{Lead/W-Engine}} It is [[Sigrid de L'Azur]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|Every Deputy Administrative Director of the Airspace Patrol Department from House de L'Azur has had a custom W-Engine of their own. The badge and ode of the guardians of the skies are all forged into this elegant white emblem. To the children, the members of the Airspace Patrol Department who protect the City in the Sky are knights from a fairy tale. The peace and tranquility above the clouds are the quiet ode of their extolment.<br />\"Every knight in a fairy tale has their own trusty steed. Which reminds me...\"<br />&mdash;Lady Lindverne Sunbringer eyes her knight with unmistakable mischief.}}\n\n==Availability==\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery}}\n\n==Other Languages==\n{{Other Languages\n|en       = Knight's Extolment\n|zhs      = 骁骑礼赞\n|zhs_rm   = \n|zht      = 驍騎禮讚\n|zht_rm   = \n|ja       = 栄光の騎士道\n|ja_rm    = \n|ko       = 기사 예찬\n|es       = Exaltación de caballería\n|fr       = Éloge du cavalier\n|ru       = Ход конём\n|th       = Knight's Extolment\n|vi       = Tán Dương Kỵ Sĩ Dũng Mãnh\n|de       = Lobpreisung der Ritterin\n|id       = Knight's Extolment\n|pt       = Exaltação do Cavaleiro\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{W-Engine Navbox}}"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "fetchedAt": "2026-10-03T03:10:43.919Z"
+}

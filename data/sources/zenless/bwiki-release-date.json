@@ -1,0 +1,2380 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "「11号」": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「11号」",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C11%E5%8F%B7%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「席德」": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月04日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "「席德」",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E5%B8%AD%E5%BE%B7%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「恒等式」-变格": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「恒等式」-变格",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%81%92%E7%AD%89%E5%BC%8F%E3%80%8D-%E5%8F%98%E6%A0%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「恒等式」-本格": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「恒等式」-本格",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%81%92%E7%AD%89%E5%BC%8F%E3%80%8D-%E6%9C%AC%E6%A0%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「扳机」": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月02日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "「扳机」",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%89%B3%E6%9C%BA%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「月相」-晦": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「月相」-晦",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%9C%88%E7%9B%B8%E3%80%8D-%E6%99%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「月相」-朔": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「月相」-朔",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%9C%88%E7%9B%B8%E3%80%8D-%E6%9C%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「月相」-望": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「月相」-望",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%9C%88%E7%9B%B8%E3%80%8D-%E6%9C%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「残响」-Ⅰ型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「残响」-Ⅰ型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%AE%8B%E5%93%8D%E3%80%8D-%E2%85%A0%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「残响」-Ⅱ型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「残响」-Ⅱ型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%AE%8B%E5%93%8D%E3%80%8D-%E2%85%A1%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「残响」-Ⅲ型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「残响」-Ⅲ型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%AE%8B%E5%93%8D%E3%80%8D-%E2%85%A2%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「湍流」-斧型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「湍流」-斧型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%B9%8D%E6%B5%81%E3%80%8D-%E6%96%A7%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「湍流」-矢型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「湍流」-矢型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%B9%8D%E6%B5%81%E3%80%8D-%E7%9F%A2%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「湍流」-铳型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「湍流」-铳型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E6%B9%8D%E6%B5%81%E3%80%8D-%E9%93%B3%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「灰烬」-钴蓝": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "「灰烬」-钴蓝",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E7%81%B0%E7%83%AC%E3%80%8D-%E9%92%B4%E8%93%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「电磁暴」-叁式": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「电磁暴」-叁式",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E7%94%B5%E7%A3%81%E6%9A%B4%E3%80%8D-%E5%8F%81%E5%BC%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「电磁暴」-壹式": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「电磁暴」-壹式",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E7%94%B5%E7%A3%81%E6%9A%B4%E3%80%8D-%E5%A3%B9%E5%BC%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "「电磁暴」-贰式": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "「电磁暴」-贰式",
+        "fullurl": "https://wiki.biligame.com/zzz/%E3%80%8C%E7%94%B5%E7%A3%81%E6%9A%B4%E3%80%8D-%E8%B4%B0%E5%BC%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丽娜": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "丽娜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%B8%BD%E5%A8%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "云霓孤光": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月30日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "云霓孤光",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BA%91%E9%9C%93%E5%AD%A4%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "人为刀俎": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "人为刀俎",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BA%BA%E4%B8%BA%E5%88%80%E4%BF%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "仪玄": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "仪玄",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BB%AA%E7%8E%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "仿制星徽引擎": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "仿制星徽引擎",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BB%BF%E5%88%B6%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "伊德海莉": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "伊德海莉",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BC%8A%E5%BE%B7%E6%B5%B7%E8%8E%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "伊芙琳": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月12日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "伊芙琳",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BC%8A%E8%8A%99%E7%90%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "佩洛伊斯": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月17日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "佩洛伊斯",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BD%A9%E6%B4%9B%E4%BC%8A%E6%96%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "光影刻刀": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "光影刻刀",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%85%89%E5%BD%B1%E5%88%BB%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "克拉蕾": {
+        "printouts": {
+          "实装日期": [
+            "2026年09月09日"
+          ],
+          "实装版本": [
+            "3.2"
+          ]
+        },
+        "fulltext": "克拉蕾",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%85%8B%E6%8B%89%E8%95%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "兔能环": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "兔能环",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%85%94%E8%83%BD%E7%8E%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "凯撒": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月25日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "凯撒",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%87%AF%E6%92%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "加农转子": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "加农转子",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8A%A0%E5%86%9C%E8%BD%AC%E5%AD%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "十方锻星": {
+        "printouts": {
+          "实装日期": [
+            "2025年08月06日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "十方锻星",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%81%E6%96%B9%E9%94%BB%E6%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千夏": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月06日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "千夏",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%83%E5%A4%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千面日陨": {
+        "printouts": {
+          "实装日期": [
+            "2025年05月14日"
+          ],
+          "实装版本": [
+            "1.7"
+          ]
+        },
+        "fulltext": "千面日陨",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%83%E9%9D%A2%E6%97%A5%E9%99%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "半糖雪兔": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月30日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "半糖雪兔",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%8A%E7%B3%96%E9%9B%AA%E5%85%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "南宫羽": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月24日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "南宫羽",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%97%E5%AE%AB%E7%BE%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "卢西娅": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "卢西娅",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8D%A2%E8%A5%BF%E5%A8%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "双生泣星": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "双生泣星",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8F%8C%E7%94%9F%E6%B3%A3%E6%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "可琳": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "可琳",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8F%AF%E7%90%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "叶瞬光": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月30日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "叶瞬光",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8F%B6%E7%9E%AC%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "含羞恶面": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "含羞恶面",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%90%AB%E7%BE%9E%E6%81%B6%E9%9D%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "咚哒回声": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月17日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "咚哒回声",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%92%9A%E5%93%92%E5%9B%9E%E5%A3%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "啜泣摇篮": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "啜泣摇篮",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%95%9C%E6%B3%A3%E6%91%87%E7%AF%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嚣枪喧焰": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月24日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "嚣枪喧焰",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%9A%A3%E6%9E%AA%E5%96%A7%E7%84%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "壳中之灵": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月04日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "壳中之灵",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A3%B3%E4%B8%AD%E4%B9%8B%E7%81%B5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "奔袭獠牙": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月25号"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "奔袭獠牙",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A5%94%E8%A2%AD%E7%8D%A0%E7%89%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "奥菲丝&「鬼火」": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月24日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "奥菲丝&「鬼火」",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A5%A5%E8%8F%B2%E4%B8%9D%26%E3%80%8C%E9%AC%BC%E7%81%AB%E3%80%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "好斗的阿炮": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "好斗的阿炮",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A5%BD%E6%96%97%E7%9A%84%E9%98%BF%E7%82%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "妮可": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "妮可",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A6%AE%E5%8F%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "安东": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "安东",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%AE%89%E4%B8%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "安比": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "安比",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%AE%89%E6%AF%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "家政员": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "家政员",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%AE%B6%E6%94%BF%E5%91%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "嵌合编译器": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "嵌合编译器",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B5%8C%E5%90%88%E7%BC%96%E8%AF%91%E5%99%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "左轮转子": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "左轮转子",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B7%A6%E8%BD%AE%E8%BD%AC%E5%AD%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希希芙": {
+        "printouts": {
+          "实装日期": [
+            "2026年04月15日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "希希芙",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B8%8C%E5%B8%8C%E8%8A%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希格莉德": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月19日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "希格莉德",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B8%8C%E6%A0%BC%E8%8E%89%E5%BE%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "幻变魔方": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "幻变魔方",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B9%BB%E5%8F%98%E9%AD%94%E6%96%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "强音热望": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月18日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "强音热望",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%BC%BA%E9%9F%B3%E7%83%AD%E6%9C%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "德玛拉电池Ⅱ型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "德玛拉电池Ⅱ型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%BE%B7%E7%8E%9B%E6%8B%89%E7%94%B5%E6%B1%A0%E2%85%A1%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "心弦夜响": {
+        "printouts": {
+          "实装日期": [
+            "2025年02月12日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "心弦夜响",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%BF%83%E5%BC%A6%E5%A4%9C%E5%93%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "怒目金刚": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月17日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "怒目金刚",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%80%92%E7%9B%AE%E9%87%91%E5%88%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "思络成歌": {
+        "printouts": {
+          "实装日期": [
+            "2026年02月06日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "思络成歌",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%80%9D%E7%BB%9C%E6%88%90%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "悠真": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月18日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "悠真",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%82%A0%E7%9C%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "拘缚者": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "拘缚者",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%8B%98%E7%BC%9A%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "旋钻机-赤轴": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "旋钻机-赤轴",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%97%8B%E9%92%BB%E6%9C%BA-%E8%B5%A4%E8%BD%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "日冕遗蜕": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月17日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "日冕遗蜕",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%97%A5%E5%86%95%E9%81%97%E8%9C%95",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "时光切片": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "时光切片",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%97%B6%E5%85%89%E5%88%87%E7%89%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "时流贤者": {
+        "printouts": {
+          "实装日期": [
+            "2024年11月10日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "时流贤者",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%97%B6%E6%B5%81%E8%B4%A4%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星徽·比利": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月27日"
+          ],
+          "实装版本": [
+            "2.8"
+          ]
+        },
+        "fulltext": "星徽·比利",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%98%9F%E5%BE%BD%C2%B7%E6%AF%94%E5%88%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星徽引擎": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "星徽引擎",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%98%9F%E5%BE%BD%E5%BC%95%E6%93%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "春日融融": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "春日融融",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%98%A5%E6%97%A5%E8%9E%8D%E8%9E%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "昨夜来电": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月26日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "昨夜来电",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%98%A8%E5%A4%9C%E6%9D%A5%E7%94%B5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "普罗米娅": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月06日"
+          ],
+          "实装版本": [
+            "2.8"
+          ]
+        },
+        "fulltext": "普罗米娅",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%99%AE%E7%BD%97%E7%B1%B3%E5%A8%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "朔月裁霜": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月06日"
+          ],
+          "实装版本": [
+            "2.8"
+          ]
+        },
+        "fulltext": "朔月裁霜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%94%E6%9C%88%E8%A3%81%E9%9C%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "本": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "本",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "朱鸢": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月24日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "朱鸢",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%B1%E9%B8%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "机巧心种": {
+        "printouts": {
+          "实装日期": [
+            "2025年09月04日"
+          ],
+          "实装版本": [
+            "2.2"
+          ]
+        },
+        "fulltext": "机巧心种",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%BA%E5%B7%A7%E5%BF%83%E7%A7%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "柏妮思": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月16日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "柏妮思",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9F%8F%E5%A6%AE%E6%80%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "柚叶": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月16日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "柚叶",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9F%9A%E5%8F%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "柳": {
+        "printouts": {
+          "实装日期": [
+            "2024年11月06日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "柳",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "格莉丝": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "格莉丝",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%A0%BC%E8%8E%89%E4%B8%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "橘福福": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月25日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "橘福福",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%A9%98%E7%A6%8F%E7%A6%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "正版变身器": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "正版变身器",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%AD%A3%E7%89%88%E5%8F%98%E8%BA%AB%E5%99%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "残心青囊": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月18日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "残心青囊",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%AE%8B%E5%BF%83%E9%9D%92%E5%9B%8A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "比利": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "比利",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%AF%94%E5%88%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "比格气缸": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "比格气缸",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%AF%94%E6%A0%BC%E6%B0%94%E7%BC%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "波可娜": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月12日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "波可娜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B3%A2%E5%8F%AF%E5%A8%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "洛克茜": {
+        "printouts": {
+          "实装日期": [
+            "未实装"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "洛克茜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B4%9B%E5%85%8B%E8%8C%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "派派": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "派派",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B4%BE%E6%B4%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "海妖摇篮": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "海妖摇篮",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B5%B7%E5%A6%96%E6%91%87%E7%AF%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "淬锋钳刺": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月04号"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "淬锋钳刺",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B7%AC%E9%94%8B%E9%92%B3%E5%88%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "深海访客": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "深海访客",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B7%B1%E6%B5%B7%E8%AE%BF%E5%AE%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "潘引壶": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "潘引壶",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%BD%98%E5%BC%95%E5%A3%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灼心摇壶": {
+        "printouts": {
+          "实装日期": [
+            "2024年10月16日"
+          ],
+          "实装版本": [
+            "1.2"
+          ]
+        },
+        "fulltext": "灼心摇壶",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%81%BC%E5%BF%83%E6%91%87%E5%A3%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "炎炙沸釜": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月24日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "炎炙沸釜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%82%8E%E7%82%99%E6%B2%B8%E9%87%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "焰心桂冠": {
+        "printouts": {
+          "实装日期": [
+            "2024年11月30日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "焰心桂冠",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%84%B0%E5%BF%83%E6%A1%82%E5%86%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "照": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月30日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "照",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%85%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "燃狱齿轮": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "燃狱齿轮",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%87%83%E7%8B%B1%E9%BD%BF%E8%BD%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "燔火胧夜": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "燔火胧夜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%87%94%E7%81%AB%E8%83%A7%E5%A4%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "爱丽丝": {
+        "printouts": {
+          "实装日期": [
+            "2025年08月06日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "爱丽丝",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%88%B1%E4%B8%BD%E4%B8%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "爱芮": {
+        "printouts": {
+          "实装日期": [
+            "2026年03月04日"
+          ],
+          "实装版本": [
+            "2.6"
+          ]
+        },
+        "fulltext": "爱芮",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%88%B1%E8%8A%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "牺牲洁纯": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月12日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "牺牲洁纯",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%89%BA%E7%89%B2%E6%B4%81%E7%BA%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "狸法七变化": {
+        "printouts": {
+          "实装日期": [
+            "2025年07月16日"
+          ],
+          "实装版本": [
+            "2.1"
+          ]
+        },
+        "fulltext": "狸法七变化",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8B%B8%E6%B3%95%E4%B8%83%E5%8F%98%E5%8C%96",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猩红渴望": {
+        "printouts": {
+          "实装日期": [
+            "2026年9月9日"
+          ],
+          "实装版本": [
+            "3.2版本"
+          ]
+        },
+        "fulltext": "猩红渴望",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8C%A9%E7%BA%A2%E6%B8%B4%E6%9C%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猫又": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "猫又",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8C%AB%E5%8F%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "玉壶青冰": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月14日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "玉壶青冰",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8E%89%E5%A3%B6%E9%9D%92%E5%86%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "玲珑妆匣": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月22日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "玲珑妆匣",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8E%B2%E7%8F%91%E5%A6%86%E5%8C%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "珂蕾妲": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "珂蕾妲",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8F%82%E8%95%BE%E5%A6%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "琉音": {
+        "printouts": {
+          "实装日期": [
+            "2025年11月26日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "琉音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%90%89%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "琳琅鎏心": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月17日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "琳琅鎏心",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%90%B3%E7%90%85%E9%8E%8F%E5%BF%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "电波漫步": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "电波漫步",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%94%B5%E6%B3%A2%E6%BC%AB%E6%AD%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真斗": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "真斗",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%9C%9F%E6%96%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "硫磺石": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "硫磺石",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%A1%AB%E7%A3%BA%E7%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "福虓炉炉": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月25日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "福虓炉炉",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%A6%8F%E8%99%93%E7%82%89%E7%82%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "空羽复归之诗": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月29日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "空羽复归之诗",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%A9%BA%E7%BE%BD%E5%A4%8D%E5%BD%92%E4%B9%8B%E8%AF%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "简": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月04日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "简",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%AE%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "索魂影眸": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月02日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "索魂影眸",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%B4%A2%E9%AD%82%E5%BD%B1%E7%9C%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "维序者-特化型": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月04日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "维序者-特化型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%BB%B4%E5%BA%8F%E8%80%85-%E7%89%B9%E5%8C%96%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "维琳娜": {
+        "printouts": {
+          "实装日期": [
+            "2026年06月17日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "维琳娜",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%BB%B4%E7%90%B3%E5%A8%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "耀嘉音": {
+        "printouts": {
+          "实装日期": [
+            "2025年01月22日"
+          ],
+          "实装版本": [
+            "1.5"
+          ]
+        },
+        "fulltext": "耀嘉音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%80%80%E5%98%89%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "聚宝箱": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "聚宝箱",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%81%9A%E5%AE%9D%E7%AE%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "般岳": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月17日"
+          ],
+          "实装版本": [
+            "2.4"
+          ]
+        },
+        "fulltext": "般岳",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%88%AC%E5%B2%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾莲": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "艾莲",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%89%BE%E8%8E%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍角": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "苍角",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%8B%8D%E8%A7%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "莱卡恩": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "莱卡恩",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%8E%B1%E5%8D%A1%E6%81%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "莱特": {
+        "printouts": {
+          "实装日期": [
+            "2024年11月27日"
+          ],
+          "实装版本": [
+            "1.3"
+          ]
+        },
+        "fulltext": "莱特",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%8E%B1%E7%89%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "蕾米埃尔": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月29日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "蕾米埃尔",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%95%BE%E7%B1%B3%E5%9F%83%E5%B0%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "薇薇安": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月23日"
+          ],
+          "实装版本": [
+            "1.7"
+          ]
+        },
+        "fulltext": "薇薇安",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%96%87%E8%96%87%E5%AE%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "街头巨星": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "街头巨星",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%A1%97%E5%A4%B4%E5%B7%A8%E6%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "裁纸刀": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月12日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "裁纸刀",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%A3%81%E7%BA%B8%E5%88%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "触电唇彩": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "触电唇彩",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%A7%A6%E7%94%B5%E5%94%87%E5%BD%A9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "诺姆": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月08日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "诺姆",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%AF%BA%E5%A7%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "贵重骨核": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "贵重骨核",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%B4%B5%E9%87%8D%E9%AA%A8%E6%A0%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赛斯": {
+        "printouts": {
+          "实装日期": [
+            "2024年09月04日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "赛斯",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%B5%9B%E6%96%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "轰鸣座驾": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "轰鸣座驾",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%BD%B0%E9%B8%A3%E5%BA%A7%E9%A9%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "辉骑面铠": {
+        "printouts": {
+          "实装日期": [
+            "2026年05月27日"
+          ],
+          "实装版本": [
+            "2.8"
+          ]
+        },
+        "fulltext": "辉骑面铠",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%BE%89%E9%AA%91%E9%9D%A2%E9%93%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "逍遥游球": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "逍遥游球",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%80%8D%E9%81%A5%E6%B8%B8%E7%90%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鎏金花信": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月21日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "鎏金花信",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%8E%8F%E9%87%91%E8%8A%B1%E4%BF%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "钢铁肉垫": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "钢铁肉垫",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%92%A2%E9%93%81%E8%82%89%E5%9E%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "铸梦炉歌": {
+        "printouts": {
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "实装版本": [
+            "2.3"
+          ]
+        },
+        "fulltext": "铸梦炉歌",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%93%B8%E6%A2%A6%E7%82%89%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "防暴者Ⅵ型": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月22日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "防暴者Ⅵ型",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%98%B2%E6%9A%B4%E8%80%85%E2%85%A5%E5%9E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雅": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月18日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "雅",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雨林饕客": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "雨林饕客",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%A8%E6%9E%97%E9%A5%95%E5%AE%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雨果": {
+        "printouts": {
+          "实装日期": [
+            "2025年05月14日"
+          ],
+          "实装版本": [
+            "1.7"
+          ]
+        },
+        "fulltext": "雨果",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%A8%E6%9E%9C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "零号·安比": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月12日"
+          ],
+          "实装版本": [
+            "1.6"
+          ]
+        },
+        "fulltext": "零号·安比",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%B6%E5%8F%B7%C2%B7%E5%AE%89%E6%AF%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "震元奇枢": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "震元奇枢",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9C%87%E5%85%83%E5%A5%87%E6%9E%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "霓虹妄想": {
+        "printouts": {
+          "实装日期": [
+            "2025年03月24日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "霓虹妄想",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9C%93%E8%99%B9%E5%A6%84%E6%83%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "霰落星殿": {
+        "printouts": {
+          "实装日期": [
+            "2024年12月18日"
+          ],
+          "实装版本": [
+            "1.4"
+          ]
+        },
+        "fulltext": "霰落星殿",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9C%B0%E8%90%BD%E6%98%9F%E6%AE%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "露西": {
+        "printouts": {
+          "实装日期": [
+            "2024年07月04日"
+          ],
+          "实装版本": [
+            "1.0"
+          ]
+        },
+        "fulltext": "露西",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9C%B2%E8%A5%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "青溟笼舍": {
+        "printouts": {
+          "实装日期": [
+            "2025年06月06日"
+          ],
+          "实装版本": [
+            "2.0"
+          ]
+        },
+        "fulltext": "青溟笼舍",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9D%92%E6%BA%9F%E7%AC%BC%E8%88%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "青漪灵鼎": {
+        "printouts": {
+          "实装日期": [
+            "2025年12月31日"
+          ],
+          "实装版本": [
+            "2.5"
+          ]
+        },
+        "fulltext": "青漪灵鼎",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9D%92%E6%BC%AA%E7%81%B5%E9%BC%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "青衣": {
+        "printouts": {
+          "实装日期": [
+            "2024年08月14日"
+          ],
+          "实装版本": [
+            "1.1"
+          ]
+        },
+        "fulltext": "青衣",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9D%92%E8%A1%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞鸟星梦": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月23日"
+          ],
+          "实装版本": [
+            "1.7"
+          ]
+        },
+        "fulltext": "飞鸟星梦",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%A3%9E%E9%B8%9F%E6%98%9F%E6%A2%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "首席跟班": {
+        "printouts": {
+          "实装日期": [
+            "2026年07月08日"
+          ],
+          "实装版本": [
+            "3.0"
+          ]
+        },
+        "fulltext": "首席跟班",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%A6%96%E5%B8%AD%E8%B7%9F%E7%8F%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "骁骑礼赞": {
+        "printouts": {
+          "实装日期": [
+            "2026年08月19日"
+          ],
+          "实装版本": [
+            "3.1"
+          ]
+        },
+        "fulltext": "骁骑礼赞",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%AA%81%E9%AA%91%E7%A4%BC%E8%B5%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "鳞齿寻踪": {
+        "printouts": {
+          "实装日期": [
+            "2025年04月15日"
+          ],
+          "实装版本": [
+            "2.7"
+          ]
+        },
+        "fulltext": "鳞齿寻踪",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%B3%9E%E9%BD%BF%E5%AF%BB%E8%B8%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "78277c865210eebb92f55be2cb8f7b45",
+      "count": 156,
+      "offset": 0,
+      "source": "",
+      "time": "0.028878"
+    }
+  }
+}

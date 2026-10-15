@@ -1,0 +1,2370 @@
+{
+  "id": 1051,
+  "icon": "IconRole52",
+  "name": "伊德海莉",
+  "code_name": "Yidhari",
+  "rarity": 4,
+  "weapon_type": {
+    "6": "命破"
+  },
+  "element_type": {
+    "202": "冰属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "11": "怪啖屋"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "3/19",
+    "full_name": "伊德海莉·墨菲",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle52.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0052.png",
+    "impression_f": "伊德海莉虽然看上去好像对什么都不太关心的样子，但她其实超级细心，还很会照顾人哦！\n有次我搬录像带的时候不小心在手上划破了一道小口子，我自己都没发现，她就拿着创可贴给我贴上了！",
+    "impression_m": "同感…之前和她外出的时候，我走得急没吃午餐也被她发现了，说是我的嘴唇有些发白，肯定是没吃东西就赶来了，虽然我自己完全看不出来…",
+    "impressions": [
+      "对伊德海莉的印象：\n · 黑暗中分明是冰凉的触感，却给她带来了滚烫的体验。",
+      " · 她没有等到雨天，但她等到了你。",
+      " · 想要与在意的人一起前行。"
+    ],
+    "profile_desc": "伊德海莉，除了代理人的身份外，也兼任绳匠以及怪啖屋的投稿作者。\n在其他人看来，伊德海莉在寻常情况下待人处事总有种闲适的慵懒感，不过就记录的资料来判断，相较于慵懒这样的描述，她更像在被一种与周遭环境格格不入的虚无感所包裹。\n或许对多数人而言，这是沉浸创作之人的通病——作为天赋异禀的怪诞故事作者，伊德海莉应当比其他人更容易沉浸在自己构造的幻想世界中。\n可实际上，她的异常表现更多是源自自身能力带来的负担。\n她在空洞中能接触到常人难以想象的庞大信息，那些信息纠缠着空洞中长年累月堆积的过往。而这无数过往积累的负荷不断冲击着她对现实的感知，最终连同情感也在冲刷下逐渐变得迟钝。\n能够承受这份负担，将其变成自己的能力之余还能用自己的方式正常生活，便是伊德海莉超越常人的天赋。",
+    "role_icon": "IconRole/UnPacker/IconRole52",
+    "stature": "171",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第四章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "伊德海莉，除了代理人的身份外，也兼任绳匠以及怪啖屋的投稿作者。\n在其他人看来，伊德海莉在寻常情况下待人处事总有种闲适的慵懒感，不过就记录的资料来判断，相较于慵懒这样的描述，她更像在被一种与周遭环境格格不入的虚无感所包裹。\n或许对多数人而言，这是沉浸创作之人的通病——作为天赋异禀的怪诞故事作者，伊德海莉应当比其他人更容易沉浸在自己构造的幻想世界中。\n可实际上，她的异常表现更多是源自自身能力带来的负担。\n她在空洞中能接触到常人难以想象的庞大信息，那些信息纠缠着空洞中长年累月堆积的过往。而这无数过往积累的负荷不断冲击着她对现实的感知，最终连同情感也在冲刷下逐渐变得迟钝。\n能够承受这份负担，将其变成自己的能力之余还能用自己的方式正常生活，便是伊德海莉超越常人的天赋。",
+      "2": "",
+      "3": "伊德海莉对雨天与泡澡有着非同一般的热爱。\n因为这两样喜好能在现实的世界带给她短暂的安宁与平静，让她能够享有片刻闲暇，不再为脑海中承载的纷杂信息流困扰。\n\n然而她的这两样热爱在最近的相处中发生了些许改变。\n她不再习惯孤独，不再满怀忐忑与期盼地追逐雨天，不再依靠将身体浸泡在温水中疗愈自我。\n她开始在晴朗的天空下漫步，她能从容地穿过熙攘的人群…她开始期待尝试一切对她而言崭新的事物。\n\n而伊德海莉这一切改变的伊始，源自与您的相遇。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3110510": {
+      "name": "伊德海莉·遐思漫录",
+      "desc": "旧忆与新梦纷至沓来，诱人沉溺，于纸端缠拥。她铺展空白，在虚实交界之地，落下了故事的开篇一笔。",
+      "obtain_desc": "",
+      "image": "IconRole52"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 124,
+    "attack_growth": 74561,
+    "avatar_piece_id": 5051,
+    "break_stun": 95,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 36,
+    "defence_growth": 48889,
+    "element_abnormal_power": 87,
+    "element_mystery": 90,
+    "endurance": 0,
+    "hp_growth": 927143,
+    "hp_max": 683,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 0,
+    "sp_recover": 0,
+    "stun": 0,
+    "tags": [
+      "Yidhari",
+      "Punch",
+      "Ice",
+      "Female",
+      "Camp11",
+      "Size3",
+      "AidTypeParry",
+      "Yidhari",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 120,
+    "rp_recover": 200,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100216": 4
+      }
+    },
+    "2": {
+      "hp_max": 469,
+      "attack": 44,
+      "defence": 25,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100226": 12
+      }
+    },
+    "3": {
+      "hp_max": 938,
+      "attack": 88,
+      "defence": 49,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100226": 20
+      }
+    },
+    "4": {
+      "hp_max": 1407,
+      "attack": 132,
+      "defence": 74,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100236": 10
+      }
+    },
+    "5": {
+      "hp_max": 1875,
+      "attack": 177,
+      "defence": 99,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100236": 20
+      }
+    },
+    "6": {
+      "hp_max": 2344,
+      "attack": 221,
+      "defence": 124,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：碎惘沉击",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多三段的打击，造成<color=#98EFF0>冰属性伤害</color>。\n第三段打击命中时，伊德海莉将回复10%生命值。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：霜寒拥覆",
+          "desc": "长按 <IconMap:Icon_Normal> 发动：\n伊德海莉开始蓄力，蓄力会持续消耗生命值，最多可以进行三段蓄力，松开 <IconMap:Icon_Normal> 时，伊德海莉将根据当前蓄力段数，前方发动强力蓄力锤击，造成大量<color=#98EFF0>冰属性伤害</color>；\n伊德海莉生命值越多，蓄力消耗生命值的速度越快，最多消耗生命值至最大生命值的25%；\n蓄力段数达到2时，招式发动后，点击 <IconMap:Icon_Normal> ，可以直接衔接第三段<color=#FFFFFF>[普通攻击：碎惘沉击]</color>，通过这种方式发动的<color=#FFFFFF>[普通攻击：碎惘沉击]</color>伤害会根据当前的蓄力段数提升，最多提升30%，\n蓄力段数达到3时，蓄力招式发动期间抗打断等级提升，点击 <IconMap:Icon_Normal> ，可以提前衔接至终结下砸。",
+          "potential": []
+        },
+        {
+          "name": "霜凝千钧",
+          "desc": "在<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的蓄力或旋转横挥期间受到敌方攻击时，可以用触手格挡，使受到的伤害降低25%；\n如果此时正在蓄力或蓄力段数未满，则会用触手借势反击敌人，回到蓄力姿态并立刻提升1段蓄力等级，对前方敌人造成<color=#98EFF0>冰属性伤害</color>；\n在霜凝千钧期间点击 <IconMap:Icon_Normal> ，伊德海莉会基于当前蓄力等级立刻发动<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的下砸终结攻击。\n在霜凝千钧期间点击 <IconMap:Icon_Special> 、 <IconMap:Icon_SpecialReady_Rp> ，伊德海莉会发动必定触发[溯寒]的<color=#FFFFFF>[特殊技：溯寒追碾]</color>",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：碎惘沉击",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1051001, Prop:1001}",
+              "param": {
+                "1051001": {
+                  "main": 6070,
+                  "growth": 560,
+                  "format": "%",
+                  "damage_percentage": 6070,
+                  "damage_percentage_growth": 560,
+                  "stun_ratio": 5940,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 72875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5396,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 21590,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5397
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段伤害倍率（派生）",
+              "desc": "{Skill:1051004, Prop:1001}",
+              "param": {
+                "1051004": {
+                  "main": 6240,
+                  "growth": 570,
+                  "format": "%",
+                  "damage_percentage": 6240,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6110,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 74800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5546,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 22190,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5547
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1051002, Prop:1001}",
+              "param": {
+                "1051002": {
+                  "main": 8600,
+                  "growth": 790,
+                  "format": "%",
+                  "damage_percentage": 8600,
+                  "damage_percentage_growth": 790,
+                  "stun_ratio": 8730,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7933,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 31740,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7934
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1051003, Prop:1001}",
+              "param": {
+                "1051003": {
+                  "main": 20780,
+                  "growth": 1890,
+                  "format": "%",
+                  "damage_percentage": 20780,
+                  "damage_percentage_growth": 1890,
+                  "stun_ratio": 17050,
+                  "stun_ratio_growth": 780,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 209000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15500,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 62000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15500
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1051001, Prop:1002}",
+              "param": {
+                "1051001": {
+                  "main": 5940,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 6070,
+                  "damage_percentage_growth": 560,
+                  "stun_ratio": 5940,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 72875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5396,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 21590,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5397
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率（派生）",
+              "desc": "{Skill:1051004, Prop:1002}",
+              "param": {
+                "1051004": {
+                  "main": 6110,
+                  "growth": 280,
+                  "format": "%",
+                  "damage_percentage": 6240,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6110,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 74800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5546,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 22190,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5547
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1051002, Prop:1002}",
+              "param": {
+                "1051002": {
+                  "main": 8730,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 8600,
+                  "damage_percentage_growth": 790,
+                  "stun_ratio": 8730,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7933,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 31740,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7934
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1051003, Prop:1002}",
+              "param": {
+                "1051003": {
+                  "main": 17050,
+                  "growth": 780,
+                  "format": "%",
+                  "damage_percentage": 20780,
+                  "damage_percentage_growth": 1890,
+                  "stun_ratio": 17050,
+                  "stun_ratio_growth": 780,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 209000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15500,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 62000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15500
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：霜寒拥覆",
+          "param": [
+            {
+              "name": "一级蓄力伤害倍率",
+              "desc": "{Skill:1051005, Prop:1001}",
+              "param": {
+                "1051005": {
+                  "main": 16140,
+                  "growth": 1470,
+                  "format": "%",
+                  "damage_percentage": 16140,
+                  "damage_percentage_growth": 1470,
+                  "stun_ratio": 14820,
+                  "stun_ratio_growth": 680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 181500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13469,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 31460,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13470
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二级蓄力伤害倍率",
+              "desc": "{Skill:1051006, Prop:1001}",
+              "param": {
+                "1051006": {
+                  "main": 25410,
+                  "growth": 2310,
+                  "format": "%",
+                  "damage_percentage": 25410,
+                  "damage_percentage_growth": 2310,
+                  "stun_ratio": 26240,
+                  "stun_ratio_growth": 1200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 321475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 23852,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 47900,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23853
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三级蓄力下砸伤害倍率",
+              "desc": "{Skill:1051007, Prop:1001}",
+              "param": {
+                "1051007": {
+                  "main": 34590,
+                  "growth": 3150,
+                  "format": "%",
+                  "damage_percentage": 34590,
+                  "damage_percentage_growth": 3150,
+                  "stun_ratio": 28420,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 348150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 63170,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三级蓄力旋转伤害倍率",
+              "desc": "{Skill:1051008, Prop:1001}",
+              "param": {
+                "1051008": {
+                  "main": 23580,
+                  "growth": 2150,
+                  "format": "%",
+                  "damage_percentage": 23580,
+                  "damage_percentage_growth": 2150,
+                  "stun_ratio": 17780,
+                  "stun_ratio_growth": 810,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 218075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16163,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 64660,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16164
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一级蓄力失衡倍率",
+              "desc": "{Skill:1051005, Prop:1002}",
+              "param": {
+                "1051005": {
+                  "main": 14820,
+                  "growth": 680,
+                  "format": "%",
+                  "damage_percentage": 16140,
+                  "damage_percentage_growth": 1470,
+                  "stun_ratio": 14820,
+                  "stun_ratio_growth": 680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 181500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13469,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 31460,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13470
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二级蓄力失衡倍率",
+              "desc": "{Skill:1051006, Prop:1002}",
+              "param": {
+                "1051006": {
+                  "main": 26240,
+                  "growth": 1200,
+                  "format": "%",
+                  "damage_percentage": 25410,
+                  "damage_percentage_growth": 2310,
+                  "stun_ratio": 26240,
+                  "stun_ratio_growth": 1200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 321475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 23852,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 47900,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23853
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三级蓄力下砸失衡倍率",
+              "desc": "{Skill:1051007, Prop:1002}",
+              "param": {
+                "1051007": {
+                  "main": 28420,
+                  "growth": 1300,
+                  "format": "%",
+                  "damage_percentage": 34590,
+                  "damage_percentage_growth": 3150,
+                  "stun_ratio": 28420,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 348150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 63170,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三级蓄力旋转失衡倍率",
+              "desc": "{Skill:1051008, Prop:1002}",
+              "param": {
+                "1051008": {
+                  "main": 17780,
+                  "growth": 810,
+                  "format": "%",
+                  "damage_percentage": 23580,
+                  "damage_percentage_growth": 2150,
+                  "stun_ratio": 17780,
+                  "stun_ratio_growth": 810,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 218075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16163,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 64660,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16164
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "霜凝千钧",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051026, Prop:1001}",
+              "param": {
+                "1051026": {
+                  "main": 4870,
+                  "growth": 450,
+                  "format": "%",
+                  "damage_percentage": 4870,
+                  "damage_percentage_growth": 450,
+                  "stun_ratio": 3670,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 13340,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051026, Prop:1002}",
+              "param": {
+                "1051026": {
+                  "main": 3670,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 4870,
+                  "damage_percentage_growth": 450,
+                  "stun_ratio": 3670,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 13340,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3334
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：迁梦",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：霜华突撼",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行打击，造成<color=#98EFF0>冰属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：冰曳回震",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动打击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：霜华突撼",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051013, Prop:1001}",
+              "param": {
+                "1051013": {
+                  "main": 7050,
+                  "growth": 650,
+                  "format": "%",
+                  "damage_percentage": 7050,
+                  "damage_percentage_growth": 650,
+                  "stun_ratio": 4410,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 54175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 16010,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4002
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051013, Prop:1002}",
+              "param": {
+                "1051013": {
+                  "main": 4410,
+                  "growth": 210,
+                  "format": "%",
+                  "damage_percentage": 7050,
+                  "damage_percentage_growth": 650,
+                  "stun_ratio": 4410,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 54175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 16010,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4002
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：冰曳回震",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051014, Prop:1001}",
+              "param": {
+                "1051014": {
+                  "main": 18530,
+                  "growth": 1690,
+                  "format": "%",
+                  "damage_percentage": 18530,
+                  "damage_percentage_growth": 1690,
+                  "stun_ratio": 20360,
+                  "stun_ratio_growth": 930,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 114675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 34020,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051014, Prop:1002}",
+              "param": {
+                "1051014": {
+                  "main": 20360,
+                  "growth": 930,
+                  "format": "%",
+                  "damage_percentage": 18530,
+                  "damage_percentage_growth": 1690,
+                  "stun_ratio": 20360,
+                  "stun_ratio_growth": 930,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 114675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 34020,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：断想",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n挑飞前方敌人，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：缠霜",
+          "desc": "闪能足够时，点按  <IconMap:Icon_SpecialReady_Rp> 发动：\n连续上挑两次，并挥出冰雾，造成大量<color=#98EFF0>冰属性伤害</color>；\n[强化特殊技：缠霜]若成功命中敌人，会在招式发动结束时回复生命值，回复量相当于伊德海莉已损失生命值的33%；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：溯寒追碾",
+          "desc": "在<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的蓄力或旋转横挥期间，点按 <IconMap:Icon_Special> 、 <IconMap:Icon_SpecialReady_Rp> 或在保持按住 <IconMap:Icon_Normal> 的同时点按 <IconMap:Icon_Evade> 发动：\n挑飞前方敌人，造成<color=#98EFF0>冰属性伤害</color>；\n招式的攻击和敌人的攻击发生相撞时，会触发[溯寒]；\n招式攻击命中处于失衡状态下的敌人，且闪能足够时，会触发[追碾]；\n触发[溯寒]或[追碾]时，立刻提升蓄力等级至最大值；\n招式发动期间点击 <IconMap:Icon_Normal> ，伊德海莉会基于当前蓄力等级立刻发动<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的下砸终结攻击。\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：极寒重碾",
+          "desc": "触发[溯寒]或[追碾]，且闪能足够时，点按 <IconMap:Icon_SpecialReady_Rp> 或 <IconMap:Icon_Normal> 发动：\n向前方冲刺、快速上挑并腾空跃起，随后发动强力的下砸攻击，造成大量<color=#98EFF0>冰属性伤害</color>；\n<color=#FFFFFF>[强化特殊技：极寒重碾]</color>若成功命中敌人，会在招式发动结束时回复生命值，回复量相当于伊德海莉已损失生命值的33%；\n若在[溯寒]后发动招式，额外回复15闪能，1秒内最多触发1次。\n招式发动后，点击 <IconMap:Icon_Normal> ，会基于当前蓄力等级立刻发动<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的下砸终结攻击。\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：断想",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051009, Prop:1001}",
+              "param": {
+                "1051009": {
+                  "main": 3960,
+                  "growth": 360,
+                  "format": "%",
+                  "damage_percentage": 3960,
+                  "damage_percentage_growth": 360,
+                  "stun_ratio": 4950,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 60775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4499,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4500
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051009, Prop:1002}",
+              "param": {
+                "1051009": {
+                  "main": 4950,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 3960,
+                  "damage_percentage_growth": 360,
+                  "stun_ratio": 4950,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 60775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4499,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4500
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：缠霜",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051010, Prop:1001}",
+              "param": {
+                "1051010": {
+                  "main": 51020,
+                  "growth": 4640,
+                  "format": "%",
+                  "damage_percentage": 51020,
+                  "damage_percentage_growth": 4640,
+                  "stun_ratio": 51360,
+                  "stun_ratio_growth": 2340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 933350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 52324,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051010, Prop:1002}",
+              "param": {
+                "1051010": {
+                  "main": 51360,
+                  "growth": 2340,
+                  "format": "%",
+                  "damage_percentage": 51020,
+                  "damage_percentage_growth": 4640,
+                  "stun_ratio": 51360,
+                  "stun_ratio_growth": 2340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 933350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 52324,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "闪能消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "特殊技：溯寒追碾",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051011, Prop:1001}",
+              "param": {
+                "1051011": {
+                  "main": 8370,
+                  "growth": 770,
+                  "format": "%",
+                  "damage_percentage": 8370,
+                  "damage_percentage_growth": 770,
+                  "stun_ratio": 10460,
+                  "stun_ratio_growth": 480,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 64075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051011, Prop:1002}",
+              "param": {
+                "1051011": {
+                  "main": 10460,
+                  "growth": 480,
+                  "format": "%",
+                  "damage_percentage": 8370,
+                  "damage_percentage_growth": 770,
+                  "stun_ratio": 10460,
+                  "stun_ratio_growth": 480,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 64075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：极寒重碾",
+          "param": [
+            {
+              "name": "强化特殊技：极寒重碾伤害倍率",
+              "desc": "{Skill:1051012, Prop:1001}",
+              "param": {
+                "1051012": {
+                  "main": 100760,
+                  "growth": 9160,
+                  "format": "%",
+                  "damage_percentage": 100760,
+                  "damage_percentage_growth": 9160,
+                  "stun_ratio": 70180,
+                  "stun_ratio_growth": 3190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1199275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 70095,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "额外能力寒冰触手伤害倍率",
+              "desc": "{Skill:1051024, Prop:1001}",
+              "param": {
+                "1051024": {
+                  "main": 7920,
+                  "growth": 720,
+                  "format": "%",
+                  "damage_percentage": 7920,
+                  "damage_percentage_growth": 720,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "强化特殊技：极寒重碾失衡倍率",
+              "desc": "{Skill:1051012, Prop:1002}",
+              "param": {
+                "1051012": {
+                  "main": 70180,
+                  "growth": 3190,
+                  "format": "%",
+                  "damage_percentage": 100760,
+                  "damage_percentage_growth": 9160,
+                  "stun_ratio": 70180,
+                  "stun_ratio_growth": 3190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1199275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 70095,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "闪能消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：踱寒践约",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n对前方小范围敌人发动强力打击，造成大量<color=#98EFF0>冰属性伤害</color>；\n处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，会召唤触手进行协同攻击，进一步提升招式的威力；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "以太帷幕·涌泉",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>、<color=#FFFFFF>[强化特殊技：缠霜]</color>、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>、<color=#FFFFFF>[连携技：踱寒践约]</color>最后一击命中敌人时，将消耗3000喧响值，并开启<color=#FFFFFF>[以太帷幕·涌泉]</color>，<color=#FFFFFF>[以太帷幕·涌泉]</color>生效期间，全队角色最大生命值提升5%，持续30秒，重复触发延长持续时间，最多延长至300秒；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>的蓄力速度增加、蓄力消耗生命值速度增加。",
+          "potential": []
+        },
+        {
+          "name": "终结技：终幕·惘事渡却",
+          "desc": "伊德海莉消耗喧响值开启<color=#FFFFFF>[以太帷幕·涌泉]</color>后，在30秒内点按 <IconMap:Icon_UltimateReady> 发动：\n对前方大范围敌人进行强力打击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果；\n伊德海莉每次消耗喧响值开启<color=#FFFFFF>[以太帷幕·涌泉]</color>，最多发动1次<color=#FFFFFF>[终结技：终幕·惘事渡却]</color>。",
+          "potential": []
+        },
+        {
+          "name": "连携技：踱寒践约",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051015, Prop:1001}",
+              "param": {
+                "1051015": {
+                  "main": 57270,
+                  "growth": 5210,
+                  "format": "%",
+                  "damage_percentage": 57270,
+                  "damage_percentage_growth": 5210,
+                  "stun_ratio": 27690,
+                  "stun_ratio_growth": 1260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1235300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 45120,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25171
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051015, Prop:1002}",
+              "param": {
+                "1051015": {
+                  "main": 27690,
+                  "growth": 1260,
+                  "format": "%",
+                  "damage_percentage": 57270,
+                  "damage_percentage_growth": 5210,
+                  "stun_ratio": 27690,
+                  "stun_ratio_growth": 1260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1235300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 45120,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25171
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "[以太帷幕·涌泉]中伤害倍率",
+              "desc": "{Skill:1051025, Prop:1001}",
+              "param": {
+                "1051025": {
+                  "main": 62990,
+                  "growth": 5730,
+                  "format": "%",
+                  "damage_percentage": 62990,
+                  "damage_percentage_growth": 5730,
+                  "stun_ratio": 27690,
+                  "stun_ratio_growth": 1260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1235300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 45120,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25171
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "[以太帷幕·涌泉]中失衡倍率",
+              "desc": "{Skill:1051025, Prop:1002}",
+              "param": {
+                "1051025": {
+                  "main": 27690,
+                  "growth": 1260,
+                  "format": "%",
+                  "damage_percentage": 62990,
+                  "damage_percentage_growth": 5730,
+                  "stun_ratio": 27690,
+                  "stun_ratio_growth": 1260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1235300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 45120,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 25171
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：终幕·惘事渡却",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051016, Prop:1001}",
+              "param": {
+                "1051016": {
+                  "main": 152210,
+                  "growth": 13840,
+                  "format": "%",
+                  "damage_percentage": 152210,
+                  "damage_percentage_growth": 13840,
+                  "stun_ratio": 19430,
+                  "stun_ratio_growth": 890,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 67664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051016, Prop:1002}",
+              "param": {
+                "1051016": {
+                  "main": 19430,
+                  "growth": 890,
+                  "format": "%",
+                  "damage_percentage": 152210,
+                  "damage_percentage_growth": 13840,
+                  "stun_ratio": 19430,
+                  "stun_ratio_growth": 890,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 67664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：撼霜驰援",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动打击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：闪震格拒",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：冰袭痛击",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动冰片锤击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：撼霜驰援",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051017, Prop:1001}",
+              "param": {
+                "1051017": {
+                  "main": 8220,
+                  "growth": 750,
+                  "format": "%",
+                  "damage_percentage": 8220,
+                  "damage_percentage_growth": 750,
+                  "stun_ratio": 5140,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 62975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 18680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4669
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051017, Prop:1002}",
+              "param": {
+                "1051017": {
+                  "main": 5140,
+                  "growth": 240,
+                  "format": "%",
+                  "damage_percentage": 8220,
+                  "damage_percentage_growth": 750,
+                  "stun_ratio": 5140,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 62975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 18680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4669
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：闪震格拒",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1051018, Prop:1002}",
+              "param": {
+                "1051018": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1051019, Prop:1002}",
+              "param": {
+                "1051019": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1051020, Prop:1002}",
+              "param": {
+                "1051020": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：冰袭痛击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1051021, Prop:1001}",
+              "param": {
+                "1051021": {
+                  "main": 31340,
+                  "growth": 2850,
+                  "format": "%",
+                  "damage_percentage": 31340,
+                  "damage_percentage_growth": 2850,
+                  "stun_ratio": 34190,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 540925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33342,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 17497
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1051021, Prop:1002}",
+              "param": {
+                "1051021": {
+                  "main": 34190,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 31340,
+                  "damage_percentage_growth": 2850,
+                  "stun_ratio": 34190,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 540925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33342,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 17497
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1051001,
+      "avatar_id": 1051,
+      "first_priority": [
+        5,
+        0,
+        1
+      ],
+      "second_priority": [
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1051001": {
+      "name": "普通攻击：碎惘沉击",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051002": {
+      "name": "普通攻击：霜寒拥覆",
+      "desc": "<IconMap:Icon_Normal>（长按） ; <IconMap:Icon_Normal>（蓄力完成后松开）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051003": {
+      "name": "普通攻击：霜寒拥覆（快速）",
+      "desc": "<IconMap:Icon_Normal>（长按） ; <IconMap:Icon_Normal>（受击并触发[霜凝千钧]后再次点击）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051004": {
+      "name": "特殊技：断想",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051005": {
+      "name": "强化特殊技：缠霜",
+      "desc": "<IconMap:Icon_SpecialReady_Rp>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051006": {
+      "name": "特殊技：溯寒追碾",
+      "desc": "<IconMap:Icon_Normal>（长按） ; <IconMap:Icon_Normal>（蓄力完成后松开） ; <IconMap:Icon_Special>（[普通攻击：霜寒拥覆]蓄力攻击旋转横挥期间）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051007": {
+      "name": "特殊技：溯寒追碾",
+      "desc": "<IconMap:Icon_Normal>（长按） ; <IconMap:Icon_Evade>（需保持长按「普通攻击」按键）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051008": {
+      "name": "特殊技：溯寒追碾（必定触发[溯寒]）",
+      "desc": "<IconMap:Icon_Normal>（长按） ; <IconMap:Icon_Special>（受击并触发[霜凝千钧]后点击）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051009": {
+      "name": "强化特殊技：极寒重碾",
+      "desc": "<IconMap:Icon_Normal>（触发[溯寒]或[追碾]且能量足够时）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051010": {
+      "name": "强化特殊技：极寒重碾",
+      "desc": "<IconMap:Icon_SpecialReady_Rp>（触发[溯寒]或[追碾]且能量足够时）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051011": {
+      "name": "闪避：迁梦",
+      "desc": "<IconMap:Icon_Evade>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051012": {
+      "name": "冲刺攻击：霜华突撼",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051013": {
+      "name": "闪避反击：冰曳回震",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051014": {
+      "name": "连携技：踱寒践约",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051015": {
+      "name": "终结技：终幕·惘事渡却",
+      "desc": "<IconMap:Icon_UltimateReady>（消耗喧响值开启[以太帷幕·涌泉]后）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051016": {
+      "name": "快速支援：撼霜驰援",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1051017": {
+      "name": "招架支援：闪震格拒",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1051018": {
+      "name": "支援突击：冰袭痛击",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 202,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1051501": {
+        "level": 1,
+        "id": 1051501,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>50%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051502": {
+        "level": 2,
+        "id": 1051502,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>58%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051503": {
+        "level": 3,
+        "id": 1051503,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>66%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051504": {
+        "level": 4,
+        "id": 1051504,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>74%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051505": {
+        "level": 5,
+        "id": 1051505,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>82%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051506": {
+        "level": 6,
+        "id": 1051506,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>90%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1051507": {
+        "level": 7,
+        "id": 1051507,
+        "name": [
+          "核心被动：拾梦空想",
+          "额外能力：完形叙事"
+        ],
+        "desc": [
+          "伊德海莉会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n伊德海莉发动招式造成的<color=#98EFF0>冰属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；伊德海莉进入战场时即可恢复60闪能，在勘域模式中此效果180秒内最多触发一次，\n伊德海莉的当前生命值百分比越低，招式造成的伤害越高；\n当伊德海莉生命值低于50%时，获得的增益效果达到最大值，攻击造成的伤害最多提升<color=#2BAD00>100%</color>，伊德海莉生命值重新回到50%后，最大值增益效果仍会持续5秒；\n伊德海莉通过招式命中获得喧响值降低，伊德海莉生命值降低时，获得喧响值，每降低1%生命值会获得10点喧响值。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色时触发：\n伊德海莉生命值低于50%时，暴击伤害提升30%，受到的伤害降低25%；\n伊德海莉处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，额外获得以下效果：\n伊德海莉的<color=#FFFFFF>[普通攻击：霜寒拥覆]</color>第三段蓄力攻击、<color=#FFFFFF>[强化特殊技：极寒重碾]</color>的招式结束后，将召唤寒冰触手进行攻击，造成额外伤害，每12秒最多触发1次；\n发动上述招式视为发动<color=#FFFFFF>[强化特殊技]</color>，伤害倍率跟随强化特殊技的技能等级提升。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110512": 2
+      },
+      "3": {
+        "10": 28000,
+        "110512": 4
+      },
+      "4": {
+        "10": 60000,
+        "110007": 2,
+        "110512": 9
+      },
+      "5": {
+        "10": 100000,
+        "110007": 3,
+        "110512": 15
+      },
+      "6": {
+        "10": 200000,
+        "110007": 4,
+        "110512": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "过往沉溺于渊下",
+      "desc": "伊德海莉发动<color=#FFFFFF>[强化特殊技]</color>所需消耗的闪能减少10点；发动<color=#FFFFFF>[强化特殊技：缠霜]</color>或<color=#FFFFFF>[强化特殊技：极寒重碾]</color>后，保持长按「普通攻击」或「特殊攻击」按键，可以消耗35闪能，放弃回复生命值并立即衔接1次<color=#FFFFFF>[强化特殊技：极寒重碾]</color>，并使本次<color=#FFFFFF>[强化特殊技：极寒重碾]</color>回复的生命值额外提升100%；伊德海莉的<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[强化特殊技]</color>无视目标20%<color=#98EFF0>冰属性伤害抗性</color>。",
+      "desc2": "她在跌入深不可测的秘境。\n——这里是何处，又将跌向何方？\n心下生出这份疑惑时，黑暗里好像有个声音在答：\n「这里是未知之处，将通向尽知之方。」\n还有阴影紧跟身边一同坠下，重重叠叠，无有穷尽。\n——他们又是什么人，为什么他们的影子在这里落下？\n脑海浮现这般不解后，那个声音便再道：\n「他们是命运断绝之人，这里落下的是他们的过往。」\n于是，小小的女孩孤独地拥抱着自己，为那无数逝去的过往裹挟着，向下坠落。\n她茫然地睁大眼睛，放眼望去，在这渊底绽放的尽是冰冷、死寂、孤独。"
+    },
+    "2": {
+      "level": 2,
+      "name": "何人于此遐思",
+      "desc": "伊德海莉的暴击伤害提升40%；成功触发<color=#FFFFFF>[溯寒]</color>或<color=#FFFFFF>[追碾]</color>后，持续回复闪能，每秒回复0.5点，最多30秒，重复触发时刷新持续时间。",
+      "desc2": "黑暗里沉睡着女孩的遐思。\n并非童真的奇思妙想，并非无拘的天马行空。\n她在思考那些能见的过往。\n「需要我做些什么？需要我来承担什么？」\n「幸好是我，不是其他人。」\n「我很擅长处理这份孤独…大概吧。」\n翻阅着那些过往，女孩坦然地接受这份有些沉重的天赋。"
+    },
+    "3": {
+      "level": 3,
+      "name": "无人聆听的故事",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "人类原来是这样复杂的存在。\n一辈子可以有这么多的欢喜，有那么多的悲伤。\n可如今它们尽数落入这片虚无，将被吞没，将被泯灭，将被埋葬。\n无人会再在意这些欢欣的笑声，那些悲恸的哭泣。\n可是啊，这些无人聆听的故事啊，它们都被刻在了这座心渊。"
+    },
+    "4": {
+      "level": 4,
+      "name": "在静默中盛放",
+      "desc": "<color=#FFFFFF>[核心被动：拾梦空想]</color>中，生命值降低时，伊德海莉获得的喧响值增加10%；处于<color=#FFFFFF>[以太帷幕·涌泉]</color>中时，伊德海莉的最大生命值额外提升5%。",
+      "desc2": "那朵花在黑暗中颤巍巍地绽放着，白色的、透明的，像是照着这座渊底唯一的光。\n——原来那是一个脆弱又坚强的灵魂。\n在那无数下坠的黑影之中，在那层层冲刷而下的过往中…她没有被浸染，依然坚强地绽放着自我。\n可终究…她也会在无依的飘摇中消散？"
+    },
+    "5": {
+      "level": 5,
+      "name": "并非虚构的慰藉",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「好漂亮的眼睛…我还在梦里吗…」\n这是初次的相见，也是与「真实」的相遇。\n在那虚妄，怪诞，好似能将吞噬一切的荒芜渊底，她望见了那双眼睛。\n就好似炎热沙漠里钻出的一抹绿意，干涸河床中涌出的一眼清泉。\n「我好像得到了呢…会主动予以我回应的期待。」"
+    },
+    "6": {
+      "level": 6,
+      "name": "终逢安宁之梦",
+      "desc": "伊德海莉消耗喧响值开启或延长<color=#FFFFFF>[以太帷幕·涌泉]</color>后，将获得<color=#FFFFFF>[启谛]</color>，持续30秒；<color=#FFFFFF>[启谛]</color>期间，伊德海莉造成的贯穿伤害提高25%，首次受到致命伤害时，生命值最多降低至1，在5秒内不会战败退场并持续回复25%生命值。",
+      "desc2": "沉溺在那些翻涌的过往时，她不曾有须臾安宁。\n唯有向孤独索取——避开繁世的嘈杂，沉浸在怪诞的故事里，在朦胧的雨雾遮蔽下，亦或是温暖的水流拥护中，求取片刻静谧。\n可如今她能安然漫步于人潮之中，不再烦恼声色的喧闹，阳光的灼烈，因为「虚妄」不再困囿她的精神，「真实」使她的灵魂得以依托。"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33100,
+    "slot2": 31000,
+    "slot_sub": 32700,
+    "part_sub_list": [
+      20103,
+      21103,
+      11102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33100,
+          31000
+        ],
+        "part_sub_list": [
+          20103,
+          21103
+        ]
+      },
+      {
+        "suit_list": [
+          33100,
+          31000
+        ],
+        "part_sub_list": [
+          31703,
+          11102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          11102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part6": {
+      "prop": 11102,
+      "name": "生命值",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    },
+    "part_sub": {
+      "prop": 31703,
+      "name": "冰属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconIce.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Ice>冰属性，烧血站场输出",
+    "消耗生命值提升自身伤害",
+    "通过招式相撞提升技能伤害"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Yidhari"
+}

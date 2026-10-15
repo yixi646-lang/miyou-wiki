@@ -1,0 +1,10 @@
+{
+  "boomDmg": "Boom-Boom Strike DMG",
+  "boomStam": "Boom-Boom Strike Stamina Cost",
+  "boom_dmg_": "Boom-Boom Strike DMG Bonus",
+  "boom_mult_": "Boom-Boom Strike Multiplier",
+  "lockedCond": "Boom Badges held",
+  "c1Cond": "After summoning a spark",
+  "c2CondName": "Opponent's been hit by <strong>Jumpty Dumpty</strong>'s mines",
+  "c6CondName": "After using Sparks 'n' Splash"
+}

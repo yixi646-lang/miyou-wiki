@@ -1,0 +1,576 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "阵营",
+        "key": "阵营",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "云岿如我": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "云岿如我",
+        "fullurl": "https://wiki.biligame.com/zzz/%E4%BA%91%E5%B2%BF%E5%A6%82%E6%88%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "原始朋克": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "原始朋克",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%8E%9F%E5%A7%8B%E6%9C%8B%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "呼啸沙龙": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "呼啸沙龙",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%91%BC%E5%95%B8%E6%B2%99%E9%BE%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "啄木鸟电音": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "啄木鸟电音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%95%84%E6%9C%A8%E9%B8%9F%E7%94%B5%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "喧闹波普": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "喧闹波普",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%96%A7%E9%97%B9%E6%B3%A2%E6%99%AE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "囚徒手记": {
+        "printouts": {
+          "实装版本": [
+            "2.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "囚徒手记",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%9B%9A%E5%BE%92%E6%89%8B%E8%AE%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "如影相随": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "如影相随",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%A6%82%E5%BD%B1%E7%9B%B8%E9%9A%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "季风放克": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "季风放克",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%AD%A3%E9%A3%8E%E6%94%BE%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "山大王": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "山大王",
+        "fullurl": "https://wiki.biligame.com/zzz/%E5%B1%B1%E5%A4%A7%E7%8E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "折枝剑歌": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "折枝剑歌",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%8A%98%E6%9E%9D%E5%89%91%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "拂晓生花": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "拂晓生花",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%8B%82%E6%99%93%E7%94%9F%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "拂晓行纪": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "拂晓行纪",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%8B%82%E6%99%93%E8%A1%8C%E7%BA%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "摇摆爵士": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "摇摆爵士",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%91%87%E6%91%86%E7%88%B5%E5%A3%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "月光骑士颂": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "月光骑士颂",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%88%E5%85%89%E9%AA%91%E5%A3%AB%E9%A2%82",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "末日碾核": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "末日碾核",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9C%AB%E6%97%A5%E7%A2%BE%E6%A0%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "杀手民谣": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "杀手民谣",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9D%80%E6%89%8B%E6%B0%91%E8%B0%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "极地重金属": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "极地重金属",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%9E%81%E5%9C%B0%E9%87%8D%E9%87%91%E5%B1%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "歪曲碾核": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "歪曲碾核",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%AD%AA%E6%9B%B2%E7%A2%BE%E6%A0%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "沧浪行歌": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "沧浪行歌",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B2%A7%E6%B5%AA%E8%A1%8C%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "河豚电音": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "河豚电音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B2%B3%E8%B1%9A%E7%94%B5%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "法厄同之歌": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "法厄同之歌",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B3%95%E5%8E%84%E5%90%8C%E4%B9%8B%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流光咏叹": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流光咏叹",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B5%81%E5%85%89%E5%92%8F%E5%8F%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流浪民谣": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流浪民谣",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B5%81%E6%B5%AA%E6%B0%91%E8%B0%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "混沌爵士": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "混沌爵士",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B7%B7%E6%B2%8C%E7%88%B5%E5%A3%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "混沌重金属": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "混沌重金属",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%B7%B7%E6%B2%8C%E9%87%8D%E9%87%91%E5%B1%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "激素朋克": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "激素朋克",
+        "fullurl": "https://wiki.biligame.com/zzz/%E6%BF%80%E7%B4%A0%E6%9C%8B%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灵魂摇滚": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "灵魂摇滚",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%81%B5%E9%AD%82%E6%91%87%E6%BB%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "炎狱重金属": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "炎狱重金属",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%82%8E%E7%8B%B1%E9%87%8D%E9%87%91%E5%B1%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "狂欢朋克": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "狂欢朋克",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8B%82%E6%AC%A2%E6%9C%8B%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "独角兽电音": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "独角兽电音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8B%AC%E8%A7%92%E5%85%BD%E7%94%B5%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "猛犸电音": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "猛犸电音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8C%9B%E7%8A%B8%E7%94%B5%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "獠牙重金属": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "獠牙重金属",
+        "fullurl": "https://wiki.biligame.com/zzz/%E7%8D%A0%E7%89%99%E9%87%8D%E9%87%91%E5%B1%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "自由蓝调": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "自由蓝调",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%87%AA%E7%94%B1%E8%93%9D%E8%B0%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "荆棘玫瑰": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "荆棘玫瑰",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%8D%86%E6%A3%98%E7%8E%AB%E7%91%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "谶羽之誓": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "谶羽之誓",
+        "fullurl": "https://wiki.biligame.com/zzz/%E8%B0%B6%E7%BE%BD%E4%B9%8B%E8%AA%93",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雪兔梦游仙境": {
+        "printouts": {
+          "实装版本": [
+            "2.8"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "雪兔梦游仙境",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%AA%E5%85%94%E6%A2%A6%E6%B8%B8%E4%BB%99%E5%A2%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雷暴重金属": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "雷暴重金属",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9B%B7%E6%9A%B4%E9%87%8D%E9%87%91%E5%B1%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "震星迪斯科": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "震星迪斯科",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9C%87%E6%98%9F%E8%BF%AA%E6%96%AF%E7%A7%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "静听嘉音": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "静听嘉音",
+        "fullurl": "https://wiki.biligame.com/zzz/%E9%9D%99%E5%90%AC%E5%98%89%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "14b1060e45eb4c8216f3dd9bba3fc3ce",
+      "count": 39,
+      "offset": 0,
+      "source": "",
+      "time": "0.016290"
+    }
+  }
+}

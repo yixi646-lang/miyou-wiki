@@ -1,0 +1,154 @@
+// 按来源中的常见用途整理；级数、有效词条目标和数值权重是 Wiki 的培养起点。
+// a/h/d/m/r = 攻击/生命/防御/精通/充能；e = 对应元素伤害，c = 双暴，b = 治疗。
+// 每行：角色 | 用途 | 普攻,战技,爆发 | 沙 | 杯 | 冠 | 四件套 | 适用说明。
+export const recommendationRows=`
+KamisatoAyaka|atk|8,8,9|a|e,a|c|BlizzardStrayer|冻结输出；冰套与共鸣的战斗暴击加成不显示在非战斗面板，避免暴击溢出。
+Jean|healAtk|1,8,9|r,a|a|b,a|ViridescentVenerer|治疗与风套减抗；扩散伤害玩法可改精通。
+Lisa|atk|1,8,9|r,a,m|e|c|EmblemOfSeveredFate|后台爆发；激化队可提高精通，站场玩法另调普攻。
+Barbara|healHp|1,8,8|h,r|h|b,h|OceanHuedClam|纯治疗；妮露绽放驾驶需另改精通与角色等级。
+Kaeya|atk|6,8,9|r,a,m|e|c|BlizzardStrayer|后台冻结；融化可用精通沙，冻结冰套须检查暴击溢出。
+Diluc|atk|8,9,8|a,m|e|c|CrimsonWitchOfFlames|蒸发或融化；精通只在实际触发反应时有输出收益。
+Razor|atk|9,6,8|a|physical,a|c|PaleFlame|物理站场；超绽放/彩虹雷泽需改精通与反应条件。
+Amber|atk|9,6,8|m,a|e|c|WanderersTroupe|融化重击；瞄准弱点与无法击中弱点的敌人对暴击率价值不同。
+Venti|em|1,8,9|m,r|m|m|ViridescentVenerer|扩散聚怪；直伤与新反应玩法另用双暴配置。
+Xiangling|atk|1,8,9|r,m,a|e|c|EmblemOfSeveredFate|蒸发后台爆发；先满足当前队伍充能，再考虑精通与双暴。
+Beidou|atk|1,8,9|r,a|e|c|EmblemOfSeveredFate|后台爆发；单体与群体命中数差异须在动作组合里设置。
+Xingqiu|atk|1,8,9|r,a|e|c|EmblemOfSeveredFate|后台爆发；祭礼、西风、命座与双水都会改变充能需求。
+Xiao|atk|9,8,9|a|e,a|c|VermillionHereafter|爆发下落输出；先保证循环，队伍增益较高时攻击杯可能可用。
+Ningguang|atk|9,8,9|a|e|c|NighttimeWhispersInTheEchoingWoods|岩元素普攻、重击与爆发；套装按实际结晶条件使用。
+Klee|atk|9,8,8|a|e,a|c|ADayCarvedFromRisingWinds|常规火元素输出；六件魔导/队伍条件与套装效果按实际启用。
+Zhongli|shieldHp|1,9,1|h|h|h|TenacityOfTheMillelith|护盾用途；西风武器才另外计入触发所需暴击率，爆发输出另建目标。
+Fischl|atk|1,9,6|a,m|e|c|GoldenTroupe|奥兹后台输出；激化时精通有收益，非激化可将精通权重设0。
+Bennett|healHp|1,6,9|r,h|h|b,h|NoblesseOblige|治疗兼攻击辅助；增攻取决于角色及武器基础攻击，攻击副词条不增加该增攻。
+Tartaglia|atk|6,9,9|a|e|c|NymphsDream|近战输出与爆发蒸发；精通收益随爆发是否蒸发改变。
+Noelle|def|9,8,9|d|e,d|c,d|HuskOfOpulentDreams|防御输出兼治疗，以六命为常见输出前提；低命请比较攻击与防御沙。
+Qiqi|healAtk|1,9,8|a|a|b,a|OceanHuedClam|治疗/辅助；只需战技治疗时不必追求每轮爆发，西风可另设暴击率。
+Chongyun|atk|1,8,9|a,m,r|e|c|EmblemOfSeveredFate|爆发融化；附魔辅助可降低输出投资。
+Ganyu|atk|9,6,9|m,a|e|c,a|WanderersTroupe|默认融化重击；冻结玩法改攻击沙、冰套，并重新分配暴击权重。
+Albedo|def|1,9,6|d|d,e|c|GoldenTroupe|防御后台战技；华馆也可用，爆发不是所有队伍必需。
+Diona|shieldHp|1,8,8|h,r|h|h,b|NoblesseOblige|护盾与爆发治疗；西风暴击与充能按队伍需求增加。
+Mona|atk|1,6,9|r,a|e|c|EmblemOfSeveredFate|默认爆发兼直伤；纯辅助可放弃双暴/攻击权重，改充能与辅助套装。
+Keqing|atk|9,8,9|a,m|e|c|ThunderingFury|激化输出；纯雷队将精通权重设0。
+Sucrose|em|1,6,8|m|m|m|ViridescentVenerer|精通分享与扩散；充能需求按是否每轮使用爆发调整。
+Xinyan|atk|9,6,9|a|physical|c|PaleFlame|默认物理输出；二命爆发自带暴击率条件，护盾用途另改防御。
+Rosaria|atk|1,8,9|m,a,r|e|c|EmblemOfSeveredFate|融化后台爆发；暴击分享辅助需单独设暴击率目标。
+HuTao|hp|9,9,8|m,h|e|c|CrimsonWitchOfFlames|蒸发重击；精通与生命都有效，生命状态及战技转换按实际设置。
+KaedeharaKazuha|em|6,8,8|m,r|m|m|ViridescentVenerer|扩散增伤；先够充能再堆精通，西风剑可计暴击率。
+Yanfei|atk|9,8,8|m,a|e|c|CrimsonWitchOfFlames|蒸发输出；四命盾辅需要独立生命与充能目标。
+Yoimiya|atk|9,9,6|a,m|e|c|ShimenawasReminiscence|普攻输出；蒸发/融化才计精通，追忆能量及爆发频率需明确。
+Thoma|em|1,8,8|m,r|m|m|FlowerOfParadiseLost|烈绽放触发；优先90级与精通，护盾用途改生命模板。
+Eula|atk|9,8,9|a,r|physical|c|PaleFlame|物理爆发；充能与叠层、爆发命中次数按队伍设置。
+RaidenShogun|atk|1,8,9|r,a|e,a|c|EmblemOfSeveredFate|爆发输出；充能兼具机制价值，超绽放玩法另改全精通。
+Sayu|healAtk|1,6,9|r,a,m|a,m|b,a,m|ViridescentVenerer|风套治疗；六命提高精通治疗价值，驾驶玩法另提高精通。
+SangonomiyaKokomi|healHp|6,9,8|h,r|h|b|OceanHuedClam|默认后台治疗；站场输出可用水杯，绽放驾驶另改精通，常规双暴不计入。
+Gorou|defSupport|1,9,6|r|d|c,d|TheExile|防御辅助；核心增益看战技等级，防御主要服务四命治疗，西风才优先暴击率。
+KujouSara|atk|1,9,8|r,a|e|c|EmblemOfSeveredFate|增攻兼爆发；辅助增攻取决于基础攻击，攻击副词条只服务自身伤害。
+AratakiItto|def|9,6,9|d|e,d|c|HuskOfOpulentDreams|防御转攻击的重击输出；开启实际爆发状态。
+YaeMiko|atk|1,9,8|a,m|e,m|c|GoldenTroupe|默认战技后台/激化；其他反应或月感电玩法需比较攻击/精通杯。
+ShikanoinHeizou|atk|8,9,8|a|e|c|ViridescentVenerer|战技直伤驾驶；纯扩散驾驶可改三精通。
+Yelan|hp|1,8,9|h,r|e,h|c,h|EmblemOfSeveredFate|生命后台爆发；充能依赖队伍与西风触发。
+Kirara|shieldHp|1,9,1|h|h|h|DeepwoodMemories|护盾兼草套辅助；草套需保持战技/爆发命中，纯盾可用二加二生命。
+Aloy|atk|6,8,9|m,r,a|e|c|EmblemOfSeveredFate|默认爆发融化；普攻路线需另外设置天赋与充能。
+Shenhe|atkSupport|1,9,8|a,r|a|a|NoblesseOblige|冰翎辅助；攻击与充能优先，西风可额外需要暴击率。
+YunJin|defSupport|1,6,9|d,r|d|d|HuskOfOpulentDreams|普攻增益；优先爆发及防御，西风可改暴击冠。
+KukiShinobu|em|1,8,1|m|m|m|FlowerOfParadiseLost|超绽放触发；等级与精通优先，治疗路线另改生命/治疗。
+KamisatoAyato|atk|1,9,8|a,r|e|c|HeartOfDepth|战技普攻输出；充能需求随爆发频率和队伍改变。
+Collei|atk|1,8,8|r,m,a|e|c|DeepwoodMemories|后台挂草；不把其他角色触发的超绽放算成柯莱的精通收益。
+Dori|healHp|1,6,9|r,h|h|b|NoblesseOblige|默认治疗/回能辅助；六命激化或超绽放需另设精通与输出目标。
+Tighnari|emCrit|9,6,9|m,a|e|c|WanderersTroupe|蔓激化重击；精通与双暴优先，攻击次之。
+Nilou|hpSupport|1,8,6|h|h|h|TenacityOfTheMillelith,VourukashasGlow|丰穰之核辅助，二加二生命；生命增益上限与是否自己触发绽放须区别。
+Cyno|emCrit|1,8,9|m,a|e,m|c,m|ThunderingFury|激化/激绽爆发输出；等级与精通、双暴优先，循环需充能。
+Candace|hp|1,6,9|h,r|h,e|h,c|NoblesseOblige|水附魔辅助；六命后台伤害与妮露绽放用途有不同权重。
+Nahida|emCrit|1,9,8|m|m,e|m,c|DeepwoodMemories|精通辅助兼蔓激化；可用精通/草伤/双暴混搭，队伍已有草套时另选。
+Layla|shieldHp|1,9,6|h,r|h|h|TenacityOfTheMillelith|默认护盾；伤害路线可另加入双暴和冰杯。
+Wanderer|atk|9,9,6|a|e|c|DesertPavilionChronicle|战技状态普攻/重击；吸收元素加成按实际条件。
+Faruzan|support|1,6,9|r|a,e|c|NoblesseOblige|风辅助，六命前优先充能，六命可换千岩；西风才额外需要暴击率。
+Yaoyao|healHp|1,8,8|r,h|h|h,b|DeepwoodMemories|草套与治疗；优先确保能使用需要的爆发。
+Alhaitham|emCrit|8,9,8|m,a|e|c|GildedDreams|蔓激化输出；队伍需有人稳定草套减抗，精通与双暴优先。
+Dehya|shieldHp|1,8,1|h|h|h|TenacityOfTheMillelith|默认承伤/战技辅助；爆发输出或烈绽放需独立权重与套装。
+Mika|healHp|1,8,9|r,h|h|b,h,c|NoblesseOblige|攻速/物理辅助兼治疗；西风条件下暴击冠可用。
+Kaveh|em|6,6,9|r,m|m|m,c,b|DeepwoodMemories|绽放驾驶；循环与精通优先，反应归属随队伍改变。
+Baizhu|healHp|1,8,8|r,h|h|h,b|DeepwoodMemories|生命治疗与反应辅助；常见生命增益阈值需根据被动与战斗状态核对。
+Lynette|atk|1,8,9|r,a|e,a|c|ViridescentVenerer|后台风套输出；六命扩散驾驶可另改精通。
+Lyney|atk|9,8,8|a|e|c|MarechausseeHunter|重击火输出；逐影与队伍暴击加成须避免溢出。
+Freminet|atk|8,9,6|a,m|physical|c|PaleFlame|默认物理碎冰；冰伤路线改冰杯与套装。
+Wriothesley|atk|9,9,6|a,m|e|c|MarechausseeHunter|普攻重击输出；融化才计精通，逐影暴击需检查溢出。
+Neuvillette|hp|9,6,6|h|e,h|c,h|MarechausseeHunter|生命重击；逐影及命座暴击条件需避免溢出。
+Charlotte|healAtk|1,6,9|r,a|a|b,c|NoblesseOblige|攻击治疗；优先循环，西风才额外需要暴击率。
+Furina|hp|1,9,9|h,r|h,e|c|GoldenTroupe|后台生命输出兼增伤；先满足队伍充能，气氛值与命座按实际设置。
+Chevreuse|healHp|1,9,6|h,r|h|h,b|ScrollOfTheHeroOfCinderCity|超载辅助；生命增攻上限按被动核对，充能取决于是否需要爆发触发套装。
+Navia|atk|8,9,8|a,r|e|c|NighttimeWhispersInTheEchoingWoods|结晶战技输出；攻击与双暴优先，精通不提高本体直伤。
+Gaming|atk|1,9,8|m,a,r|e|c|MarechausseeHunter|蒸发下落；战技天赋计专属下落，四命改变充能需求。
+Xianyun|atkSupport|1,6,9|r,a|a|a|ViridescentVenerer|下落辅助兼治疗；增益依赖攻击，先确保爆发循环。
+Chiori|def|1,9,6|d|e,d|c,d|GoldenTroupe|后台战技；防御收益更高，攻击也有收益，爆发不强求每轮。
+Sigewinne|healHp|1,9,6|h,r|h,e|h,b,c|TenacityOfTheMillelith|默认治疗兼战技增益；优先生命，纯输出路线另调双暴。
+Arlecchino|atk|9,6,6|a,m|e|c|FragmentOfHarmonicWhimsy|普攻输出；爆发主要服务治疗，默认不堆充能，反应才计精通。
+Sethos|emCrit|9,6,9|m,r|e|c|WanderersTroupe|激化重击/爆发普攻；根据所选路线调整普攻与爆发优先级。
+Clorinde|atk|1,9,8|a,m|e|c|FragmentOfHarmonicWhimsy|战技输出；精通与攻击收益随激绽/纯雷、命座变化。
+Emilie|atk|1,9,8|a|e|c|UnfinishedReverie|燃烧队后台直伤；精通不作为本体伤害重点。
+Kachina|def|1,9,6|d|e|c|ScrollOfTheHeroOfCinderCity|战技后台兼绘卷辅助；套装辅助收益优先于个人极限词条。
+Kinich|atk|1,9,8|a|e|c|ObsidianCodex|战技输出；攻击与双暴优先，不必为高充能牺牲主要输出。
+Mualani|hp|1,9,6|h,m|e,h|c,h|ObsidianCodex|蒸发战技输出；黑曜秘典与突破暴击率需避免溢出。
+Xilonen|defSupport|1,9,8|r,d|d|b,d,c|ScrollOfTheHeroOfCinderCity|辅助兼防御治疗；充能与防御优先，专武阈值和西风暴击另设。
+Chasca|atk|1,9,6|a|a|c|ObsidianCodex|混合元素输出；默认攻击杯，单元素伤害杯仅在特定队伍比较。
+Ororon|atk|1,9,8|a,r|e,a|c|ScrollOfTheHeroOfCinderCity|后台反应辅助兼直伤；优先保持绘卷效果，精通按反应归属调整。
+Mavuika|atk|1,9,9|a,m|e|c|ObsidianCodex|爆发和战技状态输出；不用元素能量，充能权重为0。
+Citlali|em|1,9,8|m,r|m|m|ScrollOfTheHeroOfCinderCity|精通护盾与辅助；需要爆发时先保证循环，输出玩法另调双暴。
+LanYan|shieldAtk|1,9,6|a,r,m|a|a,c|ViridescentVenerer|攻击护盾与风套辅助；扩散驾驶可三精通，二命提高盾舒适度。
+YumemizukiMizuki|emCrit|1,8,6|m|m|c,m|ViridescentVenerer|默认星扩散；普通扩散路线改三精通且双暴不计，爆发按需使用。
+Iansan|atkSupport|1,6,9|a,r|a|a,c|ScrollOfTheHeroOfCinderCity|攻击辅助；爆发与攻击重要，西风才额外需要暴击率。
+Varesa|atk|9,9,8|a|e,a|c|LongNightsOath|下落输出；伤害分别受普攻、战技、爆发影响，按动作组合比较。
+Escoffier|atk|1,9,8|a,r|e,a|c|GoldenTroupe|后台战技兼治疗；治疗不需要时可不强求每轮爆发。
+Ifa|em|1,8,6|m,r|m|m,b|ViridescentVenerer|扩散反应驾驶与精通治疗；直伤玩法另改双暴，充能看爆发频率。
+Skirk|atk|9,9,8|a|e,a|c,a|FinaleOfTheDeepGalleries|冰元素输出；不使用元素能量，充能权重为0。
+Dahlia|shieldHp|1,6,9|h,r|h|h,c|NoblesseOblige|护盾与攻速辅助；爆发循环与生命优先，西风才另外计暴击率。
+Ineffa|atk|1,9,8|a,m,r|a,m|c|SilkenMoonsSerenade|月感电后台兼护盾；攻击/精通与双暴，充能按实际爆发频率。
+Lauma|emCrit|1,9,8|m,r|m|m,c|SilkenMoonsSerenade|绽放/月绽放辅助；精通优先，双暴服务自身月反应输出。
+Flins|atk|1,9,9|a,m|a,m|c|NightOfTheSkysUnveiling|月感电输出；攻击杯与双暴，精通次之，先保证所需循环。
+Aino|em|1,6,9|r,m|m,e|m,c|SilkenMoonsSerenade|后台挂水与反应辅助；先满足循环，西风暴击及自身反应另调。
+Nefer|emCrit|1,9,8|m|m|c,m|NightOfTheSkysUnveiling|月绽放输出；双暴与精通，爆发充能投入按队伍收益决定。
+Durin|atk|1,9,9|a,m|e,a|c|ADayCarvedFromRisingWinds|后台直伤兼辅助；反应触发路线可改精通，攻击/火杯取决于增益。
+Jahoda|healAtk|1,8,9|r,a|a|b,c,a|ViridescentVenerer|攻击治疗兼风辅助；优先循环与攻击，西风才额外需要暴击率。
+Columbina|hp|1,9,9|r,h|h|c,h|AubadeOfMorningstarAndMoon|生命月反应辅助兼输出；生命杯、双暴，充能与精通视队伍。
+Zibai|def|1,9,8|d|d|c|NightOfTheSkysUnveiling|月结晶输出；防御杯、双暴，精通有次级收益。
+Illuga|em|1,6,9|m,r|m|m,c|SilkenMoonsSerenade|精通增益辅助；循环优先，西风才额外需要暴击率。
+Varka|atk|1,9,8|a|a,e,pyro,hydro,cryo,electro|c|ADayCarvedFromRisingWinds|风与转化元素混合输出；攻击/转化元素杯取决于队伍，通常不堆充能。
+Lohen|atk|9,9,6|a,m|e,a|c|MarechausseeHunter|冰元素输出；融化才计精通，爆发可按需使用。
+Linnea|def|1,9,8|d|d|c,d|AubadeOfMorningstarAndMoon|防御治疗兼月结晶输出与辅助；防御杯与双暴。
+Nicole|atkSupport|1,9,8|a,r|a|a|CelestialGift|攻击辅助兼护盾；以攻击为主，充能取决于爆发频率。
+Prune|atkSupport|1,6,9|a,r|a|a|ViridescentVenerer|攻击辅助；充能与攻击优先，西风才另外计暴击率。
+Sandrone|atk|1,9,9|a|a|c|DisenchantmentInDeepShadow|星超导输出；攻击杯，冰伤加成不提高直接星超导。
+Vodyanitsa|healHp|1,9,6|h|h|h|TenacityOfTheMillelith|生命增益兼治疗；生命优先，充能与双暴仅服务按需爆发输出。
+Vesna|atk|1,9,8|a,m|a,m|c|ScarletProof|星扩散战技输出；缺乏精通增益时最多考虑一件精通主词条，充能按队伍决定。
+Odette|atk|1,9,8|a|a|c|HeartOfTheFurnace|星反应后台；攻击杯与双暴，精通次之，常规冰伤不提高直接星反应。
+Alyosha|healAtk|1,6,9|r,a|a|b,a,c|NoblesseOblige|攻击治疗辅助；先满足所需循环，命座与西风会改变充能需求。
+TravelerAnemo|em|1,8,8|m,r|m|m|ViridescentVenerer|扩散/风套；纯直伤另改攻击双暴。
+TravelerGeo|atk|1,9,8|a,r|e|c|NoblesseOblige|岩元素战技与爆发；纯辅助可降低直伤投资。
+TravelerElectro|support|1,8,8|r|e|c|EmblemOfSeveredFate|充能辅助；自身循环优先，西风剑才提高暴击率权重。
+TravelerDendro|atk|1,6,9|r,a,m|e|c|DeepwoodMemories|后台挂草；超绽放由雷角色触发，旅行者精通主要服务自身反应。
+TravelerHydro|atk|1,9,6|a,m|e|c|GoldenTroupe|默认战技直伤；绽放玩法另改精通，爆发不强求循环。
+TravelerPyro|atk|1,9,8|r,a,m|e,a|c|ScrollOfTheHeroOfCinderCity|默认绘卷后台；烈绽放另改精通，爆发与充能按队伍。
+TravelerCryo|atk|8,1,9|a|a|critDMG_|DisenchantmentInDeepShadow|默认星超导输出；星扩散辅助可改逐风/千岩，充能需求与一命、专武、队伍产球有关。
+`;
+export const weightPresets={
+  atk:{role:'attack',weights:{atk_:.75,atk:.15,critRate_:1,critDMG_:1,enerRech_:.5}},
+  hp:{role:'hp',weights:{hp_:.9,hp:.25,critRate_:1,critDMG_:1,enerRech_:.6}},
+  def:{role:'defense',weights:{def_:.8,def:.2,critRate_:1,critDMG_:1,enerRech_:.5}},
+  em:{role:'reaction',weights:{eleMas:1,enerRech_:.8}},
+  emCrit:{role:'reaction',weights:{eleMas:1,atk_:.35,critRate_:1,critDMG_:1,enerRech_:.5}},
+  healHp:{role:'healer',weights:{hp_:1,hp:.4,enerRech_:1}},
+  healAtk:{role:'attackHealer',weights:{atk_:1,atk:.3,enerRech_:1}},
+  defSupport:{role:'defenseSupport',weights:{def_:1,def:.3,enerRech_:1}},
+  atkSupport:{role:'attackSupport',weights:{atk_:1,atk:.3,enerRech_:1}},
+  hpSupport:{role:'hpSupport',weights:{hp_:1,hp:.4,enerRech_:.5}},
+  shieldHp:{role:'shield',weights:{hp_:1,hp:.4,enerRech_:.5}},
+  shieldAtk:{role:'attackShield',weights:{atk_:1,atk:.3,enerRech_:.5}},
+  support:{role:'support',weights:{enerRech_:1}},
+};
+export const weightOverrides={
+  HuTao:{eleMas:1,enerRech_:0},Diluc:{eleMas:.75},Amber:{eleMas:1},Xiangling:{eleMas:.75,enerRech_:1},Fischl:{eleMas:.5,enerRech_:0},Keqing:{eleMas:.75,enerRech_:0},Ganyu:{eleMas:1},Rosaria:{eleMas:.75},Yoimiya:{eleMas:.5,enerRech_:0},Tartaglia:{eleMas:.5},
+  Bennett:{critRate_:0},Gorou:{def_:.3,def:.1},RaidenShogun:{enerRech_:1},Albedo:{enerRech_:0},Chiori:{atk_:.3,enerRech_:0},Zhongli:{enerRech_:0},Kirara:{enerRech_:0},KukiShinobu:{hp_:.2,hp:.05,enerRech_:0},Nahida:{atk_:.2},Tighnari:{enerRech_:.2},Thoma:{hp_:.2,enerRech_:1},
+  Nilou:{enerRech_:0,eleMas:.25},Cyno:{atk_:.5},Dehya:{enerRech_:0},Arlecchino:{eleMas:.5,enerRech_:0},Gaming:{eleMas:1,enerRech_:.8},Clorinde:{eleMas:.4,enerRech_:.2},Emilie:{eleMas:0,enerRech_:.2},Kinich:{eleMas:0,enerRech_:.2},Mualani:{eleMas:.6,enerRech_:0},Mavuika:{eleMas:.75,enerRech_:0},
+  Sethos:{atk_:.25,enerRech_:.8},YumemizukiMizuki:{atk_:0,enerRech_:0},Ifa:{enerRech_:.3},Skirk:{enerRech_:0},Ineffa:{eleMas:.5,enerRech_:.25},Lauma:{atk_:0,critRate_:.5,critDMG_:.5},Flins:{eleMas:.5,enerRech_:.7},Nefer:{atk_:0,eleMas:1,enerRech_:.2},Columbina:{eleMas:.3},Zibai:{eleMas:.3,enerRech_:0},Linnea:{def_:1,eleMas:.25},
+  Varka:{eleMas:.25,enerRech_:0},Lohen:{eleMas:.5,enerRech_:0},Nicole:{enerRech_:.4},Sandrone:{eleMas:.4,enerRech_:.2},Vodyanitsa:{enerRech_:.2},Vesna:{eleMas:.75,enerRech_:0},Odette:{eleMas:.4,enerRech_:0},TravelerCryo:{eleMas:.4,enerRech_:.4},TravelerHydro:{eleMas:.25,enerRech_:0},TravelerDendro:{eleMas:.3,enerRech_:1},
+};

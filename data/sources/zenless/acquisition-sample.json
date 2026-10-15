@@ -1,0 +1,49 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 0,
+        "title": "Blood Marrow Casket",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Neko Fortune",
+        "missing": true
+      },
+      {
+        "pageid": 3420,
+        "ns": 0,
+        "title": "Demara Battery Mark II",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{W-Engine Infobox\n|id            = 13101\n|name          = Demara Battery Mark II\n|image         = W-Engine Demara Battery Mark II.png\n|releaseDate   = 2024-07-04\n|base_stat     = 42-624\n|adv_stat      = 6%-15%\n|adv_stat_name = Impact\n|effect_name   = In a Flash of Light\n|effect        = Increases {{color|Electric DMG}} by {{color|green|(var1)%}}. When the equipper hits an enemy with '''Dodge Counter''' or '''Assist Attack''', their Energy Generation Rate increases by {{color|green|(var2)%}} for 8s.\n|eff_var1_u1   = 15\n|eff_var1_u2   = 17.5\n|eff_var1_u3   = 20\n|eff_var1_u4   = 22\n|eff_var1_u5   = 24\n|eff_var2_u1   = 18\n|eff_var2_u2   = 20.5\n|eff_var2_u3   = 23\n|eff_var2_u4   = 25\n|eff_var2_u5   = 27.5\n|eff_att1      = Electric DMG Increase\n|eff_att2      = Energy Generation Rate Increase\n}}\n{{Description|A customized W-Engine Core with specialized power storage.}}\n{{Lead/W-Engine}} It is [[Anby Demara]]'s [[Exclusive W-Engine]].\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|This customized W-Engine Core focuses on power storage and has been modified to enhance power storage functions. It can effectively boost Zap damage output for weapons, and is the gadget store owner's pièce de résistance. Not long after, Anby made some tweaks based on user habits, but judging by how serious and careful she is while conducting each maintenance session, these are probably not the safest of modifications.<br><br>\"Weapons SHOULD be dangerous. If it can't shock me, then how is it going to shock the enemy?\" &mdash; Anby's response while carefully performing maintenance}}\n\n==Availability==\n* The permanent [[Signal Search]]: [[Star-Studded Cast]]\n* Every [[Exclusive Channel]] and [[W-Engine Channel]]\n* [[New Modified W-Engine]] given for free by [[Box Galaxy]], and personalised to fit Anby's personalised tastes.\n\n===Featured===\n{{Featured}}\n\n==Gallery==\n{{Files by Character Gallery|Demara Battery Mark II Images}}\n[[File:Demara Battery Mark II Animation.mp4|250px]]\n\n==Other Languages==\n{{Other Languages\n|en       = Demara Battery Mark II\n|zhs      = 德玛拉电池Ⅱ型\n|zhs_rm   = Démǎlā Diànchí II-xíng\n|zht      = 德瑪拉電池Ⅱ型\n|zht_rm   = Démǎlā  Diànchí II-xíng\n|ja       = デマラ式電池Ⅱ型\n|ja_rm    = \n|ko       = 데마라 배터리 Ⅱ형\n|es       = Batería de Demara (II)\n|fr       = Batterie Demara Mark II\n|ru       = Аккумулятор Демары II\n|th       = Demara Battery Mark II\n|vi       = Pin Demara Loại II\n|de       = Demara-Batterie Typ II\n|id       = Demara Battery Mark II\n|pt       = Bateria da Demara - Tipo II\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[ru:Аккумулятор Демары II]]\n[[vi:Pin Demara Loại II]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 4930,
+        "ns": 0,
+        "title": "(Lunar) Noviluna",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{W-Engine Infobox\n|id            = 12003\n|variable      = 1\n|name          = [Lunar] Noviluna\n|image         = W-Engine (Lunar) Noviluna.png\n|releaseDate   = 2024-07-04\n|base_stat     = 32-475\n|adv_stat      = 6.4%-16%\n|adv_stat_name = CRIT Rate\n|effect_name   = New Moon\n|effect        = Launching an '''EX Special Attack''' generates {{color|green|(var1)}} Energy for the equipper. This effect can trigger once every 12s.\n|eff_var1_u1   = 3\n|eff_var1_u2   = 3.5\n|eff_var1_u3   = 4\n|eff_var1_u4   = 4.5\n|eff_var1_u5   = 5\n|eff_att1      = Energy Generation\n}}\n{{Lead/W-Engine|(Lunar) Noviluna}}\n\n==Modifications and Stats==\n{{W-Engine Modification and Stats}}\n\n==Description==\n{{Description|This high-capacity portable W-Engine can collect dissipated energy from its surrounding, thus enhancing the combat effectiveness of its operator. It is a perfect choice for novice explorers who are worries that their W-Engine may run out of power during expeditions.}}\n\n==Availability==\n* The permanent [[Signal Search]]: [[Star-Studded Cast]]\n* Every [[Exclusive Channel]] and [[W-Engine Channel]]\n\n===Shop Availability===\n{{Shop Availability|stock=Other Components}}\n\n==Gallery==\n{{Files by Character Gallery|(Lunar) Noviluna Images}}\n[[File:(Lunar) Noviluna Animation.mp4|250px]]\n\n==Other Languages==\n{{Other Languages\n|en       = [Lunar] Noviluna\n|zhs      = 「月相」-朔\n|zhs_rm   = \"Yuèxiàng\" - Shuò\n|zht      = 「月相」-朔\n|zht_rm   = \"Yuèxiàng\" - Shuò\n|ja       = 「月相」-朔\n|ja_rm    = \n|ko       = 「루나」-초승달\n|es       = Fase lunar - Novilunio\n|fr       = [Lunaire] Nouvelle lune\n|ru       = Фаза луны: Новолуние\n|th       = [Lunar] - Noviluna\n|vi       = [Pha Mặt Trăng] Noviluna\n|de       = „Mondphase“ &ndash; Noviluna\n|id       = [Lunar] Noviluna\n|pt       = [Lunar] Novilúnio\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{W-Engine Navbox}}\n\n[[ru:Фаза луны: Новолуние]]\n[[vi:(Pha Mặt Trăng) Noviluna]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

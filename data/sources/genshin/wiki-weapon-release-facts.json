@@ -1,0 +1,2535 @@
+{
+  "fetchedAt": "2026-10-02T21:13:40.031Z",
+  "records": [
+    {
+      "title": "Blackcliff Longsword",
+      "pageId": 603,
+      "revisionId": 2171881,
+      "revisionAt": "2026-09-10T02:24:58Z",
+      "date": "2020-11-01",
+      "id": "11408",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Longsword",
+      "official": null
+    },
+    {
+      "title": "Amos' Bow",
+      "pageId": 611,
+      "revisionId": 2188561,
+      "revisionAt": "2026-09-30T13:21:33Z",
+      "date": "2020-09-28",
+      "id": "15502",
+      "url": "https://genshin-impact.fandom.com/wiki/Amos'_Bow",
+      "official": null
+    },
+    {
+      "title": "Compound Bow",
+      "pageId": 613,
+      "revisionId": 2064953,
+      "revisionAt": "2026-03-12T16:34:35Z",
+      "date": "2020-09-28",
+      "id": "15407",
+      "url": "https://genshin-impact.fandom.com/wiki/Compound_Bow",
+      "official": null
+    },
+    {
+      "title": "Blackcliff Agate",
+      "pageId": 653,
+      "revisionId": 2067358,
+      "revisionAt": "2026-03-20T15:21:34Z",
+      "date": "2020-11-01",
+      "id": "14408",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Agate",
+      "official": null
+    },
+    {
+      "title": "Apprentice's Notes",
+      "pageId": 680,
+      "revisionId": 2171789,
+      "revisionAt": "2026-09-10T00:17:03Z",
+      "date": "2020-09-28",
+      "id": "14101",
+      "url": "https://genshin-impact.fandom.com/wiki/Apprentice's_Notes",
+      "official": null
+    },
+    {
+      "title": "Bloodtainted Greatsword",
+      "pageId": 735,
+      "revisionId": 2112825,
+      "revisionAt": "2026-06-15T04:41:30Z",
+      "date": "2020-09-28",
+      "id": "12302",
+      "url": "https://genshin-impact.fandom.com/wiki/Bloodtainted_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Beginner's Protector",
+      "pageId": 761,
+      "revisionId": 2172064,
+      "revisionAt": "2026-09-10T16:14:26Z",
+      "date": "2020-09-28",
+      "id": "13101",
+      "url": "https://genshin-impact.fandom.com/wiki/Beginner's_Protector",
+      "official": null
+    },
+    {
+      "title": "Black Tassel",
+      "pageId": 765,
+      "revisionId": 2064348,
+      "revisionAt": "2026-03-10T21:29:56Z",
+      "date": "2020-09-28",
+      "id": "13303",
+      "url": "https://genshin-impact.fandom.com/wiki/Black_Tassel",
+      "official": null
+    },
+    {
+      "title": "Blackcliff Pole",
+      "pageId": 767,
+      "revisionId": 1806292,
+      "revisionAt": "2025-08-26T15:34:17Z",
+      "date": "2020-09-28",
+      "id": "13404",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Pole",
+      "official": null
+    },
+    {
+      "title": "Blackcliff Slasher",
+      "pageId": 1453,
+      "revisionId": 2168379,
+      "revisionAt": "2026-09-03T10:39:59Z",
+      "date": "2020-11-01",
+      "id": "12408",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Slasher",
+      "official": null
+    },
+    {
+      "title": "Blackcliff Warbow",
+      "pageId": 1454,
+      "revisionId": 1806300,
+      "revisionAt": "2025-08-26T15:38:59Z",
+      "date": "2020-11-01",
+      "id": "15408",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackcliff_Warbow",
+      "official": null
+    },
+    {
+      "title": "Alley Hunter",
+      "pageId": 1517,
+      "revisionId": 2135091,
+      "revisionAt": "2026-07-23T16:22:41Z",
+      "date": "2021-04-06",
+      "id": "15410",
+      "url": "https://genshin-impact.fandom.com/wiki/Alley_Hunter",
+      "official": null
+    },
+    {
+      "title": "Aquila Favonia",
+      "pageId": 1573,
+      "revisionId": 2172119,
+      "revisionAt": "2026-09-10T20:16:43Z",
+      "date": "2020-09-28",
+      "id": "11501",
+      "url": "https://genshin-impact.fandom.com/wiki/Aquila_Favonia",
+      "official": null
+    },
+    {
+      "title": "Amenoma Kageuchi",
+      "pageId": 64141,
+      "revisionId": 2172164,
+      "revisionAt": "2026-09-10T21:40:57Z",
+      "date": "2021-07-21",
+      "id": "11414",
+      "url": "https://genshin-impact.fandom.com/wiki/Amenoma_Kageuchi",
+      "official": null
+    },
+    {
+      "title": "Akuoumaru",
+      "pageId": 95711,
+      "revisionId": 1965908,
+      "revisionAt": "2026-01-11T21:56:46Z",
+      "date": "2021-10-13",
+      "id": "12416",
+      "url": "https://genshin-impact.fandom.com/wiki/Akuoumaru",
+      "official": null
+    },
+    {
+      "title": "Cinnabar Spindle",
+      "pageId": 103632,
+      "revisionId": 2186295,
+      "revisionAt": "2026-09-27T14:41:36Z",
+      "date": "2021-11-25",
+      "id": "11415",
+      "url": "https://genshin-impact.fandom.com/wiki/Cinnabar_Spindle",
+      "official": null
+    },
+    {
+      "title": "Calamity Queller",
+      "pageId": 111861,
+      "revisionId": 2089048,
+      "revisionAt": "2026-05-09T20:37:50Z",
+      "date": "2022-01-05",
+      "id": "13507",
+      "url": "https://genshin-impact.fandom.com/wiki/Calamity_Queller",
+      "official": null
+    },
+    {
+      "title": "Aqua Simulacra",
+      "pageId": 136042,
+      "revisionId": 2089046,
+      "revisionAt": "2026-05-09T20:37:49Z",
+      "date": "2022-05-31",
+      "id": "15508",
+      "url": "https://genshin-impact.fandom.com/wiki/Aqua_Simulacra",
+      "official": null
+    },
+    {
+      "title": "A Thousand Floating Dreams",
+      "pageId": 178517,
+      "revisionId": 2130111,
+      "revisionAt": "2026-07-15T22:09:16Z",
+      "date": "2022-11-02",
+      "id": "14511",
+      "url": "https://genshin-impact.fandom.com/wiki/A_Thousand_Floating_Dreams",
+      "official": null
+    },
+    {
+      "title": "Beacon of the Reed Sea",
+      "pageId": 209269,
+      "revisionId": 2133123,
+      "revisionAt": "2026-07-18T20:05:51Z",
+      "date": "2023-03-01",
+      "id": "12511",
+      "url": "https://genshin-impact.fandom.com/wiki/Beacon_of_the_Reed_Sea",
+      "official": null
+    },
+    {
+      "title": "Ballad of the Fjords",
+      "pageId": 241369,
+      "revisionId": 2162946,
+      "revisionAt": "2026-08-24T00:20:19Z",
+      "date": "2023-08-16",
+      "id": "13424",
+      "url": "https://genshin-impact.fandom.com/wiki/Ballad_of_the_Fjords",
+      "official": null
+    },
+    {
+      "title": "Cashflow Supervision",
+      "pageId": 254105,
+      "revisionId": 2127343,
+      "revisionAt": "2026-07-10T14:08:51Z",
+      "date": "2023-10-17",
+      "id": "14513",
+      "url": "https://genshin-impact.fandom.com/wiki/Cashflow_Supervision",
+      "official": null
+    },
+    {
+      "title": "Ballad of the Boundless Blue",
+      "pageId": 254113,
+      "revisionId": 2114714,
+      "revisionAt": "2026-06-24T14:59:05Z",
+      "date": "2023-10-12",
+      "id": "14426",
+      "url": "https://genshin-impact.fandom.com/wiki/Ballad_of_the_Boundless_Blue",
+      "official": null
+    },
+    {
+      "title": "Absolution",
+      "pageId": 308294,
+      "revisionId": 2172117,
+      "revisionAt": "2026-09-10T20:08:24Z",
+      "date": "2024-06-05",
+      "id": "11515",
+      "url": "https://genshin-impact.fandom.com/wiki/Absolution",
+      "official": null
+    },
+    {
+      "title": "Cloudforged",
+      "pageId": 308295,
+      "revisionId": 1966513,
+      "revisionAt": "2026-01-11T22:28:27Z",
+      "date": "2024-06-07",
+      "id": "15426",
+      "url": "https://genshin-impact.fandom.com/wiki/Cloudforged",
+      "official": null
+    },
+    {
+      "title": "Chain Breaker",
+      "pageId": 322502,
+      "revisionId": 2067264,
+      "revisionAt": "2026-03-19T22:47:13Z",
+      "date": "2024-08-28",
+      "id": "15431",
+      "url": "https://genshin-impact.fandom.com/wiki/Chain_Breaker",
+      "official": null
+    },
+    {
+      "title": "Ash-Graven Drinking Horn",
+      "pageId": 323015,
+      "revisionId": 2114785,
+      "revisionAt": "2026-06-24T18:39:19Z",
+      "date": "2024-08-28",
+      "id": "14427",
+      "url": "https://genshin-impact.fandom.com/wiki/Ash-Graven_Drinking_Horn",
+      "official": null
+    },
+    {
+      "title": "Astral Vulture's Crimson Plumage",
+      "pageId": 344161,
+      "revisionId": 2114558,
+      "revisionAt": "2026-06-24T00:08:19Z",
+      "date": "2024-11-20",
+      "id": "15514",
+      "url": "https://genshin-impact.fandom.com/wiki/Astral_Vulture's_Crimson_Plumage",
+      "official": null
+    },
+    {
+      "title": "Calamity of Eshu",
+      "pageId": 344164,
+      "revisionId": 2172114,
+      "revisionAt": "2026-09-10T20:02:55Z",
+      "date": "2024-11-28",
+      "id": "11432",
+      "url": "https://genshin-impact.fandom.com/wiki/Calamity_of_Eshu",
+      "official": null
+    },
+    {
+      "title": "A Thousand Blazing Suns",
+      "pageId": 350852,
+      "revisionId": 2130110,
+      "revisionAt": "2026-07-15T22:08:23Z",
+      "date": "2025-01-01",
+      "id": "12514",
+      "url": "https://genshin-impact.fandom.com/wiki/A_Thousand_Blazing_Suns",
+      "official": null
+    },
+    {
+      "title": "Azurelight",
+      "pageId": 378461,
+      "revisionId": 2172147,
+      "revisionAt": "2026-09-10T21:04:55Z",
+      "date": "2025-06-18",
+      "id": "11517",
+      "url": "https://genshin-impact.fandom.com/wiki/Azurelight",
+      "official": null
+    },
+    {
+      "title": "Bloodsoaked Ruins",
+      "pageId": 395285,
+      "revisionId": 2169735,
+      "revisionAt": "2026-09-07T20:56:32Z",
+      "date": "2025-09-30",
+      "id": "193516",
+      "url": "https://genshin-impact.fandom.com/wiki/Bloodsoaked_Ruins",
+      "official": null
+    },
+    {
+      "title": "Blackmarrow Lantern",
+      "pageId": 395287,
+      "revisionId": 2133585,
+      "revisionAt": "2026-07-20T10:53:48Z",
+      "date": "2025-09-10",
+      "id": "14433",
+      "url": "https://genshin-impact.fandom.com/wiki/Blackmarrow_Lantern",
+      "official": null
+    },
+    {
+      "title": "Athame Artis",
+      "pageId": 420119,
+      "revisionId": 2172124,
+      "revisionAt": "2026-09-10T20:25:59Z",
+      "date": "2025-12-03",
+      "id": "11518",
+      "url": "https://genshin-impact.fandom.com/wiki/Athame_Artis",
+      "official": null
+    },
+    {
+      "title": "Angelos' Heptades",
+      "pageId": 456583,
+      "revisionId": 2182425,
+      "revisionAt": "2026-09-24T00:16:01Z",
+      "date": "2026-05-20",
+      "id": "14523",
+      "url": "https://genshin-impact.fandom.com/wiki/Angelos'_Heptades",
+      "official": null
+    },
+    {
+      "title": "A Teaspoon of Transcendence",
+      "pageId": 467450,
+      "revisionId": 2183628,
+      "revisionAt": "2026-09-24T23:26:54Z",
+      "date": "2026-07-01",
+      "id": "12516",
+      "url": "https://genshin-impact.fandom.com/wiki/A_Teaspoon_of_Transcendence",
+      "official": null
+    },
+    {
+      "title": "Blade of Atonement",
+      "pageId": 477115,
+      "revisionId": 2183784,
+      "revisionAt": "2026-09-25T05:38:15Z",
+      "date": "2026-08-12",
+      "id": "12436",
+      "url": "https://genshin-impact.fandom.com/wiki/Blade_of_Atonement",
+      "official": null
+    },
+    {
+      "title": "Clash of Kings",
+      "pageId": 477228,
+      "revisionId": 2171288,
+      "revisionAt": "2026-09-09T17:28:00Z",
+      "date": "2026-08-12",
+      "id": "14435",
+      "url": "https://genshin-impact.fandom.com/wiki/Clash_of_Kings",
+      "official": null
+    },
+    {
+      "title": "Beyond the Chrysalis",
+      "pageId": 490859,
+      "revisionId": 2189508,
+      "revisionAt": "2026-10-01T21:35:30Z",
+      "date": "2026-09-23",
+      "id": "11522",
+      "url": "https://genshin-impact.fandom.com/wiki/Beyond_the_Chrysalis",
+      "official": null
+    },
+    {
+      "title": "Breezeborne Refrain",
+      "pageId": 490862,
+      "revisionId": 2189523,
+      "revisionAt": "2026-10-01T22:10:55Z",
+      "date": "2026-09-23",
+      "id": "15437",
+      "url": "https://genshin-impact.fandom.com/wiki/Breezeborne_Refrain",
+      "official": null
+    },
+    {
+      "title": "Crescent Pike",
+      "pageId": 370,
+      "revisionId": 2171692,
+      "revisionAt": "2026-09-09T23:21:07Z",
+      "date": "2020-09-28",
+      "id": "13403",
+      "url": "https://genshin-impact.fandom.com/wiki/Crescent_Pike",
+      "official": null
+    },
+    {
+      "title": "Favonius Warbow",
+      "pageId": 615,
+      "revisionId": 2130103,
+      "revisionAt": "2026-07-15T21:56:52Z",
+      "date": "2020-09-28",
+      "id": "15401",
+      "url": "https://genshin-impact.fandom.com/wiki/Favonius_Warbow",
+      "official": null
+    },
+    {
+      "title": "Favonius Codex",
+      "pageId": 655,
+      "revisionId": 1806201,
+      "revisionAt": "2025-08-26T15:11:40Z",
+      "date": "2020-09-28",
+      "id": "14401",
+      "url": "https://genshin-impact.fandom.com/wiki/Favonius_Codex",
+      "official": null
+    },
+    {
+      "title": "Emerald Orb",
+      "pageId": 671,
+      "revisionId": 2064357,
+      "revisionAt": "2026-03-10T22:20:25Z",
+      "date": "2020-09-28",
+      "id": "14304",
+      "url": "https://genshin-impact.fandom.com/wiki/Emerald_Orb",
+      "official": null
+    },
+    {
+      "title": "Debate Club",
+      "pageId": 736,
+      "revisionId": 1855196,
+      "revisionAt": "2025-10-01T20:24:22Z",
+      "date": "2020-09-28",
+      "id": "12305",
+      "url": "https://genshin-impact.fandom.com/wiki/Debate_Club",
+      "official": null
+    },
+    {
+      "title": "Ferrous Shadow",
+      "pageId": 738,
+      "revisionId": 2168047,
+      "revisionAt": "2026-09-02T17:25:16Z",
+      "date": "2020-09-28",
+      "id": "12301",
+      "url": "https://genshin-impact.fandom.com/wiki/Ferrous_Shadow",
+      "official": null
+    },
+    {
+      "title": "Favonius Greatsword",
+      "pageId": 744,
+      "revisionId": 1806203,
+      "revisionAt": "2025-08-26T15:12:36Z",
+      "date": "2020-09-28",
+      "id": "12401",
+      "url": "https://genshin-impact.fandom.com/wiki/Favonius_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Dragon's Bane",
+      "pageId": 768,
+      "revisionId": 2064875,
+      "revisionAt": "2026-03-12T11:13:31Z",
+      "date": "2020-09-28",
+      "id": "13401",
+      "url": "https://genshin-impact.fandom.com/wiki/Dragon's_Bane",
+      "official": null
+    },
+    {
+      "title": "Dull Blade",
+      "pageId": 776,
+      "revisionId": 2000480,
+      "revisionAt": "2026-01-16T09:18:06Z",
+      "date": "2020-09-28",
+      "id": "11101",
+      "url": "https://genshin-impact.fandom.com/wiki/Dull_Blade",
+      "official": null
+    },
+    {
+      "title": "Cool Steel",
+      "pageId": 781,
+      "revisionId": 2064876,
+      "revisionAt": "2026-03-12T11:13:48Z",
+      "date": "2020-09-28",
+      "id": "11301",
+      "url": "https://genshin-impact.fandom.com/wiki/Cool_Steel",
+      "official": null
+    },
+    {
+      "title": "Dark Iron Sword",
+      "pageId": 783,
+      "revisionId": 2127605,
+      "revisionAt": "2026-07-10T18:28:53Z",
+      "date": "2020-09-28",
+      "id": "11304",
+      "url": "https://genshin-impact.fandom.com/wiki/Dark_Iron_Sword",
+      "official": null
+    },
+    {
+      "title": "Eye of Perception",
+      "pageId": 1351,
+      "revisionId": 1886546,
+      "revisionAt": "2025-11-12T10:05:45Z",
+      "date": "2020-09-28",
+      "id": "14409",
+      "url": "https://genshin-impact.fandom.com/wiki/Eye_of_Perception",
+      "official": null
+    },
+    {
+      "title": "Fillet Blade",
+      "pageId": 1357,
+      "revisionId": 1810406,
+      "revisionAt": "2025-08-31T15:10:10Z",
+      "date": "2020-09-28",
+      "id": "11305",
+      "url": "https://genshin-impact.fandom.com/wiki/Fillet_Blade",
+      "official": null
+    },
+    {
+      "title": "Deathmatch",
+      "pageId": 1445,
+      "revisionId": 2065761,
+      "revisionAt": "2026-03-14T12:42:48Z",
+      "date": "2020-09-28",
+      "id": "13405",
+      "url": "https://genshin-impact.fandom.com/wiki/Deathmatch",
+      "official": null
+    },
+    {
+      "title": "Favonius Sword",
+      "pageId": 1521,
+      "revisionId": 2175645,
+      "revisionAt": "2026-09-15T20:40:52Z",
+      "date": "2020-09-28",
+      "id": "11401",
+      "url": "https://genshin-impact.fandom.com/wiki/Favonius_Sword",
+      "official": null
+    },
+    {
+      "title": "Favonius Lance",
+      "pageId": 2494,
+      "revisionId": 1806196,
+      "revisionAt": "2025-08-26T15:09:42Z",
+      "date": "2020-09-28",
+      "id": "13407",
+      "url": "https://genshin-impact.fandom.com/wiki/Favonius_Lance",
+      "official": null
+    },
+    {
+      "title": "Festering Desire",
+      "pageId": 19471,
+      "revisionId": 2171822,
+      "revisionAt": "2026-09-10T01:03:06Z",
+      "date": "2020-12-23",
+      "id": "11413",
+      "url": "https://genshin-impact.fandom.com/wiki/Festering_Desire",
+      "official": null
+    },
+    {
+      "title": "Dragonspine Spear",
+      "pageId": 19473,
+      "revisionId": 1806166,
+      "revisionAt": "2025-08-26T15:02:22Z",
+      "date": "2020-12-23",
+      "id": "13409",
+      "url": "https://genshin-impact.fandom.com/wiki/Dragonspine_Spear",
+      "official": null
+    },
+    {
+      "title": "Elegy for the End",
+      "pageId": 33098,
+      "revisionId": 2067259,
+      "revisionAt": "2026-03-19T21:24:11Z",
+      "date": "2021-03-17",
+      "id": "15503",
+      "url": "https://genshin-impact.fandom.com/wiki/Elegy_for_the_End",
+      "official": null
+    },
+    {
+      "title": "Dodoco Tales",
+      "pageId": 56693,
+      "revisionId": 1806153,
+      "revisionAt": "2025-08-26T14:59:46Z",
+      "date": "2021-06-17",
+      "id": "14413",
+      "url": "https://genshin-impact.fandom.com/wiki/Dodoco_Tales",
+      "official": null
+    },
+    {
+      "title": "Engulfing Lightning",
+      "pageId": 80304,
+      "revisionId": 2171825,
+      "revisionAt": "2026-09-10T01:09:22Z",
+      "date": "2021-09-01",
+      "id": "13509",
+      "url": "https://genshin-impact.fandom.com/wiki/Engulfing_Lightning",
+      "official": null
+    },
+    {
+      "title": "Everlasting Moonglow",
+      "pageId": 80305,
+      "revisionId": 2088999,
+      "revisionAt": "2026-05-09T19:50:52Z",
+      "date": "2021-09-21",
+      "id": "14506",
+      "url": "https://genshin-impact.fandom.com/wiki/Everlasting_Moonglow",
+      "official": null
+    },
+    {
+      "title": "Fading Twilight",
+      "pageId": 136045,
+      "revisionId": 1806379,
+      "revisionAt": "2025-08-26T16:23:31Z",
+      "date": "2022-05-31",
+      "id": "15411",
+      "url": "https://genshin-impact.fandom.com/wiki/Fading_Twilight",
+      "official": null
+    },
+    {
+      "title": "End of the Line",
+      "pageId": 154040,
+      "revisionId": 1966067,
+      "revisionAt": "2026-01-11T22:05:22Z",
+      "date": "2022-08-24",
+      "id": "15418",
+      "url": "https://genshin-impact.fandom.com/wiki/End_of_the_Line",
+      "official": null
+    },
+    {
+      "title": "Fleuve Cendre Ferryman",
+      "pageId": 241365,
+      "revisionId": 2172160,
+      "revisionAt": "2026-09-10T21:27:51Z",
+      "date": "2023-08-16",
+      "id": "11426",
+      "url": "https://genshin-impact.fandom.com/wiki/Fleuve_Cendre_Ferryman",
+      "official": null
+    },
+    {
+      "title": "Finale of the Deep",
+      "pageId": 241375,
+      "revisionId": 2171698,
+      "revisionAt": "2026-09-09T23:28:26Z",
+      "date": "2023-08-16",
+      "id": "11425",
+      "url": "https://genshin-impact.fandom.com/wiki/Finale_of_the_Deep",
+      "official": null
+    },
+    {
+      "title": "Crane's Echoing Call",
+      "pageId": 283258,
+      "revisionId": 1966454,
+      "revisionAt": "2026-01-11T22:25:18Z",
+      "date": "2024-01-31",
+      "id": "14515",
+      "url": "https://genshin-impact.fandom.com/wiki/Crane's_Echoing_Call",
+      "official": null
+    },
+    {
+      "title": "Dialogues of the Desert Sages",
+      "pageId": 295585,
+      "revisionId": 2170059,
+      "revisionAt": "2026-09-08T20:16:42Z",
+      "date": "2024-03-14",
+      "id": "13426",
+      "url": "https://genshin-impact.fandom.com/wiki/Dialogues_of_the_Desert_Sages",
+      "official": null
+    },
+    {
+      "title": "Crimson Moon's Semblance",
+      "pageId": 301841,
+      "revisionId": 2089076,
+      "revisionAt": "2026-05-09T20:37:53Z",
+      "date": "2024-04-24",
+      "id": "13512",
+      "url": "https://genshin-impact.fandom.com/wiki/Crimson_Moon's_Semblance",
+      "official": null
+    },
+    {
+      "title": "Fang of the Mountain King",
+      "pageId": 322492,
+      "revisionId": 2163541,
+      "revisionAt": "2026-08-24T21:35:19Z",
+      "date": "2024-09-17",
+      "id": "12513",
+      "url": "https://genshin-impact.fandom.com/wiki/Fang_of_the_Mountain_King",
+      "official": null
+    },
+    {
+      "title": "Earth Shaker",
+      "pageId": 322499,
+      "revisionId": 1806407,
+      "revisionAt": "2025-08-26T17:07:59Z",
+      "date": "2024-08-28",
+      "id": "12431",
+      "url": "https://genshin-impact.fandom.com/wiki/Earth_Shaker",
+      "official": null
+    },
+    {
+      "title": "Flower-Wreathed Feathers",
+      "pageId": 344162,
+      "revisionId": 2067360,
+      "revisionAt": "2026-03-20T16:12:57Z",
+      "date": "2024-11-20",
+      "id": "15430",
+      "url": "https://genshin-impact.fandom.com/wiki/Flower-Wreathed_Feathers",
+      "official": null
+    },
+    {
+      "title": "Flame-Forged Insight",
+      "pageId": 383771,
+      "revisionId": 2114786,
+      "revisionAt": "2026-06-24T18:39:21Z",
+      "date": "2025-07-30",
+      "id": "12432",
+      "url": "https://genshin-impact.fandom.com/wiki/Flame-Forged_Insight",
+      "official": null
+    },
+    {
+      "title": "Etherlight Spindlelute",
+      "pageId": 395289,
+      "revisionId": 2165134,
+      "revisionAt": "2026-08-28T07:02:20Z",
+      "date": "2025-09-12",
+      "id": "14432",
+      "url": "https://genshin-impact.fandom.com/wiki/Etherlight_Spindlelute",
+      "official": null
+    },
+    {
+      "title": "Dawning Frost",
+      "pageId": 408383,
+      "revisionId": 2176397,
+      "revisionAt": "2026-09-17T02:23:49Z",
+      "date": "2025-10-22",
+      "id": "14434",
+      "url": "https://genshin-impact.fandom.com/wiki/Dawning_Frost",
+      "official": null
+    },
+    {
+      "title": "Disaster and Remorse",
+      "pageId": 456586,
+      "revisionId": 2172109,
+      "revisionAt": "2026-09-10T19:53:34Z",
+      "date": "2026-06-09",
+      "id": "13517",
+      "url": "https://genshin-impact.fandom.com/wiki/Disaster_and_Remorse",
+      "official": null
+    },
+    {
+      "title": "Emberwell",
+      "pageId": 477113,
+      "revisionId": 2183734,
+      "revisionAt": "2026-09-25T04:12:49Z",
+      "date": "2026-08-12",
+      "id": "11436",
+      "url": "https://genshin-impact.fandom.com/wiki/Emberwell",
+      "official": null
+    },
+    {
+      "title": "Covenant of Frost and Snow",
+      "pageId": 477114,
+      "revisionId": 2183871,
+      "revisionAt": "2026-09-25T08:14:59Z",
+      "date": "2026-08-12",
+      "id": "15436",
+      "url": "https://genshin-impact.fandom.com/wiki/Covenant_of_Frost_and_Snow",
+      "official": null
+    },
+    {
+      "title": "Echoes of the Heart",
+      "pageId": 477118,
+      "revisionId": 2189515,
+      "revisionAt": "2026-10-01T21:43:06Z",
+      "date": "2026-08-12",
+      "id": "14436",
+      "url": "https://genshin-impact.fandom.com/wiki/Echoes_of_the_Heart",
+      "official": null
+    },
+    {
+      "title": "Exaiphanes Blade",
+      "pageId": 477230,
+      "revisionId": 2178298,
+      "revisionAt": "2026-09-21T00:22:02Z",
+      "date": "2026-08-12",
+      "id": "11521",
+      "url": "https://genshin-impact.fandom.com/wiki/Exaiphanes_Blade",
+      "official": null
+    },
+    {
+      "title": "Hunter's Bow",
+      "pageId": 633,
+      "revisionId": 1745978,
+      "revisionAt": "2025-05-03T11:21:15Z",
+      "date": "2020-09-28",
+      "id": "15101",
+      "url": "https://genshin-impact.fandom.com/wiki/Hunter's_Bow",
+      "official": null
+    },
+    {
+      "title": "Lost Prayer to the Sacred Winds",
+      "pageId": 644,
+      "revisionId": 1806348,
+      "revisionAt": "2025-08-26T15:59:34Z",
+      "date": "2020-09-28",
+      "id": "14502",
+      "url": "https://genshin-impact.fandom.com/wiki/Lost_Prayer_to_the_Sacred_Winds",
+      "official": null
+    },
+    {
+      "title": "Iron Point",
+      "pageId": 763,
+      "revisionId": 2064354,
+      "revisionAt": "2026-03-10T21:55:01Z",
+      "date": "2020-09-28",
+      "id": "13201",
+      "url": "https://genshin-impact.fandom.com/wiki/Iron_Point",
+      "official": null
+    },
+    {
+      "title": "Harbinger of Dawn",
+      "pageId": 785,
+      "revisionId": 2064339,
+      "revisionAt": "2026-03-10T21:09:19Z",
+      "date": "2020-09-28",
+      "id": "11302",
+      "url": "https://genshin-impact.fandom.com/wiki/Harbinger_of_Dawn",
+      "official": null
+    },
+    {
+      "title": "Iron Sting",
+      "pageId": 789,
+      "revisionId": 2065018,
+      "revisionAt": "2026-03-12T23:58:11Z",
+      "date": "2020-09-28",
+      "id": "11407",
+      "url": "https://genshin-impact.fandom.com/wiki/Iron_Sting",
+      "official": null
+    },
+    {
+      "title": "Lion's Roar",
+      "pageId": 791,
+      "revisionId": 1806082,
+      "revisionAt": "2025-08-26T14:44:03Z",
+      "date": "2020-09-28",
+      "id": "11405",
+      "url": "https://genshin-impact.fandom.com/wiki/Lion's_Roar",
+      "official": null
+    },
+    {
+      "title": "Lithic Spear",
+      "pageId": 1513,
+      "revisionId": 2137796,
+      "revisionAt": "2026-08-01T15:19:31Z",
+      "date": "2021-02-23",
+      "id": "13406",
+      "url": "https://genshin-impact.fandom.com/wiki/Lithic_Spear",
+      "official": null
+    },
+    {
+      "title": "Lithic Blade",
+      "pageId": 1515,
+      "revisionId": 2137795,
+      "revisionAt": "2026-08-01T15:19:19Z",
+      "date": "2021-02-23",
+      "id": "12410",
+      "url": "https://genshin-impact.fandom.com/wiki/Lithic_Blade",
+      "official": null
+    },
+    {
+      "title": "Halberd",
+      "pageId": 1545,
+      "revisionId": 2064346,
+      "revisionAt": "2026-03-10T21:27:29Z",
+      "date": "2020-09-28",
+      "id": "13302",
+      "url": "https://genshin-impact.fandom.com/wiki/Halberd",
+      "official": null
+    },
+    {
+      "title": "Frostbearer",
+      "pageId": 19419,
+      "revisionId": 2052615,
+      "revisionAt": "2026-02-19T09:37:26Z",
+      "date": "2020-12-23",
+      "id": "14412",
+      "url": "https://genshin-impact.fandom.com/wiki/Frostbearer",
+      "official": null
+    },
+    {
+      "title": "Freedom-Sworn",
+      "pageId": 56669,
+      "revisionId": 2172118,
+      "revisionAt": "2026-09-10T20:12:23Z",
+      "date": "2021-06-29",
+      "id": "11503",
+      "url": "https://genshin-impact.fandom.com/wiki/Freedom-Sworn",
+      "official": null
+    },
+    {
+      "title": "Hamayumi",
+      "pageId": 64140,
+      "revisionId": 2140336,
+      "revisionAt": "2026-08-08T03:58:23Z",
+      "date": "2021-07-21",
+      "id": "15414",
+      "url": "https://genshin-impact.fandom.com/wiki/Hamayumi",
+      "official": null
+    },
+    {
+      "title": "Kitain Cross Spear",
+      "pageId": 64142,
+      "revisionId": 1863723,
+      "revisionAt": "2025-10-15T21:46:40Z",
+      "date": "2021-07-21",
+      "id": "13414",
+      "url": "https://genshin-impact.fandom.com/wiki/Kitain_Cross_Spear",
+      "official": null
+    },
+    {
+      "title": "Katsuragikiri Nagamasa",
+      "pageId": 64143,
+      "revisionId": 2086567,
+      "revisionAt": "2026-04-30T16:47:31Z",
+      "date": "2021-07-21",
+      "id": "12414",
+      "url": "https://genshin-impact.fandom.com/wiki/Katsuragikiri_Nagamasa",
+      "official": null
+    },
+    {
+      "title": "Hakushin Ring",
+      "pageId": 64144,
+      "revisionId": 1806278,
+      "revisionAt": "2025-08-26T15:29:22Z",
+      "date": "2021-07-21",
+      "id": "14414",
+      "url": "https://genshin-impact.fandom.com/wiki/Hakushin_Ring",
+      "official": null
+    },
+    {
+      "title": "Kagura's Verity",
+      "pageId": 120542,
+      "revisionId": 2183417,
+      "revisionAt": "2026-09-24T17:44:14Z",
+      "date": "2022-02-16",
+      "id": "14509",
+      "url": "https://genshin-impact.fandom.com/wiki/Kagura's_Verity",
+      "official": null
+    },
+    {
+      "title": "Haran Geppaku Futsu",
+      "pageId": 126424,
+      "revisionId": 2171690,
+      "revisionAt": "2026-09-09T23:17:49Z",
+      "date": "2022-03-30",
+      "id": "11510",
+      "url": "https://genshin-impact.fandom.com/wiki/Haran_Geppaku_Futsu",
+      "official": null
+    },
+    {
+      "title": "Kagotsurube Isshin",
+      "pageId": 144232,
+      "revisionId": 1966042,
+      "revisionAt": "2026-01-11T22:03:43Z",
+      "date": "2022-07-13",
+      "id": "11416",
+      "url": "https://genshin-impact.fandom.com/wiki/Kagotsurube_Isshin",
+      "official": null
+    },
+    {
+      "title": "Hunter's Path",
+      "pageId": 154037,
+      "revisionId": 2041747,
+      "revisionAt": "2026-01-25T02:44:23Z",
+      "date": "2022-08-24",
+      "id": "15511",
+      "url": "https://genshin-impact.fandom.com/wiki/Hunter's_Path",
+      "official": null
+    },
+    {
+      "title": "King's Squire",
+      "pageId": 154041,
+      "revisionId": 1806334,
+      "revisionAt": "2025-08-26T15:49:13Z",
+      "date": "2022-08-24",
+      "id": "15417",
+      "url": "https://genshin-impact.fandom.com/wiki/King's_Squire",
+      "official": null
+    },
+    {
+      "title": "Forest Regalia",
+      "pageId": 154045,
+      "revisionId": 2067268,
+      "revisionAt": "2026-03-19T23:09:13Z",
+      "date": "2022-08-24",
+      "id": "12417",
+      "url": "https://genshin-impact.fandom.com/wiki/Forest_Regalia",
+      "official": null
+    },
+    {
+      "title": "Fruit of Fulfillment",
+      "pageId": 154046,
+      "revisionId": 2067361,
+      "revisionAt": "2026-03-20T16:25:37Z",
+      "date": "2022-08-24",
+      "id": "14417",
+      "url": "https://genshin-impact.fandom.com/wiki/Fruit_of_Fulfillment",
+      "official": null
+    },
+    {
+      "title": "Key of Khaj-Nisut",
+      "pageId": 167225,
+      "revisionId": 2171821,
+      "revisionAt": "2026-09-10T00:59:53Z",
+      "date": "2022-10-14",
+      "id": "11511",
+      "url": "https://genshin-impact.fandom.com/wiki/Key_of_Khaj-Nisut",
+      "official": null
+    },
+    {
+      "title": "Light of Foliar Incision",
+      "pageId": 198604,
+      "revisionId": 2171826,
+      "revisionAt": "2026-09-10T01:12:28Z",
+      "date": "2023-01-18",
+      "id": "11512",
+      "url": "https://genshin-impact.fandom.com/wiki/Light_of_Foliar_Incision",
+      "official": null
+    },
+    {
+      "title": "Jadefall's Splendor",
+      "pageId": 219003,
+      "revisionId": 2162993,
+      "revisionAt": "2026-08-24T03:16:02Z",
+      "date": "2023-05-02",
+      "id": "14505",
+      "url": "https://genshin-impact.fandom.com/wiki/Jadefall's_Splendor",
+      "official": null
+    },
+    {
+      "title": "Ibis Piercer",
+      "pageId": 228417,
+      "revisionId": 2170058,
+      "revisionAt": "2026-09-08T20:14:31Z",
+      "date": "2023-05-25",
+      "id": "15419",
+      "url": "https://genshin-impact.fandom.com/wiki/Ibis_Piercer",
+      "official": null
+    },
+    {
+      "title": "Flowing Purity",
+      "pageId": 241373,
+      "revisionId": 2050422,
+      "revisionAt": "2026-02-13T08:31:06Z",
+      "date": "2023-08-16",
+      "id": "14425",
+      "url": "https://genshin-impact.fandom.com/wiki/Flowing_Purity",
+      "official": null
+    },
+    {
+      "title": "Lumidouce Elegy",
+      "pageId": 316123,
+      "revisionId": 2135440,
+      "revisionAt": "2026-07-24T19:05:54Z",
+      "date": "2024-08-06",
+      "id": "13513",
+      "url": "https://genshin-impact.fandom.com/wiki/Lumidouce_Elegy",
+      "official": null
+    },
+    {
+      "title": "Flute of Ezpitzal",
+      "pageId": 322497,
+      "revisionId": 2172116,
+      "revisionAt": "2026-09-10T20:06:58Z",
+      "date": "2024-08-28",
+      "id": "11431",
+      "url": "https://genshin-impact.fandom.com/wiki/Flute_of_Ezpitzal",
+      "official": null
+    },
+    {
+      "title": "Footprint of the Rainbow",
+      "pageId": 322500,
+      "revisionId": 2064353,
+      "revisionAt": "2026-03-10T21:51:58Z",
+      "date": "2024-08-28",
+      "id": "13431",
+      "url": "https://genshin-impact.fandom.com/wiki/Footprint_of_the_Rainbow",
+      "official": null
+    },
+    {
+      "title": "Fruitful Hook",
+      "pageId": 335056,
+      "revisionId": 2042150,
+      "revisionAt": "2026-01-25T22:40:08Z",
+      "date": "2024-10-29",
+      "id": "12430",
+      "url": "https://genshin-impact.fandom.com/wiki/Fruitful_Hook",
+      "official": null
+    },
+    {
+      "title": "Fractured Halo",
+      "pageId": 383752,
+      "revisionId": 2167148,
+      "revisionAt": "2026-08-31T20:50:47Z",
+      "date": "2025-07-30",
+      "id": "13515",
+      "url": "https://genshin-impact.fandom.com/wiki/Fractured_Halo",
+      "official": null
+    },
+    {
+      "title": "Lightbearing Moonshard",
+      "pageId": 429503,
+      "revisionId": 2173890,
+      "revisionAt": "2026-09-12T19:47:13Z",
+      "date": "2026-02-03",
+      "id": "11519",
+      "url": "https://genshin-impact.fandom.com/wiki/Lightbearing_Moonshard",
+      "official": null
+    },
+    {
+      "title": "Gest of the Mighty Wolf",
+      "pageId": 442548,
+      "revisionId": 2114550,
+      "revisionAt": "2026-06-23T23:12:06Z",
+      "date": "2026-02-25",
+      "id": "192515",
+      "url": "https://genshin-impact.fandom.com/wiki/Gest_of_the_Mighty_Wolf",
+      "official": null
+    },
+    {
+      "title": "Golden Frostbound Oath",
+      "pageId": 450554,
+      "revisionId": 2176756,
+      "revisionAt": "2026-09-17T22:18:02Z",
+      "date": "2026-04-08",
+      "id": "15516",
+      "url": "https://genshin-impact.fandom.com/wiki/Golden_Frostbound_Oath",
+      "official": null
+    },
+    {
+      "title": "Heretic's Molten Blade",
+      "pageId": 477225,
+      "revisionId": 2171231,
+      "revisionAt": "2026-09-09T15:12:46Z",
+      "date": "2026-08-12",
+      "id": "11435",
+      "url": "https://genshin-impact.fandom.com/wiki/Heretic's_Molten_Blade",
+      "official": null
+    },
+    {
+      "title": "Jade Vista",
+      "pageId": 477226,
+      "revisionId": 2171311,
+      "revisionAt": "2026-09-09T18:10:15Z",
+      "date": "2026-08-12",
+      "id": "15435",
+      "url": "https://genshin-impact.fandom.com/wiki/Jade_Vista",
+      "official": null
+    },
+    {
+      "title": "Forged by the Golden Melody",
+      "pageId": 477227,
+      "revisionId": 2172103,
+      "revisionAt": "2026-09-10T19:45:42Z",
+      "date": "2026-08-12",
+      "id": "12435",
+      "url": "https://genshin-impact.fandom.com/wiki/Forged_by_the_Golden_Melody",
+      "official": null
+    },
+    {
+      "title": "Frostbreath",
+      "pageId": 477229,
+      "revisionId": 2172466,
+      "revisionAt": "2026-09-11T14:40:46Z",
+      "date": "2026-08-12",
+      "id": "13435",
+      "url": "https://genshin-impact.fandom.com/wiki/Frostbreath",
+      "official": null
+    },
+    {
+      "title": "Hymn of the Maelstrom",
+      "pageId": 490860,
+      "revisionId": 2189592,
+      "revisionAt": "2026-10-01T23:18:39Z",
+      "date": "2026-09-23",
+      "id": "14524",
+      "url": "https://genshin-impact.fandom.com/wiki/Hymn_of_the_Maelstrom",
+      "official": null
+    },
+    {
+      "title": "Mappa Mare",
+      "pageId": 657,
+      "revisionId": 2064952,
+      "revisionAt": "2026-03-12T16:32:47Z",
+      "date": "2020-09-28",
+      "id": "14407",
+      "url": "https://genshin-impact.fandom.com/wiki/Mappa_Mare",
+      "official": null
+    },
+    {
+      "title": "Prototype Amber",
+      "pageId": 659,
+      "revisionId": 1806371,
+      "revisionAt": "2025-08-26T16:16:03Z",
+      "date": "2020-09-28",
+      "id": "14406",
+      "url": "https://genshin-impact.fandom.com/wiki/Prototype_Amber",
+      "official": null
+    },
+    {
+      "title": "Magic Guide",
+      "pageId": 673,
+      "revisionId": 1806106,
+      "revisionAt": "2025-08-26T14:49:36Z",
+      "date": "2020-09-28",
+      "id": "14301",
+      "url": "https://genshin-impact.fandom.com/wiki/Magic_Guide",
+      "official": null
+    },
+    {
+      "title": "Pocket Grimoire",
+      "pageId": 678,
+      "revisionId": 1806113,
+      "revisionAt": "2025-08-26T14:50:25Z",
+      "date": "2020-09-28",
+      "id": "14201",
+      "url": "https://genshin-impact.fandom.com/wiki/Pocket_Grimoire",
+      "official": null
+    },
+    {
+      "title": "Old Merc's Pal",
+      "pageId": 733,
+      "revisionId": 1774822,
+      "revisionAt": "2025-07-04T00:18:49Z",
+      "date": "2020-09-28",
+      "id": "12201",
+      "url": "https://genshin-impact.fandom.com/wiki/Old_Merc's_Pal",
+      "official": null
+    },
+    {
+      "title": "Prototype Archaic",
+      "pageId": 746,
+      "revisionId": 2064389,
+      "revisionAt": "2026-03-11T00:24:07Z",
+      "date": "2020-09-28",
+      "id": "12406",
+      "url": "https://genshin-impact.fandom.com/wiki/Prototype_Archaic",
+      "official": null
+    },
+    {
+      "title": "Rainslasher",
+      "pageId": 749,
+      "revisionId": 2171857,
+      "revisionAt": "2026-09-10T01:54:42Z",
+      "date": "2020-09-28",
+      "id": "12405",
+      "url": "https://genshin-impact.fandom.com/wiki/Rainslasher",
+      "official": null
+    },
+    {
+      "title": "Prototype Starglitter",
+      "pageId": 770,
+      "revisionId": 1806369,
+      "revisionAt": "2025-08-26T16:15:24Z",
+      "date": "2020-09-28",
+      "id": "13402",
+      "url": "https://genshin-impact.fandom.com/wiki/Prototype_Starglitter",
+      "official": null
+    },
+    {
+      "title": "Primordial Jade Winged-Spear",
+      "pageId": 774,
+      "revisionId": 2130109,
+      "revisionAt": "2026-07-15T22:06:32Z",
+      "date": "2020-09-28",
+      "id": "13505",
+      "url": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear",
+      "official": null
+    },
+    {
+      "title": "Prototype Crescent",
+      "pageId": 775,
+      "revisionId": 2064393,
+      "revisionAt": "2026-03-11T00:38:46Z",
+      "date": "2020-09-28",
+      "id": "15406",
+      "url": "https://genshin-impact.fandom.com/wiki/Prototype_Crescent",
+      "official": null
+    },
+    {
+      "title": "Prototype Rancour",
+      "pageId": 793,
+      "revisionId": 2090327,
+      "revisionAt": "2026-05-12T05:02:28Z",
+      "date": "2020-09-28",
+      "id": "11406",
+      "url": "https://genshin-impact.fandom.com/wiki/Prototype_Rancour",
+      "official": null
+    },
+    {
+      "title": "Messenger",
+      "pageId": 1311,
+      "revisionId": 1806390,
+      "revisionAt": "2025-08-26T16:31:57Z",
+      "date": "2020-09-28",
+      "id": "15305",
+      "url": "https://genshin-impact.fandom.com/wiki/Messenger",
+      "official": null
+    },
+    {
+      "title": "Otherworldly Story",
+      "pageId": 1543,
+      "revisionId": 2127592,
+      "revisionAt": "2026-07-10T16:53:25Z",
+      "date": "2020-09-28",
+      "id": "14303",
+      "url": "https://genshin-impact.fandom.com/wiki/Otherworldly_Story",
+      "official": null
+    },
+    {
+      "title": "Memory of Dust",
+      "pageId": 16091,
+      "revisionId": 1806387,
+      "revisionAt": "2025-08-26T16:30:28Z",
+      "date": "2020-11-11",
+      "id": "14504",
+      "url": "https://genshin-impact.fandom.com/wiki/Memory_of_Dust",
+      "official": null
+    },
+    {
+      "title": "Primordial Jade Cutter",
+      "pageId": 23787,
+      "revisionId": 2172161,
+      "revisionAt": "2026-09-10T21:31:56Z",
+      "date": "2021-02-03",
+      "id": "11505",
+      "url": "https://genshin-impact.fandom.com/wiki/Primordial_Jade_Cutter",
+      "official": null
+    },
+    {
+      "title": "Mitternachts Waltz",
+      "pageId": 56672,
+      "revisionId": 2163556,
+      "revisionAt": "2026-08-24T22:46:33Z",
+      "date": "2021-06-09",
+      "id": "15412",
+      "url": "https://genshin-impact.fandom.com/wiki/Mitternachts_Waltz",
+      "official": null
+    },
+    {
+      "title": "Mistsplitter Reforged",
+      "pageId": 64146,
+      "revisionId": 2171863,
+      "revisionAt": "2026-09-10T02:04:48Z",
+      "date": "2021-07-21",
+      "id": "11509",
+      "url": "https://genshin-impact.fandom.com/wiki/Mistsplitter_Reforged",
+      "official": null
+    },
+    {
+      "title": "Predator",
+      "pageId": 67699,
+      "revisionId": 2169431,
+      "revisionAt": "2026-09-07T02:25:35Z",
+      "date": "2021-09-01",
+      "id": "15415",
+      "url": "https://genshin-impact.fandom.com/wiki/Predator",
+      "official": null
+    },
+    {
+      "title": "Luxurious Sea-Lord",
+      "pageId": 80357,
+      "revisionId": 2053981,
+      "revisionAt": "2026-02-24T05:16:55Z",
+      "date": "2021-09-27",
+      "id": "12412",
+      "url": "https://genshin-impact.fandom.com/wiki/Luxurious_Sea-Lord",
+      "official": null
+    },
+    {
+      "title": "Polar Star",
+      "pageId": 95708,
+      "revisionId": 2182509,
+      "revisionAt": "2026-09-24T02:17:52Z",
+      "date": "2021-10-13",
+      "id": "15507",
+      "url": "https://genshin-impact.fandom.com/wiki/Polar_Star",
+      "official": null
+    },
+    {
+      "title": "Mouun's Moon",
+      "pageId": 95713,
+      "revisionId": 1965909,
+      "revisionAt": "2026-01-11T21:56:51Z",
+      "date": "2021-11-02",
+      "id": "15416",
+      "url": "https://genshin-impact.fandom.com/wiki/Mouun's_Moon",
+      "official": null
+    },
+    {
+      "title": "Oathsworn Eye",
+      "pageId": 120551,
+      "revisionId": 2067271,
+      "revisionAt": "2026-03-19T23:35:51Z",
+      "date": "2022-02-16",
+      "id": "14415",
+      "url": "https://genshin-impact.fandom.com/wiki/Oathsworn_Eye",
+      "official": null
+    },
+    {
+      "title": "Moonpiercer",
+      "pageId": 154043,
+      "revisionId": 2040230,
+      "revisionAt": "2026-01-22T06:33:08Z",
+      "date": "2022-08-24",
+      "id": "13417",
+      "url": "https://genshin-impact.fandom.com/wiki/Moonpiercer",
+      "official": null
+    },
+    {
+      "title": "Missive Windspear",
+      "pageId": 167235,
+      "revisionId": 2114712,
+      "revisionAt": "2026-06-24T14:58:59Z",
+      "date": "2022-09-29",
+      "id": "13419",
+      "url": "https://genshin-impact.fandom.com/wiki/Missive_Windspear",
+      "official": null
+    },
+    {
+      "title": "Makhaira Aquamarine",
+      "pageId": 167248,
+      "revisionId": 2174429,
+      "revisionAt": "2026-09-13T14:23:27Z",
+      "date": "2022-09-28",
+      "id": "12415",
+      "url": "https://genshin-impact.fandom.com/wiki/Makhaira_Aquamarine",
+      "official": null
+    },
+    {
+      "title": "Mailed Flower",
+      "pageId": 209268,
+      "revisionId": 2114713,
+      "revisionAt": "2026-06-24T14:59:02Z",
+      "date": "2023-03-03",
+      "id": "12418",
+      "url": "https://genshin-impact.fandom.com/wiki/Mailed_Flower",
+      "official": null
+    },
+    {
+      "title": "Prized Isshin Blade",
+      "pageId": 235534,
+      "revisionId": 1238830,
+      "revisionAt": "2023-06-21T11:17:08Z",
+      "date": null,
+      "id": null,
+      "url": "https://genshin-impact.fandom.com/wiki/Prized_Isshin_Blade",
+      "official": null
+    },
+    {
+      "title": "Portable Power Saw",
+      "pageId": 254107,
+      "revisionId": 2064616,
+      "revisionAt": "2026-03-11T12:20:59Z",
+      "date": "2023-09-27",
+      "id": "12427",
+      "url": "https://genshin-impact.fandom.com/wiki/Portable_Power_Saw",
+      "official": null
+    },
+    {
+      "title": "Prospector's Drill",
+      "pageId": 254108,
+      "revisionId": 2064618,
+      "revisionAt": "2026-03-11T12:27:39Z",
+      "date": "2023-10-17",
+      "id": "13427",
+      "url": "https://genshin-impact.fandom.com/wiki/Prospector's_Drill",
+      "official": null
+    },
+    {
+      "title": "Peak Patrol Song",
+      "pageId": 335053,
+      "revisionId": 2172111,
+      "revisionAt": "2026-09-10T19:56:18Z",
+      "date": "2024-10-09",
+      "id": "11516",
+      "url": "https://genshin-impact.fandom.com/wiki/Peak_Patrol_Song",
+      "official": null
+    },
+    {
+      "title": "Mountain-Bracing Bolt",
+      "pageId": 335055,
+      "revisionId": 2064352,
+      "revisionAt": "2026-03-10T21:45:22Z",
+      "date": "2024-10-09",
+      "id": "13430",
+      "url": "https://genshin-impact.fandom.com/wiki/Mountain-Bracing_Bolt",
+      "official": null
+    },
+    {
+      "title": "Master Key",
+      "pageId": 395261,
+      "revisionId": 2064614,
+      "revisionAt": "2026-03-11T11:57:46Z",
+      "date": "2025-09-10",
+      "id": "12433",
+      "url": "https://genshin-impact.fandom.com/wiki/Master_Key",
+      "official": null
+    },
+    {
+      "title": "Nightweaver's Looking Glass",
+      "pageId": 395284,
+      "revisionId": 2127898,
+      "revisionAt": "2026-07-11T11:13:10Z",
+      "date": "2025-09-10",
+      "id": "14520",
+      "url": "https://genshin-impact.fandom.com/wiki/Nightweaver's_Looking_Glass",
+      "official": null
+    },
+    {
+      "title": "Prospector's Shovel",
+      "pageId": 395286,
+      "revisionId": 2169411,
+      "revisionAt": "2026-09-07T02:01:55Z",
+      "date": "2025-09-10",
+      "id": "13433",
+      "url": "https://genshin-impact.fandom.com/wiki/Prospector's_Shovel",
+      "official": null
+    },
+    {
+      "title": "Moonweaver's Dawn",
+      "pageId": 397103,
+      "revisionId": 2143150,
+      "revisionAt": "2026-08-12T13:03:23Z",
+      "date": "2025-09-10",
+      "id": "11434",
+      "url": "https://genshin-impact.fandom.com/wiki/Moonweaver's_Dawn",
+      "official": null
+    },
+    {
+      "title": "Rainbow Serpent's Rain Bow",
+      "pageId": 420146,
+      "revisionId": 2163542,
+      "revisionAt": "2026-08-24T21:38:49Z",
+      "date": "2025-12-19",
+      "id": "15434",
+      "url": "https://genshin-impact.fandom.com/wiki/Rainbow_Serpent's_Rain_Bow",
+      "official": null
+    },
+    {
+      "title": "Nocturne's Curtain Call",
+      "pageId": 429504,
+      "revisionId": 2172141,
+      "revisionAt": "2026-09-10T20:53:33Z",
+      "date": "2026-01-14",
+      "id": "14522",
+      "url": "https://genshin-impact.fandom.com/wiki/Nocturne's_Curtain_Call",
+      "official": null
+    },
+    {
+      "title": "New Bough",
+      "pageId": 490861,
+      "revisionId": 2189507,
+      "revisionAt": "2026-10-01T21:34:30Z",
+      "date": "2026-09-23",
+      "id": "11437",
+      "url": "https://genshin-impact.fandom.com/wiki/New_Bough",
+      "official": null
+    },
+    {
+      "title": "Royal Bow",
+      "pageId": 617,
+      "revisionId": 2140349,
+      "revisionAt": "2026-08-08T04:28:12Z",
+      "date": "2020-09-28",
+      "id": "15404",
+      "url": "https://genshin-impact.fandom.com/wiki/Royal_Bow",
+      "official": null
+    },
+    {
+      "title": "Rust",
+      "pageId": 619,
+      "revisionId": 2092048,
+      "revisionAt": "2026-05-16T21:07:50Z",
+      "date": "2020-09-28",
+      "id": "15405",
+      "url": "https://genshin-impact.fandom.com/wiki/Rust",
+      "official": null
+    },
+    {
+      "title": "Raven Bow",
+      "pageId": 625,
+      "revisionId": 1806345,
+      "revisionAt": "2025-08-26T15:57:53Z",
+      "date": "2020-09-28",
+      "id": "15301",
+      "url": "https://genshin-impact.fandom.com/wiki/Raven_Bow",
+      "official": null
+    },
+    {
+      "title": "Sharpshooter's Oath",
+      "pageId": 627,
+      "revisionId": 1863777,
+      "revisionAt": "2025-10-15T23:22:14Z",
+      "date": "2020-09-28",
+      "id": "15302",
+      "url": "https://genshin-impact.fandom.com/wiki/Sharpshooter's_Oath",
+      "official": null
+    },
+    {
+      "title": "Slingshot",
+      "pageId": 629,
+      "revisionId": 1806374,
+      "revisionAt": "2025-08-26T16:19:06Z",
+      "date": "2020-09-28",
+      "id": "15304",
+      "url": "https://genshin-impact.fandom.com/wiki/Slingshot",
+      "official": null
+    },
+    {
+      "title": "Seasoned Hunter's Bow",
+      "pageId": 631,
+      "revisionId": 1676970,
+      "revisionAt": "2024-12-12T07:14:26Z",
+      "date": "2020-09-28",
+      "id": "15201",
+      "url": "https://genshin-impact.fandom.com/wiki/Seasoned_Hunter's_Bow",
+      "official": null
+    },
+    {
+      "title": "Sacrificial Bow",
+      "pageId": 640,
+      "revisionId": 1806342,
+      "revisionAt": "2025-08-26T15:54:08Z",
+      "date": "2020-09-28",
+      "id": "15403",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Bow",
+      "official": null
+    },
+    {
+      "title": "Skyward Harp",
+      "pageId": 642,
+      "revisionId": 1806244,
+      "revisionAt": "2025-08-26T15:23:28Z",
+      "date": "2020-09-28",
+      "id": "15501",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyward_Harp",
+      "official": null
+    },
+    {
+      "title": "Skyward Atlas",
+      "pageId": 651,
+      "revisionId": 1965485,
+      "revisionAt": "2026-01-11T21:31:39Z",
+      "date": "2020-09-28",
+      "id": "14501",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyward_Atlas",
+      "official": null
+    },
+    {
+      "title": "Royal Grimoire",
+      "pageId": 661,
+      "revisionId": 2140355,
+      "revisionAt": "2026-08-08T04:40:13Z",
+      "date": "2020-09-28",
+      "id": "14404",
+      "url": "https://genshin-impact.fandom.com/wiki/Royal_Grimoire",
+      "official": null
+    },
+    {
+      "title": "Sacrificial Fragments",
+      "pageId": 663,
+      "revisionId": 1806343,
+      "revisionAt": "2025-08-26T15:55:10Z",
+      "date": "2020-09-28",
+      "id": "14403",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Fragments",
+      "official": null
+    },
+    {
+      "title": "Solar Pearl",
+      "pageId": 665,
+      "revisionId": 2067374,
+      "revisionAt": "2026-03-20T17:24:51Z",
+      "date": "2020-09-28",
+      "id": "14405",
+      "url": "https://genshin-impact.fandom.com/wiki/Solar_Pearl",
+      "official": null
+    },
+    {
+      "title": "Skyrider Greatsword",
+      "pageId": 742,
+      "revisionId": 2168053,
+      "revisionAt": "2026-09-02T17:52:56Z",
+      "date": "2020-09-28",
+      "id": "12306",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyrider_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Royal Greatsword",
+      "pageId": 751,
+      "revisionId": 2140350,
+      "revisionAt": "2026-08-08T04:29:29Z",
+      "date": "2020-09-28",
+      "id": "12404",
+      "url": "https://genshin-impact.fandom.com/wiki/Royal_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Skyward Pride",
+      "pageId": 757,
+      "revisionId": 2130112,
+      "revisionAt": "2026-07-15T22:10:55Z",
+      "date": "2020-09-28",
+      "id": "12501",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyward_Pride",
+      "official": null
+    },
+    {
+      "title": "Silver Sword",
+      "pageId": 779,
+      "revisionId": 1863748,
+      "revisionAt": "2025-10-15T22:53:24Z",
+      "date": "2020-09-28",
+      "id": "11201",
+      "url": "https://genshin-impact.fandom.com/wiki/Silver_Sword",
+      "official": null
+    },
+    {
+      "title": "Royal Longsword",
+      "pageId": 795,
+      "revisionId": 2140353,
+      "revisionAt": "2026-08-08T04:38:55Z",
+      "date": "2020-09-28",
+      "id": "11404",
+      "url": "https://genshin-impact.fandom.com/wiki/Royal_Longsword",
+      "official": null
+    },
+    {
+      "title": "Sacrificial Sword",
+      "pageId": 797,
+      "revisionId": 1692129,
+      "revisionAt": "2024-12-30T10:22:49Z",
+      "date": "2020-09-28",
+      "id": "11403",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Sword",
+      "official": null
+    },
+    {
+      "title": "Skyward Blade",
+      "pageId": 801,
+      "revisionId": 2114106,
+      "revisionAt": "2026-06-21T04:57:34Z",
+      "date": "2020-09-28",
+      "id": "11502",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyward_Blade",
+      "official": null
+    },
+    {
+      "title": "Skyrider Sword",
+      "pageId": 1270,
+      "revisionId": 2135443,
+      "revisionAt": "2026-07-24T19:13:18Z",
+      "date": "2020-09-28",
+      "id": "11306",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyrider_Sword",
+      "official": null
+    },
+    {
+      "title": "Recurve Bow",
+      "pageId": 1353,
+      "revisionId": 1806178,
+      "revisionAt": "2025-08-26T15:05:24Z",
+      "date": "2020-09-28",
+      "id": "15303",
+      "url": "https://genshin-impact.fandom.com/wiki/Recurve_Bow",
+      "official": null
+    },
+    {
+      "title": "Serpent Spine",
+      "pageId": 1441,
+      "revisionId": 1806413,
+      "revisionAt": "2025-08-26T17:12:39Z",
+      "date": "2020-09-28",
+      "id": "12409",
+      "url": "https://genshin-impact.fandom.com/wiki/Serpent_Spine",
+      "official": null
+    },
+    {
+      "title": "Sacrificial Greatsword",
+      "pageId": 3969,
+      "revisionId": 1806344,
+      "revisionAt": "2025-08-26T15:56:08Z",
+      "date": "2020-09-28",
+      "id": "12403",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Skyward Spine",
+      "pageId": 6347,
+      "revisionId": 2064946,
+      "revisionAt": "2026-03-12T16:18:48Z",
+      "date": "2020-09-28",
+      "id": "13502",
+      "url": "https://genshin-impact.fandom.com/wiki/Skyward_Spine",
+      "official": null
+    },
+    {
+      "title": "Royal Spear",
+      "pageId": 17857,
+      "revisionId": 2140351,
+      "revisionAt": "2026-08-08T04:34:18Z",
+      "date": "2020-12-01",
+      "id": "13408",
+      "url": "https://genshin-impact.fandom.com/wiki/Royal_Spear",
+      "official": null
+    },
+    {
+      "title": "Snow-Tombed Starsilver",
+      "pageId": 19472,
+      "revisionId": 2174424,
+      "revisionAt": "2026-09-13T14:16:55Z",
+      "date": "2020-12-23",
+      "id": "12411",
+      "url": "https://genshin-impact.fandom.com/wiki/Snow-Tombed_Starsilver",
+      "official": null
+    },
+    {
+      "title": "Redhorn Stonethresher",
+      "pageId": 103638,
+      "revisionId": 2089053,
+      "revisionAt": "2026-05-09T20:37:50Z",
+      "date": "2021-12-14",
+      "id": "12510",
+      "url": "https://genshin-impact.fandom.com/wiki/Redhorn_Stonethresher",
+      "official": null
+    },
+    {
+      "title": "Sapwood Blade",
+      "pageId": 154042,
+      "revisionId": 1879445,
+      "revisionAt": "2025-10-31T15:46:29Z",
+      "date": "2022-08-24",
+      "id": "11417",
+      "url": "https://genshin-impact.fandom.com/wiki/Sapwood_Blade",
+      "official": null
+    },
+    {
+      "title": "Scion of the Blazing Sun",
+      "pageId": 241367,
+      "revisionId": 1806402,
+      "revisionAt": "2025-08-26T17:04:12Z",
+      "date": "2023-08-16",
+      "id": "15424",
+      "url": "https://genshin-impact.fandom.com/wiki/Scion_of_the_Blazing_Sun",
+      "official": null
+    },
+    {
+      "title": "Sacrificial Jade",
+      "pageId": 241368,
+      "revisionId": 2141571,
+      "revisionAt": "2026-08-10T08:11:51Z",
+      "date": "2023-08-16",
+      "id": "14424",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificial_Jade",
+      "official": null
+    },
+    {
+      "title": "Rightful Reward",
+      "pageId": 241374,
+      "revisionId": 2064355,
+      "revisionAt": "2026-03-10T22:00:57Z",
+      "date": "2023-08-16",
+      "id": "13425",
+      "url": "https://genshin-impact.fandom.com/wiki/Rightful_Reward",
+      "official": null
+    },
+    {
+      "title": "Range Gauge",
+      "pageId": 254109,
+      "revisionId": 2064625,
+      "revisionAt": "2026-03-11T12:38:02Z",
+      "date": "2023-10-17",
+      "id": "15427",
+      "url": "https://genshin-impact.fandom.com/wiki/Range_Gauge",
+      "official": null
+    },
+    {
+      "title": "Silvershower Heartstrings",
+      "pageId": 308293,
+      "revisionId": 2188171,
+      "revisionAt": "2026-09-30T10:59:21Z",
+      "date": "2024-06-25",
+      "id": "15513",
+      "url": "https://genshin-impact.fandom.com/wiki/Silvershower_Heartstrings",
+      "official": null
+    },
+    {
+      "title": "Ring of Yaxche",
+      "pageId": 322501,
+      "revisionId": 2050423,
+      "revisionAt": "2026-02-13T08:36:53Z",
+      "date": "2024-08-28",
+      "id": "14431",
+      "url": "https://genshin-impact.fandom.com/wiki/Ring_of_Yaxche",
+      "official": null
+    },
+    {
+      "title": "Sequence of Solitude",
+      "pageId": 370995,
+      "revisionId": 2163543,
+      "revisionAt": "2026-08-24T21:39:37Z",
+      "date": "2025-05-09",
+      "id": "15432",
+      "url": "https://genshin-impact.fandom.com/wiki/Sequence_of_Solitude",
+      "official": null
+    },
+    {
+      "title": "Serenity's Call",
+      "pageId": 395259,
+      "revisionId": 2163544,
+      "revisionAt": "2026-08-24T21:40:26Z",
+      "date": "2025-09-10",
+      "id": "11433",
+      "url": "https://genshin-impact.fandom.com/wiki/Serenity's_Call",
+      "official": null
+    },
+    {
+      "title": "Snare Hook",
+      "pageId": 395288,
+      "revisionId": 2085754,
+      "revisionAt": "2026-04-29T19:44:45Z",
+      "date": "2025-09-10",
+      "id": "15433",
+      "url": "https://genshin-impact.fandom.com/wiki/Snare_Hook",
+      "official": null
+    },
+    {
+      "title": "Reliquary of Truth",
+      "pageId": 408382,
+      "revisionId": 2089073,
+      "revisionAt": "2026-05-09T20:37:53Z",
+      "date": "2025-10-22",
+      "id": "14521",
+      "url": "https://genshin-impact.fandom.com/wiki/Reliquary_of_Truth",
+      "official": null
+    },
+    {
+      "title": "Sacrificer's Staff",
+      "pageId": 408384,
+      "revisionId": 2113736,
+      "revisionAt": "2026-06-19T05:21:38Z",
+      "date": "2025-10-22",
+      "id": "13434",
+      "url": "https://genshin-impact.fandom.com/wiki/Sacrificer's_Staff",
+      "official": null
+    },
+    {
+      "title": "Silver Light",
+      "pageId": 490856,
+      "revisionId": 2189565,
+      "revisionAt": "2026-10-01T22:48:57Z",
+      "date": "2026-09-24",
+      "id": "11438",
+      "url": "https://genshin-impact.fandom.com/wiki/Silver_Light",
+      "official": null
+    },
+    {
+      "title": "The Stringless",
+      "pageId": 621,
+      "revisionId": 1806321,
+      "revisionAt": "2025-08-26T15:44:36Z",
+      "date": "2020-09-28",
+      "id": "15402",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Stringless",
+      "official": null
+    },
+    {
+      "title": "The Widsith",
+      "pageId": 667,
+      "revisionId": 2062261,
+      "revisionAt": "2026-03-08T05:13:33Z",
+      "date": "2020-09-28",
+      "id": "14402",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Widsith",
+      "official": null
+    },
+    {
+      "title": "Thrilling Tales of Dragon Slayers",
+      "pageId": 675,
+      "revisionId": 2064360,
+      "revisionAt": "2026-03-10T22:41:35Z",
+      "date": "2020-09-28",
+      "id": "14302",
+      "url": "https://genshin-impact.fandom.com/wiki/Thrilling_Tales_of_Dragon_Slayers",
+      "official": null
+    },
+    {
+      "title": "The Bell",
+      "pageId": 753,
+      "revisionId": 2129715,
+      "revisionAt": "2026-07-15T15:36:43Z",
+      "date": "2020-09-28",
+      "id": "12402",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Bell",
+      "official": null
+    },
+    {
+      "title": "The Flute",
+      "pageId": 799,
+      "revisionId": 2130106,
+      "revisionAt": "2026-07-15T22:01:29Z",
+      "date": "2020-09-28",
+      "id": "11402",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Flute",
+      "official": null
+    },
+    {
+      "title": "Twin Nephrite",
+      "pageId": 1355,
+      "revisionId": 1863782,
+      "revisionAt": "2025-10-15T23:26:07Z",
+      "date": "2020-09-28",
+      "id": "14305",
+      "url": "https://genshin-impact.fandom.com/wiki/Twin_Nephrite",
+      "official": null
+    },
+    {
+      "title": "Traveler's Handy Sword",
+      "pageId": 1437,
+      "revisionId": 2064334,
+      "revisionAt": "2026-03-10T20:50:47Z",
+      "date": "2020-09-28",
+      "id": "11303",
+      "url": "https://genshin-impact.fandom.com/wiki/Traveler's_Handy_Sword",
+      "official": null
+    },
+    {
+      "title": "The Black Sword",
+      "pageId": 1439,
+      "revisionId": 2055187,
+      "revisionAt": "2026-02-26T13:11:48Z",
+      "date": "2020-09-28",
+      "id": "11409",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Black_Sword",
+      "official": null
+    },
+    {
+      "title": "The Viridescent Hunt",
+      "pageId": 1443,
+      "revisionId": 2065763,
+      "revisionAt": "2026-03-14T12:48:51Z",
+      "date": "2020-09-28",
+      "id": "15409",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Viridescent_Hunt",
+      "official": null
+    },
+    {
+      "title": "The Alley Flash",
+      "pageId": 1522,
+      "revisionId": 2176948,
+      "revisionAt": "2026-09-17T23:34:51Z",
+      "date": "2021-03-17",
+      "id": "11410",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Alley_Flash",
+      "official": null
+    },
+    {
+      "title": "Sword of Descension",
+      "pageId": 3850,
+      "revisionId": 2169430,
+      "revisionAt": "2026-09-07T02:24:55Z",
+      "date": "2020-09-28",
+      "id": "11412",
+      "url": "https://genshin-impact.fandom.com/wiki/Sword_of_Descension",
+      "official": null
+    },
+    {
+      "title": "The Unforged",
+      "pageId": 17653,
+      "revisionId": 1806352,
+      "revisionAt": "2025-08-26T16:02:01Z",
+      "date": "2020-12-01",
+      "id": "12504",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Unforged",
+      "official": null
+    },
+    {
+      "title": "Summit Shaper",
+      "pageId": 19467,
+      "revisionId": 2171145,
+      "revisionAt": "2026-09-09T13:31:17Z",
+      "date": "2020-12-23",
+      "id": "11504",
+      "url": "https://genshin-impact.fandom.com/wiki/Summit_Shaper",
+      "official": null
+    },
+    {
+      "title": "Staff of Homa",
+      "pageId": 25710,
+      "revisionId": 2126681,
+      "revisionAt": "2026-07-09T04:32:43Z",
+      "date": "2021-02-23",
+      "id": "13501",
+      "url": "https://genshin-impact.fandom.com/wiki/Staff_of_Homa",
+      "official": null
+    },
+    {
+      "title": "Song of Broken Pines",
+      "pageId": 45808,
+      "revisionId": 1965760,
+      "revisionAt": "2026-01-11T21:48:19Z",
+      "date": "2021-05-18",
+      "id": "12503",
+      "url": "https://genshin-impact.fandom.com/wiki/Song_of_Broken_Pines",
+      "official": null
+    },
+    {
+      "title": "Thundering Pulse",
+      "pageId": 64147,
+      "revisionId": 2152941,
+      "revisionAt": "2026-08-17T14:00:32Z",
+      "date": "2021-08-10",
+      "id": "15509",
+      "url": "https://genshin-impact.fandom.com/wiki/Thundering_Pulse",
+      "official": null
+    },
+    {
+      "title": "\"The Catch\"",
+      "pageId": 80419,
+      "revisionId": 2065759,
+      "revisionAt": "2026-03-14T12:37:12Z",
+      "date": "2021-09-01",
+      "id": "13415",
+      "url": "https://genshin-impact.fandom.com/wiki/%22The_Catch%22",
+      "official": null
+    },
+    {
+      "title": "Staff of the Scarlet Sands",
+      "pageId": 167231,
+      "revisionId": 2114112,
+      "revisionAt": "2026-06-21T04:57:33Z",
+      "date": "2022-09-28",
+      "id": "13511",
+      "url": "https://genshin-impact.fandom.com/wiki/Staff_of_the_Scarlet_Sands",
+      "official": null
+    },
+    {
+      "title": "Tulaytullah's Remembrance",
+      "pageId": 187703,
+      "revisionId": 1966179,
+      "revisionAt": "2026-01-11T22:11:21Z",
+      "date": "2022-12-07",
+      "id": "14512",
+      "url": "https://genshin-impact.fandom.com/wiki/Tulaytullah's_Remembrance",
+      "official": null
+    },
+    {
+      "title": "Toukabou Shigure",
+      "pageId": 187778,
+      "revisionId": 2114782,
+      "revisionAt": "2026-06-24T17:58:16Z",
+      "date": "2022-12-15",
+      "id": "11422",
+      "url": "https://genshin-impact.fandom.com/wiki/Toukabou_Shigure",
+      "official": null
+    },
+    {
+      "title": "The First Great Magic",
+      "pageId": 241255,
+      "revisionId": 2135435,
+      "revisionAt": "2026-07-24T19:04:19Z",
+      "date": "2023-08-16",
+      "id": "15512",
+      "url": "https://genshin-impact.fandom.com/wiki/The_First_Great_Magic",
+      "official": null
+    },
+    {
+      "title": "Talking Stick",
+      "pageId": 241370,
+      "revisionId": 1806330,
+      "revisionAt": "2025-08-26T15:47:21Z",
+      "date": "2023-08-16",
+      "id": "12424",
+      "url": "https://genshin-impact.fandom.com/wiki/Talking_Stick",
+      "official": null
+    },
+    {
+      "title": "Song of Stillness",
+      "pageId": 241372,
+      "revisionId": 1806157,
+      "revisionAt": "2025-08-26T15:00:22Z",
+      "date": "2023-08-16",
+      "id": "15425",
+      "url": "https://genshin-impact.fandom.com/wiki/Song_of_Stillness",
+      "official": null
+    },
+    {
+      "title": "Tidal Shadow",
+      "pageId": 241376,
+      "revisionId": 2172487,
+      "revisionAt": "2026-09-11T15:39:35Z",
+      "date": "2023-08-16",
+      "id": "12425",
+      "url": "https://genshin-impact.fandom.com/wiki/Tidal_Shadow",
+      "official": null
+    },
+    {
+      "title": "Tome of the Eternal Flow",
+      "pageId": 254104,
+      "revisionId": 2170063,
+      "revisionAt": "2026-09-08T20:24:19Z",
+      "date": "2023-09-27",
+      "id": "14514",
+      "url": "https://genshin-impact.fandom.com/wiki/Tome_of_the_Eternal_Flow",
+      "official": null
+    },
+    {
+      "title": "The Dockhand's Assistant",
+      "pageId": 254106,
+      "revisionId": 1753465,
+      "revisionAt": "2025-05-09T21:34:47Z",
+      "date": "2023-09-27",
+      "id": "11427",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Dockhand's_Assistant",
+      "official": null
+    },
+    {
+      "title": "Splendor of Tranquil Waters",
+      "pageId": 265850,
+      "revisionId": 2170069,
+      "revisionAt": "2026-09-08T20:25:13Z",
+      "date": "2023-11-08",
+      "id": "11513",
+      "url": "https://genshin-impact.fandom.com/wiki/Splendor_of_Tranquil_Waters",
+      "official": null
+    },
+    {
+      "title": "Sword of Narzissenkreuz",
+      "pageId": 266650,
+      "revisionId": 2139007,
+      "revisionAt": "2026-08-04T23:39:44Z",
+      "date": "2023-11-08",
+      "id": "11428",
+      "url": "https://genshin-impact.fandom.com/wiki/Sword_of_Narzissenkreuz",
+      "official": null
+    },
+    {
+      "title": "Verdict",
+      "pageId": 274971,
+      "revisionId": 2135437,
+      "revisionAt": "2026-07-24T19:05:01Z",
+      "date": "2023-12-20",
+      "id": "12512",
+      "url": "https://genshin-impact.fandom.com/wiki/Verdict",
+      "official": null
+    },
+    {
+      "title": "\"Ultimate Overlord's Mega Magic Sword\"",
+      "pageId": 274972,
+      "revisionId": 1966442,
+      "revisionAt": "2026-01-11T22:24:34Z",
+      "date": "2023-12-21",
+      "id": "12426",
+      "url": "https://genshin-impact.fandom.com/wiki/%22Ultimate_Overlord's_Mega_Magic_Sword%22",
+      "official": null
+    },
+    {
+      "title": "Uraku Misugiri",
+      "pageId": 295586,
+      "revisionId": 2171672,
+      "revisionAt": "2026-09-09T22:59:21Z",
+      "date": "2024-03-13",
+      "id": "11514",
+      "url": "https://genshin-impact.fandom.com/wiki/Uraku_Misugiri",
+      "official": null
+    },
+    {
+      "title": "Surf's Up",
+      "pageId": 322496,
+      "revisionId": 2163545,
+      "revisionAt": "2026-08-24T21:41:32Z",
+      "date": "2024-08-28",
+      "id": "14516",
+      "url": "https://genshin-impact.fandom.com/wiki/Surf's_Up",
+      "official": null
+    },
+    {
+      "title": "Sturdy Bone",
+      "pageId": 335054,
+      "revisionId": 2053898,
+      "revisionAt": "2026-02-23T13:17:30Z",
+      "date": "2024-10-09",
+      "id": "11430",
+      "url": "https://genshin-impact.fandom.com/wiki/Sturdy_Bone",
+      "official": null
+    },
+    {
+      "title": "Starcaller's Watch",
+      "pageId": 350853,
+      "revisionId": 2172158,
+      "revisionAt": "2026-09-10T21:26:19Z",
+      "date": "2025-01-01",
+      "id": "14517",
+      "url": "https://genshin-impact.fandom.com/wiki/Starcaller's_Watch",
+      "official": null
+    },
+    {
+      "title": "Sunny Morning Sleep-In",
+      "pageId": 358938,
+      "revisionId": 2114108,
+      "revisionAt": "2026-06-21T04:57:34Z",
+      "date": "2025-02-12",
+      "id": "14518",
+      "url": "https://genshin-impact.fandom.com/wiki/Sunny_Morning_Sleep-In",
+      "official": null
+    },
+    {
+      "title": "Tamayuratei no Ohanashi",
+      "pageId": 358947,
+      "revisionId": 2163546,
+      "revisionAt": "2026-08-24T21:43:17Z",
+      "date": "2025-02-14",
+      "id": "13432",
+      "url": "https://genshin-impact.fandom.com/wiki/Tamayuratei_no_Ohanashi",
+      "official": null
+    },
+    {
+      "title": "Vivid Notions",
+      "pageId": 365304,
+      "revisionId": 2154328,
+      "revisionAt": "2026-08-18T17:23:08Z",
+      "date": "2025-03-26",
+      "id": "14519",
+      "url": "https://genshin-impact.fandom.com/wiki/Vivid_Notions",
+      "official": null
+    },
+    {
+      "title": "Symphonist of Scents",
+      "pageId": 370996,
+      "revisionId": 2089000,
+      "revisionAt": "2026-05-09T19:51:24Z",
+      "date": "2025-05-07",
+      "id": "13514",
+      "url": "https://genshin-impact.fandom.com/wiki/Symphonist_of_Scents",
+      "official": null
+    },
+    {
+      "title": "The Daybreak Chronicles",
+      "pageId": 420145,
+      "revisionId": 2189044,
+      "revisionAt": "2026-09-30T22:18:59Z",
+      "date": "2025-12-03",
+      "id": "15515",
+      "url": "https://genshin-impact.fandom.com/wiki/The_Daybreak_Chronicles",
+      "official": null
+    },
+    {
+      "title": "Song of the Vigil",
+      "pageId": 477119,
+      "revisionId": 2189503,
+      "revisionAt": "2026-10-01T21:28:12Z",
+      "date": "2026-08-12",
+      "id": "13436",
+      "url": "https://genshin-impact.fandom.com/wiki/Song_of_the_Vigil",
+      "official": null
+    },
+    {
+      "title": "Waster Greatsword",
+      "pageId": 731,
+      "revisionId": 1863764,
+      "revisionAt": "2025-10-15T23:07:30Z",
+      "date": "2020-09-28",
+      "id": "12101",
+      "url": "https://genshin-impact.fandom.com/wiki/Waster_Greatsword",
+      "official": null
+    },
+    {
+      "title": "Whiteblind",
+      "pageId": 755,
+      "revisionId": 2168595,
+      "revisionAt": "2026-09-04T06:48:33Z",
+      "date": "2020-09-28",
+      "id": "12407",
+      "url": "https://genshin-impact.fandom.com/wiki/Whiteblind",
+      "official": null
+    },
+    {
+      "title": "Wolf's Gravestone",
+      "pageId": 759,
+      "revisionId": 2130114,
+      "revisionAt": "2026-07-15T22:14:19Z",
+      "date": "2020-09-28",
+      "id": "12502",
+      "url": "https://genshin-impact.fandom.com/wiki/Wolf's_Gravestone",
+      "official": null
+    },
+    {
+      "title": "White Iron Greatsword",
+      "pageId": 1238,
+      "revisionId": 2168367,
+      "revisionAt": "2026-09-03T09:52:55Z",
+      "date": "2020-09-28",
+      "id": "12303",
+      "url": "https://genshin-impact.fandom.com/wiki/White_Iron_Greatsword",
+      "official": null
+    },
+    {
+      "title": "White Tassel",
+      "pageId": 1240,
+      "revisionId": 1784763,
+      "revisionAt": "2025-07-27T06:22:43Z",
+      "date": "2020-09-28",
+      "id": "13301",
+      "url": "https://genshin-impact.fandom.com/wiki/White_Tassel",
+      "official": null
+    },
+    {
+      "title": "Wine and Song",
+      "pageId": 1480,
+      "revisionId": 1935309,
+      "revisionAt": "2026-01-10T06:45:04Z",
+      "date": "2021-03-17",
+      "id": "14410",
+      "url": "https://genshin-impact.fandom.com/wiki/Wine_and_Song",
+      "official": null
+    },
+    {
+      "title": "Vortex Vanquisher",
+      "pageId": 17654,
+      "revisionId": 2089079,
+      "revisionAt": "2026-05-09T20:37:53Z",
+      "date": "2020-12-01",
+      "id": "13504",
+      "url": "https://genshin-impact.fandom.com/wiki/Vortex_Vanquisher",
+      "official": null
+    },
+    {
+      "title": "Windblume Ode",
+      "pageId": 33164,
+      "revisionId": 2114711,
+      "revisionAt": "2026-06-24T14:58:56Z",
+      "date": "2021-03-19",
+      "id": "15413",
+      "url": "https://genshin-impact.fandom.com/wiki/Windblume_Ode",
+      "official": null
+    },
+    {
+      "title": "Wavebreaker's Fin",
+      "pageId": 95710,
+      "revisionId": 1965907,
+      "revisionAt": "2026-01-11T21:56:41Z",
+      "date": "2021-11-02",
+      "id": "13416",
+      "url": "https://genshin-impact.fandom.com/wiki/Wavebreaker's_Fin",
+      "official": null
+    },
+    {
+      "title": "Xiphos' Moonlight",
+      "pageId": 167243,
+      "revisionId": 2065019,
+      "revisionAt": "2026-03-13T00:00:46Z",
+      "date": "2022-10-14",
+      "id": "11418",
+      "url": "https://genshin-impact.fandom.com/wiki/Xiphos'_Moonlight",
+      "official": null
+    },
+    {
+      "title": "Wandering Evenstar",
+      "pageId": 167250,
+      "revisionId": 2050426,
+      "revisionAt": "2026-02-13T08:47:55Z",
+      "date": "2022-10-14",
+      "id": "14416",
+      "url": "https://genshin-impact.fandom.com/wiki/Wandering_Evenstar",
+      "official": null
+    },
+    {
+      "title": "Wolf-Fang",
+      "pageId": 241371,
+      "revisionId": 2125354,
+      "revisionAt": "2026-07-06T22:02:39Z",
+      "date": "2023-08-16",
+      "id": "11424",
+      "url": "https://genshin-impact.fandom.com/wiki/Wolf-Fang",
+      "official": null
+    },
+    {
+      "title": "Waveriding Whirl",
+      "pageId": 344163,
+      "revisionId": 2053899,
+      "revisionAt": "2026-02-23T13:22:20Z",
+      "date": "2024-11-20",
+      "id": "14430",
+      "url": "https://genshin-impact.fandom.com/wiki/Waveriding_Whirl",
+      "official": null
+    },
+    {
+      "title": "Whitelake Frostfeather",
+      "pageId": 477224,
+      "revisionId": 2188810,
+      "revisionAt": "2026-09-30T18:59:54Z",
+      "date": "2026-08-12",
+      "id": "191520",
+      "url": "https://genshin-impact.fandom.com/wiki/Whitelake_Frostfeather",
+      "official": null
+    },
+    {
+      "title": "Winter's Heavy Heart",
+      "pageId": 490863,
+      "revisionId": 2189602,
+      "revisionAt": "2026-10-01T23:29:18Z",
+      "date": "2026-09-23",
+      "id": "14437",
+      "url": "https://genshin-impact.fandom.com/wiki/Winter's_Heavy_Heart",
+      "official": null
+    }
+  ]
+}

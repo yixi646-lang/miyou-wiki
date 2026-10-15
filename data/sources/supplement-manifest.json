@@ -1,0 +1,683 @@
+{
+  "fetchedAt": "2026-10-02T20:37:58.358Z",
+  "liveVersions": {
+    "genshin": "7.1",
+    "starrail": "4.6",
+    "zenless": "3.2"
+  },
+  "files": [
+    {
+      "path": "genshin/bwiki-release-version.json",
+      "url": "https://wiki.biligame.com/ys/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "genshin/bwiki-release-date.json",
+      "url": "https://wiki.biligame.com/ys/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "starrail/bwiki-release-version.json",
+      "url": "https://wiki.biligame.com/sr/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "starrail/bwiki-release-date.json",
+      "url": "https://wiki.biligame.com/sr/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "zenless/bwiki-release-version.json",
+      "url": "https://wiki.biligame.com/zzz/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "zenless/bwiki-release-date.json",
+      "url": "https://wiki.biligame.com/zzz/api.php?action=ask&query=%5B%5B%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%3A%3A%2B%5D%5D%7C%3F%E5%AE%9E%E8%A3%85%E6%97%A5%E6%9C%9F%7C%3F%E5%AE%9E%E8%A3%85%E7%89%88%E6%9C%AC%7Climit%3D500&format=json"
+    },
+    {
+      "path": "zenless/nanoka-equipment-index.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/equipment.json"
+    },
+    {
+      "path": "zenless/nanoka-items.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/item.json"
+    },
+    {
+      "path": "zenless/characters/1011.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1011.json"
+    },
+    {
+      "path": "zenless/characters/1021.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1021.json"
+    },
+    {
+      "path": "zenless/characters/1031.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1031.json"
+    },
+    {
+      "path": "zenless/characters/1041.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1041.json"
+    },
+    {
+      "path": "zenless/characters/1051.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1051.json"
+    },
+    {
+      "path": "zenless/characters/1061.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1061.json"
+    },
+    {
+      "path": "zenless/characters/1071.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1071.json"
+    },
+    {
+      "path": "zenless/characters/1081.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1081.json"
+    },
+    {
+      "path": "zenless/characters/1091.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1091.json"
+    },
+    {
+      "path": "zenless/characters/1101.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1101.json"
+    },
+    {
+      "path": "zenless/characters/1111.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1111.json"
+    },
+    {
+      "path": "zenless/characters/1121.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1121.json"
+    },
+    {
+      "path": "zenless/characters/1131.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1131.json"
+    },
+    {
+      "path": "zenless/characters/1141.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1141.json"
+    },
+    {
+      "path": "zenless/characters/1151.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1151.json"
+    },
+    {
+      "path": "zenless/characters/1161.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1161.json"
+    },
+    {
+      "path": "zenless/characters/1171.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1171.json"
+    },
+    {
+      "path": "zenless/characters/1181.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1181.json"
+    },
+    {
+      "path": "zenless/characters/1191.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1191.json"
+    },
+    {
+      "path": "zenless/characters/1201.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1201.json"
+    },
+    {
+      "path": "zenless/characters/1211.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1211.json"
+    },
+    {
+      "path": "zenless/characters/1221.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1221.json"
+    },
+    {
+      "path": "zenless/characters/1241.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1241.json"
+    },
+    {
+      "path": "zenless/characters/1251.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1251.json"
+    },
+    {
+      "path": "zenless/characters/1261.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1261.json"
+    },
+    {
+      "path": "zenless/characters/1271.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1271.json"
+    },
+    {
+      "path": "zenless/characters/1281.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1281.json"
+    },
+    {
+      "path": "zenless/characters/1291.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1291.json"
+    },
+    {
+      "path": "zenless/characters/1301.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1301.json"
+    },
+    {
+      "path": "zenless/characters/1311.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1311.json"
+    },
+    {
+      "path": "zenless/characters/1321.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1321.json"
+    },
+    {
+      "path": "zenless/characters/1331.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1331.json"
+    },
+    {
+      "path": "zenless/characters/1341.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1341.json"
+    },
+    {
+      "path": "zenless/characters/1351.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1351.json"
+    },
+    {
+      "path": "zenless/characters/1361.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1361.json"
+    },
+    {
+      "path": "zenless/characters/1371.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1371.json"
+    },
+    {
+      "path": "zenless/characters/1381.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1381.json"
+    },
+    {
+      "path": "zenless/characters/1391.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1391.json"
+    },
+    {
+      "path": "zenless/characters/1401.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1401.json"
+    },
+    {
+      "path": "zenless/characters/1411.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1411.json"
+    },
+    {
+      "path": "zenless/characters/1421.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1421.json"
+    },
+    {
+      "path": "zenless/characters/1431.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1431.json"
+    },
+    {
+      "path": "zenless/characters/1441.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1441.json"
+    },
+    {
+      "path": "zenless/characters/1451.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1451.json"
+    },
+    {
+      "path": "zenless/characters/1461.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1461.json"
+    },
+    {
+      "path": "zenless/characters/1471.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1471.json"
+    },
+    {
+      "path": "zenless/characters/1481.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1481.json"
+    },
+    {
+      "path": "zenless/characters/1491.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1491.json"
+    },
+    {
+      "path": "zenless/characters/1501.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1501.json"
+    },
+    {
+      "path": "zenless/characters/1511.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1511.json"
+    },
+    {
+      "path": "zenless/characters/1521.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1521.json"
+    },
+    {
+      "path": "zenless/characters/1531.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1531.json"
+    },
+    {
+      "path": "zenless/characters/1541.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1541.json"
+    },
+    {
+      "path": "zenless/characters/1551.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1551.json"
+    },
+    {
+      "path": "zenless/characters/1561.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1561.json"
+    },
+    {
+      "path": "zenless/characters/1571.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1571.json"
+    },
+    {
+      "path": "zenless/characters/1581.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1581.json"
+    },
+    {
+      "path": "zenless/characters/1591.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1591.json"
+    },
+    {
+      "path": "zenless/characters/1611.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1611.json"
+    },
+    {
+      "path": "zenless/characters/1621.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/character/1621.json"
+    },
+    {
+      "path": "zenless/weapons/12001.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12001.json"
+    },
+    {
+      "path": "zenless/weapons/12002.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12002.json"
+    },
+    {
+      "path": "zenless/weapons/12003.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12003.json"
+    },
+    {
+      "path": "zenless/weapons/12004.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12004.json"
+    },
+    {
+      "path": "zenless/weapons/12005.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12005.json"
+    },
+    {
+      "path": "zenless/weapons/12006.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12006.json"
+    },
+    {
+      "path": "zenless/weapons/12007.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12007.json"
+    },
+    {
+      "path": "zenless/weapons/12008.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12008.json"
+    },
+    {
+      "path": "zenless/weapons/12009.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12009.json"
+    },
+    {
+      "path": "zenless/weapons/12010.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12010.json"
+    },
+    {
+      "path": "zenless/weapons/12011.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12011.json"
+    },
+    {
+      "path": "zenless/weapons/12012.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12012.json"
+    },
+    {
+      "path": "zenless/weapons/12013.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12013.json"
+    },
+    {
+      "path": "zenless/weapons/12014.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12014.json"
+    },
+    {
+      "path": "zenless/weapons/12015.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12015.json"
+    },
+    {
+      "path": "zenless/weapons/12016.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/12016.json"
+    },
+    {
+      "path": "zenless/weapons/13001.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13001.json"
+    },
+    {
+      "path": "zenless/weapons/13002.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13002.json"
+    },
+    {
+      "path": "zenless/weapons/13003.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13003.json"
+    },
+    {
+      "path": "zenless/weapons/13004.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13004.json"
+    },
+    {
+      "path": "zenless/weapons/13005.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13005.json"
+    },
+    {
+      "path": "zenless/weapons/13006.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13006.json"
+    },
+    {
+      "path": "zenless/weapons/13007.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13007.json"
+    },
+    {
+      "path": "zenless/weapons/13008.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13008.json"
+    },
+    {
+      "path": "zenless/weapons/13009.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13009.json"
+    },
+    {
+      "path": "zenless/weapons/13010.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13010.json"
+    },
+    {
+      "path": "zenless/weapons/13011.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13011.json"
+    },
+    {
+      "path": "zenless/weapons/13012.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13012.json"
+    },
+    {
+      "path": "zenless/weapons/13013.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13013.json"
+    },
+    {
+      "path": "zenless/weapons/13014.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13014.json"
+    },
+    {
+      "path": "zenless/weapons/13015.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13015.json"
+    },
+    {
+      "path": "zenless/weapons/13016.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13016.json"
+    },
+    {
+      "path": "zenless/weapons/13017.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13017.json"
+    },
+    {
+      "path": "zenless/weapons/13018.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13018.json"
+    },
+    {
+      "path": "zenless/weapons/13019.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13019.json"
+    },
+    {
+      "path": "zenless/weapons/13020.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13020.json"
+    },
+    {
+      "path": "zenless/weapons/13021.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13021.json"
+    },
+    {
+      "path": "zenless/weapons/13101.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13101.json"
+    },
+    {
+      "path": "zenless/weapons/13103.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13103.json"
+    },
+    {
+      "path": "zenless/weapons/13106.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13106.json"
+    },
+    {
+      "path": "zenless/weapons/13108.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13108.json"
+    },
+    {
+      "path": "zenless/weapons/13111.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13111.json"
+    },
+    {
+      "path": "zenless/weapons/13112.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13112.json"
+    },
+    {
+      "path": "zenless/weapons/13113.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13113.json"
+    },
+    {
+      "path": "zenless/weapons/13115.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13115.json"
+    },
+    {
+      "path": "zenless/weapons/13127.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13127.json"
+    },
+    {
+      "path": "zenless/weapons/13128.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13128.json"
+    },
+    {
+      "path": "zenless/weapons/13135.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13135.json"
+    },
+    {
+      "path": "zenless/weapons/13142.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13142.json"
+    },
+    {
+      "path": "zenless/weapons/13144.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/13144.json"
+    },
+    {
+      "path": "zenless/weapons/14001.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14001.json"
+    },
+    {
+      "path": "zenless/weapons/14002.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14002.json"
+    },
+    {
+      "path": "zenless/weapons/14003.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14003.json"
+    },
+    {
+      "path": "zenless/weapons/14102.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14102.json"
+    },
+    {
+      "path": "zenless/weapons/14104.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14104.json"
+    },
+    {
+      "path": "zenless/weapons/14105.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14105.json"
+    },
+    {
+      "path": "zenless/weapons/14107.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14107.json"
+    },
+    {
+      "path": "zenless/weapons/14109.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14109.json"
+    },
+    {
+      "path": "zenless/weapons/14110.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14110.json"
+    },
+    {
+      "path": "zenless/weapons/14114.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14114.json"
+    },
+    {
+      "path": "zenless/weapons/14116.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14116.json"
+    },
+    {
+      "path": "zenless/weapons/14117.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14117.json"
+    },
+    {
+      "path": "zenless/weapons/14118.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14118.json"
+    },
+    {
+      "path": "zenless/weapons/14119.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14119.json"
+    },
+    {
+      "path": "zenless/weapons/14120.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14120.json"
+    },
+    {
+      "path": "zenless/weapons/14121.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14121.json"
+    },
+    {
+      "path": "zenless/weapons/14122.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14122.json"
+    },
+    {
+      "path": "zenless/weapons/14124.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14124.json"
+    },
+    {
+      "path": "zenless/weapons/14125.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14125.json"
+    },
+    {
+      "path": "zenless/weapons/14126.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14126.json"
+    },
+    {
+      "path": "zenless/weapons/14129.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14129.json"
+    },
+    {
+      "path": "zenless/weapons/14130.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14130.json"
+    },
+    {
+      "path": "zenless/weapons/14131.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14131.json"
+    },
+    {
+      "path": "zenless/weapons/14132.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14132.json"
+    },
+    {
+      "path": "zenless/weapons/14133.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14133.json"
+    },
+    {
+      "path": "zenless/weapons/14134.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14134.json"
+    },
+    {
+      "path": "zenless/weapons/14136.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14136.json"
+    },
+    {
+      "path": "zenless/weapons/14137.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14137.json"
+    },
+    {
+      "path": "zenless/weapons/14138.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14138.json"
+    },
+    {
+      "path": "zenless/weapons/14139.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14139.json"
+    },
+    {
+      "path": "zenless/weapons/14140.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14140.json"
+    },
+    {
+      "path": "zenless/weapons/14141.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14141.json"
+    },
+    {
+      "path": "zenless/weapons/14143.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14143.json"
+    },
+    {
+      "path": "zenless/weapons/14145.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14145.json"
+    },
+    {
+      "path": "zenless/weapons/14146.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14146.json"
+    },
+    {
+      "path": "zenless/weapons/14147.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14147.json"
+    },
+    {
+      "path": "zenless/weapons/14148.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14148.json"
+    },
+    {
+      "path": "zenless/weapons/14149.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14149.json"
+    },
+    {
+      "path": "zenless/weapons/14150.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14150.json"
+    },
+    {
+      "path": "zenless/weapons/14151.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14151.json"
+    },
+    {
+      "path": "zenless/weapons/14152.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14152.json"
+    },
+    {
+      "path": "zenless/weapons/14153.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14153.json"
+    },
+    {
+      "path": "zenless/weapons/14154.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14154.json"
+    },
+    {
+      "path": "zenless/weapons/14155.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14155.json"
+    },
+    {
+      "path": "zenless/weapons/14156.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14156.json"
+    },
+    {
+      "path": "zenless/weapons/14157.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14157.json"
+    },
+    {
+      "path": "zenless/weapons/14158.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14158.json"
+    },
+    {
+      "path": "zenless/weapons/14159.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14159.json"
+    },
+    {
+      "path": "zenless/weapons/14161.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14161.json"
+    },
+    {
+      "path": "zenless/weapons/14162.json",
+      "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14162.json"
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,10 @@
+{
+  "omen": "Opponent is affected by Omen",
+  "hitOp": {
+    "affectedByOmen": "After hitting an opponent affected by Omen"
+  },
+  "frozenDuration": "<shattered>Frozen</shattered> Duration",
+  "uponSprint": "After using Illusory Torrent",
+  "lockStacksCond": "Stacks of <strong>Astral Glow of Mercury</strong>",
+  "ca_mult_": "Charged Attack DMG Multiplier"
+}

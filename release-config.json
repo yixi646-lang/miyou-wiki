@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "outputDirectory": "各种包体",
+  "directories": [
+    "assets",
+    "public",
+    "lib",
+    "shared",
+    "modules",
+    "data/growth",
+    "data/material-acquisition",
+    "data/sources",
+    "data/versions",
+    "原神库存扫描器/中文界面预览"
+  ],
+  "files": [
+    "server.mjs",
+    "package.json",
+    "README.md",
+    "启动百科.cmd",
+    "启动百科.vbs",
+    "Wiki使用说明.txt",
+    "原神库存扫描器（中文）.vbs",
+    "data/character-artwork-variants.json",
+    "modules/character-assessment/vendor/LICENSE.genshin-optimizer.txt",
+    "modules/character-assessment/vendor/LICENSE.Apache-2.0.txt",
+    "modules/character-assessment/vendor/LICENSE.Inter.txt",
+    "modules/character-assessment/vendor/LICENSE.Roboto.txt",
+    "modules/character-assessment/vendor/THIRD_PARTY.md"
+  ],
+  "excludePrefixes": [
+    "modules/character-assessment/vendor/",
+    "原神库存扫描器/中文界面预览/GenshinData/",
+    "原神库存扫描器/中文界面预览/logging/",
+    "原神库存扫描器/中文界面预览/.build/"
+  ],
+  "excludeFiles": [
+    "lib/release-common.mjs",
+    "lib/release-data.mjs",
+    "lib/release-install.mjs",
+    "modules/character-assessment/core/go-adapter.ts",
+    "modules/character-assessment/engine-bridge.js",
+    "modules/character-assessment/engine-language.js",
+    "modules/character-assessment/engine.css"
+  ],
+  "runtimeScripts": [
+    "scripts/launch.mjs",
+    "scripts/desktop-launch.mjs"
+  ],
+  "sourceDirectories": [
+    "scripts",
+    "tests",
+    "data/catalog",
+    "modules/character-assessment/vendor",
+    "docs/releases"
+  ],
+  "sourceFiles": [
+    "release-config.json",
+    "lib/release-common.mjs",
+    "lib/release-data.mjs",
+    "lib/release-install.mjs",
+    "modules/character-assessment/core/go-adapter.ts",
+    "回退Wiki.cmd",
+    "docs/版本更新管理指南.md"
+  ],
+  "knownRootFiles": [
+    "启动百科.lnk",
+    "原神库存扫描器.lnk"
+  ],
+  "knownRootDirectories": [
+    ".codex_tmp",
+    ".codex_work",
+    ".release-manager",
+    ".updates",
+    ".git",
+    ".agents",
+    ".codex",
+    ".aws",
+    "各种包体",
+    "assets",
+    "data",
+    "docs",
+    "原神库存扫描器",
+    "inventorylists",
+    "lib",
+    "modules",
+    "previews",
+    "public",
+    "scripts",
+    "shared",
+    "tests"
+  ],
+  "knownDataDirectories": [
+    "assessment",
+    "backups",
+    "catalog",
+    "growth",
+    "library",
+    "logs",
+    "material-acquisition",
+    "sources",
+    "versions"
+  ],
+  "nodeVersion": "v24.18.0",
+  "scannerVersion": "v1.4.5",
+  "scannerExecutable": "原神库存扫描器/中文界面预览/InventoryKamera.zh.exe"
+}

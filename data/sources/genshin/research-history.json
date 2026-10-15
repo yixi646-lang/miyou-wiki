@@ -1,0 +1,65 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 828,
+        "title": "Module:Wish/data",
+        "missing": true
+      },
+      {
+        "ns": 828,
+        "title": "Module:Wish",
+        "missing": true
+      },
+      {
+        "pageid": 67688,
+        "ns": 0,
+        "title": "Aloy",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Character Tabs}}\n{{Character Infobox\n|image            = <gallery>\nAloy Card.png|Card\nCharacter Aloy Full Wish.png|Wish\nCharacter Aloy Game.png|In-Game\n</gallery>\n\n<!--Playable Character Information-->\n|type             = Playable\n|quality          = 5\n|weapon           = Bow\n|element          = Cryo\n\n<!--Character Information-->\n|name             = Aloy\n|birthday         = April 4th\n|constellation    = Nora Fortis\n|affiliation      = Wandering Heroine\n|affiliation2     = Adventurers' Guild\n|affiliationRef2  = <ref>Mail, Aloy: [[Mail/My New Adventure... (2023-04-04)|My New Adventure...]]</ref>\n|dish             = Satiety Gel\n|namecard         = Aloy: Dawn\n|obtain           = Reach Adventure Rank 20 (between Versions 2.1–2.2 on PlayStation and Version 2.2 on all platforms)<ref name=\"Howto\">HoYoLAB: [https://www.hoyolab.com/article/588087 How to Obtain \"Savior From Another World\" Aloy (Cryo)]</ref>\n|obtainType       = Non-Wish\n|obtainType2      = Crossover\n|releaseDate      = 2021-09-01\n\n<!--Titles-->\n|title            = Savior From Another World\n|title2           = Nora Huntress\n|title3           = \n|title4           = \n|title5           = \n|title6           = \n\n<!--Voice Actors-->\n|voiceEN          = [[imdb:nm7374420|Giselle Fernandez]]<ref>YouTube: [https://youtu.be/5etfb8xoztY EN VA Self Announcement] (Timestamp: 19m 46s)</ref>\n|voiceCN          = [https://zh.moegirl.org.cn/沐霏 Mufei ({{zh|沐霏}})]<ref name=\"zhsp\">YouTube: [https://www.youtube.com/watch?v=odHPNQLlewQ&t=4165s Version 2.1 Chinese Special Program] (Timestamp: 1h 9m 25s)</ref>\n|voiceJP          = {{w|Ayahi Takagaki|Takagaki Ayahi ({{ja|高垣彩陽}})}}<ref name=\"zhsp\"></ref>\n|voiceKR          = {{w|Jo Hyeon-jeong|Jo Hyeon-jung ({{ko|조현정}})}}<ref>Twitter: [https://x.com/genshinimpactkr/status/1431104185529815040 KR VA Announcement]</ref>\n}}\n'''Aloy''' is a playable {{Cryo}} crossover [[character]] in ''[[Genshin Impact]]''.\n\nShe is the heroine from the ''{{w|Horizon (video game series)|Horizon}}'' series and was introduced as a limited-time collaboration and crossover character between Guerrilla Games and [[HoYoverse]].\n\n==Gameplay Info==\n===Ascensions===\n{{Character Ascensions and Stats}}\n\n===Talents===\n{{Talent Table}}\n\n====Talent Upgrade====\n{{Talent Upgrade}}\n\n===Constellation===\n{{Constellation Table}}\n\n==Availability==\nAll Travelers who had reached [[Adventure Rank]] 20 or above were able to claim Aloy for free directly through the in-game [[mail]]. PlayStation users were able to obtain Aloy early between Versions 2.1–2.2, while all platforms were eligible during [[Version 2.2]].<ref name=\"Howto\" />\n\n===Character Event Wishes===\n{{Featured}}\n===Chronicled Wishes===\n{{Featured|chronicled=1}}\n\n==See Also==\n* [[w:c:Horizon:Aloy|Aloy]] on ''Horizon'' Wiki\n\n==Other Languages==\n{{Other Languages\n|default_hidden = 1\n|en      = Aloy\n|zhs     = 埃洛伊\n|zhs_rm  = Āiluòyī\n|zht     = 亞蘿伊\n|zht_rm  = Yàluóyī\n|ja      = アーロイ\n|ja_rm   = Aaroi\n|ko      = 에일로이\n|es      = Aloy\n|fr      = Aloy\n|ru      = Элой\n|th      = Aloy\n|vi      = Aloy\n|de      = Aloy\n|id      = Aloy\n|pt      = Aloy\n|tr      = Aloy\n|it      = Aloy\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==References==\n{{Reflist|2}}\n\n==Navigation==\n{{Character Navbox}}\n\n[[de:Aloy]]\n[[es:Aloy]]\n[[fr:Aloy]]\n[[it:Aloy]]\n[[ja:アーロイ]]\n[[pl:Aloy]]\n[[pt-br:Aloy]]\n[[ru:Элой]]\n[[th:Aloy]]\n[[tr:Aloy]]\n[[uk:Елой]]\n[[vi:Aloy]]\n[[zh:亞蘿伊]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 236143,
+        "ns": 0,
+        "title": "Furina",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Character Tabs}}\n{{About|the playable character|information on the Hydro Archon|Focalors|the [[Genius Invokation TCG]] Character Card|Furina (Character Card)}}\n{{Character Infobox\n|image            = <gallery>\nFurina Card.png|Card 1\nFurina Card 2.png|Card 2\nCharacter Furina Full Wish.png|Wish\nCharacter Furina Game (Pneuma).png|In-Game (Pneuma)\nCharacter Furina Game (Ousia).png|In-Game (Ousia)\n</gallery>\n\n<!--Playable Character Information-->\n|type             = Playable\n|element          = Hydro\n|quality          = 5\n|weapon           = Sword\n|arkhe            = Pneuma;Ousia\n\n<!--Character Information-->\n|realname         = Furina de Fontaine<ref name=\"CD\">YouTube: [https://youtu.be/EN79SfbcvIE?t=21 Character Demo &mdash; \"Furina: All the World's a Stage\"]</ref><ref name=\"Apocalypse\">{{Ref/Quest|Apocalypse}}</ref>\n|name             = Furina\n|birthday         = October 13th\n|constellation    = Animula Choragi\n|region           = Fontaine\n|affiliation      = Court of Fontaine\n|affiliationNote  = on profile\n|affiliation2     = Opera Epiclese\n|affiliationNote2 = formerly\n|affiliation3     = The Seven\n|affiliationNote3 = as a [[The Seven#Representatives|representative]], formerly\n|affiliationRef3  = <ref group=Note>Despite being the public figure who ruled Fontaine as its Hydro Archon and recognized as such by Fontainian law, Furina is not considered an Archon in the traditional sense, as she neither had access to the Hydro Archon's Divine Throne nor possessed the Authority of Hydro, and didn't disappear along with [[Focalors]] when the throne was destroyed to return the [[Neuvillette|current Hydro Dragon]]'s full elemental authority.</ref>\n|affiliation4     = Musketeer Pictures\n|dish             = \"Pour la Justice\"\n|namecard         = Furina: Banquet\n|obtain           =\n* [[Chanson of Many Waters|Event Wish &mdash; Chanson of Many Waters]]\n|obtainType       = Event-Exclusive\n|event_name       = Chanson of Many Waters\n|releaseDate      = 2023-11-08\n|title            = Endless Solo of Solitude\n|title2           = Regina of All Waters, Kindreds, Peoples and Laws\n|derivedFrom      = {{Relative Type|synthetic|Focalors|refName=the opera|ref=Quest|The Opera of Noirceur and Blancheur}}\n|voiceEN          = [https://www.amberleeconnors.com/ Amber Lee Connors]<ref name=\"The Final Feast desc\">YouTube: [https://youtu.be/9SbgmM3mSps Overture Teaser: The Final Feast] (Video Description)</ref>\n|voiceCN          = [https://baike.baidu.com/item/钱琛/50023226 Qian Chen ({{zh|钱琛}})]<ref name=\"The Final Feast ZH desc\">Bilibili: [https://www.bilibili.com/video/BV1ss4y1k7CD {{zh|序曲PV&mdash;&mdash;「致终幕的欢宴」}}] (Video Description)</ref>\n|voiceJP          = {{w|Inori Minase|Minase Inori ({{ja|水瀬いのり}})}}<ref name=\"The Final Feast JP desc\">YouTube: [https://youtu.be/tILKOAdPuIo {{ja|序曲PV「フィナーレへの歓宴」}}] (Video Description)</ref>\n|voiceKR          = [https://namu.wiki/w/김하영 Kim Ha-young ({{ko|김하영}})]<ref name=\"The Final Feast KR desc\">YouTube: [https://youtu.be/jJfxBACf2_o {{ko|서곡 PV-「종막을 향한 연회」}}] (Video Description)</ref>\n}}\n'''Furina de Fontaine'''<ref name=\"CD\" /><ref name=\"Apocalypse\" /> is a playable {{Hydro}} [[character]] in ''[[Genshin Impact]]'' who can alternate between {{Pneuma}} and {{Ousia}} alignments.\n\nIntroduced as the flamboyant and overconfident [[Hydro Archon]], Furina's theatrics are eventually revealed to be a public persona, which she later discards in favor of living a relatively humbler life as an actress and artistic consultant.\n\n==Gameplay Info==\n===Ascensions and Stats===\n{{Character Ascensions and Stats}}\n\n===Talents===\n{{Talent Table}}\n\n====Talent Upgrade====\n{{Talent Upgrade}}\n\n====Character Description====\n{{Character Talent Description|Furina}}\n\n===Constellation===\n{{Constellation Table}}\n\n==Availability==\n===Character Event Wishes===\n{{Featured}}\n\n===Chronicled Wishes===\n{{Featured|chronicled=1}}\n\n==Notes==\n{{Reflist|note=1}}\n\n==Other Languages==\n{{Other Languages|default_hidden = 1\n|en      = Furina\n|zhs     = 芙宁娜\n|zhs_rm  = Fúníngnà\n|zht     = 芙寧娜\n|zht_rm  = Fúníngnà\n|ja      = フリーナ\n|ko      = 푸리나\n|es      = Furina\n|fr      = Furina\n|ru      = Фурина\n|th      = Furina\n|vi      = Furina\n|de      = Furina\n|id      = Furina\n|pt      = Furina\n|tr      = Furina\n|it      = Furina\n}}\n\n==Change History==\n{{Change History|4.2|introduced=3.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Character Navbox}}\n\n[[es:Furina]]\n[[fr:Furina]]\n[[it:Furina]]\n[[ja:フリーナ]]\n[[pl:Furina]]\n[[pt-br:Furina]]\n[[ru:Фурина]]\n[[th:Furina]]\n[[tr:Furina]]\n[[uk:Фуріна]]\n[[vi:Furina]]\n[[zh:芙寧娜]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 364614,
+        "ns": 10,
+        "title": "Template:Wishes by Version Tables",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "<includeonly>{{#invoke:Wishes by Version Tables|main|pages={{#DPL:\n|namespace=\n|category=Wish\n|uses=Template:Wish\n|format=,,%PAGE%;;;,\n|ordermethod=sortkey\n}}}}</includeonly><noinclude>{{Documentation|type=Data}}</noinclude>"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1337 @@
+{
+  "pages": [
+    {
+      "pageid": 2529,
+      "ns": 0,
+      "title": "Beginners' Wish",
+      "revisions": [
+        {
+          "revid": 1965518,
+          "parentid": 1508281,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish\n|name              = Beginners' Wish\n|image             = Wish Beginners.png\n|type              = Novice\n|duration          = beginner\n|time_start        = 2020-09-28 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n}}\n{{Description|Dear Travelers: The Beginners' Wish is available! Win new characters, grab new weapons, and assemble your dream team!<ref name=\"Announcement\">Twitter: [https://x.com/GenshinImpact/status/1310580022193733632 Official Announcement]</ref>}}\n\nThe '''Beginners' Wish''' is a [[Novice Wish]] that has no time limit and is aimed at Travelers who have recently landed in [[Teyvat]], serving as the introduction to the [[Wish]] system.\n\n==Wish Details==\nThe Beginners' Wish expires automatically after amounting a total of 20 wishes, after which the Wish will disappear permanently. It is not possible to exceed the limit. A limited selection of non-promotional characters and weapons are available.\n\nFor the Beginners' Wish, 10-wish sets cost 20% less [[Acquaint Fate]] (only 8 instead of 10), and your first 10-wish set is guaranteed to include \"Chivalric Blossom\" [[Noelle]] ({{Geo}})! Your second 10-wish set is guaranteed to include one other 4 or 5-star character!<ref>Based on in-game description</ref>\n\nFor more information about rates and mechanics, see the [[Wishes]] page.\n\n==Item Pool==\nThe starter characters [[Amber]], [[Lisa]] and [[Kaeya]] and characters added to the Standard Wish after [[Version 1.0]] cannot be obtained from this wish. Apart from the single guarantee, which is always on the 8th wish,<ref>HoYoLAB: [https://www.hoyolab.com/article/497840 Statistical model for Genshin Impact's droprates]</ref> [[Noelle]] cannot be obtained from this wish.\n\nThe Wish's pool does not contain any 4-star or 5-star weapons.\n\n{{Wish Pool\n|character_5   = Diluc; Jean; Keqing; Mona; Qiqi\n|character_4   = Barbara; Beidou; Bennett; Chongyun; Fischl; Ningguang; Razor; Sucrose; Xiangling; Xingqiu\n|weapon_3      = Black Tassel; Bloodtainted Greatsword; Cool Steel; Debate Club; Emerald Orb; Ferrous Shadow; Harbinger of Dawn; Magic Guide; Raven Bow; Sharpshooter's Oath; Skyrider Sword; Slingshot; Thrilling Tales of Dragon Slayers\n}}\n\n==Trivia==\n* It is possible for the Beginners' Wish to temporarily reappear after all 20 wishes have been made, but no more wishes can be made and will disappear the next time the Wish Menu is accessed.\n\n==Gallery==\n<gallery>\nBeginners' Wish.png|Wish Announcement<ref name=\"Announcement\"/>\n</gallery>\n\n==Other Languages==\n{{Other Languages\n|en       = Beginners' Wish\n|zhs      = 初行者推荐祈愿\n|zhs_rm   = Chūxíngzhě Tuījiàn Qíyuàn\n|zht      = 初行者推薦祈願\n|zht_rm   = Chūxíngzhě Tuījiàn Qíyuàn\n|zh_tl    = Beginner's Recommended Wish\n|ja       = 初心者応援祈願\n|ja_rm    = Shoshinsha Ouen Kigan{{Assumed}}\n|ja_tl    = Beginners' Supporting Wish\n|ko       = {{tt|초보자|初步者}} {{tt|추천|推薦}} {{tt|기원|祈願}}\n|ko_tl    = Beginners Recommend Wish\n|es       = Gachapón recomendado para principiantes\n|es_tl    = Gacha Recommended for Beginners\n|fr       = Vœux recommandés pour les débutants\n|fr_tl    = Recommended Wishes for Beginners\n|ru       = Молитва новичка\n|ru_tl    = Beginner's Prayer\n|th       = การอธิษฐานแนะนำ สำหรับผู้เริ่มต้น\n|th_rm    = Kan athitthan naenam, samrap phu roemton\n|th_tl    = Recommended Wish, for Beginners\n|vi       = Cầu Nguyện đề xuất cho người mới\n|vi_tl    = Recommended Wishes for Newbies\n|de       = Gebet für Anfänger\n|de_tl    = Prayers for Beginners\n|id       = Permohonan yang disarankan untuk pemula\n|id_tl    = Recommended Wish for beginners\n|pt       = Oração de Novatos\n|pt_tl    = Prayer for Beginners\n|tr       = Acemi dileği\n|tr_tl    = Beginner Wish\n|it       = Desiderio del principiante\n|it_tl    = Wish of the Beginner\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[de:Anfängergebet]]\n[[es:Gachapón recomendado para principiantes]]\n[[fr:Vœux recommandés pour les débutants]]\n[[id:Permohonan Pemula]]\n[[ja:初心者応援祈願]]\n[[pt-br:Oração de Novatos]]\n[[ru:Молитва новичка]]\n[[th:การอธิษฐานแนะนำสำหรับผู้เริ่มต้น]]\n[[tr:Acemi dileği]]\n[[uk:Бажання новачка]]\n[[vi:Cầu Nguyện Đề Xuất Cho Người Mới]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2534,
+      "ns": 0,
+      "title": "Wanderlust Invocation",
+      "revisions": [
+        {
+          "revid": 2182417,
+          "parentid": 2074531,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish\n|name              = Wanderlust Invocation\n|image             = Wanderlust Invocation 2020-11-11.png\n|type              = Standard\n|duration          = perm\n|time_start        = 2020-09-28 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n}}\n{{Description|Dear Travelers:<br><br>The standard wish \"Wanderlust Invocation\" is now available! Win new characters, grab new weapons, and assemble your dream team!<br><br>In this no time-limit wish, every 10-wish set includes at least one 4-star or higher character or weapon.<ref>Twitter: [https://x.com/GenshinImpact/status/1310580022885994498 Event Announcement]</ref>}}\n\n'''Wanderlust Invocation''' is the permanent Standard [[Wish]] with no time limit.\n\n==Wish Details==\nAll ''non-Event Exclusive'' [[Character]]s and [[Weapon]]s are available in its pool, with new 4{{star}} characters being added to it one update after their original wish debut. [[Character/List#Event Exclusive Characters|Event Exclusive]] 5{{star}} characters or 4{{star}} weapons are not added to this wish.\n\nPlease note that despite the wish banner showing certain characters and weapons in its banner image, none of them are actually featured items and do not have any better chance of being wished over items not shown in the image.\n\nIn this wish, each 10-wish set is guaranteed to include at least one 4{{star}} or above item.\n\n==Rates==\n{|class=\"wikitable align-center\"\n!Item !! Base Rate !! Average Rate<br>including Pity\n|-\n|5{{star}} Character or Weapon\n|0.6% || 1.6%\n|-\n|4{{star}} Character or Weapon\n|5.1% || 13%\n|-\n|3{{star}} Weapon\n|94.3% || 85.4%\n|}\n\n==Rules==\n*'''4{{star}} drop guarantee:''' If a player does not obtain any 4{{star}} (or above) item within 9 wishes in a row, the 10th wish is ''guaranteed'' to be a 4{{star}} (or higher) item. (On guarantee, the probability of getting a 4{{star}} item is 99.4%, and the probability of getting a 5{{star}} item is 0.6%.)\n**This counter will reset if the player obtains any 4{{star}} item.\n*'''5{{star}} drop guarantee:''' If a player does not obtain any 5{{star}} item after 89 wishes, the 90th wish is ''guaranteed'' to be a 5{{star}} item. (''On average'', a greater proportion of 5{{star}} items are dropped between 74 and 90 pity.)\n**This counter will reset if the player obtains any 5{{star}} item.\n\n==Item Pool==\n{{Wish Pool\n|character_5   = Dehya; Diluc; Jean; Keqing; Mona; Qiqi; Tighnari; Yumemizuki Mizuki\n|character_4   = Aino; Alyosha; Amber; Barbara; Beidou; Bennett; Candace; Charlotte; Chevreuse; Chongyun; Collei; Dahlia; Diona; Dori; Faruzan; Fischl; Freminet; Gaming; Gorou; Iansan; Ifa; Illuga; Jahoda; Kachina; Kaeya; Kaveh; Kirara; Kujou Sara; Kuki Shinobu; Lan Yan; Layla; Lisa; Lynette; Mika; Ningguang; Noelle; Ororon; Prune; Razor; Rosaria; Sayu; Sethos; Shikanoin Heizou; Sucrose; Thoma; Xiangling; Xingqiu; Xinyan; Yanfei; Yaoyao; Yun Jin\n|weapon_5      = Amos' Bow; Aquila Favonia; Lost Prayer to the Sacred Winds; Primordial Jade Winged-Spear; Skyward Atlas; Skyward Blade; Skyward Harp; Skyward Pride; Skyward Spine; Wolf's Gravestone\n|weapon_4      = Dragon's Bane; Eye of Perception; Favonius Codex; Favonius Greatsword; Favonius Lance; Favonius Sword; Favonius Warbow; Lion's Roar; Rainslasher; Rust; Sacrificial Bow; Sacrificial Fragments; Sacrificial Greatsword; Sacrificial Sword; The Bell; The Flute; The Stringless; The Widsith\n|weapon_3      = Black Tassel; Bloodtainted Greatsword; Cool Steel; Debate Club; Emerald Orb; Ferrous Shadow; Harbinger of Dawn; Magic Guide; Raven Bow; Sharpshooter's Oath; Skyrider Sword; Slingshot; Thrilling Tales of Dragon Slayers\n}}\n\n==Gameplay Notes==\n* Although a 5{{star}} item or character is guaranteed at least once per 90 wishes, there is extensive evidence to suggest that, on average, a rate up event actually occurs earlier, sometime after 70 wishes. This is generally referred to as \"Soft Pity.\"<ref>Reddit: [https://www.reddit.com/r/Genshin_Impact/comments/jvmnac/5_character_banner_pity_analysis_true_rate_of_324/ 5* Character Banner Pity Analysis - True Rate of 32.4% at 76+ Rolls]</ref><ref name=\"NGA thread\">NGA: [https://bbs.nga.cn/read.php?tid=26754637&rand=214 Deriving a model based on 200,000 wishes (May 2021)]</ref><ref group=\"Note\">There are community projects that crowdsource wishing histories and corroborate the theory of an early 5{{star}} rate up event. However, since crowdsourcing a large amount of data inherently has the risk of also accepting tainted data, neither these community projects nor the exact pity counter numbers that they demonstrate rate ups for are cited here.</ref>\n* In addition to the published rules for obtaining 4{{star}} and 5{{star}} characters and weapons on this banner, there appears to be a system that helps to force a 50/50 ratio between characters/weapons in the short term. Every 270 pulls will contain both a 5{{star}} character and weapon, while every 30 pulls will have both a 4{{star}} character and weapon. In other words, it is impossible to do 270 pulls without a 5{{star}} weapon, and likewise impossible to do 270 pulls without a 5{{star}} character.<ref name=\"NGA thread\" />\n** This is suggested by the equal base probability of winning 5-star character (0.300%) and winning 5-star weapon (also 0.300%), as well as the equal base probability of winning 4-star character (2.550%) and winning 4-star weapon (also 2.550%).\n\n==Gallery==\n<gallery>\nWanderlust Invocation Sep 2020.jpg|Version 1.0 Banner notice\nWanderlust Invocation 2020-09-28.png|Version 1.0 Banner\n</gallery>\n\n==Notes==\n{{Reflist|note=1}}\n\n==Other Languages==\n{{Other Languages\n|en        = Wanderlust Invocation\n|zhs       = 奔行世间\n|zhs_rm    = Bēnxíng Shìjiān\n|zht       = 奔行世間\n|zht_rm    = Bēnxíng Shìjiān\n|zh_tl     = Running About the World\n|ja        = 奔走世間\n|ja_rm     = Honsou Seken{{Assumed}}\n|ja_tl     = Running About the World\n|ko        = {{tt|세상|世上}} {{tt|여행|旅行}}\n|ko_tl     = World Travel\n|es        = Pasión por viajar\n|es_tl     = Passion for Traveling\n|fr        = Envie de voyage\n|fr_tl     = Desire to Travel\n|ru        = Жажда странствий\n|ru_tl     = Wanderlust\n|th        = การอธิษฐานแห่งการเดินทาง\n|th_rm     = Kan Athitthan haeng Kan Doenthang\n|th_tl     = Prayers of the Wandering\n|vi        = {{tt|Du Hành Thế Gian|遊行世間}}\n|vi_tl     = World Travel\n|de        = Wanderlust\n|de_tl     = Wanderlust\n|id        = Wanderlust Invocation\n|pt        = Invocação do Mochileiro\n|pt_tl     = Hitchhiker's Invocation\n|tr        = Gezgin Çağrısı\n|tr_tl     = Traveler Invocation\n|it        = Evocazione vagabondante\n|it_tl     = Wandering Evocation\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[de:Wanderlust]]\n[[es:Pasión por viajar]]\n[[fr:Envie de voyage]]\n[[id:Wanderlust Invocation]]\n[[ja:奔走世間]]\n[[pt-br:Invocação do Mochileiro]]\n[[ru:Жажда странствий]]\n[[th:การอธิษฐานแห่งการเดินทาง]]\n[[tr:Gezgin Çağrısı]]\n[[uk:Заклик до подорожей]]\n[[vi:Du Hành Thế Gian]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 12735,
+      "ns": 0,
+      "title": "Epitome Invocation",
+      "revisions": [
+        {
+          "revid": 1620437,
+          "parentid": 1507201,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|type = Weapon Event Wishes\n}}\n'''Epitome Invocation''' is the only [[Weapon Event Wish]]. It provides a rate-up for different weapons in the item pool. 5-star characters cannot be obtained from Epitome Invocation, but 4-star characters may be acquired.\n\nSee [[Wishes]] for more information on rates.\n\n==Wish History==\n{{Wish History Table}}\n\n==Trivia==\n* Community data (before Epitomized Path) from Wish Counter sites like Paimon.moe and genshin-wishes shows an equal chance of obtaining both of the 5* rate-up weapons and all of the 4* rate-ups. For example:\n** In the Aquila Favonia and Song of Broken Pines banner, out of all 5* weapon pulls submitted to paimon.moe, 14678 (41.4%) are Aquila Favonia while 14327 (40.4%) are Song of Broken Pines.<ref>Paimon.moe: [https://paimon.moe/wish/tally?id=400012 Aquila Favonia/Song of Broken Pines Banner Wish Tally]</ref>\n** In the Freedom Sworn and Skyward Atlas banner, out of all 5* weapon pulls submitted to genshin-wishes, 3844 (43.1%) are Skyward Atlas and 3542 (39.7%) are Freedom Sworn.<ref>Genshin Wishes: [https://genshin-wishes.com/global-stats/weapon-event?event=31 Freedom-Sworn/Skyward Atlas Banner Wish Tally]</ref>\n\n==Other Languages==\n{{Other Languages\n|en      = Epitome Invocation\n|zhs     = 神铸赋形\n|zhs_rm  = Shénzhù Fùxíng\n|zht     = 神鑄賦形\n|zht_rm  = Shénzhù Fùxíng\n|zh_tl   = God-{{w|Casting (metalworking)|Cast}} Form\n|ja      = 神鋳賦形\n|ja_rm   = Shinchuu Fukei{{Assumed}}\n|ja_tl   = God-Cast Form\n|ko      = {{tt|신|神}}의 {{tt|주조|鑄造}}\n|ko_rm   = Sin-ui Jujo\n|ko_tl   = God's Cast\n|es      = Encarnación divina\n|es_tl   = Divine Incarnation\n|fr      = Incarnation divine\n|fr_tl   = Divine Incarnation\n|ru      = Воплощение божества\n|ru_tl   = Epitome of Deity\n|th      = สรรค์สร้างเซียน\n|th_rm   = San Sang Sian\n|th_tl   = Creation of a Xian\n|vi      = {{tt|Thân Hình|身形}} {{tt|Thần|神}} Đúc\n|vi_tl   = God-Cast Figure\n|de      = Göttliches Werk\n|de_tl   = Divine Work\n|id      = Epitome Invocation\n|pt      = Encarnação Divina\n|pt_tl   = Divine Incarnation\n|tr      = İlahi Çağrı\n|tr_tl   = Divine Invocation\n|it      = Incarnazione divina\n|it_tl   = Divine Incarnation\n}}\n\n==References==\n{{Reflist}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Incarnation divine]]\n[[ja:神鋳賦形]]\n[[pt-br:Encarnação Divina]]\n[[ru:Воплощение божества]]\n[[th:สรรค์สร้างเซียน]]\n[[tr:İlahi Çağrı]]\n[[uk:Божественна лита форма]]\n[[vi:Thân Hình Thần Đúc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 33267,
+      "ns": 0,
+      "title": "Ballad in Goblets",
+      "revisions": [
+        {
+          "revid": 1895769,
+          "parentid": 1620428,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Venti\n|type      = Character Event Wishes\n}}\n'''Ballad in Goblets''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Windborne Bard\" [[Venti]] ({{Anemo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring a 5-star [[bow]].\n** The first occurrence ran alongside [[Epitome Invocation/2020-09-28|an Epitome Invocation Wish]] featuring [[Aquila Favonia]] and [[Amos' Bow]].\n** The second to fifth occurrences ran alongside an Epitome Invocation Wish featuring [[Elegy for the End]], which was released alongside the second occurrence and tailored to Venti's gameplay mechanics.\n** Starting from the sixth occurence, this Wish Series ran alongside [[The Daybreak Chronicles]], which was released alongside the sixth occurrence and tailored to Venti's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Ballad in Goblets\n|zhs     = 杯装之诗\n|zhs_rm  = Bēizhuāng zhī Shī\n|zht     = 杯裝之詩\n|zht_rm  = Bēizhuāng zhī Shī\n|zh_tl   = Poetry Contained in Goblets\n|ja      = 杯に注がれた詩\n|ja_rm   = Sakazuki ni Sosogareta Shi{{Assumed}}\n|ja_tl   = Poetry Poured into Goblets\n|ko      = {{tt|잔|盞}}에 담긴 {{tt|시|詩}}\n|ko_rm   = Jan-e Damgin Si\n|ko_tl   = Poetry in Goblets\n|es      = Oda del cáliz\n|es_tl   = Chalice's Ode\n|fr      = Ballade en pintes\n|fr_tl   = Ballad in Pints\n|ru      = Стихи из винного кубка\n|ru_tl   = Poems from a Wine Goblet\n|th      = ถ้วยแห่งบทกวี\n|th_rm   = Thuai haeng bot kawi\n|th_tl   = Goblet of Poems\n|vi      = {{tt|Bài Thơ|排書}} Cốc {{tt|Thánh|聖}}\n|vi_tl   = Poem in Holy Cups\n|de      = Balladen in Bechern\n|de_tl   = Ballades in Cups\n|id      = Syair Dalam Piala\n|id_tl   = Poetry in Goblet\n|pt      = Poemas em Taças\n|pt_tl   = Poems in Goblets\n|tr      = Kadehlerdeki Şiir\n|tr_tl   = Poem in Goblets\n|it      = In alto i calici\n|it_tl   = Chalices Up\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Ballade en pintes]]\n[[it:In alto i calici]]\n[[ja:杯に注がれた詩]]\n[[pt-br:Poemas em Taças]]\n[[ru:Стихи из винного кубка]]\n[[th:ถ้วยแห่งบทกวี]]\n[[tr:Kadehlerdeki Şiir]]\n[[uk:Балада в келихах]]\n[[vi:Bài Thơ Cốc Thánh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 33268,
+      "ns": 0,
+      "title": "Farewell of Snezhnaya",
+      "revisions": [
+        {
+          "revid": 1620439,
+          "parentid": 1609841,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Tartaglia\n|type      = Character Event Wishes\n}}\n'''Farewell of Snezhnaya''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Childe\" [[Tartaglia]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The name of the event may be a reference to \"{{w|Farewell of Slavianka}},\" a famous Russian patriotic march.\n* Starting with the third occurrence, all occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Polar Star]], a weapon tailored to Tartaglia's gameplay mechanics.\n** Polar Star was released with the third occurrence of this Wish Series. The first and second occurrences ran alongside Epitome Invocation Wishes that both featured [[Skyward Harp]].\n\n==Other Languages==\n{{Other Languages\n|en      = Farewell of Snezhnaya\n|zhs     = 暂别冬都\n|zhs_rm  = Zànbié Dōngdū\n|zht     = 暫別冬都\n|zht_rm  = Zhànbié Dōngdū\n|zh_tl   = Temporary Farewell to the Winter Capital\n|ja      = 冬国との別れ\n|ja_rm   = Tougoku to no Wakare{{Assumed}}\n|ja_tl   = Farewell to the Winter Nation\n|ko      = 겨울 나라와의 {{tt|이별|離別}}\n|ko_rm   = Gyeo'ul Nara-wa-ui Ibyeol\n|ko_tl   = Farewell to the Winter Nation\n|es      = El adiós de Snezhnaya\n|es_tl   = The Farewell of Snezhnaya\n|fr      = Adieux au Nord\n|fr_tl   = Farewell to the North\n|ru      = Зимнее расставание\n|ru_tl   = Winter Parting\n|th      = บอกลาแดนเหนือ\n|th_rm   = Bok la daen nuea\n|th_tl   = Farewell to the Land of the North\n|vi      = {{tt|Tạm Biệt|暫別}} {{tt|Thủ Đô|首都}} {{tt|Băng|冰}}\n|vi_tl   = Farewell to the Frozen Capital\n|de      = Lebe wohl, winterliche Stadt\n|de_tl   = Farewell, Winterly Town\n|id      = Sampai Jumpa Snezhnaya\n|id_tl   = Farewell Snezhnaya\n|pt      = Despedida para o Norte\n|pt_tl   = Parting to the North\n|pt_note = The word \"Parting\" here is used as a noun, the act of departing.\n|tr      = Snezhnaya'nın Vedası\n|tr_tl   = Snezhnaya's Farewell\n|it      = Addio al Nord\n|it_tl   = Farewell to the North\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Adieux au Nord]]\n[[it:Addio al Nord]]\n[[ja:冬国との別れ]]\n[[pt-br:Despedida para o Norte]]\n[[ru:Зимнее расставание]]\n[[th:บอกลาแดนเหนือ]]\n[[tr:Snezhnaya'nın Vedası]]\n[[vi:Tạm Biệt Thủ Đô Băng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 45838,
+      "ns": 0,
+      "title": "Gentry of Hermitage",
+      "revisions": [
+        {
+          "revid": 1620441,
+          "parentid": 1609840,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Zhongli\n|type      = Character Event Wishes\n}}\n'''Gentry of Hermitage''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Vago Mundo\" [[Zhongli]] ({{Geo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series except for the second occurrence have run alongside an [[Epitome Invocation]] Wish featuring [[Vortex Vanquisher]], a weapon tailored to Zhongli's gameplay mechanics.<!-- ARTICLE INFORMATION DOES NOT CARE ABOUT META -->\n** The second occurrence ran alongside an Epitome Invocation Wish featuring [[Summit Shaper]] and [[Memory of Dust]].\n\n==Other Languages==\n{{Other Languages\n|en      = Gentry of Hermitage\n|zhs     = 陵薮市朝\n|zhs_rm  = Língsǒu Shìcháo\n|zht     = 陵藪市朝\n|zht_rm  = Língsǒu Shìcháo\n|zh_tl   = Mounds and Marshes, Courts and Markets\n|zh_note = Based on an excerpt of a Chinese poem: {{zh|s=小隐隐陵薮，大隐隐朝市|t=小隱隱陵藪，大隱隱朝市}}, meaning roughly \"The lesser hermit lives amongst the mountains (lit. in the mounds and marshes), the greater hermit lives amongst the public (lit. in the imperial courts and markets).\"\n|ja      = 大隠朝市\n|ja_rm   = Tai'in Shouchi\n|ja_tl   = Enlightened Hermits Live Amongst the Public\n|ja_note = This is a ''{{w|yojijukugo}}'' based on the poem above and bears the same meaning.\n|ko      = {{tt|산야|山野}}의 {{tt|시조|市朝}}\n|ko_rm   = Sanya-ui Sijo\n|ko_tl   = The Markets and Courts of the Mountains and Fields\n|ko_note = May also be interpreted as {{ko|{{tt|산야|山野}}의 시조(始祖)|tl=Progenitor of Mountains and Fields.}}\n|es      = Soledad de la nobleza\n|es_tl   = Loneliness of the Nobility\n|fr      = Monts et marchés\n|fr_tl   = Mountains and Markets\n|ru      = Горы и рынки\n|ru_tl   = Mountains and Markets\n|th      = ขุนเขาและเมืองใหญ่\n|th_rm   = Khunkhao lae mueangyai\n|th_tl   = Great Mountain and a Large City\n|vi      = Đồng Cỏ {{tt|Thị Thành|市城}}\n|vi_tl   = Urban Grasslands\n|de      = Abgeschiedener Adel\n|de_tl   = Secluded Aristocracy\n|id      = Bangsawan dan Pertapa\n|id_tl   = Noble and Hermit\n|pt      = Aristocracia Ermida\n|pt_tl   = Hermitage Aristocracy\n|tr      = Asilin Yalnızlığı\n|tr_tl   = Solitude of Noble\n|it      = Aristocrazia eremita\n|it_tl   = Hermit Aristocracy\n}}\n\n==Change History==\n{{Change History|1.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Soledad de la nobleza]]\n[[fr:Monts et marchés]]\n[[it:Aristocrazia eremita]]\n[[ja:大隠朝市]]\n[[pt-br:Aristocracia Ermida]]\n[[ru:Горы и рынки]]\n[[th:ขุนเขาและเมืองใหญ่]]\n[[tr:Asilin Yalnızlığı]]\n[[vi:Đồng Cỏ Thị Thành]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54137,
+      "ns": 0,
+      "title": "Adrift in the Harbor",
+      "revisions": [
+        {
+          "revid": 1620424,
+          "parentid": 1609838,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Ganyu\n|type      = Character Event Wishes\n}}\n'''Adrift in the Harbor''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Plenilune Gaze\" [[Ganyu]] ({{Cryo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* Unlike most Wish Series, this Wish Series has not run alongside [[Epitome Invocation]] Wishes that consistently feature an event-exclusive 5-star weapon tailored to Ganyu's gameplay mechanics. However, all occurrences of this Wish Series have run alongside an Epitome Invocation Wish featuring [[Amos' Bow]].\n\n==Other Languages==\n{{Other Languages\n|en      = Adrift in the Harbor\n|zhs     = 浮生孰来\n|zhs_rm  = Fúshēng Shú Lái\n|zht     = 浮生孰來\n|zht_rm  = Fúshēng Shú Lái\n|zh_tl   = This Ephemeral Life, Who Shall Come?\n|ja      = 逸俗逡巡\n|ja_rm   = Itsuzoku Shunjun{{Assumed}}\n|ja_tl   = Hesitation in Fleeing Earthly Life\n|ko      = 덧없는 {{tt|인생|人生}}\n|ko_tl   = Ephemeral Life\n|es      = Flotando a la deriva\n|es_tl   = Floating Adrift\n|fr      = Doute passager\n|fr_tl   = Passing Doubt\n|ru      = Эфемерное недоверие\n|ru_tl   = Ephemeral Mistrust\n|th      = ม่านแห่งเมฆา\n|th_rm   = Man haeng me kha\n|th_tl   = Veil of Clouds\n|vi      = Hội Ngộ Nơi {{tt|Trần Thế|塵世}}\n|vi_tl   = Meeting At This Mortal World\n|de      = Flüchtige Bekanntschaft\n|de_tl   = Fleeting Acquaintance\n|id      = Misteri Keabadian\n|id_tl   = Mystery of Eternity\n|pt      = Perguntas Temporárias\n|pt_tl   = Temporary Questions\n|tr      = Limanda Başıboş\n|tr_tl   = Adrift in Harbor\n|it      = Alla deriva nel porto\n|it_tl   = Adrift in the Harbor\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Doute passager]]\n[[it:Alla deriva nel porto]]\n[[ja:逸俗逡巡]]\n[[pt-br:Perguntas Temporárias]]\n[[ru:Эфемерное недоверие]]\n[[th:ม่านแห่งเมฆา]]\n[[tr:Limanda Başıboş]]\n[[uk:Що виходить із мінливого життя?]]\n[[vi:Hội Ngộ Nơi Trần Thế]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54138,
+      "ns": 0,
+      "title": "Born of Ocean Swell",
+      "revisions": [
+        {
+          "revid": 1620429,
+          "parentid": 1609847,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Eula\n|type      = Character Event Wishes\n}}\n'''Born of Ocean Swell''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Dance of the Shimmering Wave\" [[Eula]] ({{Cryo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Song of Broken Pines]], a weapon tailored to Eula's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Born of Ocean Swell\n|zhs     = 浪涌之瞬\n|zhs_rm  = Làngyǒng zhī Shùn\n|zht     = 浪湧之瞬\n|zht_rm  = Làngyǒng zhī Shùn\n|zh_tl   = Moment of Surging Waves\n|ja      = 波折りの刹那\n|ja_rm   = Naori no Setsuna{{Assumed}}\n|ja_tl   = Moment of Folding Waves\n|ko      = {{tt|파도|波濤}}가 치는 {{tt|순간|瞬間}}\n|ko_rm   = Pado-ga Chineun Sungan\n|ko_tl   = The Moment Waves Hit\n|es      = Sobre las olas\n|es_tl   = Over the Waves\n|fr      = Flots dansants\n|fr_tl   = Dancing Waves\n|ru      = Рождённая морской пеной\n|ru_tl   = Born of Seafoam\n|th      = ประกายแห่งเกลียวคลื่น\n|th_rm   = Prakai haeng khliao khluen\n|th_tl   = Radiating Light of Waves\n|vi      = {{tt|Khoảnh Khắc|頃刻}} Dậy Sóng\n|vi_tl   = Moment of Surging Waves\n|de      = Stunde der Wogen\n|de_tl   = Hour of the Waves\n|id      = Tarian Gulungan Ombak\n|id_tl   = Dance of the Waves\n|pt      = Formação das Ondas\n|pt_tl   = Formation of the Waves\n|tr      = Dalgaların Dansı\n|tr_tl   = Dance of the Waves\n|it      = Flutti danzanti\n|it_tl   = Dancing Billows\n}}\n\n==Change History==\n{{Change History|1.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Flots dansants]]\n[[it:Flutti danzanti]]\n[[ja:波折りの刹那]]\n[[pt-br:Formação das Ondas]]\n[[ru:Рождённая морской пеной]]\n[[th:ประกายแห่งเกลียวคลื่น]]\n[[tr:Dalgaların Dansı]]\n[[vi:Khoảnh Khắc Dậy Sóng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54139,
+      "ns": 0,
+      "title": "Dance of Lanterns",
+      "revisions": [
+        {
+          "revid": 1620433,
+          "parentid": 1125413,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Keqing\n|type      = Character Event Wishes\n}}\n'''Dance of Lanterns''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Driving Thunder\" [[Keqing]] ({{Electro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = Dance of Lanterns\n|zhs     = 鱼龙灯昼\n|zhs_rm  = Yúlóng Dēngzhòu\n|zht     = 魚龍燈晝\n|zht_rm  = Yúlóng Dēngzhòu\n|zh_tl   = Daylight of the Fish and Dragon Lanterns\n|ja      = 魚龍灯昼\n|ja_rm   = Gyoryuu Touchuu{{Assumed}}\n|ja_tl   = Daylight of the Fish and Dragon Lanterns{{Sino|ja}}\n|ko      = {{tt|용등|龍燈}}의 춤\n|ko_rm   = Yongdeung-ui Chum\n|ko_tl   = Dance of Dragon Lanterns\n|es      = Danza de las linternas\n|es_tl   = Dance of Lanterns\n|fr      = Danse des lanternes\n|fr_tl   = Dance of Lanterns\n|ru      = Танец фонарей\n|ru_tl   = Dance of Lanterns\n|th      = การเต้นรำในแสงโคม\n|th_rm   = Kan tenram nai saen khong\n|th_tl   = Dance in the Lanterns' Light\n|vi      = Ánh Đèn {{tt|Ngư Long|魚龍}}\n|vi_tl   = Lights of The Sea Dragon\n|de      = Tanz der Laternen\n|de_tl   = Dance of Lanterns\n|id      = Tarian Lentera\n|id_tl   = Dance of Lantern\n|pt      = Dança de Lanternas\n|pt_tl   = Dance of Lanterns\n|tr      = Fenerlerin Dansı\n|tr_tl   = Dance of Lanterns\n|it      = Danza delle lanterne\n|it_tl   = Dance of the Lanterns\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Danse des lanternes]]\n[[it:Danza delle lanterne]]\n[[ja:魚龍灯昼]]\n[[pt-br:Dança de Lanternas]]\n[[ru:Танец фонарей]]\n[[th:การเต้นรำในแสงโคม]]\n[[tr:Fenerlerin Dansı]]\n[[vi:Ánh Đèn Ngư Long]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54140,
+      "ns": 0,
+      "title": "Invitation to Mundane Life",
+      "revisions": [
+        {
+          "revid": 1620445,
+          "parentid": 1609845,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Xiao\n|type      = Character Event Wishes\n}}\n'''Invitation to Mundane Life''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Vigilant Yaksha\" [[Xiao]] ({{Anemo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* Unlike most Wish Series, this Wish Series has not run alongside [[Epitome Invocation]] Wishes that consistently feature an event-exclusive 5-star weapon tailored to Xiao's gameplay mechanics. However, all occurrences of this Wish Series have run alongside an Epitome Invocation Wish featuring [[Primordial Jade Winged-Spear]].\n\n==Other Languages==\n{{Other Languages\n|en      = Invitation to Mundane Life\n|zhs     = 烟火之邀\n|zhs_rm  = Yānhuǒ zhī Yāo\n|zht     = 煙火之邀\n|zht_rm  = Yānhuǒ zhī Yāo\n|zh_tl   = Invitation to Fireworks\n|ja      = 灯宴の招き\n|ja_rm   = Touen no Maneki{{Assumed}}\n|ja_tl   = Invitation to the Lantern Banquet\n|ko      = {{tt|등|燈}}불의 초대\n|ko_rm   = Deungbur-ui Chodae\n|ko_tl   = Invitation of Lanterns\n|es      = Invitación al mundo mortal\n|es_tl   = Invitation to the Mortal World\n|fr      = Invitation scintillante\n|fr_tl   = Scintillating Invitation\n|ru      = Приглашение к мирской жизни\n|ru_tl   = Invitation to Mundane Life\n|th      = คำเชิญอันสว่างไสว\n|th_rm   = Kham choen sawang sawai\n|th_tl   = Invitation to Extravagant Lights\n|vi      = Lời Mời {{tt|Pháo Hoa|炮花}}\n|vi_tl   = Fireworks Invitation\n|de      = Bombastische Einladung\n|de_tl   = Bombastic Invitation\n|id      = Panggilan Cahaya\n|id_tl   = Invitation of Lights\n|pt      = Convite de Chamas\n|pt_tl   = Invitation of Flames\n|tr      = Ölümlüler Dünyasına Davet\n|tr_tl   = Invitation to the Mortal World\n|it      = Invito alla Vita mondana\n|it_tl   = Invitation to the Worldly Life\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Invitation scintillante]]\n[[it:Invito alla Vita mondana]]\n[[ja:灯宴の招き]]\n[[pt-br:Convite de Chamas]]\n[[ru:Приглашение к мирской жизни]]\n[[th:คำเชิญอันสว่างไสว]]\n[[tr:Ölümlüler Dünyasına Davet]]\n[[uk:Запрошення до мирського життя]]\n[[vi:Lời Mời Pháo Hoa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54141,
+      "ns": 0,
+      "title": "Moment of Bloom",
+      "revisions": [
+        {
+          "revid": 1620448,
+          "parentid": 1609846,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Hu Tao\n|type      = Character Event Wishes\n}}\n'''Moment of Bloom''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Fragrance in Thaw\" [[Hu Tao]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Staff of Homa]], a weapon tailored to Hu Tao's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Moment of Bloom\n|zhs     = 赤团开时\n|zhs_rm  = Chìtuán Kāi Shí\n|zht     = 赤團開時\n|zht_rm  = Chìtuán Kāi Shí\n|zh_tl   = When the Red Ball Blooms\n|zh_note = \"Red Ball\" alludes to the red spider lily.\n|ja      = 彼岸満開\n|ja_rm   = Higan Mankai{{Assumed}}\n|ja_tl   = {{w|Lycoris radiata|Red Spider Lily}} Full Bloom\n|ja_note = The red spider lily is heavily associated with death in Japanese Buddhism. Its name in Japanese is {{ja|彼岸花|rm=higan-bana}}, literally meaning \"the flower of the other shore,\" referring to the {{w|Sanzu River}} which separates life from afterlife.\n|ko      = {{tt|매화|梅花}}가 {{tt|만개|滿開}}할 때\n|ko_tl   = When the Apricot Flowers Fully Bloom\n|es      = Florecimiento fugaz\n|es_tl   = Fleeting Bloom\n|fr      = Floraison écarlate\n|fr_tl   = Scarlet Bloom\n|ru      = Момент цветения\n|ru_tl   = Moment of Bloom\n|th      = ช่วงเวลาแห่งการผลิบาน\n|th_rm   = Chuang wela haeng kan phli ban\n|th_tl   = Moment of Bloom\n|vi      = {{tt|Xích Đoàn|赤團}} {{tt|Khai|開}} Mở\n|vi_tl   = Blooming of the Spider Lily\n|de      = Augenblick des Erblühens\n|de_tl   = Moment of Bloom\n|id      = Bunga Bersemi\n|id_tl   = Blooming Flower\n|pt      = Momento de Florescer\n|pt_tl   = Moment of Bloom\n|tr      = Çiçeklenme Anı\n|tr_tl   = Moment of Bloom\n|it      = Tempo di fioritura\n|it_tl   = Time of Flowering\n}}\n\n==Change History==\n{{Change History|1.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Floraison écarlate]]\n[[it:Tempo di fioritura]]\n[[ja:彼岸満開]]\n[[pt-br:Momento de Florescer]]\n[[ru:Момент цветения]]\n[[th:ช่วงเวลาแห่งการผลิบาน]]\n[[tr:Çiçeklenme Anı]]\n[[vi:Xích Đoàn Khai Mở]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54142,
+      "ns": 0,
+      "title": "Secretum Secretorum",
+      "revisions": [
+        {
+          "revid": 1620454,
+          "parentid": 1609836,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Albedo\n|type      = Character Event Wishes\n}}\n'''Secretum Secretorum''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Kreideprinz\" [[Albedo]] ({{Geo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n*{{Lang|Secretum Secretorum|la=\"the secret of secrets\"}} is a 10th-century Arabic work purporting to have been written by Aristotle for his student Alexander the Great. The treatise covers a great range of topics, including astrology, ethics, and the medicinal and magical properties of plants, animals, and gems. It is considered one of the most influential books in medieval intellectualism.\n* Unlike most Wish Series, this Wish Series has not run alongside [[Epitome Invocation]] Wishes that consistently feature an event-exclusive 5-star weapon tailored to Albedo's gameplay mechanics.\n** Secretum Secretorum has run alongside Epitome Invocation Wishes that have featured the [[sword]]s [[Summit Shaper]], [[Freedom-Sworn]], [[Key of Khaj-Nisut]], and [[Primordial Jade Cutter]] once each.\n\n==Other Languages==\n{{Other Languages\n|en      = Secretum Secretorum\n|en_tl   = Secret of Secrets\n|en_lang = la\n|zhs     = 深秘之息\n|zhs_rm  = Shēnmì zhī Xī\n|zht     = 深秘之息\n|zht_rm  = Shēnmì zhī Xí\n|zh_tl   = Breath of Profound Secrets\n|ja      = 深秘の生息\n|ja_rm   = Jinpi no Seisoku{{Assumed}}\n|ja_tl   = Inhabitation of Profound Secrets\n|ko      = {{tt|심비|深祕}}의 숨결\n|ko_rm   = Simbi-ui Sumgyeol\n|ko_tl   = Breath of Profound Secrets\n|es      = Susurros enigmáticos\n|es_tl   = Enigmatic Whispers\n|fr      = Nouvelles mystérieuses\n|fr_tl   = Mysterious News\n|ru      = Таинственные секреты\n|ru_tl   = Mysterious Secrets\n|th      = ความลับในห้วงลึก\n|th_rm   = Khwam lap nai huang luek\n|th_tl   = Secret in the Vast Deep\n|vi      = Hơi Thở {{tt|Thần Bí|神秘}}\n|vi_tl   = Mysterious Breath\n|de      = Rätselhafte Worte\n|de_tl   = Enigmatic Words\n|id      = Enigma Kehidupan\n|id_tl   = Life Enigma\n|pt      = Notícias Enigmáticas\n|pt_tl   = Enigmatic News\n|tr      = Gizemli Bilgiler\n|tr_tl   = Mysterious Information\n|it      = Secretum secretorum\n}}\n\n==Change History==\n{{Change History|1.2}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Susurros enigmáticos]]\n[[fr:Nouvelles mystérieuses]]\n[[it:Secretum secretorum]]\n[[ja:深秘の生息]]\n[[pt-br:Notícias Enigmáticas]]\n[[ru:Таинственные секреты]]\n[[th:ความลับในห้วงลึก]]\n[[tr:Gizemli Bilgiler]]\n[[uk:Таємниця таємниць]]\n[[vi:Hơi Thở Thần Bí]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 54143,
+      "ns": 0,
+      "title": "Sparkling Steps",
+      "revisions": [
+        {
+          "revid": 1620457,
+          "parentid": 1609842,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Klee\n|type      = Character Event Wishes\n}}\n'''Sparkling Steps''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Fleeing Sunlight\" [[Klee]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* Unlike most Wish Series, this Wish Series has not run alongside [[Epitome Invocation]] Wishes that consistently feature an event-exclusive 5-star weapon tailored to Klee's gameplay mechanics. However, all occurrences of this Wish Series have run alongside an Epitome Invocation Wish featuring [[Lost Prayer to the Sacred Winds]].\n\n==Other Languages==\n{{Other Languages\n|en      = Sparkling Steps\n|zhs     = 闪焰的驻足\n|zhs_rm  = Shǎnyàn de Zhùzú\n|zht     = 閃焰的駐足\n|zht_rm  = Shǎnyàn de Zhùzú\n|zh_tl   = Flaring Halt\n|ja      = フレアの訪れ\n|ja_rm   = Furea no Otozure{{Assumed}}\n|ja_tl   = Visit of Flares\n|ko      = 번쩍이는 {{tt|화염|火焰}}\n|ko_tl   = Sparkling Flames\n|es      = Pasos centelleantes\n|es_tl   = Sparkling Steps\n|fr      = Foulées étincelantes\n|fr_tl   = Sparkling Strides\n|ru      = Сверкающая поступь\n|ru_tl   = Sparkling Steps\n|th      = ก้าวย่างพร่างพราย\n|th_rm   = Kao yang phrang phrai\n|th_tl   = Sparkling Steps\n|vi      = Dấu Chân Của Lửa\n|vi_tl   = Footprints Of Fire\n|de      = Flammende Schritte\n|de_tl   = Flaming Steps\n|id      = Percikan Langkah Api\n|id_tl   = Sparkling Steps\n|pt      = Passos Flamejantes\n|pt_tl   = Flaming Steps\n|tr      = Yanan Adımlar\n|tr_tl   = Burning Steps\n|it      = Passi scintillanti\n|it_tl   = Sparkling Steps\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Foulées étincelantes]]\n[[it:Passi scintillanti]]\n[[ja:フレアの訪れ]]\n[[pt-br:Passos Flamejantes]]\n[[ru:Сверкающая поступь]]\n[[th:ก้าวย่างพร่างพราย]]\n[[tr:Yanan Adımlar]]\n[[vi:Dấu Chân Của Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56808,
+      "ns": 0,
+      "title": "Leaves in the Wind",
+      "revisions": [
+        {
+          "revid": 1715257,
+          "parentid": 1620446,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Kaedehara Kazuha\n|type      = Character Event Wishes\n}}\n'''Leaves in the Wind''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Scarlet Leaves Pursue Wild Waves\" [[Kaedehara Kazuha]] ({{Anemo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Freedom-Sworn]], a weapon tailored to Kaedehara Kazuha's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Leaves in the Wind\n|zhs     = 叶落风随\n|zhs_rm  = Yèluò Fēngsuí\n|zht     = 葉落風隨\n|zht_rm  = Yèluò Fēngsuí\n|zh_tl   = Leaves Fall and Go With the Wind\n|ja      = 辻風に舞う落葉\n|ja_rm   = Tsujikaze ni Mau Rakuyou{{Assumed}}\n|ja_tl   = Fallen Leaves Dancing in the Whirlwind\n|ko      = 바람에 지는 {{tt|낙엽|落葉}}\n|ko_rm   = Baram-e Jineun Nagyeop\n|ko_tl   = Fallen Leaves Scattering in The Wind\n|es      = Hojas en el viento\n|es_tl   = Leaves in the Wind\n|fr      = Feuilles dans le vent\n|fr_tl   = Leaves in the Wind\n|ru      = Листья на ветру\n|ru_tl   = Leaves in the Wind\n|th      = ใบไม้ร่วงตามสายลม\n|th_rm   = Baimai ruang tam sailom\n|th_tl   = Autumn Leaves in the Wind\n|vi      = Lá Rụng Theo Gió\n|vi_tl   = Fallen Leaves Drift With the Wind\n|de      = Blätter im Wind\n|de_tl   = Leaves in the Wind\n|id      = Dedaunan di Tengah Angin\n|id_tl   = Leaves in the Wind\n|pt      = Folhas ao Vento\n|pt_tl   = Leaves in the Wind\n|tr      = Rüzgardaki Yapraklar\n|tr_tl   = Leaves in the Wind\n|it      = Foglie nel vento\n|it_tl   = Leaves in the Wind\n}}\n\n==Change History==\n{{Change History|1.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Hojas en el viento]]\n[[fr:Feuilles dans le vent]]\n[[it:Foglie nel vento]]\n[[ja:辻風に舞う落葉]]\n[[pt-br:Folhas ao Vento]]\n[[ru:Листья на ветру]]\n[[th:ใบไม้ร่วงตามสายลม]]\n[[tr:Rüzgardaki Yapraklar]]\n[[vi:Lá Rụng Theo Gió]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 64054,
+      "ns": 0,
+      "title": "The Heron's Court",
+      "revisions": [
+        {
+          "revid": 1620462,
+          "parentid": 1609849,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Kamisato Ayaka\n|type      = Character Event Wishes\n}}\n'''The Heron's Court''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Frostflake Heron\" [[Kamisato Ayaka]] ({{Cryo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|The Heron's Court}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Mistsplitter Reforged]], a weapon tailored to Kamisato Ayaka's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = The Heron's Court\n|zhs     = 白鹭之庭\n|zhs_rm  = Báilù zhī Tíng\n|zht     = 白鷺之庭\n|zht_rm  = Báilù zhī Tíng\n|zh_tl   = Garden of the White Heron\n|ja      = 白鷺の庭\n|ja_rm   = Shirasagi no Niwa{{Assumed}}\n|ja_tl   = Garden of the White Heron\n|ko      = {{tt|백로|白鷺}}의 {{tt|정원|庭園}}\n|ko_rm   = Baekro-ui Jeongwon\n|ko_tl   = Garden of the White Heron\n|es      = Elegancia de la garza\n|es_tl   = Elegance of the Heron\n|fr      = Prestance du héron\n|fr_tl   = Presence of the Heron\n|ru      = Сад белой цапли\n|ru_tl   = Garden of the White Heron\n|th      = ตำหนักกระเรียนขาว\n|th_rm   = Tamnak krarian khao\n|th_tl   = White Crane's Palace\n|vi      = {{tt|Bạch Hạc Đình|白鶴庭}}\n|vi_tl   = White Crane Garden\n|de      = Kranichhof\n|de_tl   = Crane's Court\n|id      = Pelataran Bangau Putih\n|id_tl   = White Crane's Court\n|pt      = Jardim da Garça\n|pt_tl   = Heron's Garden\n|tr      = Balıkçılın Alanı\n|tr_tl   = Area of Heron\n|it      = La corte dell'airone\n|it_tl   = The Court of the Heron\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Prestance du héron]]\n[[id:Pelataran Bangau Putih]]\n[[it:La corte dell'airone]]\n[[ja:白鷺の庭]]\n[[pt-br:Jardim da Garça]]\n[[ru:Сад белой цапли]]\n[[th:ตำหนักกระเรียนขาว]]\n[[tr:Balıkçılın Alanı]]\n[[uk:Сад білої чаплі]]\n[[vi:Bạch Hạc Đình]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 64055,
+      "ns": 0,
+      "title": "Tapestry of Golden Flames",
+      "revisions": [
+        {
+          "revid": 1759294,
+          "parentid": 1620458,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Yoimiya\n|type      = Character Event Wishes\n}}\n'''Tapestry of Golden Flames''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Frolicking Flames\" [[Yoimiya]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Thundering Pulse]], a weapon tailored to Yoimiya's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Tapestry of Golden Flames\n|zhs     = 焰色天河\n|zhs_rm  = Yànsè Tiānhé\n|zht     = 焰色天河\n|zht_rm  = Yànsè Tiānhé\n|zh_tl   = Flame-Colored Milky Way\n|ja      = 天の川に咲きし大輪\n|ja_rm   = Amanogawa ni Sakishi Tairin\n|ja_tl   = A Large Flower Blooms in the Milky Way\n|ko      = {{tt|은하수|銀河水}}를 물들인 불꽃\n|ko_tl   = Flames Coloring the Milky Way\n|es      = Tapiz del fuego áureo\n|es_tl   = Tapestry of the Golden Fire\n|fr      = Draperie d'étincelles dorées\n|fr_tl   = Drapery of Golden Sparks\n|ru      = Гобелен золотого пламени\n|ru_tl   = Tapestry of Golden Flame\n|th      = ทะเลดาวแห่งเปลวเพลิง\n|th_rm   = Thale dao haeng pleo phloeng\n|th_tl   = Galaxy of Flames\n|th_note = {{th|ทะเลดาว|rm=thale dao}} literally translates to \"sea (of) stars,\" which can also refer to a galaxy.\n|vi      = {{tt|Thiên Hà|天河}} Rực Lửa\n|vi_tl   = Blazing Galaxy\n|de      = Flammengalaxie\n|de_tl   = Galaxy of Flames\n|id      = Pijar Api di Angkasa\n|id_tl   = Incandescent Flames on the Sky\n|pt      = Chama da Via Láctea\n|pt_tl   = Flame of the Milky Way\n|tr      = Altın Alevlerin Örgüsü\n|tr_tl   = Weave of Golden Flames\n|it      = Drappi di fiamme dorate\n|it_tl   = Drapes of Golden Flames\n}}\n\n==Change History==\n{{Change History|2.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Draperie d'étincelles dorées]]\n[[it:Drappi di fiamme dorate]]\n[[ja:天の川に咲きし大輪]]\n[[pt-br:Chama da Via Láctea]]\n[[ru:Гобелен золотого пламени]]\n[[th:ทะเลดาวแห่งเปลวเพลิง]]\n[[tr:Altın Alevlerin Örgüsü]]\n[[uk:Полум'яна галактика]]\n[[vi:Thiên Hà Rực Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 80330,
+      "ns": 0,
+      "title": "Reign of Serenity",
+      "revisions": [
+        {
+          "revid": 1620452,
+          "parentid": 1609851,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Raiden Shogun\n|type      = Character Event Wishes\n}}\n'''Reign of Serenity''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Plane of Euthymia\" [[Raiden Shogun]] ({{Electro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Engulfing Lightning]], a weapon tailored to the Raiden Shogun's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Reign of Serenity\n|zhs     = 影寂天下人\n|zhs_rm  = Yǐngjì Tiānxiàrén\n|zht     = 影寂天下人\n|zht_rm  = Yǐngjì Tiānxiàrén\n|zh_tl   = Ruler With a Lonely Shadow\n|ja      = 影寂の天下人\n|ja_rm   = Eijaku no Tenkabito{{Assumed}}\n|ja_tl   = Ruler With a Lonely Shadow\n|ko      = {{tt|정토|淨土}} 좇는 {{tt|천하인|天下人}}\n|ko_rm   = Jeongto Jonneun Cheonha'in\n|ko_tl   = Ruler Seeking {{w|Pure land|Pure Land}}\n|ko_note = The term for {{Lang|\"Pure Land\"|ko={{tt|정토|淨土}}|ko_rm=jeongto}} is also used in the Korean name of {{Lang|[[Plane of Euthymia]]|ko={{tt|일심정토|一心淨土}}|ko_rm=Ilsim Jeongto}}. \"Pure Land\" by itself has sometimes been localized in English as \"eternal paradise.\"\n|es      = Reino de la serenidad\n|es_tl   = Kingdom of Serenity\n|fr      = Règne de sérénité\n|fr_tl   = Reign of Serenity\n|ru      = Господство безмятежности\n|ru_tl   = Reign of Serenity\n|th      = บัลลังก์แห่งนิรันดร์\n|th_rm   = Banlang haeng niranda\n|th_tl   = Throne of Eternity\n|vi      = {{tt|Cô Độc|孤獨}} Giữa {{tt|Nhân Gian|人間}}\n|vi_tl   = Lonely Amidst the Realm\n|de      = Im Schatten der Welt\n|de_tl   = In the Shadow of the World\n|id      = Sang Penguasa Tunggal\n|id_tl   = A Single Ruler\n|pt      = Reino da Serenidade\n|pt_tl   = Reign of Serenity\n|tr      = Huzur Saltanatı\n|tr_tl   = Reign of Serenity\n|it      = Regno della serenità\n|it_tl   = Reign of Serenity\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Règne de sérénité]]\n[[it:Regno della serenità]]\n[[ja:影寂の天下人]]\n[[pt-br:Reino da Serenidade]]\n[[ru:Господство безмятежности]]\n[[th:บัลลังก์แห่งนิรันดร์]]\n[[tr:Huzur Saltanatı]]\n[[uk:Панування спокою]]\n[[vi:Cô Độc Giữa Nhân Gian]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 80331,
+      "ns": 0,
+      "title": "Drifting Luminescence",
+      "revisions": [
+        {
+          "revid": 1620436,
+          "parentid": 1609852,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Sangonomiya Kokomi\n|type      = Character Event Wishes\n}}\n'''Drifting Luminescence''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Pearl of Wisdom\" [[Sangonomiya Kokomi]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Everlasting Moonglow]], a weapon tailored to Sangonomiya Kokomi's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Drifting Luminescence\n|zhs     = 浮岳虹珠\n|zhs_rm  = Fúyuè Hóngzhū\n|zht     = 浮嶽虹珠\n|zht_rm  = Fúyuè Hóngzhū\n|zh_tl   = Rainbow Pearl Floating in the Mountains\n|ja      = 海原に浮かぶ虹珠\n|ja_rm   = Unabara ni Ukabu Nijitama{{Assumed}}\n|ja_tl   = Rainbow Pearl Drifting in the Ocean\n|ko      = {{tt|산악|山嶽}}에 뜬 구슬\n|ko_rm   = Sanag-e Tteun Guseul\n|ko_tl   = Marbles Floating on the Mountains\n|es      = Brillo del océano\n|es_tl   = Ocean's Shine\n|fr      = Luminescence à la dérive\n|fr_tl   = Luminescence Adrift\n|ru      = Дрейфующее свечение\n|ru_tl   = Drifting Luminescence\n|th      = ไข่มุกประกายรุ้ง\n|th_rm   = Khaimuk prakai rung\n|th_tl   = Shining Rainbow Pearl\n|vi      = {{tt|Hồng Châu|虹珠}} Trôi Nổi\n|vi_tl   = Drifting Pearl\n|de      = Treibende Perle\n|de_tl   = Drifting Pearl\n|id      = Mutiara di Atas Laut\n|id_tl   = Pearl on the Sea\n|pt      = Luminescência à Deriva\n|pt_tl   = Luminescence Adrift\n|tr      = Okyanus İncisi\n|tr_tl   = Ocean Pearl\n|it      = Luminescenza alla deriva\n|it_tl   = Drifting Luminescence\n}}\n\n==Change History==\n{{Change History|2.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Luminescence à la dérive]]\n[[id:Mutiara di Atas Laut]]\n[[it:Luminescenza alla deriva]]\n[[ja:海原に浮かぶ虹珠]]\n[[pt-br:Luminescência à Deriva]]\n[[ru:Дрейфующее свечение]]\n[[th:ไข่มุกประกายรุ้ง]]\n[[tr:Okyanus İncisi]]\n[[vi:Hồng Châu Trôi Nổi]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 103637,
+      "ns": 0,
+      "title": "Oni's Royale",
+      "revisions": [
+        {
+          "revid": 1724614,
+          "parentid": 1620451,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Arataki Itto\n|type      = Character Event Wishes\n}}\n'''Oni's Royale''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Hanamizaka Heroics\" [[Arataki Itto]] ({{Geo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Oni's Royale}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Redhorn Stonethresher]], a weapon tailored to Arataki Itto's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Oni's Royale\n|zhs      = 鬼门斗宴\n|zhs_rm   = Guǐmén Dòuyàn\n|zht      = 鬼門鬥宴\n|zht_rm   = Guǐmén Dòuyàn\n|zh_tl    = Battle Feast at the Oni Gates\n|ja       = 鬼門闘宴\n|ja_rm    = Kimon Touen{{Assumed}}\n|ja_tl    = Battle Feast at the Oni Gates\n|ko       = {{tt|귀문투연|鬼門鬪宴}}\n|ko_rm    = Gwimun Tuyeon\n|ko_tl    = Battle Feast at the Oni Gates\n|es       = Contienda oni\n|es_tl    = Oni Contest\n|fr       = Baroud d'Oni\n|fr_tl    = Oni's Last Stand\n|fr_note  = Alteration of {{fr|baroud d'honneur|last stand,}} replacing {{fr|d'honneur}} with {{fr|d'Oni}}.\n|ru       = Пиршество óни\n|ru_tl    = Oni's Feast\n|th       = ห้วงอสูรประจัญบาน\n|th_rm    = Huang asun prachanban\n|th_tl    = Battle of the Demons' Realm\n|vi       = {{tt|Yến Tiệc Quỷ Môn|<!--鬼門鬥宴-->}}\n|vi_tl    = Battle Feast at the Demon's Gate\n|de       = Onibankett\n|de_tl    = Oni's Banquet\n|id       = Perjamuan Oni\n|id_tl    = Oni's Banquet\n|pt       = Batalha do Reino Oni\n|pt_tl    = Battle of the Oni Kingdom\n|tr       = Oni'nin Krallığı\n|tr_tl    = Oni's Kingdom\n|it       = Contesa di Oni\n|it_tl    = Oni Contention\n}}\n\n==Change History==\n{{Change History|2.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Contienda oni]]\n[[fr:Baroud d'Oni]]\n[[it:Contesa di Oni]]\n[[ja:鬼門闘宴]]\n[[pt-br:Batalha do Reino Oni]]\n[[ru:Пиршество óни]]\n[[th:ห้วงอสูรประจัญบาน]]\n[[tr:Oni'nin Krallığı]]\n[[vi:Yến Tiệc Quỷ Môn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 111896,
+      "ns": 0,
+      "title": "The Transcendent One Returns",
+      "revisions": [
+        {
+          "revid": 1620463,
+          "parentid": 1609860,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Shenhe\n|type      = Character Event Wishes\n}}\n'''The Transcendent One Returns''' is a [[Character Event Wish]] with the 5-Star [[Character]] \"Lonesome Transcendence\" [[Shenhe]] ({{Cryo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Calamity Queller]], a weapon tailored to Shenhe's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = The Transcendent One Returns\n|zhs     = 出尘入世\n|zhs_rm  = Chū Chén Rù Shì\n|zht     = 出塵入世\n|zht_rm  = Chū Chén Rù Shì\n|zh_tl   = The Transcendent Returns to the Mortal World\n|ja      = 塵世に戻りし一鶴\n|ja_rm   = Jinsei ni Modorishi Ikkaku\n|ja_tl   = The One Crane That Returns to the Mortal World\n|ko      = 속세<->의 귀객\n|ko_tl   = Distinguished Guest of World\n|es      = Advenimiento trascendental\n|es_tl   = Trascendental Advent\n|fr      = Retour de la sublimée\n|fr_tl   = Return of the Sublimed One\n|ru      = Возвращение в мир смертных\n|ru_tl   = Return to the Mortal World\n|th      = จากพันธนาการสู่แดนมนุษย์\n|th_rm   = Chak Phanthanakan Su Daen Manut\n|th_tl   = From Bondage to the Mortal Realm\n|vi      = {{tt|Xuất Trần Nhập Thế|出塵入世}}\n|vi_tl   = The Transcendent Returns to the Mortal World{{Sino|vi}}\n|de      = Rückkehr aus der Abgeschiedenheit\n|de_tl   = Return from Seclusion\n|id      = Kembali ke Dunia Fana\n|id_tl   = Return to the Mortal World\n|pt      = A Volta do Transcendente\n|pt_tl   = The Return of the Transcendent\n|pt_note = {{pt|Do Transcendente}} is a masculine term.\n|tr      = İnzivadan Dönüş\n|tr_tl   = Return from Seclusion\n|it      = Evento trascendentale\n|it_tl   = Transcendental Event\n}}\n\n==Change History==\n{{Change History|2.4}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Retour de la sublimée]]\n[[it:Evento trascendentale]]\n[[ja:塵世に戻りし一鶴]]\n[[pt-br:A Volta do Transcendente]]\n[[ru:Возвращение в мир смертных]]\n[[th:จากพันธนาการสู่แดนมนุษย์]]\n[[tr:İnzivadan Dönüş]]\n[[vi:Xuất Trần Nhập Thế]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 120540,
+      "ns": 0,
+      "title": "Everbloom Violet",
+      "revisions": [
+        {
+          "revid": 1620438,
+          "parentid": 1609862,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Yae Miko\n|type      = Character Event Wishes\n}}\n'''Everbloom Violet''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Astute Amusement\" [[Yae Miko]] ({{Electro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Kagura's Verity]], a weapon tailored to Yae Miko's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Everbloom Violet\n|zhs       = 华紫樱绯\n|zhs_rm    = Huázǐ Yīngfēi\n|zht       = 華紫櫻緋\n|zht_rm    = Huázǐ Yīngfēi\n|zh_tl     = Violet Blossom, Scarlet Sakura\n|ja        = 華紫櫻緋\n|ja_rm     = Kashi Ouhi{{Assumed}}\n|ja_tl     = Violet Blossom, Scarlet Sakura\n|ko        = {{tt|자홍|紫紅}}의 벚꽃\n|ko_rm     = Jahong-ui Beotkkot\n|ko_tl     = Magenta Cherry Blossoms\n|es        = Púrpura perpetuo\n|es_tl     = Perpetual Purple\n|fr        = Infinité violette\n|fr_tl     = Violet Infinity\n|ru        = Вечноцветущий пурпур\n|ru_tl     = Everblooming Purple\n|th        = กลบุปผาม่วง\n|th_rm     = Kon buppha muang\n|th_tl     = Purple Flower Trickery\n|vi        = Sắc Tím Hoa Đào\n|vi_tl     = Peach Blossom's Violet\n|de        = Violette Blütenwolken\n|de_tl     = Violet Blossomclouds\n|id        = Lembayung Sakura\n|id_tl     = Violet Sakura <!-- Lembayung is rarely used word in Indonesian language. But it can mean \"Violet\" or \"Twilight\". So let's just follow the English name -->\n|pt        = Sakura Roxa Eterna\n|pt_tl     = Eternal Purple Sakura\n|tr        = Solmayan Menekşe\n|tr_tl     = Never Wither Violet\n|it        = Viola perpetua\n|it_tl     = Perpetual Violet\n}}\n\n==Change History==\n{{Change History|2.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Infinité violette]]\n[[id:Lembayung Sakura]]\n[[it:Viola perpetua]]\n[[ja:華紫櫻緋]]\n[[pt-br:Sakura Roxa Eterna]]\n[[ru:Вечноцветущий пурпур]]\n[[th:กลบุปผาม่วง]]\n[[tr:Solmayan Menekşe]]\n[[vi:Sắc Tím Hoa Đào]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 126442,
+      "ns": 0,
+      "title": "Azure Excursion",
+      "revisions": [
+        {
+          "revid": 1620427,
+          "parentid": 1609863,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Kamisato Ayato\n|type      = Character Event Wishes\n}}\n'''Azure Excursion''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Pillar of Fortitude\" [[Kamisato Ayato]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Haran Geppaku Futsu]], a weapon tailored to Kamisato Ayato's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Azure Excursion\n|zhs       = 苍流踏花\n|zhs_rm    = Cāngliú Tàhuā\n|zht       = 蒼流踏花\n|zht_rm    = Cāngliú Tàhuā\n|zh_tl     = Azure Stream Treading Flowers\n|ja        = 花踏み歩む蒼流\n|ja_rm     = Hana Fumi Ayumu Souryuu{{Assumed}}\n|ja_tl     = The Azure Flow Treading Upon Flowers\n|ko        = 푸른 물결 속 가벼운 걸음\n|ko_rm     = Pureun Mulgyeol Sok Gabyeo'un Georeum\n|ko_tl     = Light Steps in the Blue Wave\n|es        = Incursión cerúlea\n|es_tl     = Cerulean Incursion\n|fr        = Excursion azurée\n|fr_tl     = Azure Excursion\n|ru        = Лазурный поход\n|ru_tl     = Azure Campaign\n|th        = ย่ำบุปผาธาราคราม\n|th_rm     = Yam Buppha Thara Kram\n|th_tl     = Treading on Flowers and Indigo Streams\n|vi        = Dạo Bước Bên Hoa\n|vi_tl     = Walking With Flowers\n|de        = Fluss der blassen Blätter\n|de_tl     = River of Pale Leaves\n|id        = Ketenangan Riak Air\n|id_tl     = Tranquility of Water Ripple\n|pt        = Correntes Florais\n|pt_tl     = Floral Currents\n|tr        = Masmavi Yolculuk\n|tr_tl     = Deep Blue Voyage\n|it        = Escursione cerulea\n|it_tl     = Cerulean Excursion\n}}\n\n==Change History==\n{{Change History|2.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Excursion azurée]]\n[[it:Escursione cerulea]]\n[[ja:花踏み歩む蒼流]]\n[[pt-br:Correntes Florais]]\n[[ru:Лазурный поход]]\n[[th:ย่ำบุปผาธาราคราม]]\n[[tr:Masmavi Yolculuk]]\n[[uk:Лазурний потік квітів]]\n[[vi:Dạo Bước Bên Hoa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 136056,
+      "ns": 0,
+      "title": "Discerner of Enigmas",
+      "revisions": [
+        {
+          "revid": 1620435,
+          "parentid": 1609865,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Yelan\n|type      = Character Event Wishes\n}}\n'''Discerner of Enigmas''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Valley Orchid\" [[Yelan]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Aqua Simulacra]], a weapon tailored to Yelan's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Discerner of Enigmas\n|zhs       = 素霓伣天\n|zhs_rm    = Sùní Xiàn Tiān{{Assumed}}\n|zht       = 素霓俔天\n|zht_rm    = Sùní Xiàn Tiān{{Assumed}}\n|zh_tl     = White Rainbow Spying on the Sky\n|ja        = 天を諜知せし白袖\n|ja_rm     = Ten wo Chouchiseshi Shirosode{{Assumed}}\n|ja_tl     = White Sleeves Spying Out the Sky\n|ko        = 하늘을 {{tt|정탐|偵探}}하는 {{tt|백홍|白虹}}\n|ko_rm     = Haneul-eul Jeongtamhaneun Baekhong\n|ko_tl     = White Rainbow Spying Out The Sky\n|es        = Revelación enigmática\n|es_tl     = Enigmatic Revelation\n|fr        = Discerneuse d'énigmes\n|fr_tl     = Discerner of Enigmas\n|ru        = Белая радуга\n|ru_tl     = White Rainbow\n|th        = รุ้งหมอกกลางเวหา\n|th_rm     = Rung mok klang weha\n|th_tl     = Fog Rainbow in the Sky\n|vi        = Tố Nghê Hiện Thiên\n|vi_tl     = \n|de        = Lüftung himmlischer Geheimnisse\n|de_tl     = Lifting of Celestial Mysteries\n|id        = Sang Pengungkap Misteri\n|id_tl     = The Mystery Revealer\n|pt        = Discernidora de Enigmas\n|pt_tl     = Discerner of Enigmas\n|tr        = Gizemlerin Şahidi\n|tr_tl     = Witness of Mysteries\n|it        = L'Enigmista\n|it_tl     = The Riddler\n}}\n\n==Change History==\n{{Change History|2.7}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Discerneuse d'énigmes]]\n[[it:L'Enigmista]]\n[[ja:天を諜知せし白袖]]\n[[pt-br:Discernidora de Enigmas]]\n[[ru:Белая радуга]]\n[[th:รุ้งหมอกกลางเวหา]]\n[[tr:Gizemlerin Şahidi]]\n[[vi:Tố Nghê Hiện Thiên]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 153964,
+      "ns": 0,
+      "title": "Viridescent Vigil",
+      "revisions": [
+        {
+          "revid": 1620467,
+          "parentid": 1609876,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Tighnari\n|type      = Character Event Wishes\n}}\n'''Viridescent Vigil''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Verdant Strider\" [[Tighnari]] ({{Dendro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Hunter's Path]], a weapon tailored to Tighnari's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Viridescent Vigil\n|zhs       = 巡御蘙荟\n|zhs_rm    = Xúnyù Yìhuì\n|zht       = 巡禦翳薈\n|zht_rm    = Xúnyù Yìhuì\n|zh_tl     = \n|ja        = 深き森の巡回者\n|ja_rm     = Fukaki Mori no Junkai-sha\n|ja_tl     = Patrolman of the Deep Forest\n|ko        = 숲속 {{tt|순회|巡廻}}\n|ko_tl     = Forest Circuit\n|es        = Vigía viridiano\n|es_tl     = Viridian Watcher\n|fr        = Veillée écologique\n|fr_tl     = Ecologic Vigil\n|ru        = Патруль лесной чащи\n|ru_tl     = Patrol of the Forest Thicket\n|th        = พิทักษ์ไพรวัน\n|th_rm     = Pithak Praiwan\n|th_tl     = Protect the Forest\n|vi        = Thủ Hộ Sắc Xanh\n|vi_tl     = Green Guardian\n|de        = Wachgang im Dickicht\n|de_tl     = Guard Passage Within the Thicket\n|id        = Langkah Suaka Rimba\n|id_tl     = Steps of Forest Sanctuary\n|pt        = Patrulha Esverdeada\n|pt_tl     = Greenish Patrol\n|tr        = Yeşil Nöbet\n|tr_tl     = Green Watch\n|it        = Veglia verdastra\n|it_tl     = Greenish Vigil\n}}\n\n==Change History==\n{{Change History|3.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Veillée écologique]]\n[[it:Veglia verdastra]]\n[[ja:深き森の巡回者]]\n[[pt-br:Patrulha Esverdeada]]\n[[ru:Патруль лесной чащи]]\n[[th:พิทักษ์ไพรวัน]]\n[[tr:Yeşil Nöbet]]\n[[uk:Патруль пишного цвітіння]]\n[[vi:Thủ Hộ Sắc Xanh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 167246,
+      "ns": 0,
+      "title": "Twilight Arbiter",
+      "revisions": [
+        {
+          "revid": 1620465,
+          "parentid": 1609866,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Cyno\n|type      = Character Event Wishes\n}}\n'''Twilight Arbiter''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Judicator of Secrets\" [[Cyno]] ({{Electro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Staff of the Scarlet Sands]], a weapon tailored to Cyno's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Twilight Arbiter\n|zhs     = 雳裁冥昭\n|zhs_rm  = Lì Cái Míngzhāo\n|zht     = 靂裁冥昭\n|zht_rm  = Lì Cái Míngzhāo\n|zh_tl   = Thunder's Judgment of Darkness from Brightness\n|zh_note = {{zh|冥昭|tl=darkness and brightness}} may be a reference to the idiom {{zh|冥昭瞢闇|rm=míngzhāo-méng'àn}}, which describes a liminal state between day and night during which the time of day is unclear.\n|ja      = 冥昼の裁定\n|ja_rm   = Chuumei no Saitei{{Assumed}}\n|ja_tl   = Judgment of the Dark Daytime\n|ko      = {{tt|황혼|黃昏}}을 가르는 번개의 {{tt|심판|審判}}\n|ko_rm   = Hwanghoneul Gareuneun Beongae-ui Simpan\n|ko_tl   = Judgment of Lightning Dividing the Twilight\n|es      = Sentencia del crepúsculo\n|es_tl   = Judgment of Twilight\n|fr      = Arbitre du crépuscule\n|fr_tl   = Twilight Arbiter\n|ru      = Сумеречный вершитель\n|ru_tl   = Twilight Executor\n|th      = ตุลาการสนธยา\n|th_rm   = Tulakarn Sonthaya\n|th_tl   = Twilight Arbiter\n|vi      = Tà Dương Phán Quyết\n|vi_tl   = Judgment of the Setting Sun\n|de      = Schiedsspruch der Dämmerung\n|de_tl   = Arbitrament of Twilight\n|id      = Hakim Senja\n|id_tl   = Twilight Judge\n|pt      = Árbitro do Crepúsculo\n|pt_tl   = Twilight Arbiter\n|tr      = Alacakaranlık Yargıcı\n|tr_tl   = Twilight Judge\n|it      = Giudice del crepuscolo\n|it_tl   = Judge of the Twilight\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Arbitre du crépuscule]]\n[[it:Giudice del crepuscolo]]\n[[ja:冥昼の裁定]]\n[[pt-br:Árbitro do Crepúsculo]]\n[[ru:Сумеречный вершитель]]\n[[th:ตุลาการสนธยา]]\n[[tr:Alacakaranlık Yargıcı]]\n[[uk:Сутінковий суддя]]\n[[vi:Tà Dương Phán Quyết]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 167247,
+      "ns": 0,
+      "title": "Twirling Lotus",
+      "revisions": [
+        {
+          "revid": 2028496,
+          "parentid": 1620466,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Nilou\n|type      = Character Event Wishes\n}}\n'''Twirling Lotus''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Dance of Lotuslight\" [[Nilou]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Key of Khaj-Nisut]], a weapon tailored to Nilou's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Twirling Lotus\n|zhs       = 翩舞歈莲\n|zhs_rm    = Piānwǔ Yúlián\n|zht       = 翩舞歈蓮\n|zht_rm    = Piānwǔ Yúlián\n|zh_tl     = Fluttering Dance Song Lotus\n|ja        = 優々たる蓮歌の舞\n|ja_rm     = Yuuyuu-taru Renka no Mai\n|ja_tl     = Graceful Dance of the Lotus Song\n|ko        = 사뿐한 수련의 춤\n|ko_rm     = Sappunhan Suryeon-ui Chum\n|ko_tl     = Soft Water Lily's Dance\n|es        = Revoloteo de los lotos\n|es_tl     = Fluttering of the Lotuses\n|fr        = Lotus tournoyant\n|fr_tl     = Twirling Lotus\n|ru        = Кружащийся лотос\n|ru_tl     = Twirling Lotus\n|th        = นิโลตบลเริงระบำ\n|th_rm     = \n|th_tl     = \n|vi        = Cánh Sen Đung Đưa\n|vi_tl     = Swaying Lotus Petals\n|de        = Wirbelnder Lotos\n|de_tl     = Twirling Lotus\n|id        = Tarian Limbai Teratai\n|id_tl     = Lotus Swing Dance\n|pt        = Lótus Giratória\n|pt_tl     = Revolving Lotus\n|tr        = Nilüferlerin Dansı\n|tr_tl     = Dance of Lotus\n|it        = Loto volteggiante\n|it_tl     = Twirling Lotus\n}}\n\n==Change History==\n{{Change History|3.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Lotus tournoyant]]\n[[it:Loto volteggiante]]\n[[ja:優々たる蓮歌の舞]]\n[[pt-br:Lótus Giratória]]\n[[ru:Кружащийся лотос]]\n[[th:นิโลตบลเริงระบำ]]\n[[tr:Nilüferlerin Dansı]]\n[[uk:Лотос у кружлянні]]\n[[vi:Cánh Sen Đung Đưa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 178494,
+      "ns": 0,
+      "title": "The Moongrass' Enlightenment",
+      "revisions": [
+        {
+          "revid": 1620464,
+          "parentid": 1609868,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Nahida\n|type      = Character Event Wishes\n}}\n'''The Moongrass' Enlightenment''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Physic of Purity\" [[Nahida]] ({{Dendro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[A Thousand Floating Dreams]], a weapon tailored to Nahida's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = The Moongrass' Enlightenment\n|zhs     = 月草的赐慧\n|zhs_rm  = Yuècǎo de Cìhuì\n|zht     = 月草的賜慧\n|zht_rm  = Yuècǎo de Sìhuì\n|zh_tl   = The Moongrass's Bestowed Wisdom\n|ja      = 叡智を恵む月見草\n|ja_rm   = Eichi wo Megumu Tsukimisou\n|ja_tl   = Evening Primrose that Gives Wisdom\n|ko      = 달빛 풀이 내린 지혜\n|ko_tl   = The Wisdom Given by Moonlight Grass\n|es      = Iluminación verdeluna\n|es_tl   = Greenmoon Enlightenment\n|fr      = Dessillement de l'herbe lunaire\n|fr_tl   = The Moongrass' {{wt|unseel|Unseeling}}\n|ru      = Озарение лунной травы\n|ru_tl   = Moongrass' Insight\n|th      = หญ้าแสงจันทร์ประทานปัญญา\n|th_rm   = Ya Saengchan Pra-Than Panya\n|th_tl   = The Wisdom Given by Moonlight Grass\n|vi      = Giác Ngộ Nguyệt Thảo\n|vi_tl   = Moongrass Enlightenment\n|de      = Erleuchtung des Mondgrases\n|de_tl   = Enlightenment of the Moongrass\n|id      = Anugerah Kebijaksanaan Rumput Rembulan\n|id_tl   = The Moonlight Grass' Gift of Wisdom\n|pt      = A Sabedoria da Erva da Lua\n|pt_tl   = The Moongrass' Wisdom\n|tr      = Ay Otunun Bilgeliği\n|tr_tl   = The Moongrass' Wisdom\n|it      = L'illuminazione dell'Erba lunare\n|it_tl   = The Illumination of the Lunar Grass\n}}\n\n==Change History==\n{{Change History|3.2}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Dessillement de l'herbe lunaire]]\n[[it:L'illuminazione dell'Erba lunare]]\n[[ja:叡智を恵む月見草]]\n[[pt-br:A Sabedoria da Erva da Lua]]\n[[ru:Озарение лунной травы]]\n[[th:หญ้าแสงจันทร์ประทานปัญญา]]\n[[tr:Ay Otunun Bilgeliği]]\n[[uk:Мудрість місячної трави]]\n[[vi:Giác Ngộ Nguyệt Thảo]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 187702,
+      "ns": 0,
+      "title": "From Ashes Reborn",
+      "revisions": [
+        {
+          "revid": 1724617,
+          "parentid": 1620440,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Wanderer\n|type      = Character Event Wishes\n}}\n'''From Ashes Reborn''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Eons Adrift\" [[Wanderer]] ({{Anemo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|From Ashes Reborn}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Tulaytullah's Remembrance]], a weapon tailored to the Wanderer's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = From Ashes Reborn\n|zhs      = 余火变相\n|zhs_rm   = Yúhuǒ Biànxiàng\n|zht      = 餘火變相\n|zht_rm   = Yúhuǒ Biànxiàng\n|zh_tl    = Reborn From Remnants of Fire\n|ja       = 残火変相\n|ja_rm    = Zanka Henshou\n|ja_tl    = Reborn From Remnants of Fire\n|zhja_note = {{ja|{{w|Ja:変相図|変相}}|rm=Biànxiàng/Hensou}} is a Buddhist term referring to pictures of paradise and hell, or Buddhist stories told through drawings.\n|ko       = 잿불 속 탈태\n|ko_rm    = Jaetppul Ssok Taltae\n|ko_tl    = Reborn From Ashes\n|es       = Renacido de las ascuas\n|es_tl    = Reborn from the Embers\n|fr       = Renaissant des cendres\n|fr_tl    = Reborn From Ashes\n|ru       = Прах перерождённый\n|ru_tl    = Ashes Reborn\n|th       = ไฟกัลป์ผลาญมลทิน\n|th_rm    = Fai kan phlan mon-thin\n|th_tl    = Kalpa Flame Exterminates Filth\n|vi       = Tro Tàn Tái Sinh\n|vi_tl    = Ashes Reborn\n|de       = Aus der Glut wiedergeboren\n|de_tl    = From Embers Reborn\n|id       = Inkarnasi Sisa Bara Api\n|id_tl    = Incarnation of the Remaining Ember\n|pt       = Fogo Oculto\n|pt_tl    = Hidden Fire\n|tr       = Küllerinden Doğan\n|tr_tl    = Reborn From Ashes\n|it       = Rinato dalle ceneri\n|it_tl    = Reborn from Ashes\n}}\n\n==Change History==\n{{Change History|3.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Renaissant des cendres]]\n[[it:Rinato dalle ceneri]]\n[[ja:残火変相]]\n[[pt-br:Fogo Oculto]]\n[[ru:Прах перерождённый]]\n[[th:ไฟกัลป์ผลาญมลทิน]]\n[[tr:Küllerinden Doğan]]\n[[vi:Tro Tàn Tái Sinh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 198573,
+      "ns": 0,
+      "title": "Caution in Confidence",
+      "revisions": [
+        {
+          "revid": 1773961,
+          "parentid": 1724626,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Alhaitham\n|type      = Character Event Wishes\n}}\n'''Caution in Confidence''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Admonishing Instruction\" [[Alhaitham]] ({{Dendro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Caution in Confidence}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Light of Foliar Incision]], a weapon tailored to Alhaitham's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Caution in Confidence\n|zhs      = 敕诫枢谋\n|zhs_rm   = Chìjiè Shūmóu\n|zht      = 敕誡樞謀\n|zht_rm   = Chìjiè Shūmóu\n|zh_tl    = Admonishment on Tactics at the Centre of Power\n|ja       = 戒勅枢策\n|ja_rm    = Kaichoku Suusaku{{Assumed}}\n|ja_tl    = Admonishment on Tactics at the Centre of Power\n|zhja_note = 枢 is a term literally meaning \"door hinge\" or \"pivot\", but metaphorically refers to a centre (of power).\n|ko       = 지략가의 경고\n|ko_rm    = Jiryakga-ui Gyeonggo\n|ko_tl    = A Clever Strategist's Warning\n|es       = Confidencia exhortativa\n|es_tl    = Exhortative Confidence\n|fr       = Prudence en toute confidence\n|fr_tl    = Caution in All Confidence\n|ru       = Сдержанное благоразумие\n|ru_tl    = Restrained Prudence\n|th       = เล่ห์ลับวาจาลวง\n|th_rm    = Le Lap Wacha Luang\n|th_tl    = Deceitful and Fraudulent Speech\n|vi       = Chìa Khóa Sắc Lệnh\n|vi_tl    = Key of the Decree\n|de       = Verhaltene Zuversicht\n|de_tl    = Restrained Confidence\n|id       = Perintah dan Siasat\n|id_tl    = Order and Strategy\n|pt       = Estratégia Imperativa\n|pt_tl    = Imperative Strategy\n|tr       = Stratejik Uyarı\n|tr_tl    = Strategic Warning\n|it       = Monito implacabile\n|it_tl    = Relentless Warning\n}}\n\n==Change History==\n{{Change History|3.4}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Prudence en toute confidence]]\n[[it:Monito implacabile]]\n[[ja:戒勅枢策]]\n[[pt-br:Estratégia Imperativa]]\n[[ru:Сдержанное благоразумие]]\n[[th:เล่ห์ลับวาจาลวง]]\n[[tr:Stratejik Uyarı]]\n[[uk:Осторога в конфіденційності]]\n[[vi:Chìa Khóa Sắc Lệnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 209217,
+      "ns": 0,
+      "title": "Auric Blaze",
+      "revisions": [
+        {
+          "revid": 2029682,
+          "parentid": 1724620,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Dehya\n|type      = Character Event Wishes\n}}\n'''Auric Blaze''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Flame-Mane\" [[Dehya]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Auric Blaze}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Beacon of the Reed Sea]], a weapon tailored to Dehya's gameplay mechanics.<!-- ARTICLE INFORMATION DOES NOT CARE ABOUT META -->\n\n==Other Languages==\n{{Other Languages\n|en       = Auric Blaze\n|zhs      = 烈阳烁金\n|zhs_rm   = Lièyáng Shuòjīn\n|zht      = 烈陽爍金\n|zht_rm   = Lièyáng Shuòjīn\n|zh_tl    = Blazing Sun and Molten Gold\n|ja       = 黄金を熔かす烈日\n|ja_rm    = Ougon wo Tokasu Retsujitsu\n|ja_tl    = Blazing Sun That Melts Gold\n|ko       = 타오르는 금빛 태양\n|ko_tl    = Blazing Golden Sun\n|es       = Resplandor aurífero\n|es_tl    = Auriferous Glow\n|fr       = Brasier aurique\n|fr_tl    = Auric Blaze\n|ru       = Пылающее золото\n|ru_tl    = Blazing Gold\n|th       = สุริยันสีทองที่แผดเผา\n|th_rm    = Suriyan Si Thong thi Phaetphao\n|th_tl    = Blazing Golden Sun\n|vi       = Nắng Vàng Rực Rỡ\n|vi_tl    = Brilliant Golden Sunlight\n|de       = Sengende Sonne und glühendes Gold\n|de_tl    = Scorching Sun and Glowing Gold\n|id       = Kilauan Bara Api Surya\n|id_tl    = The Shine of the Flaming Sun\n|pt       = Fulgor Dourado\n|pt_tl    = Golden Glow\n|tr       = Altın Alevler\n|tr_tl    = Golden Flames\n|it       = Fiamma dorata\n|it_tl    = Golden Flame\n}}\n\n==Change History==\n{{Change History|3.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Brasier aurique]]\n[[it:Fiamma dorata]]\n[[ja:黄金を熔かす烈日]]\n[[ru:Пылающее золото]]\n[[th:สุริยันสีทองที่แผดเผา]]\n[[tr:Altın Alevler]]\n[[vi:Nắng Vàng Rực Rỡ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 218938,
+      "ns": 0,
+      "title": "Immaculate Pulse",
+      "revisions": [
+        {
+          "revid": 1620443,
+          "parentid": 1609871,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Baizhu\n|type      = Character Event Wishes\n}}\n'''Immaculate Pulse''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Beyond Mortality\" [[Baizhu]] ({{Dendro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Immaculate Pulse}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Jadefall's Splendor]], a weapon tailored to Baizhu's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en        = Immaculate Pulse\n|zhs       = 心珠循琅\n|zhs_rm    = Xīnzhū Xúnláng\n|zht       = 心珠循琅\n|zht_rm    = Xīnzhū Xúnláng\n|zh_tl     = \n|ja        = 心珠循琅\n|ja_rm     = Shinshu Junrou{{Assumed}}\n|ja_tl     = Heart Pure as Pearl, Pulse as Jade\n|ko        = 옥처럼 맑은 마음\n|ko_tl     = Heart Pure Like Jade\n|es        = Latido inmaculado\n|es_tl     = Immaculate Heartbeat\n|fr        = Pouls immaculé\n|fr_tl     = Immaculate Pulse\n|ru        = Биение мудрого сердца\n|ru_tl     = Wise Heart's Pulse\n|th        = การุณย์บริสุทธิ์\n|th_rm     = Karun borisut\n|th_tl     = Pure Compassion\n|vi        = Tâm Sáng Tựa Ngọc\n|vi_tl     = \n|de        = Pulsierendes Leben\n|de_tl     = Pulsating Life\n|id        = Hati Semurni Mutiara\n|id_tl     = Heart as Pure as Pearl\n|pt        = Coração Imaculado\n|pt_tl     = Immaculate Heart\n|tr        = Yaşamın Nabzı\n|tr_tl     = Life's Pulse\n|it        = Battito immacolato\n|it_tl     = Immaculate Pulse\n}}\n\n==Change History==\n{{Change History|3.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Pouls immaculé]]\n[[it:Battito immacolato]]\n[[ja:心珠循琅]]\n[[pt-br:Coração Imaculado]]\n[[ru:Биение мудрого сердца]]\n[[th:การุณย์บริสุทธิ์]]\n[[tr:Yaşamın Nabzı]]\n[[vi:Tâm Sáng Tựa Ngọc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 241242,
+      "ns": 0,
+      "title": "Conjuring Chiaroscuro",
+      "revisions": [
+        {
+          "revid": 1773626,
+          "parentid": 1724613,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Lyney\n|type      = Character Event Wishes\n}}\n'''Conjuring Chiaroscuro''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Spectacle of Phantasmagoria\" [[Lyney]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Conjuring Chiaroscuro}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[The First Great Magic]], a weapon tailored to Lyney's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Conjuring {{w|Chiaroscuro}}\n|zhs      = 光与影的戏术\n|zhs_rm   = Guāng yǔ Yǐng de Xìshù\n|zht      = 光與影的戲術\n|zht_rm   = Guāng yǔ Yǐng de Xìshù\n|zh_tl    = Stage-tricks of Light and Shadow\n|ja       = 光と影のトリック\n|ja_rm    = Hikari to Kage no Torikku\n|ja_tl    = \n|ko       = 빛과 그림자<->의 트릭\n|ko_tl    = Trick of Light and Shadow\n|es       = Entre luces y sombras\n|es_tl    = Between Lights and Shadows\n|fr       = L'artifice du clair-obscur\n|fr_tl    = The Trickery of Chiaroscuro\n|ru       = Волшебство света и тени\n|ru_tl    = Magic of Light and Shadow\n|th       = กลมายาแสงเงา\n|th_rm    = Kon Maya Saeng Ngao\n|th_tl    = Magic of Light and Shadow\n|vi       = Ảo Thuật Tương Phản\n|vi_tl    = Magic of Contrast\n|de       = Zauber zwischen Licht und Schatten\n|de_tl    = Spell Between Light and Shadow\n|id       = Muslihat Bayang dan Terang\n|id_tl    = Trick of Shadow and Light\n|pt       = Técnica da Luz e Sombra\n|pt_tl    = Technique of Light and Shadow\n|tr       = Işık ve Gölge Oyunu\n|tr_tl    = Game of Light and Shadow\n|it       = Apparizione di Chiaroscuro\n|it_tl    = Apparition of Chiaroscuro\n}}\n\n==Change History==\n{{Change History|4.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:L'artifice du clair-obscur]]\n[[it:Apparizione di Chiaroscuro]]\n[[ja:光と影のトリック]]\n[[pt-br:Técnica da Luz e Sombra]]\n[[ru:Волшебство света и тени]]\n[[th:กลมายาแสงเงา]]\n[[tr:Işık ve Gölge Oyunu]]\n[[vi:Ảo Thuật Tương Phản]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 254132,
+      "ns": 0,
+      "title": "Decree of the Deeps",
+      "revisions": [
+        {
+          "revid": 1773629,
+          "parentid": 1620434,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Neuvillette\n|type      = Character Event Wishes\n}}\n'''Decree of the Deeps''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Ordainer of Inexorable Judgment\" [[Neuvillette]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Decree of the Deeps}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Tome of the Eternal Flow]], a weapon tailored to Neuvillette's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Decree of the Deeps\n|zhs      = 渊海界令\n|zhs_rm   = Yuānhǎi Jiè Lìng\n|zht      = 淵海界令\n|zht_rm   = Yuānhǎi Jiè Lìng\n|zh_tl    = Edict of Abyssal Depths\n|ja       = 淵海に令する者\n|ja_rm    = Enkai ni Reisuru Mono{{Assumed}}\n|ja_tl    = The One Who Commands the Deep Sea\n|ko       = 심해를 가르는 법령\n|ko_tl    = Legislation That Parts the Deep Sea\n|es       = Edicto abisal\n|es_tl    = Abyssal Edict\n|fr       = Décret des profondeurs\n|fr_tl    = Decree of the Depths\n|ru       = Завет глубин\n|ru_tl    = Covenant of the Deeps\n|th       = บัญชาแห่งห้วงสมุทร\n|th_rm    = Bancha haeng Huang Samut\n|th_tl    = Decree of the Ocean\n|vi       = Pháp Lệnh Biển Sâu\n|vi_tl    = \n|de       = Gebot über die Meerestiefen\n|de_tl    = Decree over the Ocean Depths\n|id       = Titah di Kedalaman Lautan\n|id_tl    = Order in the Depths of the Ocean\n|pt       = A Ordem das Profundezas\n|pt_tl    = The Order of the Dephts\n|tr       = Derinliklerin Fermanı\n|tr_tl    = Decree of the Depths\n|it       = Decreto delle profondità\n|it_tl    = Decree of the Depths\n}}\n\n==Change History==\n{{Change History|4.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Décret des profondeurs]]\n[[it:Decreto delle profondità]]\n[[ja:淵海に令する者]]\n[[pt-br:A Ordem das Profundezas]]\n[[ru:Завет глубин]]\n[[th:บัญชาแห่งห้วงสมุทร]]\n[[tr:Derinliklerin Fermanı]]\n[[vi:Pháp Lệnh Biển Sâu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 254133,
+      "ns": 0,
+      "title": "Tempestuous Destiny",
+      "revisions": [
+        {
+          "revid": 2029783,
+          "parentid": 1853268,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Wriothesley\n|type      = Character Event Wishes\n}}\n'''Tempestuous Destiny''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Emissary of Solitary Iniquity\" [[Wriothesley]] ({{Cryo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Tempestuous Destiny}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Cashflow Supervision]], a weapon tailored to Wriothesley's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Tempestuous Destiny\n|zhs      = 劫中泛滥\n|zhs_rm   = Jié Zhōng Fànlàn\n|zht      = 劫中泛濫\n|zht_rm   = Jié Zhōng Fànlàn\n|zh_tl    = Flooding Within a {{w|Kalpa (time)|Kalpa}}\n|ja       = 万劫に渡る氾濫\n|ja_rm    = Mangou ni Wataru Hanran{{Assumed}}\n|ja_tl    = \n|ko       = 요동치는 운명\n|ko_tl    = \n|es       = Destino tumultuoso\n|es_tl    = Tumultuous Destiny\n|fr       = Destin tumultueux\n|fr_tl    = Tumultuous Destiny\n|ru       = Бушующий рок\n|ru_tl    = Raging Fate\n|th       = ชะตาอันทุกข์เข็ญ\n|th_rm    = Chata an Thuk Khen\n|th_tl    = Misery Destiny\n|vi       = Sóng Gió Vận Mệnh\n|vi_tl    = Tempestuous Destiny\n|de       = Stürmisches Schicksal\n|de_tl    = Tempestuous Destiny\n|id       = Lilitan Takdir Menggelora\n|id_tl    = Coil of Tempestuous Destiny\n|pt       = Inundado Junto à Calamidade\n|pt_tl    = Flooded Alongside the Calamity\n|tr       = Çalkantılı Kader\n|tr_tl    = Turbulent Destiny\n|it       = Destino tempestoso\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|4.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Destin tumultueux]]\n[[it:Destino tempestoso]]\n[[ja:万劫に渡る氾濫]]\n[[ru:Бушующий рок]]\n[[th:ชะตาอันทุกข์เข็ญ]]\n[[tr:Çalkantılı Kader]]\n[[vi:Sóng Gió Vận Mệnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 265819,
+      "ns": 0,
+      "title": "Chanson of Many Waters",
+      "revisions": [
+        {
+          "revid": 1726715,
+          "parentid": 1661037,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Furina\n|type      = Character Event Wishes\n}}\n'''Chanson of Many Waters''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Endless Solo of Solitude\" [[Furina]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Chanson of Many Waters}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Splendor of Tranquil Waters]], a weapon tailored to Furina's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Chanson of Many Waters\n|zhs      = 众水的颂诗\n|zhs_rm   = Zhòngshuǐ de Sòngshī\n|zht      = 眾水的頌詩\n|zht_rm   = Zhòngshuǐ de Sòngshī\n|zh_tl    = Ode of Many Waters\n|ja       = 衆の水の頌歌\n|ja_rm    = Shuu no Mizu no Shouka\n|ja_tl    = Ode of Many Waters\n|ko       = 물들의 찬송시\n|ko_tl    = Hymn of Waters\n|es       = Oda a todas las aguas\n|es_tl    = Ode to All Waters\n|fr       = Chant de toutes les eaux\n|fr_tl    = Song of All Waters\n|ru       = Песнь водам мира\n|ru_tl    = Song to the World's Waters\n|th       = ขับขานลำเนาธาร\n|th_rm    = Khap Khan Lamnao Than\n|th_tl    = Ode of Streams\n|vi       = Muôn Nước Ca Tụng\n|vi_tl    = \n|de       = Chanson der Ströme\n|de_tl    = Chanson of Streams\n|id       = Kidung Semesta Perairan\n|id_tl    = Song of the Water Universe\n|pt       = Ode às Águas\n|pt_tl    = Ode to the Waters\n|tr       = Tüm Suların Şarkısı\n|tr_tl    = Song of All Waters\n|it       = Ode alle Mille Acque\n|it_tl    = Ode to the Thousand Waters\n}}\n\n==Change History==\n{{Change History|4.2}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Oda a todas las aguas]]\n[[fr:Chant de toutes les eaux]]\n[[it:Ode alle Mille Acque]]\n[[ja:衆の水の頌歌]]\n[[pt-br:Ode às Águas]]\n[[ru:Песнь водам мира]]\n[[th:ขับขานลำเนาธาร]]\n[[tr:Tüm Suların Şarkısı]]\n[[vi:Muôn Nước Ca Tụng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 274984,
+      "ns": 0,
+      "title": "In the Name of the Rosula",
+      "revisions": [
+        {
+          "revid": 1759291,
+          "parentid": 1637134,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Navia\n|type      = Character Event Wishes\n}}\n'''In the Name of the Rosula''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Helm of the Radiant Rose\" [[Navia]] ({{Geo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The name may be a reference to the novel ''{{w|The Name of the Rose}}'' by Italian author Umberto Eco.\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Verdict]], a weapon tailored to Navia's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = In the Name of the Rosula\n|zhs      = 刺玫的铭誓\n|zhs_rm   = Cìméi de Míngshì\n|zht      = 刺玫的銘誓\n|zht_rm   = \n|zh_tl    = \n|ja       = 棘薔薇の誓い\n|ja_rm    = Togebara no Chikai{{Assumed}}\n|ja_tl    = \n|ko       = 가시 장미<->의 맹세\n|ko_tl    = Oath of the Thorned Rose\n|es       = Juramento de las rosas\n|es_tl    = Oath of the Roses\n|fr       = Au nom de la Rosula\n|fr_tl    = In the Name of the Rosula\n|ru       = Во имя розы\n|ru_tl    = In the Name of the Rose\n|th       = ปฏิญาณแห่งกุหลาบหนาม\n|th_rm    = \n|th_tl    = \n|vi       = Nhân Danh Rosula\n|vi_tl    = In the Name of the Rosula\n|de       = Im Namen der Rosula\n|de_tl    = In the Name of the Rosula\n|id       = Ikrar Sekuntum Mawar\n|id_tl    = The Vow of a Rose\n|pt       = Juramento Eterno da Rosa\n|pt_tl    = The Rose's Eternal Vow\n|tr       = Rosula Adına\n|tr_tl    = \n|it       = Nel nome della Rosula\n|it_tl    = In the Name of the Rosula\n}}\n\n==Change History==\n{{Change History|4.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Juramento de las rosas]]\n[[fr:Au nom de la Rosula]]\n[[it:Nel nome della Rosula]]\n[[ja:棘薔薇の誓い]]\n[[pt-br:Juramento Eterno da Rosa]]\n[[ru:Во имя розы]]\n[[tr:Rosula Adına]]\n[[vi:Nhân Danh Rosula]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 283217,
+      "ns": 0,
+      "title": "The Crane Soars Skyward",
+      "revisions": [
+        {
+          "revid": 1746482,
+          "parentid": 1661039,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Xianyun\n|type      = Character Event Wishes\n}}\n'''The Crane Soars Skyward''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Passerine Herald\" [[Xianyun]] ({{Anemo}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|The Crane Soars Skyward}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Crane's Echoing Call]], a weapon tailored to Xianyun's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = The Crane Soars Skyward\n|zhs      = 云府鹤行\n|zhs_rm   = Yúnfǔ Hèxíng\n|zht      = 雲府鶴行\n|zht_rm   = Yúnfǔ Hèxíng\n|zh_tl    = Cloud's Dwelling, to which the Crane Flies\n|ja       = 雲府飛鶴\n|ja_rm    = Unfu Hikaku{{Assumed}}\n|ja_tl    = Cloud's Dwelling, to which the Crane Flies\n|ko       = 구름을 거니는 학\n|ko_tl    = \n|es       = Nimbomorada de la grulla\n|es_tl    = The Crane's Cloud Dwelling\n|es_note  = {{Es|Nimbomorada}} is a portmanteau of {{Es|nimbo|cloud}} and {{Es|morada|dwelling.}}\n|fr       = La grue s'envole vers les cieux\n|fr_tl    = The Crane Flies Away to the Skies\n|ru       = Журавль взлетает в небеса\n|ru_tl    = The Crane Soars to the Skies\n|th       = กระเรียนท่องล่องเมฆา\n|th_rm    = \n|th_tl    = \n|vi       = Vân Phủ Hạc Hành\n|vi_tl    = \n|de       = Kranichsilhouette inmitten der Wolken\n|de_tl    = Crane Silhouette Amidst the Clouds\n|id       = Bangau Terbang di Awan\n|id_tl    = The Crane Flies in the Clouds\n|pt       = Moradia Etérea da Garça\n|pt_tl    = Crane's Ethereal Dwelling\n|tr       = Turnalar Arşa Uçar\n|tr_tl    = \n|it       = La gru solca i cieli\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|4.4}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:La grue s'envole vers les cieux]]\n[[ja:雲府飛鶴]]\n[[pt-br:Moradia Etérea da Garça]]\n[[ru:Журавль взлетает в небеса]]\n[[tr:Turnalar Arşa Uçar]]\n[[vi:Vân Phủ Hạc Hành]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 295574,
+      "ns": 0,
+      "title": "Of Silken Clouds Woven",
+      "revisions": [
+        {
+          "revid": 2029811,
+          "parentid": 1773625,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Chiori\n|type      = Character Event Wishes\n}}\n'''Of Silken Clouds Woven''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Chiori}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Uraku Misugiri]], a weapon tailored to Chiori's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Of Silken Clouds Woven\n|zhs      = 千云绘羽织\n|zhs_rm   = Qiānyún Huì Yǔzhī\n|zht      = 千雲繪羽織\n|zht_rm   = Qiānyún Huì Yǔzhī\n|zh_tl    = {{w|Haori}} Decorated with a Thousand Clouds\n|ja       = 千の雲で彩なす羽織\n|ja_rm    = Sen no Kumo de Ayanasu Haori{{Assumed}}\n|ja_tl    = Colourful {{w|Haori}} Decorated with a Thousand Clouds\n|ko       = 치잣빛 구름 하오리\n|ko_tl    = \n|es       = Nubes sedosas\n|es_tl    = Silken Clouds\n|fr       = Tissé de nuages soyeux\n|fr_tl    = Woven of Silken Clouds\n|ru       = Сплетение шёлковых облаков\n|ru_tl    = Intertwinement of Silken Clouds\n|th       = พันเมฆาทอภูษา\n|th_rm    = \n|th_tl    = \n|vi       = Thêu Mây Dệt Gấm\n|vi_tl    = Embroidering Clouds and Weaving Brocade\n|de       = Gewebt aus seidenen Wolken\n|de_tl    = Woven From Silken Clouds\n|id       = Tenunan Warna Ribuan Awan\n|id_tl    = Woven Colors of Thousands of Clouds\n|pt       = Haori das Mil Nuvens\n|pt_tl    = \n|tr       = İpeksi Bulutlara Sarılı\n|tr_tl    = \n|it       = Seta delle mille nuvole\n|it_tl    = Silk of a Thousand Clouds\n}}\n\n==Change History==\n{{Change History|4.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[es:Nubes sedosas]]\n[[fr:Tissé de nuages soyeux]]\n[[it:Seta delle mille nuvole]]\n[[ja:千の雲で彩なす羽織]]\n[[pt-br:Haori das Mil Nuvens]]\n[[ru:Сплетение шёлковых облаков]]\n[[tr:İpeksi Bulutlara Sarılı]]\n[[vi:Thêu Mây Dệt Gấm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 295710,
+      "ns": 0,
+      "title": "Ode to the Dawn Breeze",
+      "revisions": [
+        {
+          "revid": 2067185,
+          "parentid": 1643345,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Ode to the Dawn Breeze Tab Icon.png\n|type = Chronicled Wishes\n}}\n'''Ode to the Dawn Breeze''' is a type of [[Chronicled Wish]] themed around [[Mondstadt]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Ode to the Dawn Breeze\n|zhs      = 晨风之诗\n|zhs_rm   = Chénfēng zhī Shī\n|zht      = 晨風之詩\n|zht_rm   = Chénfēng zhī Shī\n|zh_tl    = Ode of Dawn Breeze\n|ja       = 暁風の詩\n|ja_rm    = Gyoufuu no Shi{{Assumed}}\n|ja_tl    = Ode of Dawn Breeze\n|ko       = 아침 바람<->의 시\n|ko_tl    = \n|es       = Balada de la brisa matinal\n|es_tl    = Ballad to the Morning Breeze\n|fr       = Ode à la brise matinale\n|fr_tl    = Ode to the Morning Breeze\n|ru       = Стихи утреннего ветра\n|ru_tl    = Poem of the Morning Wind\n|th       = บทกวีแห่งสายลมรุ่งอรุณ\n|th_rm    = \n|th_tl    = \n|vi       = Áng Thơ Gió Sớm\n|vi_tl    = \n|de       = Ballade der Morgenbrise\n|de_tl    = Ballad of the Morning Breeze\n|id       = Balada Angin Fajar\n|id_tl    = Ballad of Dawn Breeze\n|pt       = Poesia da Manhã\n|pt_tl    = Morning Poetry\n|tr       = Şafak Meltemi Kasidesi\n|tr_tl    = \n|it       = Poesia del vento mattutino\n|it_tl    = Poetry of the Morning Wind\n}}\n\n==Change History==\n{{Change History|4.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Ode à la brise matinale]]\n[[it:Poesia del vento mattutino]]\n[[ja:暁風の詩]]\n[[ru:Стихи утреннего ветра]]\n[[tr:Şafak Meltemi Kasidesi]]\n[[vi:Áng Thơ Gió Sớm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 301802,
+      "ns": 0,
+      "title": "The Hearth's Ashen Shadow",
+      "revisions": [
+        {
+          "revid": 2029871,
+          "parentid": 1773624,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Arlecchino\n|type      = Character Event Wishes\n}}\n'''The Hearth's Ashen Shadow''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Dire Balemoon\" [[Arlecchino]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|The Hearth's Ashen Shadow}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Crimson Moon's Semblance]], a weapon that both is tailored to Arlecchino's gameplay mechanics and can transform into a scythe only when wielded by Arlecchino.\n\n==Other Languages==\n{{Other Languages\n|en       = The Hearth's Ashen Shadow\n|zhs      = 炉边烬影\n|zhs_rm   = Lúbiān Jìnyǐng\n|zht      = 爐邊燼影\n|zht_rm   = Lúbiān Jìnyǐng\n|zh_tl    = Shadowy Embers by the Hearth\n|ja       = 炉傍の残影\n|ja_rm    = Robata no Zan'ei{{Assumed}}\n|ja_tl    = \n|ko       = 난롯가<->의 잿빛 그림자\n|ko_tl    = \n|es       = Cenizas de la hoguera\n|es_tl    = The Bonfire's Ashes\n|fr       = L'ombre cendrée de l'âtre\n|fr_tl    = The Hearth's Ashen Shadow\n|ru       = Пепельная тень очага\n|ru_tl    = The Hearth's Ashen Shadow\n|th       = เงามายาเถ้าธุลี\n|th_rm    = \n|th_tl    = \n|vi       = Tàn Ảnh Bên Lò\n|vi_tl    = Shadowy Embers by the Hearth\n|de       = Schattenasche am Kamin\n|de_tl    = Shadow Ashes by the Hearth\n|id       = Bayangan Gelora Perapian\n|id_tl    = Shadow of Hearth's Passion\n|pt       = Cinzas da Fogueira\n|pt_tl    = Ashes of the Bonfire\n|tr       = Ocağın Külden Gölgesi\n|tr_tl    = \n|it       = Ombra cinerea del Focolare\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|4.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:L'ombre cendrée de l'âtre]]\n[[it:Ombra cinerea del Focolare]]\n[[ja:炉傍の残影]]\n[[pt-br:Cinzas da Fogueira]]\n[[ru:Пепельная тень очага]]\n[[tr:Ocağın Külden Gölgesi]]\n[[vi:Tàn Ảnh Bên Lò]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 308410,
+      "ns": 0,
+      "title": "Romaritime Meluserenity",
+      "revisions": [
+        {
+          "revid": 1774121,
+          "parentid": 1774116,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Sigewinne\n|type      = Character Event Wishes\n}}\n'''Romaritime Meluserenity''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Wondrous Dragonheir\" [[Sigewinne]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Romaritime Meluserenity}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Silvershower Heartstrings]], a weapon tailored to Sigewinne's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Romaritime Meluserenity\n|zhs      = 柔柔海露心\n|zhs_rm   = Róuróu Hǎilùxīn\n|zht      = 柔柔海露心\n|zht_rm   = Róuróu Hǎilùxīn\n|zh_tl    = Soft {{Lex|Romaritime|zh}} Heart\n|ja       = ロマリタイムハート\n|ja_rm    = Romaritaimu Haato\n|ja_tl    = Romaritime Heart\n|ko       = 보들보들 바다이슬 하트z\n|ko_tl    = Soft {{Lex|Romaritime|ko}} Heart\n|es       = Corazón rociomarino\n|es_tl    = {{Lex|Romaritime|es}} Heart\n|fr       = Mélusinité romaritime\n|fr_tl    = Romaritime Melusinity\n|ru       = Ромаринская безмятежность\n|ru_tl    = {{Lex|Romaritime|ru}} Serenity\n|th       = ดวงใจสมุทรผู้อารี\n|th_rm    = Duang-chai Sa-mut Phu-a-ri\n|th_tl    = Kind Sea Heart\n|vi       = Romaritime Dịu Dàng\n|vi_tl    = Gentle Romaritime\n|de       = Sanfte Meluseele\n|de_tl    = Gentle Melusoul\n|id       = Romaritime Rahayu\n|id_tl    = Romaritime Serenity\n|pt       = Coração Rociomarinho\n|pt_tl    = {{Lex|Romaritime|pt}} Heart\n|tr       = Romaritime Dinginliği\n|tr_tl    = Romaritime Serenity\n|it       = Meluserenità di Romaritime\n|it_tl    = Romaritime Meluserenity\n}}\n\n==Change History==\n{{Change History|4.7}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Mélusinité romaritime]]\n[[it:Meluserenità di Romaritime]]\n[[ja:ロマリタイムハート]]\n[[pt-br:Coração Rociomarinho]]\n[[ru:Ромаринская безмятежность]]\n[[tr:Romaritime Dinginliği]]\n[[vi:Romaritime Dịu Dàng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 308411,
+      "ns": 0,
+      "title": "Illuminating Lightning",
+      "revisions": [
+        {
+          "revid": 1890327,
+          "parentid": 1773615,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Clorinde\n|type      = Character Event Wishes\n}}\n'''Illuminating Lightning''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Candlebearer, Shadowhunter\" [[Clorinde]] ({{Electro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table|Illuminating Lightning}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Absolution]], a weapon tailored to Clorinde's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Illuminating Lightning\n|zhs      = 流霆贯夜\n|zhs_rm   = Liútíng Guànyè\n|zht      = 流霆貫夜\n|zht_rm   = \n|zh_tl    = \n|ja       = 夜を穿つ流霆\n|ja_rm    = Yoru wo Ugatsu Ryuutei{{Assumed}}\n|ja_tl    = \n|ko       = 밤을 꿰뚫는 번개\n|ko_tl    = Night-Piercing Lightning\n|es       = Rayo de la noche\n|es_tl    = Lightning Bolt of the Night\n|fr       = Éclair illuminant\n|fr_tl    = Illuminating Lightning\n|ru       = Светозарная молния\n|ru_tl    = Illuminating Lightning\n|th       = อสนีผ่ารัตติกาล\n|th_rm    = \n|th_tl    = \n|vi       = Tia Sét Xuyên Đêm\n|vi_tl    = Night-Piercing Lightning Bolt\n|de       = Blitzjagd durch die Nacht\n|de_tl    = Lightning Hunt Through the Night\n|id       = Petir Penembus Malam\n|id_tl    = Night-Striking Lightning\n|pt       = Relâmpago Perfura-Noite\n|pt_tl    = \n|tr       = Geceyi Aydınlatan Şimşek\n|tr_tl    = Lightning that Illuminates the Night\n|it       = Fulmine squarciaombre\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|4.7}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Éclair illuminant]]\n[[it:Fulmine squarciaombre]]\n[[ja:夜を穿つ流霆]]\n[[pt-br:Relâmpago Perfura-Noite]]\n[[ru:Светозарная молния]]\n[[tr:Geceyi Aydınlatan Şimşek]]\n[[vi:Tia Sét Xuyên Đêm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 316119,
+      "ns": 0,
+      "title": "Ambrosial Essence",
+      "revisions": [
+        {
+          "revid": 1909575,
+          "parentid": 1774871,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Emilie\n|type      = Character Event Wishes\n}}\n'''Ambrosial Essence''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Emilie}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Lumidouce Elegy]], a weapon tailored to Emilie's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Ambrosial Essence\n|zhs      = 凝露轻芳\n|zhs_rm   = Nínglù Qīngfāng\n|zht      = 凝露輕芳\n|zht_rm   = Nínglù Qīngfāng\n|zh_tl    = Light Fragrance of Condensed Dew\n|ja       = ひとしずくの馨香\n|ja_rm    = Hitoshizuku no Keikyou\n|ja_tl    = \n|ko       = 향기로운 이슬<->의 정수\n|ko_tl    = Essence of Fragrant Dew\n|es       = Fragancia del rocío\n|es_tl    = Fragrance of Dew\n|fr       = Essence ambrosiale\n|fr_tl    = {{w|Ambrosial}} Essence\n|ru       = Эссенция амброзии\n|ru_tl    = Ambrosia's Essence\n|th       = อวลกลิ่นหยาดน้ำค้าง\n|th_rm    = \n|th_tl    = \n|vi       = Làn Hương Phảng Phất\n|vi_tl    = \n|de       = Ambrosische Essenz\n|de_tl    = Ambrosial Essence\n|id       = Semerbak Sari Wewangian\n|id_tl    = Fragrant Essence of Fragrance\n|pt       = Fragrância do Orvalho\n|pt_tl    = \n|tr       = Büyüleyici Esans\n|tr_tl    = Enchanting Essence\n|it       = Essenza d'ambrosia\n|it_tl    = Ambrosial Essence\n}}\n\n==Change History==\n{{Change History|4.8}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Essence ambrosiale]]\n[[it:Essenza d'ambrosia]]\n[[ja:ひとしずくの馨香]]\n[[ru:Эссенция амброзии]]\n[[tr:Büyüleyici Esans]]\n[[vi:Làn Hương Phảng Phất]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 322476,
+      "ns": 0,
+      "title": "Seeker of Flame-Wrought Secrets",
+      "revisions": [
+        {
+          "revid": 2113617,
+          "parentid": 2113616,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Kinich\n|type      = Character Event Wishes\n}}\n'''Seeker of Flame-Wrought Secrets''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Turnfire Hunt\" [[Kinich]] ({{Dendro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Fang of the Mountain King]], a weapon tailored to Kinich's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Seeker of Flame-Wrought Secrets\n|zhs      = 巡火猎秘\n|zhs_rm   = Xún Huǒ Liè Mì\n|zht      = 巡火獵祕\n|zht_rm   = Xún Huǒ Liè Mì\n|zh_tl    = Patrolling Fire, Hunting Secrets\n|ja       = 火を巡る秘の狩り人\n|ja_rm    = Hi wo Meguru Hi no Karibito{{Assumed}}\n|ja_tl    = \n|ko       = 불<->을 따르는 비밀 사냥꾼\n|ko_tl    = Secret Hunter Following the Flames\n|es       = Secretos del fuego\n|es_tl    = Secrets of the Fire\n|fr       = Recherche de secrets nés du feu\n|fr_tl    = Search for Secrets Born from Fire\n|ru       = Искатель огненных тайн\n|ru_tl    = Seeker of Fiery Secrets\n|th       = นักล่าปริศนา<br>แห่งเปลวเพลิง\n|th_rm    = \n|th_tl    = \n|vi       = Đi Săn Trong Lửa\n|vi_tl    = Hunting in the Flame\n|de       = Flammenjäger der Geheimnisse\n|de_tl    = Flame Hunter of Secrets\n|id       = Pencari Rahasia Dalam Bara Api\n|id_tl    = Seeker of Secrets in Embers\n|pt       = Caça aos Segredos das Chamas\n|pt_tl    = \n|tr       = Alevli Sırların İzinde\n|tr_tl    = \n|it       = Segreti plasmati nel fuoco\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Recherche de secrets nés du feu]]\n[[it:Segreti plasmati nel fuoco]]\n[[ja:火を巡る秘の狩り人]]\n[[pt-br:Caça aos Segredos das Chamas]]\n[[ru:Искатель огненных тайн]]\n[[tr:Alevli Sırların İzinde]]\n[[vi:Đi Săn Trong Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 322478,
+      "ns": 0,
+      "title": "Sharktacular Surfari",
+      "revisions": [
+        {
+          "revid": 2092807,
+          "parentid": 2028485,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Mualani\n|type      = Character Event Wishes\n}}\n'''Sharktacular Surfari''' is a [[Character Event Wish]] with the 5 Star [[Character]] \"Splish-Splash Wavechaser\" [[Mualani]] ({{Hydro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Surf's Up]], a weapon tailored to Mualani's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Sharktacular Surfari\n|zhs      = 鲨鲨逐浪游\n|zhs_rm   = Shāshā Zhúlàng Yóu\n|zht      = 鯊鯊逐浪游\n|zht_rm   = Shāshā Zhúlàng Yóu\n|zh_tl    = \n|ja       = 波追いのサメ\n|ja_rm    = Nami Oi no Same{{Assumed}}\n|ja_tl    = \n|ko       = 물살을 가르는 샤크\n|ko_tl    = \n|es       = Escualosurf cabalgaolas\n|es_tl    = Waveriding Sharksurf\n|fr       = Surfari requinfini\n|fr_tl    = Sharkinfinite Surfari\n|ru       = Зубастый сёрф\n|ru_tl    = Sharp-Toothed Surf\n|th       = ฉลามผจญคลื่น\n|th_rm    = \n|th_tl    = \n|vi       = Cá Mập Lướt Sóng\n|vi_tl    = Surfing Shark\n|de       = Haiterer Wellenritt\n|de_tl    = Sharkful Wave Ride\n|de_note  = {{De|Haiter}} is a portmanteau of {{De|Hai}} \"shark\" and {{De|heiter}} \"cheerful.\"\n|id       = Hiu Penakluk Ombak Biru\n|id_tl    = Shark That Conquers the Blue Waves\n|pt       = Tubarão Surfando nas Ondas\n|pt_tl    = \n|tr       = Vahşi Dalgalarla Dans\n|tr_tl    = \n|it       = Surfari squalorditivo\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Surfari requinfini]]\n[[it:Surfari squalorditivo]]\n[[ja:波追いのサメ]]\n[[pt-br:Tubarão Surfando nas Ondas]]\n[[ru:Зубастый сёрф]]\n[[tr:Vahşi Dalgalarla Dans]]\n[[uk:Акула на хвилях]]\n[[vi:Cá Mập Lướt Sóng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 335062,
+      "ns": 0,
+      "title": "Forgefire's Blessing",
+      "revisions": [
+        {
+          "revid": 1773618,
+          "parentid": 1765013,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Xilonen\n|type      = Character Event Wishes\n}}\n'''Forgefire's Blessing''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Xilonen}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Peak Patrol Song]], a weapon tailored to Xilonen's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en       = Forgefire's Blessing\n|zhs      = 煅火的祝赐\n|zhs_rm   = Duànhuǒ de Zhùcì\n|zht      = 煅火的祝賜\n|zht_rm   = Duànhuǒ de Zhùcì\n|zh_tl    = Forgefire's Blessing\n|ja       = 鍛火の祝福\n|ja_rm    = Tanka no Shukufuku{{Assumed}}\n|ja_tl    = Forgefire's Blessing\n|ko       = 불<->로 벼린 축복\n|ko_tl    = Blessing Forged With Fire\n|es       = Gracia forjallamas\n|es_tl    = Flameforger's Gift\n|fr       = Faveur du feu forgé\n|fr_tl    = Forged Fire's Favor\n|ru       = Благословение пламени\n|ru_tl    = Flame's Blessing\n|th       = เพลิงหลอมประทานพร\n|th_rm    = \n|th_tl    = \n|vi       = Chúc Phúc Lửa Rèn\n|vi_tl    = Forgefire's Blessing\n|de       = Segen des Schmiedefeuers\n|de_tl    = Blessing of the Forge Fire\n|id       = Karunia Api Penempa\n|id_tl    = Blessing of the Forging Fire\n|pt       = Bênção do Fogo da Forja\n|pt_tl    = \n|tr       = Ocağın Kutsal Ateşi\n|tr_tl    = \n|it       = Benedizione delle fiamme\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Faveur du feu forgé]]\n[[it:Benedizione delle fiamme]]\n[[ja:鍛火の祝福]]\n[[pt-br:Bênção do Fogo da Forja]]\n[[ru:Благословение пламени]]\n[[tr:Ocağın Kutsal Ateşi]]\n[[vi:Chúc Phúc Lửa Rèn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 344183,
+      "ns": 0,
+      "title": "Piercing Shot's Crimson Wake",
+      "revisions": [
+        {
+          "revid": 2092794,
+          "parentid": 1890290,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Chasca\n|type      = Character Event Wishes\n}}\n'''Piercing Shot's Crimson Wake''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Chasca}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Astral Vulture's Crimson Plumage]], a weapon tailored to Chasca's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Piercing Shot's Crimson Wake\n|zhs      = 饮羽散红\n|zhs_rm   = Yǐnyǔ Sànhóng\n|zht      = 飲羽散紅\n|zht_rm   = Yǐnyǔ Sànhóng\n|zh_tl    = Piercing Arrow Spreading Red\n|ja       = 紅を散らす矢羽\n|ja_rm    = Beni wo Chirasu Yabane{{Assumed}}\n|ja_tl    = Crimson-Spreading {{w|Fletching}}\n|ko       = 붉은 꽃을 꿰뚫는 깃\n|ko_tl    = Red Flower-Piercing Fletching\n|es       = Disparo carmesí\n|es_tl    = Crimson Shot\n|fr       = Transpercement au sillage écarlate\n|fr_tl    = Piercing With a Scarlet Wake\n|ru       = Багровый всполох меткого выстрела\n|ru_tl    = Well-Aimed Shot's Crimson Flash\n|th       = ศรทะลวงปีกแดงฉาน\n|th_rm    = \n|th_tl    = \n|vi       = Sắc Đỏ Xuyên Phá\n|vi_tl    = Piercing Wake of Crimson\n|de       = Sprudelndes Rot am Ende des Pfeils\n|de_tl    = Bubbling Red at the Tip of the Arrow\n|id       = Sayap Merah Penembus Cakrawala\n|id_tl    = \n|pt       = Dispersão Carmesim\n|pt_tl    = \n|tr       = Delici Atışın Kızıl Uyanışı\n|tr_tl    = \n|it       = Dispersione cremisi\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.2}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Transpercement au sillage écarlate]]\n[[it:Dispersione cremisi]]\n[[ja:紅を散らす矢羽]]\n[[pt-br:Dispersão Carmesim]]\n[[ru:Багровый всполох меткого выстрела]]\n[[tr:Delici Atışın Kızıl Uyanışı]]\n[[vi:Sắc Đỏ Xuyên Phá]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 350850,
+      "ns": 0,
+      "title": "Ancient Flame Ablaze",
+      "revisions": [
+        {
+          "revid": 2092792,
+          "parentid": 2077870,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Mavuika\n|type      = Character Event Wishes\n}}\n'''Ancient Flame Ablaze''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Mavuika}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[A Thousand Blazing Suns]], a weapon that both is tailored to Mavuika's gameplay mechanics and has a different appearance only when wielded by Mavuika.\n\n==Other Languages==\n{{Other Languages\n|en       = Ancient Flame Ablaze\n|zhs      = 宿古的赫炎\n|zhs_rm   = \n|zht      = 宿古的赫炎\n|zht_rm   = \n|zh_tl    = \n|ja       = 古に宿る烈炎\n|ja_rm    = Furu ni Yadoru Retsuen\n|ja_tl    = \n|ko       = 고대<->의 불꽃\n|ko_rm    = \n|ko_tl    = Ancient Flame\n|es       = Resplandor flamancestral\n|es_tl    = Brilliance of the Ancestral Flame\n|fr       = Embrasement du feu ancien\n|fr_tl    = Blaze of the Ancient Fire\n|ru       = Ослепительное пламя древности\n|ru_tl    = \n|th       = เพลิงอดีตกาลสีชาด\n|th_rm    = \n|th_tl    = \n|vi       = Nguồn Lửa Cổ Xưa\n|vi_tl    = Ancient Source Flame\n|de       = Alte Flamme lodernd hell\n|de_tl    = Old Flame Blazing Bright\n|id       = Golakan Api Purbakala\n|id_tl    = Ancient Flame Ablaze\n|pt       = Chama Ancestral\n|pt_tl    = \n|tr       = Kadim Alevler Yükseliyor\n|tr_tl    = \n|it       = Fiamma ancestrale\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Embrasement du feu ancien]]\n[[it:Fiamma ancestrale]]\n[[ja:古に宿る烈炎]]\n[[pt-br:Chama Ancestral]]\n[[ru:Ослепительное пламя древности]]\n[[tr:Kadim Alevler Yükseliyor]]\n[[vi:Nguồn Lửa Cổ Xưa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 350851,
+      "ns": 0,
+      "title": "Starry Night's Whispers",
+      "revisions": [
+        {
+          "revid": 2092796,
+          "parentid": 2029865,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Citlali\n|type      = Character Event Wishes\n}}\n'''Starry Night's Whispers''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Citlali}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Starcaller's Watch]], a weapon tailored to Citlali's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Starry Night's Whispers\n|zhs     = 星边夜语\n|zhs_rm  = \n|zht     = 星邊夜語\n|zht_rm  = \n|zh_tl   = \n|ja      = 星夜のささやき\n|ja_rm   = \n|ja_tl   = \n|ko      = 별빛 속삭임\n|ko_rm   = \n|ko_tl   = \n|es      = Susurros estelares\n|es_tl   = Stellar Whispers\n|fr      = Murmures d'une nuit étoilée\n|fr_tl   = Whispers of a Starry Night\n|ru      = Шёпот звёздной ночи\n|ru_tl   = \n|th      = เสียงกระซิบใต้แสงดาว\n|th_rm   = \n|th_tl   = \n|vi      = Trời Sao Thì Thầm\n|vi_tl   = \n|de      = Flüstern der Sternennacht\n|de_tl   = Starry Night's Whispers\n|id      = Bisikan Malam Berbintang\n|id_tl   = \n|pt      = Sussurros Estelares\n|pt_tl   = \n|tr      = Yıldızlı Gecenin Fısıltıları\n|tr_tl   = \n|it      = Sussurri della notte stellata\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|5.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Murmures d'une nuit étoilée]]\n[[it:Sussurri della notte stellata]]\n[[ja:星夜のささやき]]\n[[ru:Шёпот звёздной ночи]]\n[[tr:Yıldızlı Gecenin Fısıltıları]]\n[[vi:Trời Sao Thì Thầm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 351338,
+      "ns": 0,
+      "title": "Remembrance of Jade and Stone",
+      "revisions": [
+        {
+          "revid": 2067186,
+          "parentid": 1889156,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Remembrance of Jade and Stone Tab Icon.png\n|type = Chronicled Wishes\n}}\n'''Remembrance of Jade and Stone''' is a type of [[Chronicled Wish]] themed around [[Liyue]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Remembrance of Jade and Stone\n|zhs      = 玉岩之忆\n|zhs_rm   = \n|zht      = 玉岩之憶\n|zht_rm   = \n|zh_tl    = \n|ja       = 玉岩の憶\n|ja_rm    = Gyokugan no Oku{{Assumed}}\n|ja_tl    = \n|ko       = 옥<->과 바위<->의 기억\n|ko_tl    = \n|es       = Recuerdos de piedra y jade\n|es_tl    = Memories of Stone and Jade\n|fr       = Mémoire des jades et des pierres\n|fr_tl    = Memory of Jades and Stones\n|ru       = Думы нефрита и камня\n|ru_tl    = \n|th       = อนุสรณ์แห่งหยกและหินผา\n|th_rm    = \n|th_tl    = \n|vi       = Thân Hình Thần Đúc\n|vi_tl    = \n|de       = Gedenken an Jade und Stein\n|de_tl    = Remembrance of Jade and Stone\n|id       = Kenangan Akan Giok dan Bebatuan\n|id_tl    = \n|pt       = Memórias de Jade\n|pt_tl    = \n|tr       = Yeşim ve Taşın Hatırası\n|tr_tl    = \n|it       = Ricordi di giada e pietra\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.3}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Mémoire des jades et des pierres]]\n[[ja:玉岩の憶]]\n[[ru:Думы нефрита и камня]]\n[[tr:Yeşim ve Taşın Hatırası]]\n[[vi:Ký Ức Ngọc Nham]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 359275,
+      "ns": 0,
+      "title": "Dawn's Drifting Reverie",
+      "revisions": [
+        {
+          "revid": 1773627,
+          "parentid": 1773580,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Yumemizuki Mizuki\n|type      = Character Event Wishes\n}}\n'''Dawn's Drifting Reverie''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Yumemizuki Mizuki}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Sunny Morning Sleep-In]], a weapon tailored to Yumemizuki Mizuki's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Dawn's Drifting Reverie\n|zhs      = 浮枕朝颜\n|zhs_rm   = \n|zht      = 浮枕朝顏\n|zht_rm   = \n|zh_tl    = \n|ja       = 枕に夢む朝顔\n|ja_rm    = Makura ni Yumemu Asagao\n|ja_tl    = {{w|Ipomoea nil|Morning Glory}} Dreaming on a Pillow\n|ko       = 새벽<->에 피는 꿈\n|ko_tl    = Dreams Blooming at Dawn\n|es       = Letargo del amanecer\n|es_tl    = Dawn Lethargy\n|fr       = Rêverie dérivant à l'aube\n|fr_tl    = Drifting Reverie by Dawn\n|ru       = Витающие грёзы на рассвете\n|ru_tl    = \n|th       = เคียงฝันยามตะวันฉาย\n|th_rm    = \n|th_tl    = \n|vi       = Bình Minh Mơ Màng\n|vi_tl    = Dreamy Dawn\n|de       = Träumerei zur Morgenstund\n|de_tl    = Reverie at the Morning Hour\n|id       = Lamunan Fajar Mimpi\n|id_tl    = Dream's Dawn Daydream\n|pt       = Sonho Doce com Ipomeias\n|pt_tl    = \n|tr       = Şafakta Süzülen Düşler\n|tr_tl    = \n|it       = Sogno fuggevole dell'alba\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.4}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Rêverie dérivant à l'aube]]\n[[it:Sogno fuggevole dell'alba]]\n[[ja:枕に夢む朝顔]]\n[[ru:Витающие грёзы на рассвете]]\n[[tr:Şafakta Süzülen Düşler]]\n[[vi:Bình Minh Mơ Màng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 365288,
+      "ns": 0,
+      "title": "Cornucopia of Contention",
+      "revisions": [
+        {
+          "revid": 2028025,
+          "parentid": 1910209,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Varesa\n|type      = Character Event Wishes\n}}\n'''Cornucopia of Contention''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Varesa}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Vivid Notions]], a weapon tailored to Varesa's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = Cornucopia of Contention\n|zhs      = 饫宴角戏\n|zhs_rm   = \n|zht      = 飫宴角戲\n|zht_rm   = \n|zh_tl    = \n|ja       = 競争と饗宴\n|ja_rm    = Kyousou to Kyouen\n|ja_tl    = Contention and Feast\n|ko       = 연회<->의 투사\n|ko_rm    = \n|ko_tl    = Fighter of Feasts\n|es       = Cornucopia de la contienda\n|es_tl    = Cornucopia of Contention\n|fr       = Cornucopia de la discorde\n|fr_tl    = Cornucopia of Discord\n|ru       = Пиршество зрелищ\n|ru_tl    = Feast of Spectacles\n|th       = เขาแกร่งแห่งงานรื่นเริง\n|th_rm    = \n|th_tl    = \n|vi       = Cặp Sừng Giác Đấu\n|vi_tl    = Horns of Contention\n|de       = Füllhorn des Wettstreits\n|de_tl    = Cornucopia of Contention\n|id       = Perjamuan Tanduk Beradu\n|id_tl    = Banquet of Clashing Horns\n|pt       = Banquete dos Chifres Travados\n|pt_tl    = \n|tr       = Müsabaka Şöleni\n|tr_tl    = \n|it       = Cornucopia della contesa\n|it_tl    = Cornucopia of Contention\n}}\n\n==Change History==\n{{Change History|5.5}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Cornucopia de la discorde]]\n[[it:Cornucopia della contesa]]\n[[ja:競争と饗宴]]\n[[pt-br:Banquete dos Chifres Travados]]\n[[ru:Пиршество зрелищ]]\n[[tr:Müsabaka Şöleni]]\n[[vi:Cặp Sừng Giác Đấu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 371025,
+      "ns": 0,
+      "title": "La Chanson Cerise",
+      "revisions": [
+        {
+          "revid": 2092805,
+          "parentid": 1889247,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Escoffier\n|type      = Character Event Wishes\n}}\n'''La Chanson Cerise''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Escoffier}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Symphonist of Scents]], a weapon tailored to Escoffier's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = La Chanson Cerise\n|en_lang = fr\n|en_tl   = The Cherry-Colored Song\n|zhs     = 莓色香颂\n|zhs_rm  = Méisè Xiāngsòng\n|zht     = 莓色香頌\n|zht_rm  = Méisè Xiāngsòng\n|zh_tl   = Berry-Colored {{w|Chanson}}\n|ja      = 苺色のシャンソン\n|ja_rm   = Ichigo-iro no Shanson\n|ja_tl   = Strawberry-Colored Chanson\n|ko      = 베리 샹송\n|ko_tl   = Berry Chanson\n|es      = Chanson de las bayas\n|es_tl   = Chanson of the Berries\n|fr      = La chanson cerise\n|ru      = Ла шансон сериз\n|th      = เพลงสดุดีสีเชอร์รี\n|th_rm   = \n|th_tl   = Cherry-Colored Hymn\n|vi      = La Chanson Cerise\n|de      = La Chanson Cerise\n|id      = La Chanson Cerise\n|pt      = Canção do Morango\n|pt_tl   = Song of Strawberry\n|tr      = Kirazların Melodisi\n|tr_tl   = Melody of Cherries\n|it      = La chanson cerise\n}}\n\n==Change History==\n{{Change History|5.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:La chanson cerise]]\n[[it:La chanson cerise]]\n[[ja:苺色のシャンソン]]\n[[ru:Ла шансон сериз]]\n[[tr:Kirazların Melodisi]]\n[[vi:La Chanson Cerise]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 378085,
+      "ns": 0,
+      "title": "Thunder Rends the Plains on High",
+      "revisions": [
+        {
+          "revid": 2067187,
+          "parentid": 2029789,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Thunder Rends the Plains on High Icon.png\n|type = Chronicled Wishes\n}}\n'''Thunder Rends the Plains on High''' is a type of [[Chronicled Wish]] themed around [[Inazuma]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Thunder Rends the Plains on High\n|zhs      = 鸣雷贯天原\n|zhs_rm   = \n|zht      = 鳴雷貫天原\n|zht_rm   = \n|zh_tl    = \n|ja       = 天を裂く雷鳴\n|ja_rm    = \n|ja_tl    = \n|ko       = 하늘<->을 가르는 뇌명\n|ko_tl    = \n|es       = Empíreo de las tormentas\n|es_tl    = {{w|Empyrean}} of Storms\n|fr       = Tonnerre déchirant les hautes plaines\n|fr_tl    = Thunder Rending the High Plains\n|ru       = Гром сотрясает неба равнины\n|ru_tl    = \n|th       = ฟ้าคำรามก้องนภา\n|th_rm    = \n|th_tl    = \n|vi       = Sấm Sét Liên Hoàn\n|vi_tl    = \n|de       = Donnerhall durchzieht die Himmel\n|de_tl    = Thunder's Echo Travels Through the Skies\n|id       = Gemuruh Guntur di Taman Langit\n|id_tl    = \n|pt       = Trovão Atravessando o Céu\n|pt_tl    = \n|tr       = Göklerde Yankılanan Yıldırım\n|tr_tl    = \n|it       = Rombi di tuono sugli altopiani\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|5.6}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Tonnerre déchirant les hautes plaines]]\n[[it:Rombi di tuono sugli altopiani]]\n[[ja:天を裂く雷鳴]]\n[[ru:Гром сотрясает неба равнины]]\n[[tr:Göklerde Yankılanan Yıldırım]]\n[[vi:Sấm Sét Liên Hoàn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 378459,
+      "ns": 0,
+      "title": "Void Star's Advent",
+      "revisions": [
+        {
+          "revid": 2092793,
+          "parentid": 1782085,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Skirk\n|type      = Character Event Wishes\n}}\n'''Void Star's Advent''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Skirk}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Azurelight]], a weapon that both is tailored to Skirk's gameplay mechanics and has a different appearance only when wielded by Skirk.\n\n==Other Languages==\n{{Other Languages\n|en      = Void Star's Advent\n|zhs     = 虚星临渡\n|zhs_rm  = Xūxīng Líndù\n|zht     = 虛星臨渡\n|zht_rm  = Xūxīng Líndù\n|zh_tl   = Void Star's Crossing\n|ja      = 虚星の来臨\n|ja_rm   = Kyosei no Rairin{{Assumed}}\n|ja_tl   = Void Star's Advent\n|ko      = 도래한 허계<->의 별\n|ko_tl   = Void Star's Advent\n|es      = Advenimiento vacuoastral\n|es_tl   = Void Star's Advent\n|fr      = Avènement de l'étoile du néant\n|fr_tl   = Void Star's Advent\n|ru      = Пришествие Звезды пустоты\n|ru_tl   = Void Star's Advent\n|th      = ดาราลวงข้ามห้วงกาล\n|th_rm   = Da-ra Luang Kham Huang-kam\n|th_tl   = Fake Star Crossing Time\n|vi      = Ánh Sao Ngang Qua\n|vi_tl   = Starlight's Crossing\n|de      = Ankunft des Sterns der Leere\n|de_tl   = Void Star's Advent\n|id      = Hadirnya Bintang Kehampaan\n|id_tl   = Void Star's Presence\n|pt      = Estrela Vazia Passageira\n|pt_tl   = Passing Void Star\n|tr      = Boşluk Yıldızının Doğuşu\n|tr_tl   = Void Star's Rising\n|it      = Avvento dell'Astro del Vuoto\n|it_tl   = Void Star's Advent\n}}\n\n==Change History==\n{{Change History|5.7}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Avènement de l'étoile du néant]]\n[[it:Avvento dell'Astro del Vuoto]]\n[[ja:虚星の来臨]]\n[[pt-br:Estrela Vazia Passageira]]\n[[ru:Пришествие Звезды пустоты]]\n[[tr:Boşluk Yıldızının Doğuşu]]\n[[uk:Пришестя зорі пустоти]]\n[[vi:Ánh Sao Ngang Qua]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 383723,
+      "ns": 0,
+      "title": "Astral Actuation",
+      "revisions": [
+        {
+          "revid": 2114123,
+          "parentid": 2092802,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Ineffa\n|type      = Character Event Wishes\n}}\n'''Astral Actuation''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Ineffa}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Fractured Halo]], a weapon tailored to Ineffa's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en      = Astral Actuation\n|zhs     = 聚星源动\n|zhs_rm  = Jùxīng Yuándòng\n|zht     = 聚星源動\n|zht_rm  = Jùxīng Yuándòng\n|zh_tl   = Astral Source Motion\n|ja      = 新星の駆動\n|ja_rm   = Shinsei no Kudou\n|ja_tl   = {{w|Nova}} Drive\n|ko      = 별<->의 {{tt|구동|驅動}}\n|ko_tl   = Astral Drive\n|es      = Activación astral\n|es_tl   = Astral Activation\n|fr      = Exaltation astrale\n|fr_tl   = Astral Exaltation\n|ru      = Звёздное пробуждение\n|ru_tl   = Astral Awakening\n|th      = พลวัตเคลื่อนดารา\n|th_rm   = Phon-la-wat Khluean Da-ra\n|th_tl   = Astral Dynamic Motion\n|vi      = Tinh Nguyên Vận Hành\n|vi_tl   = Source Star Operation\n|de      = Astrale Aktivierung\n|de_tl   = Astral Actuation\n|id      = Penggerak Bintang-Bintang\n|id_tl   = Astral Actuator\n|pt      = Pulsar Cósmico\n|pt_tl   = Cosmic Pulsar\n|tr      = Astral Uyanış\n|tr_tl   = Astral Awakening\n|it      = Attivazione astrale\n|it_tl   = Astral Activation\n}}\n\n==Change History==\n{{Change History|5.8}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Exaltation astrale]]\n[[ja:新星の駆動]]\n[[ru:Звёздное пробуждение]]\n[[tr:Astral Uyanış]]\n[[vi:Tinh Nguyên Vận Hành]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 395176,
+      "ns": 0,
+      "title": "The Lone Light Knocks at Night",
+      "revisions": [
+        {
+          "revid": 2115533,
+          "parentid": 2110995,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Flins\n|type      = Character Event Wishes\n}}\n'''The Lone Light Knocks at Night''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Flins}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Bloodsoaked Ruins]], a weapon tailored to Flins's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en       = The Lone Light Knocks at Night\n|zhs      = 孤灯夜访\n|zhs_rm   = Gūdēng Yèfǎng\n|zht      = 孤燈夜訪\n|zht_rm   = Gūdēng Yèfǎng\n|zh_tl    = \n|ja       = 夜に訪う孤灯\n|ja_rm    = Yoru ni Otonau Kotou\n|ja_tl    = \n|ko       = 고독한 밤<->의 등불\n|ko_tl    = \n|es       = Noche de la lámpara solitaria\n|es_tl    = Night of the Lonely Lamp\n|fr       = Lumière solitaire en visite nocturne\n|fr_tl    = Lone Light on a Night Visit\n|ru       = Одинокий свет в ночи\n|ru_tl    = \n|th       = ตะเกียงเดียวดายย่ำราตรี\n|th_rm    = \n|th_tl    = \n|vi       = Ánh Đèn Đêm Đen\n|vi_tl    = \n|de       = Nachtbesuch des einsamen Lichts\n|de_tl    = \n|id       = Cahaya Temaram Mengetuk di Kala Malam\n|id_tl    = The Dim Light Knocks at Nighttime\n|pt       = Visita Iluminada da Solidão Noturna\n|pt_tl    = \n|tr       = Yalnız Işığın Gece Ziyareti\n|tr_tl    = \n|it       = Luce solinga che bussa alla notte\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|Luna I}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Lumière solitaire en visite nocturne]]\n[[it:Luce solinga che bussa alla notte]]\n[[pt-br:Visita Iluminada da Solidão Noturna]]\n[[ru:Одинокий свет в ночи]]\n[[tr:Yalnız Işığın Gece Ziyareti]]\n[[vi:Ánh Đèn Đêm Đen]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 395271,
+      "ns": 0,
+      "title": "Roving Chalice of Dewgrass",
+      "revisions": [
+        {
+          "revid": 2189469,
+          "parentid": 2161250,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Roving Chalice of Dewgrass Tab Icon.png\n|type = Chronicled Wishes\n}}\n'''Roving Chalice of Dewgrass''' is a type of [[Chronicled Wish]] themed around [[Sumeru]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Roving Chalice of Dewgrass\n|zhs      = 露草的行盏\n|zhs_rm   = \n|zht      = 露草的行盞\n|zht_rm   = Lùcǎo de Xíngzhǎn\n|zh_tl    = \n|ja       = 露と草の盃\n|ja_rm    = \n|ja_tl    = \n|ko       = 풀 이슬이 흐르는 잔\n|ko_tl    = \n|es       = Cáliz verderrocio\n|es_tl    = Greendew Chalice\n|fr       = Calice vagabond de l'herbe de rosée\n|fr_tl    = Roving Chalice of Dewgrass\n|ru       = Скитающаяся чаша росы\n|ru_tl    = \n|th       = จอกศักดิ์สิทธิ์น้ำค้างพราว\n|th_rm    = \n|th_tl    = \n|vi       = Chén Thánh Cỏ Sương\n|vi_tl    = \n|de       = Wanderkelch des Taugrases\n|de_tl    = \n|id       = Cangkir Berbentar Rumput Embun\n|id_tl    = \n|pt       = Cálice Errante da Grama do Orvalho\n|pt_tl    = \n|tr       = Çiy Otunun Serseri Kadehi\n|tr_tl    = \n|it       = Calice di rugiada errante\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|Luna I}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Calice vagabond de l'herbe de rosée]]\n[[ja:露と草の盃]]\n[[ru:Скитающаяся чаша росы]]\n[[tr:Çiy Otunun Serseri Kadehi]]\n[[vi:Chén Thánh Cỏ Sương]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 395302,
+      "ns": 0,
+      "title": "Moonsong of the Groves",
+      "revisions": [
+        {
+          "revid": 2110774,
+          "parentid": 2092803,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Lauma\n|type      = Character Event Wishes\n}}\n'''Moonsong of the Groves''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Lauma}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Nightweaver's Looking Glass]], a weapon tailored to Lauma's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en       = Moonsong of the Groves\n|zhs      = 苍林月祷\n|zhs_rm   = Cānglín Yuèdǎo\n|zht      = 蒼林月禱\n|zht_rm   = Cānglín Yuèdǎo\n|zh_tl    = \n|ja       = 月に祈る蒼樹\n|ja_rm    = Tsuki ni Inoru Souju{{Assumed}}\n|ja_tl    = \n|ko       = 푸른 숲<->의 기도\n|ko_tl    = \n|es       = Plegaria lunar de la arboleda\n|es_tl    = The Grove's Lunar Prayer\n|fr       = Chant lunaire des bosquets\n|fr_tl    = Lunar Song of the Groves\n|ru       = Лунная песнь чащи\n|ru_tl    = \n|th       = บทจันทราขับขานพงไพร\n|th_rm    = \n|th_tl    = \n|vi       = Khúc Trăng Rừng Sương\n|vi_tl    = Moonsong of the Misty Woods\n|de       = Mondgesang der Wälder\n|de_tl    = \n|id       = Tembang Purnama Jenggala\n|id_tl    = \n|pt       = Canção Lunar da Floresta\n|pt_tl    = \n|tr       = Koruların Ay Şarkısı\n|tr_tl    = \n|it       = Canto lunare della foresta\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|Luna I}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Chant lunaire des bosquets]]\n[[it:Canto lunare della foresta]]\n[[pt-br:Canção Lunar da Floresta]]\n[[ru:Лунная песнь чащи]]\n[[tr:Koruların Ay Şarkısı]]\n[[vi:Khúc Trăng Rừng Sương]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 408347,
+      "ns": 0,
+      "title": "Temptation of the Crimson Sands",
+      "revisions": [
+        {
+          "revid": 2115549,
+          "parentid": 2111080,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Nefer\n|type      = Character Event Wishes\n}}\n'''Temptation of the Crimson Sands''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Nefer}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Reliquary of Truth]], a weapon tailored to Nefer's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Temptation of the Crimson Sands\n|zhs     = 赤砂的诱言\n|zhs_rm  = Chìshā de Yòuyán\n|zht     = 赤砂的誘言\n|zht_rm  = Chìshā de Yòuyán\n|zh_tl   = \n|ja      = 赤砂の誘惑\n|ja_rm   = Akazuna no Yuuwaku{{Assumed}}\n|ja_tl   = Temptation of the Red Sand\n|ko      = 적색 사막<->의 유혹\n|ko_rm   = \n|ko_tl   = \n|es      = Tentación de las arenas escarlatas\n|es_tl   = \n|fr      = Tentation des sables écarlates\n|fr_tl   = Temptation of the Scarlet Sands\n|ru      = Искушение красных песков\n|ru_tl   = \n|th      = เล่ห์วาจาแห่งทรายสีชาด\n|th_rm   = \n|th_tl   = \n|vi      = Cát Đỏ Mê Hoặc\n|vi_tl   = \n|de      = Verführung der roten Sande\n|de_tl   = \n|id      = Pencobaan di Padang Merah\n|id_tl   = \n|pt      = Tentação das Areias Escarlates\n|pt_tl   = \n|tr      = Kızıl Kumların Cazibesi\n|tr_tl   = \n|it      = Tentazione della Sabbia Rossa\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|Luna II}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Tentation des sables écarlates]]\n[[it:Tentazione della Sabbia Rossa]]\n[[pt-br:Tentação das Areias Escarlates]]\n[[ru:Искушение красных песков]]\n[[tr:Kızıl Kumların Cazibesi]]\n[[vi:Cát Đỏ Mê Hoặc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 420142,
+      "ns": 0,
+      "title": "Rubedo, of White Stone Born",
+      "revisions": [
+        {
+          "revid": 2111065,
+          "parentid": 2102664,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Durin\n|type      = Character Event Wishes\n}}\n'''Rubedo, of White Stone Born''' is a [[Character Event Wish]] with the 5 Star [[Character]] [[Durin]] ({{Pyro}}) as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* All occurrences of this Wish Series have run alongside an [[Epitome Invocation]] Wish featuring [[Athame Artis]], a weapon tailored to Durin's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Rubedo, of White Stone Born\n|zhs     = 白礜赤成\n|zhs_rm  = Báiyù Chìchéng\n|zht     = 白礜赤成\n|zht_rm  = Báiyù Chìchéng\n|zh_tl   = \n|ja      = 白より生まれ出づる赤\n|ja_rm   = Shiro Yori Umareidzuru Aka\n|ja_tl   = <!--Red Born Out of White?-->\n|ko      = 붉게 물든 백석\n|ko_tl   = \n|es      = Rubedo, nacido de la roca blanca\n|es_tl   = \n|fr      = Rubedo, né de pierre blanche\n|fr_tl   = Rubedo, Born of White Stone\n|ru      = Рубедо, воплощённый белым камнем\n|ru_tl   = \n|th      = แร่ขาวแปรสีชาด\n|th_rm   = \n|th_tl   = \n|vi      = Đá Trắng Hóa Đỏ\n|vi_tl   = \n|de      = Rubedo, aus weißem Stein geboren\n|de_tl   = \n|id      = Rubedo, yang Terlahir dari Batu Putih\n|id_tl   = \n|pt      = Albita Rubedo\n|pt_tl   = \n|tr      = Beyazlıktan Doğan Kızıllık\n|tr_tl   = \n|it      = Rubedo, nato dalla pietra bianca\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|Luna III}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Rubedo, né de pierre blanche]]\n[[it:Rubedo, nato dalla pietra bianca]]\n[[ru:Рубедо, воплощённый белым камнем]]\n[[tr:Beyazlıktan Doğan Kızıllık]]\n[[vi:Đá Trắng Hóa Đỏ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 429489,
+      "ns": 0,
+      "title": "Somnias a Luna",
+      "revisions": [
+        {
+          "revid": 2092797,
+          "parentid": 2048973,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{About|Columbina's Character Event Wish|the soundtrack|Lullaby of the New Moon (I): Somnias a Luna}}\n{{Wish Series Infobox\n|character = Columbina\n|type      = Character Event Wishes\n}}\n'''Somnias a Luna''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Columbina}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Nocturne's Curtain Call]], a weapon tailored to Columbina's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en       = Somnias a Luna\n|en_lang  = la\n|en_tl    = Dreaming With the Moon\n|zhs      = 伴月同眠\n|zhs_rm   = Bànyuè Tóngmián\n|zht      = 伴月同眠\n|zht_rm   = Bànyuè Tóngmián\n|zh_tl    = Sleeping Together With the Moon\n|ja       = 月と共に眠る\n|ja_rm    = Tsuki to Tomo ni Nemuru\n|ja_tl    = Sleeping With the Moon\n|ko       = 달<->과 함께 잠든 밤\n|ko_tl    = A Night Sleeping Together With the Moon\n|es       = Somnias a Luna\n|fr       = Rêve sous l'ombre lunaire\n|fr_tl    = Dream Beneath the Lunar Shade\n|ru       = Лунные сны\n|ru_tl    = Moon Dreams\n|th       = นิทราเคียงจันทร์\n|th_rm    = \n|th_tl    = \n|vi       = Cùng Trăng Say Giấc\n|vi_tl    = Sleeping Soudly With the Moon\n|de       = Somnias a Luna\n|id       = Somnias a Luna\n|pt       = Sonhos da Sombra da Lua\n|pt_tl    = \n|tr       = Ayın Gölgesinde Bir Rüya\n|tr_tl    = \n|it       = Somnias a Luna\n}}\n\n==Change History==\n{{Change History|Luna IV}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Rêve sous l'ombre lunaire]]\n[[ja:月と共に眠る]]\n[[pt-br:Sonhos da Sombra da Lua]]\n[[ru:Лунные сны]]\n[[tr:Ayın Gölgesinde Bir Rüya]]\n[[vi:Cùng Trăng Say Giấc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 429490,
+      "ns": 0,
+      "title": "Harmonious Abundance",
+      "revisions": [
+        {
+          "revid": 2169537,
+          "parentid": 2164175,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Zibai\n|type      = Character Event Wishes\n}}\n'''Harmonious Abundance''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Zibai}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Lightbearing Moonshard]], a weapon tailored to Zibai's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en       = Harmonious Abundance\n|zhs      = 华黍由仪\n|zhs_rm   = \n|zht      = 華黍由儀\n|zht_rm   = \n|zh_tl    = \n|ja       = 豊穣の要\n|ja_rm    = Houjou no Kaname\n|ja_tl    = <!--Abundant Keystone?-->\n|ko       = 사직 의례\n|ko_rm    = \n|ko_tl    = \n|es       = Abundancia armoniosa\n|es_tl    = \n|fr       = Abondance harmonieuse\n|fr_tl    = Harmonious Abundance\n|ru       = Гармония изобилия\n|ru_tl    = Harmony of Abundance\n|th       = ธัญงามบวงพิธี\n|th_rm    = \n|th_tl    = \n|vi       = Sung Túc Hài Hòa\n|vi_tl    = \n|de       = Aurora des Überflusses\n|de_tl    = \n|id       = Harmoni Kelimpahan\n|id_tl    = \n|pt       = Aurora da Abundância\n|pt_tl    = \n|tr       = Bereketin Ahengi\n|tr_tl    = \n|it       = Abbondanza armoniosa\n|it_tl    = Harmonious Abundance\n}}\n\n==Change History==\n{{Change History|Luna IV}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Abondance harmonieuse]]\n[[it:Abbondanza armoniosa]]\n[[ja:豊穣の要]]\n[[ru:Гармония изобилия]]\n[[tr:Bereketin Ahengi]]\n[[vi:Sung Túc Hài Hòa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 442537,
+      "ns": 0,
+      "title": "The Northerly Wind's Song of Triumph",
+      "revisions": [
+        {
+          "revid": 2110949,
+          "parentid": 2092801,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Varka\n|type      = Character Event Wishes\n}}\n'''The Northerly Wind's Song of Triumph''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Varka}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Gest of the Mighty Wolf]], a weapon tailored to Varka's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en      = The Northerly Wind's Song of Triumph\n|zhs     = 北风的凯旋歌\n|zhs_rm  = Běifēng de Kǎixuán Gē\n|zht     = 北風的凱旋歌\n|zht_rm  = Běifēng de Kǎixuán Gē\n|zh_tl   = The Northerly Wind's Song of Triumphant Return\n|ja      = 北風の凱旋歌\n|ja_rm   = Hokufuu no Gaisen Uta{{Assumed}}\n|ja_tl   = The Northerly Wind's Song of Triumphant Return\n|ko      = 북풍<->의 승전가\n|ko_tl   = The Northerly Wind's Victory Song\n|es      = Canción triunfal del Viento del Norte\n|es_tl   = \n|fr      = Chant triomphal du vent du nord\n|fr_tl   = The Northerly Wind's Triumphant Song\n|ru      = Триумфальная песнь северного ветра\n|ru_tl   = The Northerly Wind's Triumphal Song\n|th      = บทเพลงแห่งชัยชนะของลมเหนือ\n|th_rm   = \n|th_tl   = \n|vi      = Gió Bắc Khải Hoàn\n|vi_tl   = \n|de      = Triumphlied des Nordwinds\n|de_tl   = \n|id      = Seruan Kemenangan Angin Utara\n|id_tl   = \n|pt      = A Canção de Triunfo do Vento Norte\n|pt_tl   = \n|tr      = Kuzey Rüzgarının Zafer Şarkısı\n|tr_tl   = \n|it      = Inno trionfale del Vento del Nord\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|Luna V}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Chant triomphal du vent du nord]]\n[[it:Inno trionfale del Vento del Nord]]\n[[ru:Триумфальная песнь северного ветра]]\n[[tr:Kuzey Rüzgarının Zafer Şarkısı]]\n[[vi:Gió Bắc Khải Hoàn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 450551,
+      "ns": 0,
+      "title": "Ya-hoho! Compendium",
+      "revisions": [
+        {
+          "revid": 2115542,
+          "parentid": 2111105,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Linnea\n|type      = Character Event Wishes\n}}\n'''Ya-hoho! Compendium''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Linnea}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Golden Frostbound Oath]], a weapon tailored to Linnea's gameplay mechanics.\n==Other Languages==\n{{Other Languages\n|en      = Ya-hoho! Compendium\n|zhs     = 呀吼吼博物志\n|zhs_rm  = Yāhǒuhǒu Bówùzhì\n|zht     = 呀吼吼博物誌\n|zht_rm  = Yāhǒuhǒu Bówùzhì\n|zh_tl   = Ya-hoho Compendium\n|ja      = やっふー博物誌\n|ja_rm   = Yaffuu Hakubutsushi\n|ja_tl   = Yahoo Compendium\n|ko      = 야호 박물지\n|ko_tl   = Yahoo Compendium\n|es      = Yajuuu-pedia\n|es_tl   = Yahoo-pedia\n|fr      = Compendium Ya-hoho !\n|fr_tl   = Ya-hoho Compendium!\n|ru      = Энциклопедия я-хо-хо!\n|ru_tl   = Ya-hoho Encyclopedia!\n|th      = สารานุกรมยะฮู้วว!\n|th_rm   = Saranukrom Yahuu!\n|th_tl   = Yahoo Encyclopedia!\n|vi      = Cẩm Nang Ya-hoho!\n|vi_tl   = Ya-hoho Handbook!\n|de      = Enzyklopädie Ja-hoho!\n|de_tl   = Ya-hoho Encyclopedia!\n|id      = Kompendium Ya-hoho!\n|id_tl   = Ya-hoho Compendium!\n|pt      = Compêndio Ya-hoho!\n|pt_tl   = Ya-hoho Compendium!\n|tr      = Ya-hoho! Atlası\n|tr_tl   = Ya-hoho! Atlas\n|it      = Ya-hoho-pedia\n|it_tl   = Ya-hoho-pedia\n}}\n\n==Change History==\n{{Change History|Luna VI}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Compendium Ya-hoho !]]\n[[it:Ya-hoho-pedia]]\n[[ru:Энциклопедия я-хо-хо!]]\n[[tr:Ya-hoho! Atlası]]\n[[vi:Cẩm Nang Ya-hoho!]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 454899,
+      "ns": 0,
+      "title": "Dewlit Tranquility",
+      "revisions": [
+        {
+          "revid": 2189415,
+          "parentid": 2132215,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Dewlit Tranquility Tab Icon.png\n|type = Chronicled Wishes\n}}\n'''Dewlit Tranquility''' is a type of [[Chronicled Wish]] themed around [[Fontaine]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Dewlit Tranquility\n|zhs      = 露景涓然\n|zhs_rm   = \n|zht      = 露景涓然\n|zht_rm   = \n|zh_tl    = \n|ja       = ルキナのせせらぎ\n|ja_rm    = \n|ja_tl    = \n|ko       = 루키나의 눈물\n|ko_tl    = \n|es       = Afluentes de Lucine\n|es_tl    = \n|fr       = Quiétude sous la rosée\n|fr_tl    = Tranquility Beneath the Dew\n|ru       = Безмятежность росы\n|ru_tl    = \n|th       = น้ำค้างพราวสันติ\n|th_rm    = \n|th_tl    = \n|vi       = Sương Đêm Êm Dịu\n|vi_tl    = \n|de       = Quelle des Taus\n|de_tl    = \n|id       = Ketenangan Cahaya Embun\n|id_tl    = \n|pt       = Tranquilidade do Orvalho\n|pt_tl    = \n|tr       = Çiy Işığı Sükuneti\n|tr_tl    = \n|it       = Placidità della rugiada\n|it_tl    = \n}}\n\n==Change History==\n{{Change History|Luna VI}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Quiétude sous la rosée]]\n[[ja:ルキナのせせらぎ]]\n[[ru:Безмятежность росы]]\n[[tr:Çiy Işığı Sükuneti]]\n[[vi:Sương Đêm Êm Dịu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 456590,
+      "ns": 0,
+      "title": "Angel's Reverie",
+      "revisions": [
+        {
+          "revid": 2115551,
+          "parentid": 2111074,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Nicole\n|type      = Character Event Wishes\n}}\n'''Angel's Reverie''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Nicole}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Angelos' Heptades]], a weapon tailored to Nicole's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Angel's Reverie\n|zhs     = 炽天的默想曲\n|zhs_rm  = Chìtiān de Mòxiǎngqǔ\n|zht     = 熾天的默想曲\n|zht_rm  = Chìtiān de Mòxiǎngqǔ\n|zh_tl   = Seraph's Contemplation Song\n|ja      = さざめく熾天の黙想曲\n|ja_rm   = Sazameku Shiten no Mokusoukyoku\n|ja_tl   = Chattering Seraph's Contemplation Song\n|ko      = 천사<->의 묵상곡\n|ko_tl   = Angel's Contemplation Song\n|es      = Ensoñación angelical\n|es_tl   = Angelic Daydream\n|fr      = Rêverie de l'ange\n|fr_tl   = Angel's Reverie\n|ru      = Грёзы ангела\n|ru_tl   = Angel's Reverie\n|th      = เพลงภาวนาใต้นภาเพลิง\n|th_rm   = Phleng Phawana tai Napha Phloeng \n|th_tl   = Contemplation Song Under Flaming Skies\n|vi      = {{tt|Khúc Mặc Tưởng|默想曲}} Rực Trời\n|vi_tl   = Blazing Sky's Contemplation Song\n|de      = Des Engels Tagträumerei\n|de_tl   = The Angel's Daydreaming\n|id      = Lamunan Mimpi Malaikat\n|id_tl   = Angel's Dreamy Reverie\n|pt      = Sonata da Contemplação do Dia Flamejante\n|pt_tl   = Flaming Day's Sonata of Contemplation\n|tr      = Meleğin Rüyası\n|tr_tl   = Angel's Dream\n|it      = Sogno dell'angelo\n|it_tl   = Angel's Dream\n}}\n\n==Change History==\n{{Change History|Luna VII}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Rêverie de l'ange]]\n[[it:Sogno dell'angelo]]\n[[ru:Грёзы ангела]]\n[[tr:Meleğin Rüyası]]\n[[vi:Khúc Mặc Tưởng Rực Trời]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 456594,
+      "ns": 0,
+      "title": "Frostedge Nocturne",
+      "revisions": [
+        {
+          "revid": 2177544,
+          "parentid": 2115545,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Lohen\n|type      = Character Event Wishes\n}}\n'''Frostedge Nocturne''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Lohen}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Disaster and Remorse]], a weapon tailored to Lohen's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = Frostedge Nocturne\n|zhs     = 霜锋夜白\n|zhs_rm  = \n|zht     = 霜鋒夜白\n|zht_rm  = \n|zh_tl   = \n|ja      = 夜を裂く霜刃の煌き\n|ja_rm   = Yoru wo Saku Soujin no Kirameki\n|ja_tl   = Shimmer of the Night-Cutting Frostblade\n|ko      = 한밤<->의 서리검\n|ko_tl   = \n|es      = Noche de la escarcha punzante\n|es_tl   = \n|fr      = Nocturne sur le fil du givre\n|fr_tl   = Nocturne on the Frost Edge\n|ru      = Ноктюрн морозного лезвия\n|ru_tl   = \n|th      = คมเหมันต์ราตรีสกาว\n|th_rm   = \n|th_tl   = \n|vi      = Mũi Sương Đêm Trắng\n|vi_tl   = \n|de      = Nachtmusik der Frostschneide\n|de_tl   = \n|id      = Bisikan Bilah Beku\n|id_tl   = Whisper of the Frozen Blade\n|pt      = Noite Branca da Lâmina Gelada\n|pt_tl   = \n|tr      = Dondurucu Noktürn\n|tr_tl   = \n|it      = Notturno della lama gelata\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|Luna VII}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Nocturne sur le fil du givre]]\n[[it:Notturno della lama gelata]]\n[[tr:Dondurucu Noktürn]]\n[[vi:Mũi Sương Đêm Trắng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 467448,
+      "ns": 0,
+      "title": "To the Looking-Glass the Mademoiselle Said",
+      "revisions": [
+        {
+          "revid": 2142429,
+          "parentid": 2132659,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Sandrone\n|type      = Character Event Wishes\n}}\n'''To the Looking-Glass the Mademoiselle Said''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Sandrone}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n\n==Trivia==\n* The name of this Wish Series is likely a reference to the song ''{{w|Bonnie Dundee#Lewis Carroll|To the Looking-Glass World it was Alice that Said...}}'' that appears in ''{{w|Through the Looking-Glass}}'' by {{w|Lewis Caroll}}.\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[A Teaspoon of Transcendence]], a weapon tailored to Sandrone's gameplay mechanics.\n\n==Other Languages==\n{{Other Languages\n|en      = To the Looking-Glass the Mademoiselle Said\n|zhs     = 镜中的茶宴\n|zhs_rm  = Jìngzhōng de Cháyàn\n|zht     = 鏡中的茶宴\n|zht_rm  = Jìngzhōng de Cháyàn\n|zh_tl   = \n|ja      = 鏡の国のお茶会\n|ja_rm   = \n|ja_tl   = \n|ko      = 거울 속 티타임\n|ko_rm   = \n|ko_tl   = \n|es      = Al espejo le dijo la dama\n|es_tl   = \n|fr      = Au miroir, la mademoiselle a déclaré\n|fr_tl   = To the Mirror, the Mademoiselle Declared\n|ru      = Собирайся скорей, Зазеркальный народ!\n|ru_tl   = \n|th      = งานเลี้ยงน้ำชาในกระจก\n|th_rm   = \n|th_tl   = \n|vi      = Tiệc Trà Trong Gương\n|vi_tl   = \n|de      = Teegesellschaft hinterm Spiegel\n|de_tl   = \n|id      = Pesta Teh dalam Cerminan\n|id_tl   = \n|pt      = Chá Entre Reflexos\n|pt_tl   = \n|tr      = Ayna Alemine Dedi Ki Matmazel\n|tr_tl   = \n|it      = Così la Mademoiselle disse allo specchio\n|it_tl   = So Said Mademoiselle to the Mirror\n}}\n\n==Change History==\n{{Change History|Luna VIII}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Au miroir, la mademoiselle a déclaré]]\n[[it:Così la Mademoiselle disse allo specchio]]\n[[pt-br:Chá Entre Reflexos]]\n[[tr:Ayna Alemine Dedi Ki Matmazel]]\n[[vi:Tiệc Trà Trong Gương]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 467505,
+      "ns": 0,
+      "title": "Heavenlit Prophecy",
+      "revisions": [
+        {
+          "revid": 2173802,
+          "parentid": 2128861,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|icon = Heavenlit Prophecy Tab Icon.png\n|type = Lightrace Wishes\n}}\n'''Heavenlit Prophecy''' is a type of [[Lightrace Wish]] themed around [[Witch's Revelation]].\n\n==History==\n{{Wish History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Heavenlit Prophecy\n|zhs      = 辉天的星告\n|zhs_rm   = \n|zht      = 輝天的星告\n|zht_rm   = \n|zh_tl    = \n|ja       = 空に輝く星のお告げ\n|ja_rm    = \n|ja_tl    = \n|ko       = 별빛 계시\n|ko_tl    = \n|es       = Profecía brilloceleste\n|es_tl    = \n|fr       = Prophétie sous les astres\n|fr_tl    = Prophecy Beneath the Stars\n|ru       = Небесное пророчество\n|ru_tl    = \n|th       = สาส์นดาราแห่งนภาเรืองรอง\n|th_rm    = \n|th_tl    = \n|vi       = Lời Sao Kể Rực Rỡ\n|vi_tl    = \n|de       = Prophezeiung des Himmelslichts\n|de_tl    = \n|id       = Nubuat dari Terang Langit\n|id_tl    = \n|pt       = Profecia Iluminada pelos Céus\n|pt_tl    = \n|tr       = Göğün Aydınlattığı Kehanet\n|tr_tl    = \n|it       = Profezia celeste\n|it_tl    = Celestial Profecy\n}}\n\n==Change History==\n{{Change History|Luna VIII}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Prophétie sous les astres]]\n[[tr:Göğün Aydınlattığı Kehanet]]\n[[vi:Lời Sao Kể Rực Rỡ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 467506,
+      "ns": 0,
+      "title": "Lightrace Wish",
+      "revisions": [
+        {
+          "revid": 2184334,
+          "parentid": 2135462,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Terminology Infobox\n|type         = Wish Types\n}}\n'''Lightrace Wish''' is an [[Event Wish]] that allows the player to wish for certain [[character]]s and [[weapon]]s.\n\nTravelers can obtain random 5{{star}}, 4{{star}}, and 3{{star}} items from \"Lightrace Wish.\" Unlike other Event Wishes, the item list of \"Lightrace Wish\" includes both 5{{star}} characters and 5{{star}} weapons. It also includes a number of event wish-exclusive characters and weapons.\n\n==Rates==\n{|class=\"wikitable align-center\"\n!Item !! Base Rate !! Average Rate<br><small>(including Pity)</small>\n|-\n|5{{star}} Character or Weapon\n|0.6% || 1.6%\n|-\n|4{{star}} Character or Weapon\n|5.1% || 13%\n|-\n|3{{star}} Weapon\n|94.3% || 85.4%\n|}\n\n==Rules==\n* [[Wish]]es for \"Lightrace Wish\" require [[Intertwined Fate]]s. Before wishing, the player must choose their \"Lightrace Path\" by selecting a 5{{star}} character or weapon from the list of 5{{star}} items.\n** If the Designated Item is a character, the 5{{star}} items obtained in the Wish will all be characters.\n** If the Designated Item is a weapon, the 5{{star}} items obtained in the Wish will all be weapons.\n* There are guarantees for both the 5{{star}} and 4{{star}} items in the Wish. A maximum of 90 wishes conducted will secure a 5{{star}} item through the guarantee.\n** When a 5{{star}} item obtained in this Event Wish, there is a 50.000% chance it will be the Designated Item.\n** The player is ''guaranteed'' to win a 4{{star}} or above item ''at least once'' every 10 attempts.\n** The wish guarantee count will ''continue'' to accumulate within \"Lightrace Wish,\" and will ''carry over'' to the next \"Lightrace Wish.\"\n*** The wish guarantee count for \"Lightrace Wish\" is shared of the guarantee count for [[Chronicled Wish]]. This wish guarantee count is independent of the guarantee counts of other types of wishes.\n* The items in each different \"Lightrace Wish\" period may change. For details, please stay tuned for \"Lightrace Wish\" event notices.\n\n===Lightrace Path===\n* After choosing a 5{{star}} item as the Designated Item, if a 5{{star}} item obtained was not their Designated Item, 1 Fate Point will received.\n** Once the player has reached the ''maximum'' amount of Fate Points (1 Fate Point), the next 5{{star}} item they obtain through this Wish is ''guaranteed'' to be their Designated Item.\n* Obtaining the current Designated Item or changing the choice will reset the Fate Points to 0.\n* Fate Points will not be carried over to the next \"Lightrace Wish.\" Fate Points will be reset to 0 when the current \"Lightrace Wish\" ends.\n\n==Wish History==\n{{Wish History Table|Lightrace Wishes}}\n<!--\n==Trivia==\n-->\n==Other Languages==\n{{Other Languages\n|en       = Lightrace Wish\n|zhs      = 溯光祈愿\n|zhs_rm   = \n|zht      = 溯光祈願\n|zht_rm   = \n|zh_tl    = \n|ja       = 追憶祈願\n|ja_rm    = \n|ja_tl    = \n|ko       = 귀환 기원\n|ko_tl    = \n|es       = Gachapón reminiscente\n|es_tl    = \n|fr       = Vœux lumineux\n|fr_tl    = Luminous Wish\n|ru       = Молитва света\n|ru_tl    = \n|th       = การอธิษฐานย้อนรอยแสง\n|th_rm    = \n|th_tl    = \n|vi       = Cầu Nguyện Vệt Sáng\n|vi_tl    = \n|de       = Lichtspurgebet\n|de_tl    = \n|id       = Lightrace Wish\n|pt       = Oração Luminosa\n|pt_tl    = \n|tr       = Parlak Dilek\n|tr_tl    = \n|it       = Desiderio Traccialuce\n|it_tl    = Light Trace Wish\n}}\n\n==Change History==\n{{Change History|Luna VIII}}\n<!--\n==References==\n{{Reflist}}\n-->\n==Navigation==\n{{Wish Navbox}}\n\n[[Category:Lightrace Wishes| ]]\n\n[[fr:Vœux lumineux]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 477240,
+      "ns": 0,
+      "title": "Swan's Shadow in Silken Ice",
+      "revisions": [
+        {
+          "revid": 2177920,
+          "parentid": 2176830,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Odette\n|type      = Character Event Wishes\n}}\n'''Swan's Shadow in Silken Ice''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Odette}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n<!--\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[Whitelake Frostfeather]], a weapon tailored to Swan's Shadow in Silken Ice's gameplay mechanics.\n-->\n==Other Languages==\n{{Other Languages\n|en      = Swan's Shadow in Silken Ice\n|zhs     = 冰绡鹄影\n|zhs_rm  = Bīngxiāo Húyǐng\n|zht     = 冰綃鵠影\n|zht_rm  = Bīngxiāo Húyǐng\n|zh_tl   = Swan's Shadow in Icy Silk\n|ja      = 氷紗に映る雪鳥の影\n|ja_rm   = Hyousha ni Utsuru Yukidori no Kage\n|ja_tl   = Snow Bird's Shadow Reflected in Icy Silk\n|ko      = 백조<->의 그림자\n|ko_tl   = Swan's Shadow\n|es      = Cisne sobre hielo sedoso\n|es_tl   = Swan on Silken Ice\n|fr      = Ombre de cygne en soie glacée\n|fr_tl   = Swan's Shadow in Icy Silk\n|ru      = Ледяная тень лебедя\n|ru_tl   = Swan's Icy Shadow\n|th      = เงาหงส์ร่ายแพรน้ำแข็ง\n|th_rm   = Ngao Hong Rai Phrae Nam-khaeng\n|th_tl   = Swan's Shadow Cast on Icy Silk\n|vi      = Thiên Nga Băng Giá\n|vi_tl   = Icy Swan\n|de      = Schwanenschatten in eisiger Seide\n|de_tl   = Swan's Shadow in Icy Silk\n|id      = Bayang Angsa dalam Sutra Es\n|id_tl   = Swan's Shadow in Icy Silk\n|pt      = Silhueta de Cisne no Gelo\n|pt_tl   = Swan's Silhouette on the Ice\n|tr      = Buza Yansıyan Kuğu Gölgesi\n|tr_tl   = Swan's Shadow Reflected on the Ice\n|it      = Ombra del cigno sul ghiaccio serico\n|it_tl   = Swan's Shadow on the Silken Ice\n}}\n\n==Change History==\n{{Change History|7.0}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Ombre de cygne en soie glacée]]\n[[it:Ombra del cigno sul ghiaccio serico]]\n[[pt-br:Silhueta de Cisne no Gelo]]\n[[ru:Ледяная тень лебедя]]\n[[vi:Thiên Nga Băng Giá]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 490838,
+      "ns": 0,
+      "title": "When Warm Winds Cavort",
+      "revisions": [
+        {
+          "revid": 2188958,
+          "parentid": 2183548,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Vesna\n|type      = Character Event Wishes\n}}\n'''When Warm Winds Cavort''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Vesna}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n<!--\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[weapon name]], a weapon tailored to Vesna's gameplay mechanics.\n-->\n==Other Languages==\n{{Other Languages\n|en      = When Warm Winds Cavort\n|zhs     = 煦风欢舞时\n|zhs_rm  = Xùfēng Huānwǔ Shí\n|zht     = 煦風歡舞時\n|zht_rm  = Xùfēng Huānwǔ Shí\n|zh_tl   = When the Gentle Breeze Dances Joyfully\n|ja      = 花風にひらめく歓び\n|ja_rm   = \n|ja_tl   = \n|ko      = 봄바람<->의 춤\n|ko_tl   = \n|es      = Jugueteo brisacálido\n|es_tl   = \n|fr      = Quand les vents chauds caracolent\n|fr_tl   = When Warm Winds Caracole\n|ru      = Когда кружится тёплый ветер\n|ru_tl   = \n|th      = ยามสายลมอุ่นเริงระบำ\n|th_rm   = \n|th_tl   = \n|vi      = Khi Gió Ấm Nhảy Múa\n|vi_tl   = \n|de      = Wenn die warme Brise tanzt\n|de_tl   = \n|id      = Kala Angin Hangat Menari Riang\n|id_tl   = \n|pt      = Quando a Brisa Quente Dança com Alegria\n|pt_tl   = \n|tr      = Sıcak Rüzgarların Neşeli Dansı\n|tr_tl   = \n|it      = Brezza tiepida che danza di gioia\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|7.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Quand les vents chauds caracolent]]\n[[pt-br:Quando a Brisa Quente Dança com Alegria]]\n[[ru:Когда кружится тёплый ветер]]\n[[vi:Khi Gió Ấm Nhảy Múa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 490839,
+      "ns": 0,
+      "title": "Surging Ballad",
+      "revisions": [
+        {
+          "revid": 2188932,
+          "parentid": 2183599,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Wish Series Infobox\n|character = Vodyanitsa\n|type      = Character Event Wishes\n}}\n'''Surging Ballad''' is a [[Character Event Wish]] with the 5 Star [[Character]] {{Wish Item|Vodyanitsa}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Wish History Table}}\n<!--\n==Trivia==\n* The first occurrence of this Wish Series ran alongside an [[Epitome Invocation]] Wish featuring [[weapon name]], a weapon tailored to Vodyanitsa's gameplay mechanics.\n-->\n==Other Languages==\n{{Other Languages\n|en      = Surging Ballad\n|zhs     = 涌浪叙歌\n|zhs_rm  = Yǒng Làng Xù Gē\n|zht     = 湧浪敘歌\n|zht_rm  = Yǒng Làng Xù Gē\n|zh_tl   = Song of Surging Waves\n|ja      = 波の叙情歌\n|ja_rm   = \n|ja_tl   = \n|ko      = 파도<->의 노래\n|ko_tl   = \n|es      = Balada de las olas\n|es_tl   = \n|fr      = Ballade déferlante\n|fr_tl   = Surging Ballad\n|ru      = Баллада бушующих волн\n|ru_tl   = \n|th      = ลำนำคลื่นกระหน่ำ\n|th_rm   = \n|th_tl   = \n|vi      = Khúc Ca Sóng Cuộn\n|vi_tl   = \n|de      = Wallende Ballade\n|de_tl   = \n|id      = Balada Deburan Ombak\n|id_tl   = \n|pt      = Balada Arrebatadora\n|pt_tl   = \n|tr      = Coşkun Dalgaların Şarkısı\n|tr_tl   = \n|it      = Ballata impetuosa\n|it_tl   = \n}}\n\n==Change History==\n{{Change History|7.1}}\n\n==Navigation==\n{{Wish Navbox}}\n\n[[fr:Ballade déferlante]]\n[[pt-br:Balada Arrebatadora]]\n[[ru:Баллада бушующих волн]]"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "fetchedAt": "2026-10-03T03:10:41.291Z"
+}

@@ -1,0 +1,1407 @@
+{
+  "schemaVersion": 2,
+  "images": {
+    "genshin-characters-10000002": "/assets/genshin/artwork/10000002.webp",
+    "genshin-characters-10000003": "/assets/genshin/artwork/10000003.webp",
+    "genshin-characters-10000005": "/assets/genshin/artwork/10000005.webp",
+    "genshin-characters-10000006": "/assets/genshin/artwork/10000006.webp",
+    "genshin-characters-10000007": "/assets/genshin/artwork/10000007.webp",
+    "genshin-characters-10000014": "/assets/genshin/artwork/10000014.webp",
+    "genshin-characters-10000015": "/assets/genshin/artwork/10000015.webp",
+    "genshin-characters-10000016": "/assets/genshin/artwork/10000016.webp",
+    "genshin-characters-10000020": "/assets/genshin/artwork/10000020.webp",
+    "genshin-characters-10000021": "/assets/genshin/artwork/10000021.webp",
+    "genshin-characters-10000022": "/assets/genshin/artwork/10000022.webp",
+    "genshin-characters-10000023": "/assets/genshin/artwork/10000023.webp",
+    "genshin-characters-10000024": "/assets/genshin/artwork/10000024.webp",
+    "genshin-characters-10000025": "/assets/genshin/artwork/10000025.webp",
+    "genshin-characters-10000026": "/assets/genshin/artwork/10000026.webp",
+    "genshin-characters-10000027": "/assets/genshin/artwork/10000027.webp",
+    "genshin-characters-10000029": "/assets/genshin/artwork/10000029.webp",
+    "genshin-characters-10000030": "/assets/genshin/artwork/10000030.webp",
+    "genshin-characters-10000031": "/assets/genshin/artwork/10000031.webp",
+    "genshin-characters-10000032": "/assets/genshin/artwork/10000032.webp",
+    "genshin-characters-10000033": "/assets/genshin/artwork/10000033.webp",
+    "genshin-characters-10000034": "/assets/genshin/artwork/10000034.webp",
+    "genshin-characters-10000035": "/assets/genshin/artwork/10000035.webp",
+    "genshin-characters-10000036": "/assets/genshin/artwork/10000036.webp",
+    "genshin-characters-10000037": "/assets/genshin/artwork/10000037.webp",
+    "genshin-characters-10000038": "/assets/genshin/artwork/10000038.webp",
+    "genshin-characters-10000039": "/assets/genshin/artwork/10000039.webp",
+    "genshin-characters-10000041": "/assets/genshin/artwork/10000041.webp",
+    "genshin-characters-10000042": "/assets/genshin/artwork/10000042.webp",
+    "genshin-characters-10000043": "/assets/genshin/artwork/10000043.webp",
+    "genshin-characters-10000044": "/assets/genshin/artwork/10000044.webp",
+    "genshin-characters-10000045": "/assets/genshin/artwork/10000045.webp",
+    "genshin-characters-10000046": "/assets/genshin/artwork/10000046.webp",
+    "genshin-characters-10000047": "/assets/genshin/artwork/10000047.webp",
+    "genshin-characters-10000048": "/assets/genshin/artwork/10000048.webp",
+    "genshin-characters-10000049": "/assets/genshin/artwork/10000049.webp",
+    "genshin-characters-10000050": "/assets/genshin/artwork/10000050.webp",
+    "genshin-characters-10000051": "/assets/genshin/artwork/10000051.webp",
+    "genshin-characters-10000052": "/assets/genshin/artwork/10000052.webp",
+    "genshin-characters-10000053": "/assets/genshin/artwork/10000053.webp",
+    "genshin-characters-10000054": "/assets/genshin/artwork/10000054.webp",
+    "genshin-characters-10000055": "/assets/genshin/artwork/10000055.webp",
+    "genshin-characters-10000056": "/assets/genshin/artwork/10000056.webp",
+    "genshin-characters-10000057": "/assets/genshin/artwork/10000057.webp",
+    "genshin-characters-10000058": "/assets/genshin/artwork/10000058.webp",
+    "genshin-characters-10000059": "/assets/genshin/artwork/10000059.webp",
+    "genshin-characters-10000060": "/assets/genshin/artwork/10000060.webp",
+    "genshin-characters-10000061": "/assets/genshin/artwork/10000061.webp",
+    "genshin-characters-10000062": "/assets/genshin/artwork/10000062.webp",
+    "genshin-characters-10000063": "/assets/genshin/artwork/10000063.webp",
+    "genshin-characters-10000064": "/assets/genshin/artwork/10000064.webp",
+    "genshin-characters-10000065": "/assets/genshin/artwork/10000065.webp",
+    "genshin-characters-10000066": "/assets/genshin/artwork/10000066.webp",
+    "genshin-characters-10000067": "/assets/genshin/artwork/10000067.webp",
+    "genshin-characters-10000068": "/assets/genshin/artwork/10000068.webp",
+    "genshin-characters-10000069": "/assets/genshin/artwork/10000069.webp",
+    "genshin-characters-10000070": "/assets/genshin/artwork/10000070.webp",
+    "genshin-characters-10000071": "/assets/genshin/artwork/10000071.webp",
+    "genshin-characters-10000072": "/assets/genshin/artwork/10000072.webp",
+    "genshin-characters-10000073": "/assets/genshin/artwork/10000073.webp",
+    "genshin-characters-10000074": "/assets/genshin/artwork/10000074.webp",
+    "genshin-characters-10000075": "/assets/genshin/artwork/10000075.webp",
+    "genshin-characters-10000076": "/assets/genshin/artwork/10000076.webp",
+    "genshin-characters-10000077": "/assets/genshin/artwork/10000077.webp",
+    "genshin-characters-10000078": "/assets/genshin/artwork/10000078.webp",
+    "genshin-characters-10000079": "/assets/genshin/artwork/10000079.webp",
+    "genshin-characters-10000080": "/assets/genshin/artwork/10000080.webp",
+    "genshin-characters-10000081": "/assets/genshin/artwork/10000081.webp",
+    "genshin-characters-10000082": "/assets/genshin/artwork/10000082.webp",
+    "genshin-characters-10000083": "/assets/genshin/artwork/10000083.webp",
+    "genshin-characters-10000084": "/assets/genshin/artwork/10000084.webp",
+    "genshin-characters-10000085": "/assets/genshin/artwork/10000085.webp",
+    "genshin-characters-10000086": "/assets/genshin/artwork/10000086.webp",
+    "genshin-characters-10000087": "/assets/genshin/artwork/10000087.webp",
+    "genshin-characters-10000088": "/assets/genshin/artwork/10000088.webp",
+    "genshin-characters-10000089": "/assets/genshin/artwork/10000089.webp",
+    "genshin-characters-10000090": "/assets/genshin/artwork/10000090.webp",
+    "genshin-characters-10000091": "/assets/genshin/artwork/10000091.webp",
+    "genshin-characters-10000092": "/assets/genshin/artwork/10000092.webp",
+    "genshin-characters-10000093": "/assets/genshin/artwork/10000093.webp",
+    "genshin-characters-10000094": "/assets/genshin/artwork/10000094.webp",
+    "genshin-characters-10000095": "/assets/genshin/artwork/10000095.webp",
+    "genshin-characters-10000096": "/assets/genshin/artwork/10000096.webp",
+    "genshin-characters-10000097": "/assets/genshin/artwork/10000097.webp",
+    "genshin-characters-10000098": "/assets/genshin/artwork/10000098.webp",
+    "genshin-characters-10000099": "/assets/genshin/artwork/10000099.webp",
+    "genshin-characters-10000100": "/assets/genshin/artwork/10000100.webp",
+    "genshin-characters-10000101": "/assets/genshin/artwork/10000101.webp",
+    "genshin-characters-10000102": "/assets/genshin/artwork/10000102.webp",
+    "genshin-characters-10000103": "/assets/genshin/artwork/10000103.webp",
+    "genshin-characters-10000104": "/assets/genshin/artwork/10000104.webp",
+    "genshin-characters-10000105": "/assets/genshin/artwork/10000105.webp",
+    "genshin-characters-10000106": "/assets/genshin/artwork/10000106.webp",
+    "genshin-characters-10000107": "/assets/genshin/artwork/10000107.webp",
+    "genshin-characters-10000108": "/assets/genshin/artwork/10000108.webp",
+    "genshin-characters-10000109": "/assets/genshin/artwork/10000109.webp",
+    "genshin-characters-10000110": "/assets/genshin/artwork/10000110.webp",
+    "genshin-characters-10000111": "/assets/genshin/artwork/10000111.webp",
+    "genshin-characters-10000112": "/assets/genshin/artwork/10000112.webp",
+    "genshin-characters-10000113": "/assets/genshin/artwork/10000113.webp",
+    "genshin-characters-10000114": "/assets/genshin/artwork/10000114.webp",
+    "genshin-characters-10000115": "/assets/genshin/artwork/10000115.webp",
+    "genshin-characters-10000116": "/assets/genshin/artwork/10000116.webp",
+    "genshin-characters-10000119": "/assets/genshin/artwork/10000119.webp",
+    "genshin-characters-10000120": "/assets/genshin/artwork/10000120.webp",
+    "genshin-characters-10000121": "/assets/genshin/artwork/10000121.webp",
+    "genshin-characters-10000122": "/assets/genshin/artwork/10000122.webp",
+    "genshin-characters-10000123": "/assets/genshin/artwork/10000123.webp",
+    "genshin-characters-10000124": "/assets/genshin/artwork/10000124.webp",
+    "genshin-characters-10000125": "/assets/genshin/artwork/10000125.webp",
+    "genshin-characters-10000126": "/assets/genshin/artwork/10000126.webp",
+    "genshin-characters-10000127": "/assets/genshin/artwork/10000127.webp",
+    "genshin-characters-10000128": "/assets/genshin/artwork/10000128.webp",
+    "genshin-characters-10000129": "/assets/genshin/artwork/10000129.webp",
+    "genshin-characters-10000130": "/assets/genshin/artwork/10000130.webp",
+    "genshin-characters-10000131": "/assets/genshin/artwork/10000131.webp",
+    "genshin-characters-10000132": "/assets/genshin/artwork/10000132.webp",
+    "genshin-characters-10000133": "/assets/genshin/artwork/10000133.webp",
+    "genshin-characters-10000140": "/assets/genshin/artwork/10000140.webp",
+    "genshin-characters-10000143": "/assets/genshin/artwork/10000143.webp",
+    "genshin-characters-10000148": "/assets/genshin/artwork/10000148.webp",
+    "genshin-characters-10000150": "/assets/genshin/artwork/10000150.webp",
+    "starrail-characters-1001": "/assets/starrail/artwork/1001.webp",
+    "starrail-characters-1002": "/assets/starrail/artwork/1002.webp",
+    "starrail-characters-1003": "/assets/starrail/artwork/1003.webp",
+    "starrail-characters-1004": "/assets/starrail/artwork/1004.webp",
+    "starrail-characters-1005": "/assets/starrail/artwork/1005.webp",
+    "starrail-characters-1006": "/assets/starrail/artwork/1006.webp",
+    "starrail-characters-1008": "/assets/starrail/artwork/1008.webp",
+    "starrail-characters-1009": "/assets/starrail/artwork/1009.webp",
+    "starrail-characters-1013": "/assets/starrail/artwork/1013.webp",
+    "starrail-characters-1014": "/assets/starrail/artwork/1014.webp",
+    "starrail-characters-1015": "/assets/starrail/artwork/1015.webp",
+    "starrail-characters-1101": "/assets/starrail/artwork/1101.webp",
+    "starrail-characters-1102": "/assets/starrail/artwork/1102.webp",
+    "starrail-characters-1103": "/assets/starrail/artwork/1103.webp",
+    "starrail-characters-1104": "/assets/starrail/artwork/1104.webp",
+    "starrail-characters-1105": "/assets/starrail/artwork/1105.webp",
+    "starrail-characters-1106": "/assets/starrail/artwork/1106.webp",
+    "starrail-characters-1107": "/assets/starrail/artwork/1107.webp",
+    "starrail-characters-1108": "/assets/starrail/artwork/1108.webp",
+    "starrail-characters-1109": "/assets/starrail/artwork/1109.webp",
+    "starrail-characters-1110": "/assets/starrail/artwork/1110.webp",
+    "starrail-characters-1111": "/assets/starrail/artwork/1111.webp",
+    "starrail-characters-1112": "/assets/starrail/artwork/1112.webp",
+    "starrail-characters-1201": "/assets/starrail/artwork/1201.webp",
+    "starrail-characters-1202": "/assets/starrail/artwork/1202.webp",
+    "starrail-characters-1203": "/assets/starrail/artwork/1203.webp",
+    "starrail-characters-1204": "/assets/starrail/artwork/1204.webp",
+    "starrail-characters-1205": "/assets/starrail/artwork/1205.webp",
+    "starrail-characters-1206": "/assets/starrail/artwork/1206.webp",
+    "starrail-characters-1207": "/assets/starrail/artwork/1207.webp",
+    "starrail-characters-1208": "/assets/starrail/artwork/1208.webp",
+    "starrail-characters-1209": "/assets/starrail/artwork/1209.webp",
+    "starrail-characters-1210": "/assets/starrail/artwork/1210.webp",
+    "starrail-characters-1211": "/assets/starrail/artwork/1211.webp",
+    "starrail-characters-1212": "/assets/starrail/artwork/1212.webp",
+    "starrail-characters-1213": "/assets/starrail/artwork/1213.webp",
+    "starrail-characters-1214": "/assets/starrail/artwork/1214.webp",
+    "starrail-characters-1215": "/assets/starrail/artwork/1215.webp",
+    "starrail-characters-1217": "/assets/starrail/artwork/1217.webp",
+    "starrail-characters-1218": "/assets/starrail/artwork/1218.webp",
+    "starrail-characters-1220": "/assets/starrail/artwork/1220.webp",
+    "starrail-characters-1221": "/assets/starrail/artwork/1221.webp",
+    "starrail-characters-1222": "/assets/starrail/artwork/1222.webp",
+    "starrail-characters-1223": "/assets/starrail/artwork/1223.webp",
+    "starrail-characters-1224": "/assets/starrail/artwork/1224.webp",
+    "starrail-characters-1225": "/assets/starrail/artwork/1225.webp",
+    "starrail-characters-1301": "/assets/starrail/artwork/1301.webp",
+    "starrail-characters-1302": "/assets/starrail/artwork/1302.webp",
+    "starrail-characters-1303": "/assets/starrail/artwork/1303.webp",
+    "starrail-characters-1304": "/assets/starrail/artwork/1304.webp",
+    "starrail-characters-1305": "/assets/starrail/artwork/1305.webp",
+    "starrail-characters-1306": "/assets/starrail/artwork/1306.webp",
+    "starrail-characters-1307": "/assets/starrail/artwork/1307.webp",
+    "starrail-characters-1308": "/assets/starrail/artwork/1308.webp",
+    "starrail-characters-1309": "/assets/starrail/artwork/1309.webp",
+    "starrail-characters-1310": "/assets/starrail/artwork/1310.webp",
+    "starrail-characters-1312": "/assets/starrail/artwork/1312.webp",
+    "starrail-characters-1313": "/assets/starrail/artwork/1313.webp",
+    "starrail-characters-1314": "/assets/starrail/artwork/1314.webp",
+    "starrail-characters-1315": "/assets/starrail/artwork/1315.webp",
+    "starrail-characters-1317": "/assets/starrail/artwork/1317.webp",
+    "starrail-characters-1321": "/assets/starrail/artwork/1321.webp",
+    "starrail-characters-1401": "/assets/starrail/artwork/1401.webp",
+    "starrail-characters-1402": "/assets/starrail/artwork/1402.webp",
+    "starrail-characters-1403": "/assets/starrail/artwork/1403.webp",
+    "starrail-characters-1404": "/assets/starrail/artwork/1404.webp",
+    "starrail-characters-1405": "/assets/starrail/artwork/1405.webp",
+    "starrail-characters-1406": "/assets/starrail/artwork/1406.webp",
+    "starrail-characters-1407": "/assets/starrail/artwork/1407.webp",
+    "starrail-characters-1408": "/assets/starrail/artwork/1408.webp",
+    "starrail-characters-1409": "/assets/starrail/artwork/1409.webp",
+    "starrail-characters-1410": "/assets/starrail/artwork/1410.webp",
+    "starrail-characters-1412": "/assets/starrail/artwork/1412.webp",
+    "starrail-characters-1413": "/assets/starrail/artwork/1413.webp",
+    "starrail-characters-1414": "/assets/starrail/artwork/1414.webp",
+    "starrail-characters-1415": "/assets/starrail/artwork/1415.webp",
+    "starrail-characters-1501": "/assets/starrail/artwork/1501.webp",
+    "starrail-characters-1502": "/assets/starrail/artwork/1502.webp",
+    "starrail-characters-1503": "/assets/starrail/artwork/1503.webp",
+    "starrail-characters-1504": "/assets/starrail/artwork/1504.webp",
+    "starrail-characters-1505": "/assets/starrail/artwork/1505.webp",
+    "starrail-characters-1506": "/assets/starrail/artwork/1506.webp",
+    "starrail-characters-1507": "/assets/starrail/artwork/1507.webp",
+    "starrail-characters-1508": "/assets/starrail/artwork/1508.webp",
+    "starrail-characters-1509": "/assets/starrail/artwork/1509.webp",
+    "starrail-characters-1510": "/assets/starrail/artwork/1510.webp",
+    "starrail-characters-1512": "/assets/starrail/artwork/1512.webp",
+    "starrail-characters-1513": "/assets/starrail/artwork/1513.webp",
+    "starrail-characters-8001": "/assets/starrail/artwork/8001.webp",
+    "starrail-characters-8002": "/assets/starrail/artwork/8002.webp",
+    "starrail-characters-8003": "/assets/starrail/artwork/8003.webp",
+    "starrail-characters-8004": "/assets/starrail/artwork/8004.webp",
+    "starrail-characters-8005": "/assets/starrail/artwork/8005.webp",
+    "starrail-characters-8006": "/assets/starrail/artwork/8006.webp",
+    "starrail-characters-8007": "/assets/starrail/artwork/8007.webp",
+    "starrail-characters-8008": "/assets/starrail/artwork/8008.webp",
+    "starrail-characters-8009": "/assets/starrail/artwork/8009.webp",
+    "starrail-characters-8010": "/assets/starrail/artwork/8010.webp",
+    "zenless-characters-1011": "/assets/zenless/characters/1011.webp",
+    "zenless-characters-1021": "/assets/zenless/characters/1021.webp",
+    "zenless-characters-1031": "/assets/zenless/characters/1031.webp",
+    "zenless-characters-1041": "/assets/zenless/characters/1041.webp",
+    "zenless-characters-1051": "/assets/zenless/characters/1051.webp",
+    "zenless-characters-1061": "/assets/zenless/characters/1061.webp",
+    "zenless-characters-1071": "/assets/zenless/characters/1071.webp",
+    "zenless-characters-1081": "/assets/zenless/characters/1081.webp",
+    "zenless-characters-1091": "/assets/zenless/characters/1091.webp",
+    "zenless-characters-1101": "/assets/zenless/characters/1101.webp",
+    "zenless-characters-1111": "/assets/zenless/characters/1111.webp",
+    "zenless-characters-1121": "/assets/zenless/characters/1121.webp",
+    "zenless-characters-1131": "/assets/zenless/characters/1131.webp",
+    "zenless-characters-1141": "/assets/zenless/characters/1141.webp",
+    "zenless-characters-1151": "/assets/zenless/characters/1151.webp",
+    "zenless-characters-1161": "/assets/zenless/characters/1161.webp",
+    "zenless-characters-1171": "/assets/zenless/characters/1171.webp",
+    "zenless-characters-1181": "/assets/zenless/characters/1181.webp",
+    "zenless-characters-1191": "/assets/zenless/characters/1191.webp",
+    "zenless-characters-1201": "/assets/zenless/characters/1201.webp",
+    "zenless-characters-1211": "/assets/zenless/characters/1211.webp",
+    "zenless-characters-1221": "/assets/zenless/characters/1221.webp",
+    "zenless-characters-1241": "/assets/zenless/characters/1241.webp",
+    "zenless-characters-1251": "/assets/zenless/characters/1251.webp",
+    "zenless-characters-1261": "/assets/zenless/characters/1261.webp",
+    "zenless-characters-1271": "/assets/zenless/characters/1271.webp",
+    "zenless-characters-1281": "/assets/zenless/characters/1281.webp",
+    "zenless-characters-1291": "/assets/zenless/characters/1291.webp",
+    "zenless-characters-1301": "/assets/zenless/characters/1301.webp",
+    "zenless-characters-1311": "/assets/zenless/characters/1311.webp",
+    "zenless-characters-1321": "/assets/zenless/characters/1321.webp",
+    "zenless-characters-1331": "/assets/zenless/characters/1331.webp",
+    "zenless-characters-1341": "/assets/zenless/characters/1341.webp",
+    "zenless-characters-1351": "/assets/zenless/characters/1351.webp",
+    "zenless-characters-1361": "/assets/zenless/characters/1361.webp",
+    "zenless-characters-1371": "/assets/zenless/characters/1371.webp",
+    "zenless-characters-1381": "/assets/zenless/characters/1381.webp",
+    "zenless-characters-1391": "/assets/zenless/characters/1391.webp",
+    "zenless-characters-1401": "/assets/zenless/characters/1401.webp",
+    "zenless-characters-1411": "/assets/zenless/characters/1411.webp",
+    "zenless-characters-1421": "/assets/zenless/characters/1421.webp",
+    "zenless-characters-1431": "/assets/zenless/characters/1431.webp",
+    "zenless-characters-1441": "/assets/zenless/characters/1441.webp",
+    "zenless-characters-1451": "/assets/zenless/characters/1451.webp",
+    "zenless-characters-1461": "/assets/zenless/characters/1461.webp",
+    "zenless-characters-1471": "/assets/zenless/characters/1471.webp",
+    "zenless-characters-1481": "/assets/zenless/characters/1481.webp",
+    "zenless-characters-1491": "/assets/zenless/characters/1491.webp",
+    "zenless-characters-1501": "/assets/zenless/characters/1501.webp",
+    "zenless-characters-1511": "/assets/zenless/characters/1511.webp",
+    "zenless-characters-1521": "/assets/zenless/characters/1521.webp",
+    "zenless-characters-1531": "/assets/zenless/characters/1531.webp",
+    "zenless-characters-1541": "/assets/zenless/characters/1541.webp",
+    "zenless-characters-1551": "/assets/zenless/characters/1551.webp",
+    "zenless-characters-1561": "/assets/zenless/characters/1561.webp",
+    "zenless-characters-1571": "/assets/zenless/characters/1571.webp",
+    "zenless-characters-1581": "/assets/zenless/characters/1581.webp",
+    "zenless-characters-1591": "/assets/zenless/characters/1591.webp",
+    "zenless-characters-1611": "/assets/zenless/characters/1611.webp",
+    "zenless-characters-1621": "/assets/zenless/characters/1621.webp",
+    "zenless-artwork-belle": "/assets/zenless/artwork-skins/belle-skin-01.png",
+    "zenless-artwork-wise": "/assets/zenless/artwork-skins/wise-skin-01.png"
+  },
+  "variants": {
+    "genshin-characters-10000002": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000002.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·花时来信",
+        "image": "/assets/genshin/artwork-skins/10000002-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000003": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000003.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000003-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·古恩希尔德的传承",
+        "image": "/assets/genshin/artwork-skins/10000003-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·海风之梦",
+        "image": "/assets/genshin/artwork-skins/10000003-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000005": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000005.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000005-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·复地重天（空、荧合照）",
+        "image": "/assets/genshin/artwork-skins/travelers-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000006": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000006.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000006-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·叶隐芳名",
+        "image": "/assets/genshin/artwork-skins/10000006-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000007": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000007.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000007-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·复地重天（空、荧合照）",
+        "image": "/assets/genshin/artwork-skins/travelers-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000014": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000014.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000014-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·闪耀协奏",
+        "image": "/assets/genshin/artwork-skins/10000014-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000015": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000015.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000015-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·帆影游风",
+        "image": "/assets/genshin/artwork-skins/10000015-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000016": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000016.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000016-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·殷红终夜",
+        "image": "/assets/genshin/artwork-skins/10000016-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000020": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000020.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000020-introduction.png"
+      }
+    ],
+    "genshin-characters-10000021": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000021.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000021-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·100%侦察骑士",
+        "image": "/assets/genshin/artwork-skins/10000021-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000022": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000022.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000022-introduction.png"
+      }
+    ],
+    "genshin-characters-10000023": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000023.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000023-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·岁夜欢哗",
+        "image": "/assets/genshin/artwork-skins/10000023-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000024": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000024.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000024-introduction.png"
+      }
+    ],
+    "genshin-characters-10000025": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000025.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000025-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·雨化竹身",
+        "image": "/assets/genshin/artwork-skins/10000025-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000026": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000026.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000026-introduction.png"
+      }
+    ],
+    "genshin-characters-10000027": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000027.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000027-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·纱中幽兰",
+        "image": "/assets/genshin/artwork-skins/10000027-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000029": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000029.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000029-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·琪花星烛",
+        "image": "/assets/genshin/artwork-skins/10000029-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000030": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000030.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000030-introduction.png"
+      }
+    ],
+    "genshin-characters-10000031": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000031.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000031-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·极夜真梦",
+        "image": "/assets/genshin/artwork-skins/10000031-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000032": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000032.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000032-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·炽绘奇旅",
+        "image": "/assets/genshin/artwork-skins/10000032-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000033": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000033.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000033-introduction.png"
+      }
+    ],
+    "genshin-characters-10000034": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000034.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000034-introduction.png"
+      }
+    ],
+    "genshin-characters-10000035": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000035.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000035-introduction.png"
+      }
+    ],
+    "genshin-characters-10000036": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000036.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000036-introduction.png"
+      }
+    ],
+    "genshin-characters-10000037": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000037.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000037-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·玄玉瑶芳",
+        "image": "/assets/genshin/artwork-skins/10000037-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000038": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000038.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000038-introduction.png"
+      }
+    ],
+    "genshin-characters-10000039": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000039.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000039-introduction.png"
+      }
+    ],
+    "genshin-characters-10000041": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000041.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000041-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·星与月之约",
+        "image": "/assets/genshin/artwork-skins/10000041-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000042": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000042.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000042-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·霓裾翩跹",
+        "image": "/assets/genshin/artwork-skins/10000042-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000043": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000043.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000043-introduction.png"
+      }
+    ],
+    "genshin-characters-10000044": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000044.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000044-introduction.png"
+      }
+    ],
+    "genshin-characters-10000045": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000045.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·致教会自由人",
+        "image": "/assets/genshin/artwork-skins/10000045-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000046": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000046.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000046-introduction.png"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·宿雪桃红",
+        "image": "/assets/genshin/artwork-skins/10000046-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000060": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000060.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·静暇雅宴",
+        "image": "/assets/genshin/artwork-skins/10000060-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000061": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000061.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·倩影游侠",
+        "image": "/assets/genshin/artwork-skins/10000061-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000063": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000063.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·冷花幽露",
+        "image": "/assets/genshin/artwork-skins/10000063-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000070": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000070.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·莎邦之息",
+        "image": "/assets/genshin/artwork-skins/10000070-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000077": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000077.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·聆雨听竹",
+        "image": "/assets/genshin/artwork-skins/10000077-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000084": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000084.webp"
+      },
+      {
+        "key": "expression",
+        "label": "表情版",
+        "image": "/assets/genshin/artwork-extra/10000084-expression.png"
+      }
+    ],
+    "genshin-characters-10000087": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000087.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·莘露的赠礼",
+        "image": "/assets/genshin/artwork-skins/10000087-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000088": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000088.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·赫尔洛克变奏曲",
+        "image": "/assets/genshin/artwork-skins/10000088-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000089": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000089.webp"
+      },
+      {
+        "key": "dark",
+        "label": "荒性·短发黑装",
+        "image": "/assets/genshin/artwork-extra/10000089-dark.png"
+      },
+      {
+        "key": "light",
+        "label": "芒性·长发白装",
+        "image": "/assets/genshin/artwork-extra/10000089-light.png"
+      }
+    ],
+    "genshin-characters-10000107": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000107.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·星与烟帷的夜语",
+        "image": "/assets/genshin/artwork-skins/10000107-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000111": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000111.webp"
+      },
+      {
+        "key": "introduction",
+        "label": "介绍立绘",
+        "image": "/assets/genshin/artwork-extra/10000111-introduction.png"
+      }
+    ],
+    "genshin-characters-10000123": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000123.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·故事的远方",
+        "image": "/assets/genshin/artwork-skins/10000123-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "genshin-characters-10000125": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/genshin/artwork/10000125.webp"
+      },
+      {
+        "key": "eyes-closed",
+        "label": "闭眼版",
+        "image": "/assets/genshin/artwork-extra/10000125-eyes-closed.png"
+      }
+    ],
+    "starrail-characters-1001": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1001.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·冬去煦至",
+        "image": "/assets/starrail/artwork-skins/1001-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1303": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1303.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·雪绽梅笺",
+        "image": "/assets/starrail/artwork-skins/1303-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1310": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1310.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·春日手信",
+        "image": "/assets/starrail/artwork-skins/1310-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1407": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1407.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·幽梦翩跹",
+        "image": "/assets/starrail/artwork-skins/1407-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1409": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1409.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·云边拾暖",
+        "image": "/assets/starrail/artwork-skins/1409-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1501": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1501.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·甜梦电波",
+        "image": "/assets/starrail/artwork-skins/1501-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "starrail-characters-1505": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/starrail/artwork/1505.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·月待花时",
+        "image": "/assets/starrail/artwork-skins/1505-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1031": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1031.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·狡黠甜心",
+        "image": "/assets/zenless/artwork-skins/1031-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1091": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1091.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·银庭花信",
+        "image": "/assets/zenless/artwork-skins/1091-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1151": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1151.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·公主假日",
+        "image": "/assets/zenless/artwork-skins/1151-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1191": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1191.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·从周一到周五",
+        "image": "/assets/zenless/artwork-skins/1191-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1261": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1261.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·漪光夜曲",
+        "image": "/assets/zenless/artwork-skins/1261-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1311": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1311.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·水晶灯下",
+        "image": "/assets/zenless/artwork-skins/1311-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1331": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1331.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·鸢花池畔",
+        "image": "/assets/zenless/artwork-skins/1331-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1371": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1371.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·墨形影踪",
+        "image": "/assets/zenless/artwork-skins/1371-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1401": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1401.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·百里香之海",
+        "image": "/assets/zenless/artwork-skins/1401-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1411": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1411.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·晴空化狸",
+        "image": "/assets/zenless/artwork-skins/1411-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1421": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1421.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·馔玉烹金",
+        "image": "/assets/zenless/artwork-skins/1421-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1431": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1431.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·暖霞拾光",
+        "image": "/assets/zenless/artwork-skins/1431-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1441": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1441.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·白心旧影",
+        "image": "/assets/zenless/artwork-skins/1441-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1491": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1491.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·午后茶歇",
+        "image": "/assets/zenless/artwork-skins/1491-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·梦想营业中",
+        "image": "/assets/zenless/artwork-skins/1491-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1501": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1501.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·不协和音·人形",
+        "image": "/assets/zenless/artwork-skins/1501-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·不协和音·机械形态",
+        "image": "/assets/zenless/artwork-skins/1501-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·萌力加载中",
+        "image": "/assets/zenless/artwork-skins/1501-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1511": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1511.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·心动应援中",
+        "image": "/assets/zenless/artwork-skins/1511-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·狂想缪斯",
+        "image": "/assets/zenless/artwork-skins/1511-skin-02.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1561": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1561.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·暇时闲影",
+        "image": "/assets/zenless/artwork-skins/1561-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1581": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1581.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·月夜密语·普通版",
+        "image": "/assets/zenless/artwork-skins/1581-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·月夜密语·遮面版",
+        "image": "/assets/zenless/artwork-skins/1581-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·影池独舞",
+        "image": "/assets/zenless/artwork-skins/1581-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1591": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1591.webp"
+      },
+      {
+        "key": "skin-01",
+        "label": "皮肤·惊鸿逐浪",
+        "image": "/assets/zenless/artwork-skins/1591-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-artwork-belle": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·夏日晴空",
+        "image": "/assets/zenless/artwork-skins/belle-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·曦色玲珑",
+        "image": "/assets/zenless/artwork-skins/belle-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·极星澄明",
+        "image": "/assets/zenless/artwork-skins/belle-skin-03.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-artwork-wise": [
+      {
+        "key": "skin-01",
+        "label": "皮肤·浪影闲庭",
+        "image": "/assets/zenless/artwork-skins/wise-skin-01.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-02",
+        "label": "皮肤·苍穹执誓",
+        "image": "/assets/zenless/artwork-skins/wise-skin-02.png",
+        "type": "skin"
+      },
+      {
+        "key": "skin-03",
+        "label": "皮肤·鹤唳青霄",
+        "image": "/assets/zenless/artwork-skins/wise-skin-03.png",
+        "type": "skin"
+      }
+    ]
+  },
+  "galleryEntries": [
+    {
+      "id": "zenless-artwork-belle",
+      "game": "zenless",
+      "category": "characters",
+      "name": "铃",
+      "aliases": [
+        "Belle"
+      ],
+      "galleryOnly": true
+    },
+    {
+      "id": "zenless-artwork-wise",
+      "game": "zenless",
+      "category": "characters",
+      "name": "哲",
+      "aliases": [
+        "Wise"
+      ],
+      "galleryOnly": true
+    }
+  ]
+}

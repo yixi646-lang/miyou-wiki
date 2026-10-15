@@ -1,0 +1,2233 @@
+{
+  "id": 1411,
+  "icon": "IconRole47",
+  "name": "柚叶",
+  "code_name": "Yuzuha",
+  "rarity": 4,
+  "weapon_type": {
+    "4": "支援"
+  },
+  "element_type": {
+    "200": "物理"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "11": "怪啖屋"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "11/2",
+    "full_name": "浮波柚叶",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle47.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0047.png",
+    "impression_f": "最开始接触柚叶的时候，总觉得她虽然看起来爽朗，实际上却和人保持着一定距离..但现在已经没事了！",
+    "impression_m": "上次遇见柚叶的妹妹小枫的时候，她还问我柚叶是不是这学期考得特别好，说姐姐最近明显笑得比之前多了呢。",
+    "impressions": [
+      "对浮波柚叶的印象：\n · 恶作剧大师，但并非为了取乐。",
+      " · 可靠的伙伴，但也会有脆弱的时候。",
+      " · 愿你的人生始终自由而明亮。"
+    ],
+    "profile_desc": "浮波柚叶，卫非地澄辉坪居民，目前就读于市内一所学费低廉的企业校，除了绳网子论坛「怪啖屋」之外并未加入任何其他组织——当然，按照新艾利都的一般认知，网络论坛并不能被视作正式的组织，更应被称为同好会。\n柚叶是辉瓷工艺品店释诡斋店主黎宝荣的养女。根据澄辉坪流传的小道消息，宝荣叔在旧都陷落时失去了妻子和两个女儿。旧都陷落后，他先后收养了五个孩子，柚叶排行第二，有一个哥哥，一个弟弟和两个妹妹。柚叶家位于店铺所在的公寓楼二楼，由于家中只有两间卧室，柚叶一直和两个妹妹共用一个房间，男孩们则和宝荣叔住在一起。最近，由于哥哥已离家独立，柚叶也大多数时间住在学校宿舍，所以家里显得不那么拥挤了。但周末和假期，柚叶一般会从学校返回澄辉坪，帮助父亲打理店铺。\n柚叶从小就有着与年龄不相符的成熟，因为能说会道、性格开朗，深受邻里喜爱，在澄辉坪和泅珑围的小孩子中间也很受欢迎。\n柚叶在怪啖屋论坛使用的网名是「柚子胡椒」，在论坛上交好的除了现实中认识的真斗和爱丽丝之外，还有网名是「夜魔使者」和「草莓芭菲」的两位用户。",
+    "role_icon": "IconRole/UnPacker/IconRole47",
+    "stature": "162",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第二章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "浮波柚叶，卫非地澄辉坪居民，目前就读于市内一所学费低廉的企业校，除了绳网子论坛「怪啖屋」之外并未加入任何其他组织——当然，按照新艾利都的一般认知，网络论坛并不能被视作正式的组织，更应被称为同好会。\n柚叶是辉瓷工艺品店释诡斋店主黎宝荣的养女。根据澄辉坪流传的小道消息，宝荣叔在旧都陷落时失去了妻子和两个女儿。旧都陷落后，他先后收养了五个孩子，柚叶排行第二，有一个哥哥，一个弟弟和两个妹妹。柚叶家位于店铺所在的公寓楼二楼，由于家中只有两间卧室，柚叶一直和两个妹妹共用一个房间，男孩们则和宝荣叔住在一起。最近，由于哥哥已离家独立，柚叶也大多数时间住在学校宿舍，所以家里显得不那么拥挤了。但周末和假期，柚叶一般会从学校返回澄辉坪，帮助父亲打理店铺。\n柚叶从小就有着与年龄不相符的成熟，因为能说会道、性格开朗，深受邻里喜爱，在澄辉坪和泅珑围的小孩子中间也很受欢迎。\n柚叶在怪啖屋论坛使用的网名是「柚子胡椒」，在论坛上交好的除了现实中认识的真斗和爱丽丝之外，还有网名是「夜魔使者」和「草莓芭菲」的两位用户。",
+      "2": "",
+      "3": "据柚叶所说，她从记事起就一直在法努斯区流浪，生活在一个由数个孩子组成的流浪帮派中。儿时的柚叶没有名字，因为营养不良患有夜盲症，晚上总要端着烛台，因此外号叫做「小蜡烛」。\n柚叶参与的实验项目名为「新叶计划」，由于她一直没有正式称呼，某个负责照顾她的研究人员给她起名「柚叶」，但除了这些日常接触实验儿童起居的底层研究人员之外，菲洛克斯和其他研究所上层并不知道这个名字存在，始终以ES-07来称呼她。虽然是在实验室获得的名字，柚叶却始终觉得，这个名字中含有的生命力，也是自己幸运的一部分。\n柚叶的两个妹妹都是在婴儿时期被收养，宝荣叔在给她们起名字时也延续了使用植物意象的习惯。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3114110": {
+      "name": "柚叶·伞下梦貉",
+      "desc": "猜猜伞下所遮住的是什么…狸猫，陷阱，鬼怪，抑或少女狡黠而活泼的笑容？",
+      "obtain_desc": "",
+      "image": "IconRole47"
+    },
+    "3114111": {
+      "name": "柚叶·晴空化狸",
+      "desc": "怪谈并非只在阴影中诞生，不信请与这位嬉笑着戏水的少女对视…你的心绪会被她占据，你手里的饮料也会被阿釜顺走。",
+      "obtain_desc": "",
+      "image": "IconRole47_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 109,
+    "attack_growth": 64272,
+    "avatar_piece_id": 5411,
+    "break_stun": 86,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66882,
+    "element_abnormal_power": 88,
+    "element_mystery": 93,
+    "endurance": 0,
+    "hp_growth": 963300,
+    "hp_max": 710,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Yuzuha",
+      "Punch",
+      "Physics",
+      "Female",
+      "Camp11",
+      "Size2",
+      "AidTypeParry",
+      "Yuzuha",
+      "EtherEyesSize2"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100214": 4
+      }
+    },
+    "2": {
+      "hp_max": 487,
+      "attack": 39,
+      "defence": 34,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100224": 12
+      }
+    },
+    "3": {
+      "hp_max": 974,
+      "attack": 78,
+      "defence": 68,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100224": 20
+      }
+    },
+    "4": {
+      "hp_max": 1461,
+      "attack": 117,
+      "defence": 101,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100234": 10
+      }
+    },
+    "5": {
+      "hp_max": 1949,
+      "attack": 156,
+      "defence": 135,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100234": 20
+      }
+    },
+    "6": {
+      "hp_max": 2436,
+      "attack": 195,
+      "defence": 169,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：狸之爪",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多五段的打击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：狸之帐",
+          "desc": "长按 <IconMap:Icon_Normal> 发动：\n进入防御姿态，最多持续1.5秒，期间如果受到敌人攻击，会招架敌人的攻击，累积大量失衡值；\n成功招架敌人攻击时，获得1点<color=#FFFFFF>[甜度点]</color>；\n成功招架敌人攻击时拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：硬糖射击",
+          "desc": "当柚叶拥有<color=#FFFFFF>[甜度点]</color>时，其他操作中的角色攻击命中敌人时，柚叶会围绕敌人旋转伞持续攻击后射出一发强力炮弹，造成<color=#F0D12B>物理伤害</color>，该攻击重击命中敌人时，柚叶会消耗1点<color=#FFFFFF>[甜度点]</color>；\n<color=#FFFFFF>[普通攻击：硬糖射击]</color>为<color=#FFFFFF>[追加攻击]</color>；\n<color=#FFFFFF>[普通攻击：硬糖射击]</color>每8秒最多触发一次；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：彩糖花火",
+          "desc": "处于<color=#FFFFFF>[甜蜜惊吓]</color>状态下的敌人，每1秒会受到一次<color=#FFFFFF>[普通攻击：彩糖花火]</color>攻击；\n<color=#FFFFFF>[普通攻击：彩糖花火]</color>攻击初始造成<color=#F0D12B>物理伤害</color>；\n<color=#FFFFFF>[普通攻击：彩糖花火]</color>攻击累积的属性异常积蓄值不参与异常伤害结算；\n<color=#FFFFFF>[普通攻击：彩糖花火]</color>攻击的属性异常积蓄效率提升<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：彩糖花火·极",
+          "desc": "处于<color=#FFFFFF>[甜蜜惊吓]</color>状态下的敌人，被<color=#FFFFFF>[普通攻击：硬糖射击]</color>或<color=#FFFFFF>[支援突击：夹心硬糖射击]</color>重击命中时，会受到一次<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>攻击；\n<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>攻击初始造成<color=#F0D12B>物理伤害</color>；\n<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>攻击累积的属性异常积蓄值不参与异常伤害结算；\n<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>攻击的属性异常积蓄效率提升<color=#2BAD00>{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：狸之助",
+          "desc": "当柚叶位于后场时，狸猫阿釜会协助操作中的角色攻击敌人，造成<color=#F0D12B>物理伤害</color>；\n当柚叶发动<color=#FFFFFF>[普通攻击：狸之帐]</color>时，狸猫阿釜会协助柚叶攻击敌人，造成<color=#F0D12B>物理伤害</color>；\n狸猫阿釜可以继承柚叶的初始攻击力。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：狸之爪",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1411001, Prop:1001}",
+              "param": {
+                "1411001": {
+                  "main": 3770,
+                  "growth": 350,
+                  "format": "%",
+                  "damage_percentage": 3770,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 4400,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 14400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1618,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3998
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1411002, Prop:1001}",
+              "param": {
+                "1411002": {
+                  "main": 5770,
+                  "growth": 530,
+                  "format": "%",
+                  "damage_percentage": 5770,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 6310,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20640,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 157850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2682,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5734
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1411003, Prop:1001}",
+              "param": {
+                "1411003": {
+                  "main": 6600,
+                  "growth": 600,
+                  "format": "%",
+                  "damage_percentage": 6600,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 6600,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 21570,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3164,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5992
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1411004, Prop:1001}",
+              "param": {
+                "1411004": {
+                  "main": 9810,
+                  "growth": 900,
+                  "format": "%",
+                  "damage_percentage": 9810,
+                  "damage_percentage_growth": 900,
+                  "stun_ratio": 11270,
+                  "stun_ratio_growth": 520,
+                  "sp_recovery": 36860,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 281600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6296,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10239
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段伤害倍率",
+              "desc": "{Skill:1411005, Prop:1001}",
+              "param": {
+                "1411005": {
+                  "main": 16410,
+                  "growth": 1500,
+                  "format": "%",
+                  "damage_percentage": 16410,
+                  "damage_percentage_growth": 1500,
+                  "stun_ratio": 16360,
+                  "stun_ratio_growth": 750,
+                  "sp_recovery": 53520,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 408925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8839,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14867
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1411001, Prop:1002}",
+              "param": {
+                "1411001": {
+                  "main": 4400,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 3770,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 4400,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 14400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1618,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3998
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1411002, Prop:1002}",
+              "param": {
+                "1411002": {
+                  "main": 6310,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 5770,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 6310,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20640,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 157850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2682,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5734
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1411003, Prop:1002}",
+              "param": {
+                "1411003": {
+                  "main": 6600,
+                  "growth": 300,
+                  "format": "%",
+                  "damage_percentage": 6600,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 6600,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 21570,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3164,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5992
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1411004, Prop:1002}",
+              "param": {
+                "1411004": {
+                  "main": 11270,
+                  "growth": 520,
+                  "format": "%",
+                  "damage_percentage": 9810,
+                  "damage_percentage_growth": 900,
+                  "stun_ratio": 11270,
+                  "stun_ratio_growth": 520,
+                  "sp_recovery": 36860,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 281600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6296,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10239
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段失衡倍率",
+              "desc": "{Skill:1411005, Prop:1002}",
+              "param": {
+                "1411005": {
+                  "main": 16360,
+                  "growth": 750,
+                  "format": "%",
+                  "damage_percentage": 16410,
+                  "damage_percentage_growth": 1500,
+                  "stun_ratio": 16360,
+                  "stun_ratio_growth": 750,
+                  "sp_recovery": 53520,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 408925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8839,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14867
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：狸之帐",
+          "param": [
+            {
+              "name": "招架失衡倍率",
+              "desc": "{Skill:1411019, Prop:1002}",
+              "param": {
+                "1411019": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：硬糖射击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411018, Prop:1001}",
+              "param": {
+                "1411018": {
+                  "main": 13200,
+                  "growth": 1200,
+                  "format": "%",
+                  "damage_percentage": 13200,
+                  "damage_percentage_growth": 1200,
+                  "stun_ratio": 8800,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411018, Prop:1002}",
+              "param": {
+                "1411018": {
+                  "main": 8800,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 13200,
+                  "damage_percentage_growth": 1200,
+                  "stun_ratio": 8800,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：彩糖花火",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411020, Prop:1001}",
+              "param": {
+                "1411020": {
+                  "main": 2750,
+                  "growth": 250,
+                  "format": "%",
+                  "damage_percentage": 2750,
+                  "damage_percentage_growth": 250,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1766,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "异常积蓄效率提升",
+              "desc": "{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：彩糖花火·极",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411021, Prop:1001}",
+              "param": {
+                "1411021": {
+                  "main": 30800,
+                  "growth": 2800,
+                  "format": "%",
+                  "damage_percentage": 30800,
+                  "damage_percentage_growth": 2800,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12000,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "异常积蓄效率提升",
+              "desc": "{CAL:0.07+AvatarSkillLevel(0)*0.015,100,4}%",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：狸之助",
+          "param": [
+            {
+              "name": "狸猫阿釜协同柚叶攻击伤害倍率",
+              "desc": "{Skill:1411022, Prop:1001}",
+              "param": {
+                "1411022": {
+                  "main": 11000,
+                  "growth": 1000,
+                  "format": "%",
+                  "damage_percentage": 11000,
+                  "damage_percentage_growth": 1000,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "狸猫阿釜自主攻击伤害倍率",
+              "desc": "{Skill:1411023, Prop:1001}",
+              "param": {
+                "1411023": {
+                  "main": 11000,
+                  "growth": 1000,
+                  "format": "%",
+                  "damage_percentage": 11000,
+                  "damage_percentage_growth": 1000,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：吓到了吗？",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：你要倒霉了！",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行快速打击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：报复开始~",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方进行快速打击，造成<color=#F0D12B>物理伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：你要倒霉了！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411009, Prop:1001}",
+              "param": {
+                "1411009": {
+                  "main": 6980,
+                  "growth": 640,
+                  "format": "%",
+                  "damage_percentage": 6980,
+                  "damage_percentage_growth": 640,
+                  "stun_ratio": 3490,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11410,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 87175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3168,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3169
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411009, Prop:1002}",
+              "param": {
+                "1411009": {
+                  "main": 3490,
+                  "growth": 160,
+                  "format": "%",
+                  "damage_percentage": 6980,
+                  "damage_percentage_growth": 640,
+                  "stun_ratio": 3490,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11410,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 87175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3168,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3169
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：报复开始~",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411010, Prop:1001}",
+              "param": {
+                "1411010": {
+                  "main": 27690,
+                  "growth": 2520,
+                  "format": "%",
+                  "damage_percentage": 27690,
+                  "damage_percentage_growth": 2520,
+                  "stun_ratio": 23840,
+                  "stun_ratio_growth": 1090,
+                  "sp_recovery": 42020,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 320925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11669,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26670
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411010, Prop:1002}",
+              "param": {
+                "1411010": {
+                  "main": 23840,
+                  "growth": 1090,
+                  "format": "%",
+                  "damage_percentage": 27690,
+                  "damage_percentage_growth": 2520,
+                  "stun_ratio": 23840,
+                  "stun_ratio_growth": 1090,
+                  "sp_recovery": 42020,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 320925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11669,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26670
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：软糖轰击",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方开炮射击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：小心蛀牙",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n向敌人扔出炸弹，造成<color=#F0D12B>物理伤害</color>；\n重击命中敌人时，会使其陷入<color=#FFFFFF>[甜蜜惊吓]</color>状态；\n发动时，获得2点<color=#FFFFFF>[甜度点]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：小心蛀牙，就是现在！",
+          "desc": "在<color=#FFFFFF>[闪避反击：报复开始~]</color>、<color=#FFFFFF>[快速支援：甜点时间]</color>、<color=#FFFFFF>[支援突击：来块曲奇]</color>、<color=#FFFFFF>[支援突击：夹心硬糖射击]</color>攻击后或触发<color=#FFFFFF>[极限闪避]</color>时，点按  <IconMap:Icon_SpecialReady>  发动：\n向敌人快速扔出炸弹，造成<color=#F0D12B>物理伤害</color>；\n重击命中敌人时，会使其陷入<color=#FFFFFF>[甜蜜惊吓]</color>状态；\n发动时，获得2点<color=#FFFFFF>[甜度点]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "甜蜜惊吓",
+          "desc": "<color=#FFFFFF>[甜蜜惊吓]</color>状态持续<color=#2BAD00>{CAL:16+AvatarSkillLevel(1)*2,1,2}</color>秒，重复触发时刷新持续时间；\n处于<color=#FFFFFF>[甜蜜惊吓]</color>状态下的敌人，首次被操作中的角色以与其属性相同的攻击命中时，将对该敌人触发<color=#FFFFFF>[十人十色]</color>，使得<color=#FFFFFF>[普通攻击：彩糖花火]</color>和<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>对该敌人的攻击属性转变为触发此次[十人十色]的角色的属性；\n当敌人的<color=#FFFFFF>[甜蜜惊吓]</color>状态被重复触发时，原本的<color=#FFFFFF>[十人十色]</color>状态会被移除，可再次重复上述操作，改变<color=#FFFFFF>[普通攻击：彩糖花火]</color>和<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>的属性。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：软糖轰击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411006, Prop:1001}",
+              "param": {
+                "1411006": {
+                  "main": 5050,
+                  "growth": 460,
+                  "format": "%",
+                  "damage_percentage": 5050,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 5050,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 126225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4583,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4584
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411006, Prop:1002}",
+              "param": {
+                "1411006": {
+                  "main": 5050,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 5050,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 5050,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 126225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4583,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4584
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：小心蛀牙",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411007, Prop:1001}",
+              "param": {
+                "1411007": {
+                  "main": 42100,
+                  "growth": 3830,
+                  "format": "%",
+                  "damage_percentage": 42100,
+                  "damage_percentage_growth": 3830,
+                  "stun_ratio": 42100,
+                  "stun_ratio_growth": 1920,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1888425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 48208,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411007, Prop:1002}",
+              "param": {
+                "1411007": {
+                  "main": 42100,
+                  "growth": 1920,
+                  "format": "%",
+                  "damage_percentage": 42100,
+                  "damage_percentage_growth": 3830,
+                  "stun_ratio": 42100,
+                  "stun_ratio_growth": 1920,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1888425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 48208,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：小心蛀牙，就是现在！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411008, Prop:1001}",
+              "param": {
+                "1411008": {
+                  "main": 24140,
+                  "growth": 2200,
+                  "format": "%",
+                  "damage_percentage": 24140,
+                  "damage_percentage_growth": 2200,
+                  "stun_ratio": 26700,
+                  "stun_ratio_growth": 1220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1407450,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32462,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411008, Prop:1002}",
+              "param": {
+                "1411008": {
+                  "main": 26700,
+                  "growth": 1220,
+                  "format": "%",
+                  "damage_percentage": 24140,
+                  "damage_percentage_growth": 2200,
+                  "stun_ratio": 26700,
+                  "stun_ratio_growth": 1220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1407450,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32462,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "甜蜜惊吓",
+          "param": [
+            {
+              "name": "甜蜜惊吓状态持续时间",
+              "desc": "{CAL:16+AvatarSkillLevel(1)*2,1,2}秒",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：恶作剧合战",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n对前方小范围敌人发动强力打击，造成大量<color=#F0D12B>物理伤害</color>；\n招式发动时，获得1点<color=#FFFFFF>[甜度点]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：不投降就捣乱",
+          "desc": "喧响等级达到[极]时，点按 <IconMap:Icon_UltimateReady> 发动：\n对周身大范围敌人发动强力打击，造成大量<color=#F0D12B>物理伤害</color>；\n重击命中敌人时，会使其陷入<color=#FFFFFF>[甜蜜惊吓]</color>状态；\n招式发动时，队伍中其他角色回复<color=#2BAD00>{CAL:7+AvatarSkillLevel(3)*1.5,1,2}</color>点能量； \n招式发动时，获得2点<color=#FFFFFF>[甜度点]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：恶作剧合战",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411011, Prop:1001}",
+              "param": {
+                "1411011": {
+                  "main": 59870,
+                  "growth": 5450,
+                  "format": "%",
+                  "damage_percentage": 59870,
+                  "damage_percentage_growth": 5450,
+                  "stun_ratio": 23290,
+                  "stun_ratio_growth": 1060,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2410925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34469,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411011, Prop:1002}",
+              "param": {
+                "1411011": {
+                  "main": 23290,
+                  "growth": 1060,
+                  "format": "%",
+                  "damage_percentage": 59870,
+                  "damage_percentage_growth": 5450,
+                  "stun_ratio": 23290,
+                  "stun_ratio_growth": 1060,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2410925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34469,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21170
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：不投降就捣乱",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411012, Prop:1001}",
+              "param": {
+                "1411012": {
+                  "main": 144320,
+                  "growth": 13120,
+                  "format": "%",
+                  "damage_percentage": 144320,
+                  "damage_percentage_growth": 13120,
+                  "stun_ratio": 28600,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 75997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411012, Prop:1002}",
+              "param": {
+                "1411012": {
+                  "main": 28600,
+                  "growth": 1300,
+                  "format": "%",
+                  "damage_percentage": 144320,
+                  "damage_percentage_growth": 13120,
+                  "stun_ratio": 28600,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 25996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 75997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "队伍中其他角色回复能量",
+              "desc": "{CAL:7+AvatarSkillLevel(3)*1.5,1,2}点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：甜点时间",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动打击，造成<color=#F0D12B>物理伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：趣能补给",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n成功招架敌人攻击时，获得1点<color=#FFFFFF>[甜度点]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：来块曲奇",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>或通过<color=#FFFFFF>[普通攻击：狸之帐]</color>成功招架敌人攻击后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动打击，造成<color=#F0D12B>物理伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：夹心硬糖射击",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>或通过<color=#FFFFFF>[普通攻击：狸之帐]</color>成功招架敌人攻击后，在恰当的时机点按 <IconMap:Icon_Normal> 发动：\n旋转伞持续攻击后射出一发强力炮弹，造成<color=#F0D12B>物理伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：甜点时间",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411013, Prop:1001}",
+              "param": {
+                "1411013": {
+                  "main": 12290,
+                  "growth": 1120,
+                  "format": "%",
+                  "damage_percentage": 12290,
+                  "damage_percentage_growth": 1120,
+                  "stun_ratio": 6150,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 20110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 153725,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5584,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5585
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411013, Prop:1002}",
+              "param": {
+                "1411013": {
+                  "main": 6150,
+                  "growth": 280,
+                  "format": "%",
+                  "damage_percentage": 12290,
+                  "damage_percentage_growth": 1120,
+                  "stun_ratio": 6150,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 20110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 153725,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5584,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5585
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：趣能补给",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1411014, Prop:1002}",
+              "param": {
+                "1411014": {
+                  "main": 29520,
+                  "growth": 1350,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 29520,
+                  "stun_ratio_growth": 1350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 38334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1411015, Prop:1002}",
+              "param": {
+                "1411015": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1411016, Prop:1002}",
+              "param": {
+                "1411016": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：来块曲奇",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411017, Prop:1001}",
+              "param": {
+                "1411017": {
+                  "main": 29430,
+                  "growth": 2680,
+                  "format": "%",
+                  "damage_percentage": 29430,
+                  "damage_percentage_growth": 2680,
+                  "stun_ratio": 25140,
+                  "stun_ratio_growth": 1150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 842875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 24801,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411017, Prop:1002}",
+              "param": {
+                "1411017": {
+                  "main": 25140,
+                  "growth": 1150,
+                  "format": "%",
+                  "damage_percentage": 29430,
+                  "damage_percentage_growth": 2680,
+                  "stun_ratio": 25140,
+                  "stun_ratio_growth": 1150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 842875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 24801,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11170
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：夹心硬糖射击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1411024, Prop:1001}",
+              "param": {
+                "1411024": {
+                  "main": 46360,
+                  "growth": 4220,
+                  "format": "%",
+                  "damage_percentage": 46360,
+                  "damage_percentage_growth": 4220,
+                  "stun_ratio": 40870,
+                  "stun_ratio_growth": 1860,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1296350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 39642,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22164
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1411024, Prop:1002}",
+              "param": {
+                "1411024": {
+                  "main": 40870,
+                  "growth": 1860,
+                  "format": "%",
+                  "damage_percentage": 46360,
+                  "damage_percentage_growth": 4220,
+                  "stun_ratio": 40870,
+                  "stun_ratio_growth": 1860,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1296350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 39642,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22164
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100110": 2
+        },
+        "2": {
+          "10": 3000,
+          "100110": 3
+        },
+        "3": {
+          "10": 6000,
+          "100120": 2
+        },
+        "4": {
+          "10": 9000,
+          "100120": 3
+        },
+        "5": {
+          "10": 12000,
+          "100120": 4
+        },
+        "6": {
+          "10": 18000,
+          "100120": 6
+        },
+        "7": {
+          "10": 45000,
+          "100130": 5
+        },
+        "8": {
+          "10": 67500,
+          "100130": 8
+        },
+        "9": {
+          "10": 90000,
+          "100130": 10
+        },
+        "10": {
+          "10": 112500,
+          "100130": 12
+        },
+        "11": {
+          "10": 135000,
+          "100130": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1411001,
+      "avatar_id": 1411,
+      "first_priority": [
+        5,
+        0
+      ],
+      "second_priority": [
+        1,
+        3,
+        6
+      ],
+      "third_priority": [
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1411001": {
+      "name": "普通攻击：狸之爪（一、二、三、四、五段）",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411002": {
+      "name": "普通攻击：狸之帐",
+      "desc": "<IconMap:Icon_Normal>（长按）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411003": {
+      "name": "特殊技：软糖轰击",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411004": {
+      "name": "强化特殊技：小心蛀牙",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411005": {
+      "name": "强化特殊技：小心蛀牙，就是现在！",
+      "desc": "<IconMap:Icon_SpecialReady>（发动[支援突击：夹心硬糖射击]、[支援突击：来块曲奇]、[快速支援：甜点时间]、[闪避反击：报复开始~]或触发极限闪避后）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411006": {
+      "name": "闪避：吓到了吗？",
+      "desc": "<IconMap:Icon_Evade>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411007": {
+      "name": "闪避反击：报复开始~",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411008": {
+      "name": "连携技：恶作剧合战",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411009": {
+      "name": "终结技：不投降就捣乱",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411010": {
+      "name": "快速支援：甜点时间",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411011": {
+      "name": "招架支援：趣能补给",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411012": {
+      "name": "支援突击：来块曲奇",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援或通过[普通攻击：狸之帐]成功招架敌人攻击后）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1411013": {
+      "name": "支援突击：夹心硬糖射击",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援或通过[普通攻击：狸之帐]成功招架敌人攻击后的恰当时机）",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1411049": {
+        "level": 1,
+        "id": 1411049,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>600</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到1500点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411050": {
+        "level": 2,
+        "id": 1411050,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>700</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到1750点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411051": {
+        "level": 3,
+        "id": 1411051,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>800</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到2000点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411052": {
+        "level": 4,
+        "id": 1411052,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>900</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到2250点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411053": {
+        "level": 5,
+        "id": 1411053,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>1000</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到2500点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411054": {
+        "level": 6,
+        "id": 1411054,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>1100</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到2750点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1411055": {
+        "level": 7,
+        "id": 1411055,
+        "name": [
+          "核心被动：奇巧缤纷",
+          "额外能力：人多乐趣大"
+        ],
+        "desc": [
+          "进入战场时，柚叶立刻获得3点<color=#FFFFFF>[甜度点]</color>；\n柚叶最多持有6点<color=#FFFFFF>[甜度点]</color>；\n柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，为全队角色施加<color=#FFFFFF>[狸之愿]</color>效果；\n<color=#FFFFFF>[狸之愿]</color>效果会提供等同于柚叶的40%初始攻击力的攻击力加成，最多提升<color=#2BAD00>1200</color>点，并使拥有者造成的伤害提升15%，持续40秒，重复触发时刷新持续时间；\n当柚叶的初始攻击力达到3000点时，为全队角色提供的攻击力增益效果达到最大值。",
+          "队伍中存在<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n若柚叶的异常掌控大于100点，每超过1点异常掌控会使拥有<color=#FFFFFF>[狸之愿]</color>效果的角色的属性异常积蓄效率提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，还会使其所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>0.2%</color>，最多提升<color=#2BAD00>20%</color>，当柚叶的异常掌控达到200点时，上述增益效果达到最大值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110511": 2
+      },
+      "3": {
+        "10": 28000,
+        "110511": 4
+      },
+      "4": {
+        "10": 60000,
+        "110005": 2,
+        "110511": 9
+      },
+      "5": {
+        "10": 100000,
+        "110005": 3,
+        "110511": 15
+      },
+      "6": {
+        "10": 200000,
+        "110005": 4,
+        "110511": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "幸运体质",
+      "desc": "柚叶进入战场时，回复30点能量，在勘域模式中该效果每180秒最多触发一次；处于<color=#FFFFFF>[甜蜜惊吓]</color>状态下的敌人全属性伤害抗性降低10%；<color=#FFFFFF>[额外能力]</color>中属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害增益效果提升至原本的130%。",
+      "desc2": "「唉，这下完蛋了！」\n「柚叶你也考砸了吗？呜哇，92！这真是靠蒙能蒙出来的分数吗，你这完全是在炫耀吧！」\n「不不不，幸运最重要的就是适度，这一科明明没必要考这么高的…直觉告诉我，这下下午的考试肯定没有选择题了！」"
+    },
+    "2": {
+      "level": 2,
+      "name": "趣友云集",
+      "desc": "柚叶的<color=#FFFFFF>[强化特殊技：小心蛀牙]</color>、<color=#FFFFFF>[强化特殊技：小心蛀牙，就是现在！]</color>和<color=#FFFFFF>[终结技：不投降就捣乱]</color>攻击命中敌人时，会使全队角色造成的伤害提升15%，属性异常积蓄效率提升15%，持续40秒，重复触发时刷新持续时间，重击命中不处于失衡状态的敌人时，会强制触发<color=#FFFFFF>[连携技]</color>，通过该种方式发动的<color=#FFFFFF>[连携技]</color>，打断等级降低，强制触发<color=#FFFFFF>[连携技]</color>的效果每20秒最多触发一次；其他角色通过<color=#FFFFFF>[连携技]</color>入场时，柚叶会获得1点<color=#FFFFFF>[甜度点]</color>；柚叶触发<color=#FFFFFF>[普通攻击：硬糖射击]</color>的冷却时间减少25%。",
+      "desc2": "「阿釜明明没离开过我的视线，可一瞬间这么多东西都被掉包了，到底是怎么做到的？」\n「哼哼~阿釜也是有很多朋友的呀！来来来，大家都出来，给你介绍一下，从左到右依次是：竹之助、伊之助，百之助…」\n「等等，说太快了！」\n「那再来一次，信之助、喜之助、春之助…」\n「名字跟之前完全不一样啊！」"
+    },
+    "3": {
+      "level": 3,
+      "name": "幽城童话",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「…公主的每一天都很忙碌，清晨，老成沉默的侍女们就会为她穿上华服，戴上沉重的魔法头冠和其他首饰，簇拥着她前往王座。在那里，她将施展神奇的力量，将平平无奇的石头变为价值连城的珍宝。」\n「姐姐，公主每天都要把石头变成宝石吗？比一边看店一边写作业还无聊呢。」\n「嗯…可如果公主不做这些，贫穷的王国就要灭亡了呀。」\n「只靠公主一个人拼命的没用王国，就让它灭亡好了！」\n她忍不住大笑起来。是呀，那样没用的王国，就让它灭亡好了。"
+    },
+    "4": {
+      "level": 4,
+      "name": "坠落魔法",
+      "desc": "柚叶的<color=#FFFFFF>[支援突击：夹心硬糖射击]</color>和<color=#FFFFFF>[支援突击：来块曲奇]</color>造成的伤害提升30%，属性异常积蓄效率提升20%，且该招式命中敌人时将触发<color=#FFFFFF>[快速支援]</color>。",
+      "desc2": "从狭窄的通风口看到的那个女孩，闪亮得就像是从童话书里走出来的一样。\n她才是真正的公主，而我只不过是一个囚徒。\n神啊，她已经拥有那么多东西了，即使分给我一点点也没关系吧？\n然后，那个发卡就无声地落了下来。"
+    },
+    "5": {
+      "level": 5,
+      "name": "残冬梦迹",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "TOPS高层和督导调查团来的那天，她和真斗也刚好从学校返回，为了给贵客们的座驾腾位置，他们乘坐的空艇在附近盘旋了好久才降落。在二人满头大汗地穿过天桥时，大批记者正簇拥着贵客们从下方经过，她一眼就看到了那个女孩。那天晚上，她做了一个梦，被记者簇拥着从天桥下走过的人变成了她，然而在路的尽头，她看到了那把专门为她准备的王座…\n已经很久没有再梦到类似的事了。她爬起来喝水，回想起白天听到的话：「什么专家组成的调查团，竟然让有钱人家的小姐混在里面充数！」\n「阿釜，阿釜！」她拉开窗户小声呼唤，一个毛茸茸的身影立刻从窗外探出头来。「我有个好主意，明天晚上，我们去做点有趣的事吧。」"
+    },
+    "6": {
+      "level": 6,
+      "name": "落地生根",
+      "desc": "通过<color=#FFFFFF>[招架支援]</color>或<color=#FFFFFF>[普通攻击：狸之帐]</color>成功招架敌人攻击时额外获得1点<color=#FFFFFF>[甜度点]</color>，发动<color=#FFFFFF>[支援突击：夹心硬糖射击]</color>时可以长按<IconMap:Icon_Normal>进行蓄能，最多持续0.8秒，松开<IconMap:Icon_Normal>或蓄能至最大时间时，柚叶会额外发射强力炮弹攻击敌人。每蓄能0.4秒，柚叶都会消耗1点<color=#FFFFFF>[甜度点]</color>追加发射一枚强力炮弹，每颗追加强力炮弹攻击造成柚叶300%攻击力的<color=#F0D12B>物理伤害</color>；<color=#FFFFFF>[支援突击：夹心硬糖射击]</color>的任意强力炮弹命中敌人时，会使全队角色<color=#FFFFFF>[紊乱]</color>效果的伤害倍率提升105%，持续40秒，最多叠加3层，每层单独结算持续时间，额外强力炮弹命中处于<color=#FFFFFF>[甜蜜惊吓]</color>状态的敌人时也会触发1次<color=#FFFFFF>[普通攻击：彩糖花火·极]</color>攻击；柚叶蓄能过程中如果受到敌人攻击，会自动闪避敌人攻击并直接发动最大蓄能攻击。",
+      "desc2": "听证会结束那天晚上，宝荣叔说要庆祝小枫拿到奖学金，于是释诡斋早早关了店，全家人一起去了饮茶仙。\n席间，远在法努斯区的哥哥也打来电话祝贺，小堇和阿文则绘声绘色地讲着白天发生的事：学校里那只花斑猫丢了孩子，大家怎么找都找不到，今天中午，小猫竟然自己回来了。哥哥在电话里叹气：「阿文，一问你成绩你就转移话题，爸和柚叶不管你，我可要替他们管了！」全家人都笑了起来，只有宝荣叔不住地喃喃道：「返嚟就好啦，返嚟就好啦…」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33400,
+    "slot2": 33000,
+    "slot_sub": 31600,
+    "part_sub_list": [
+      12102,
+      31203
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          31600,
+          33000
+        ],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [
+          33400,
+          33000
+        ],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [
+          32800,
+          33000
+        ],
+        "part_sub_list": [
+          31402
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 31402,
+      "name": "异常掌控",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png"
+    },
+    "part5": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part6": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part_sub": {
+      "prop": 31203,
+      "name": "异常精通",
+      "format": "{0:0}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_PhysDmg>物理属性，后台辅助",
+    "全方位提升异常队伍循环和伤害",
+    "提高队友异常积蓄效率"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Youye"
+}

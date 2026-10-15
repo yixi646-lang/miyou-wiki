@@ -1,0 +1,1229 @@
+{
+  "pages": [
+    {
+      "pageid": 1307,
+      "ns": 0,
+      "title": "Departure Warp",
+      "revisions": [
+        {
+          "revid": 270169,
+          "parentid": 211245,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp\n|name              = Departure Warp\n|image             = Departure Warp.png\n|type              = Standard\n|duration          = beginner\n|time_known        = yes\n|time_start        = 2023-04-25 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n|nocountdown       = 1\n}}\nThe '''Departure Warp''' is a novice warp banner that introduces players to the [[Warp]] system.\n\nThe Departure Warp expires automatically after amounting a total of 50 warps, after which the warp will disappear permanently. Players may not use more warps to exceed the limit, and there is a limited selection of non-promotional characters and light cones available.\n\nFor the Departure Warp, 10-warp sets cost 20% less [[Star Rail Pass]] (only 8 instead of 10). Every 10-warp set guarantees at least one 4-star object or above. A random 5-star character is also guaranteed within 50 Warps.\n\n==List of Items==\n{{Warp Pool\n|character_5   = Bailu; Bronya; Clara; Gepard; Himeko; Welt; Yanqing\n|character_4   = Arlan; Asta; Dan Heng; Herta; Hook; March 7th (Preservation); Natasha; Pela; Qingque; Sampo; Serval; Sushang; Tingyun\n|lightcone_4   = A Secret Vow; Dance! Dance! Dance!; Day One of My New Life; Eyes of the Prey; Geniuses' Repose; Good Night and Sleep Well; Landau's Choice; Make the World Clamor; Memories of the Past; Only Silence Remains; Perfect Timing; Planetary Rendezvous; Post-Op Conversation; Resolution Shines As Pearls of Sweat; Shared Feeling; Subscribe for More!; Swordplay; The Birth of the Self; The Moles Welcome You; Trend of the Universal Market; Under the Blue Sky\n|lightcone_3   = Adversarial; Amber (Light Cone); Arrows; Chorus; Collapsing Sky; Cornucopia; Darting Arrow; Data Bank (Light Cone); Defense; Fine Fruit; Hidden Shadow; Loop; Mediation; Meshing Cogs; Multiplication; Mutual Demise; Passkey; Pioneering; Sagacity; Shattered Home; Void\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = Departure Warp\n|zhs  = 始发跃迁\n|zht  = 始發躍遷\n|ja   = 始発跳躍\n|ko   = 초행길&nbsp;워프\n|es   = Salto de partida\n|fr   = Saut hyperespace de départ\n|ru   = Отправной прыжок\n|th   = ก้าวแรกแห่งการวาร์ป\n|vi   = Bước Nhảy Đầu Tiên\n|de   = Startwarp\n|id   = Warp Keberangkatan\n|pt   = Salto Hiperespacial de Partida\n}}\n\n==Change History==\n{{Change History|0.70}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Startwarp]]\n[[zh:始发跃迁]]\n[[ru:Отправной прыжок]]\n[[th:ก้าวแรกแห่งการวาร์ป]]\n[[vi:Bước Nhảy Đầu Tiên]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 6374,
+      "ns": 0,
+      "title": "Butterfly on Swordtip",
+      "revisions": [
+        {
+          "revid": 270164,
+          "parentid": 256035,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Seele\n|type      = Character Event Warps\n}}\n'''Butterfly on Swordtip''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Seele}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = Butterfly on Swordtip\n|zhs     = 蝶立锋锷\n|zht     = 蝶立鋒鍔\n|ja      = 切先の蝶\n|ko      = 칼끝의 나비\n|es      = Mariposa en el filo\n|fr      = Papillon sur la pointe de la lame\n|ru      = Бабочка на острие\n|th      = ผีเสื้อบนปลายดาบ\n|vi      = Bướm Trên Mũi Kiếm\n|de      = Schmetterling auf der Schwertspitze\n|id      = Kupu-Kupu di Ujung Pedang\n|pt      = Borboleta na Ponta da Espada\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Schmetterling auf der Schwertspitze]]\n[[es:Mariposa en el filo]]\n[[ru:Бабочка на острие]]\n[[th:ผีเสื้อบนปลายดาบ]]\n[[vi:Bướm Trên Mũi Kiếm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 9047,
+      "ns": 0,
+      "title": "Contract Zero",
+      "revisions": [
+        {
+          "revid": 347595,
+          "parentid": 270203,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Silver Wolf\n|type      = Character Event Warps\n}}\n'''Contract Zero''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Silver Wolf}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Contract Zero\n|zhs  = 零号协议\n|zht  = 零號協議\n|ja   = 零号協定\n|ko   = 0호 협의\n|es   = Contrato cero\n|fr   = Contrat zéro\n|ru   = Контракт Зеро\n|th   = พันธสัญญาหมายเลขศูนย์\n|vi   = Hiệp Thương Số 0\n|de   = Vertrag Nr. Null\n|id   = Kontrak No. 0\n|pt   = Contrato Zero\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Vertrag Nr. Null]]\n[[es:Contrato cero]]\n[[fr:Contrat zéro]]\n[[ru:Контракт Зеро]]\n[[th:พันธสัญญาหมายเลขศูนย์]]\n[[vi:Hiệp Thương Số 0]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 9161,
+      "ns": 0,
+      "title": "Laic Pursuit",
+      "revisions": [
+        {
+          "revid": 270204,
+          "parentid": 255088,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Luocha\n|type      = Character Event Warps\n}}\n'''Laic Pursuit''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Luocha}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Laic Pursuit\n|zhs  = 寻索世间\n|zht  = 尋索世間\n|ja   = 世界を探して\n|ko   = 세상 탐구\n|es   = Búsqueda terrenal\n|fr   = Poursuite laïque\n|ru   = Поиски мирского\n|th   = เสาะแสวงแดนโลกา\n|vi   = Rong Ruổi Thế Gian\n|de   = Irdische Suche\n|id   = Mengejar Kefanaan\n|pt   = Busca Laica\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Irdische Suche]]\n[[es:Búsqueda terrenal]]\n[[ru:Поиски мирского]]\n[[th:เสาะแสวงแดนโลกา]]\n[[vi:Rong Ruổi Thế Gian]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 9162,
+      "ns": 0,
+      "title": "Brilliant Fixation",
+      "revisions": [
+        {
+          "revid": 270168,
+          "parentid": 255524,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{See Also|Bygone Reminiscence}}\n{{Warp Series Infobox\n|type = Light Cone Event Warp\n}}\n'''Brilliant Fixation''' is a [[Light Cone Event Warp]]. It provides a rate-up for different [[Light Cone]]s in the item pool. 5-star characters cannot be obtained from Brilliant Fixation, but 4-star characters may be acquired.\n{{Clr}}\n\n==Warp History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Brilliant Fixation\n|zhs  = 流光定影\n|zht  = 流光定影\n|ja   = 光陰を定めし影\n|ko   = 세월의&nbsp;응고\n|es   = Fijación brillante\n|fr   = Fixation brillante\n|ru   = Искрящаяся фиксация\n|th   = เปลวแสงที่พร่างพราว\n|vi   = Định Hình Năm Tháng\n|de   = Strahlende Verankerung\n|id   = Fiksasi Brilian\n|pt   = Fixação Brilhante\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Strahlende Verankerung]]\n[[es:Fijación brillante]]\n[[ru:Искрящаяся фиксация]]\n[[th:เปลวแสงที่พร่างพราว]]\n[[vi:Định Hình Năm Tháng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 14227,
+      "ns": 0,
+      "title": "Nessun Dorma",
+      "revisions": [
+        {
+          "revid": 347591,
+          "parentid": 284810,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{About|the [[Character Event Warp]]|the [[Achievement]]|Nessun Dorma (Achievement)}}\n{{Warp Series Infobox\n|character = Kafka\n|type      = Character Event Warps\n}}\n'''Nessun Dorma''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Kafka}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n* ''{{W|Nessun dorma}}'' is an {{W|aria}} from the last act of the {{w|Giacomo Puccini}}'s opera ''{{w|Turandot}}''.\n\n==Other Languages==\n{{Other Languages\n|en   = Nessun Dorma\n|zhs  = 夜将不眠\n|zht  = 夜將不眠\n|ja   = 夜は眠らぬ\n|ko   = 잠 못 드는 밤\n|es   = Nessun dorma\n|fr   = Nessun Dorma\n|ru   = Пускай никто не спит\n|th   = ค่ำคืนฝืนนิทรา\n|vi   = Không Ai Được Ngủ\n|de   = Schlaflos in der Nacht\n|id   = Malam Tanpa Mimpi\n|pt   = Noites em Claro\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Schlaflos in der Nacht]]\n[[es:Nessun dorma]]\n[[fr:Nessun dorma]]\n[[ru:Пускай никто не спит]]\n[[th:ค่ำคืนฝืนนิทรา]]\n[[vi:Không Ai Được Ngủ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 14228,
+      "ns": 0,
+      "title": "A Lost Soul",
+      "revisions": [
+        {
+          "revid": 270211,
+          "parentid": 254919,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Blade\n|type      = Character Event Warps\n}}\n'''A Lost Soul''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Blade}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = A Lost Soul\n|zhs     = 业途游魂\n|zht     = 業途遊魂\n|ja      = 業途を彷徨う魂\n|ko      = 길 잃은 영혼\n|es      = Alma perdida\n|fr      = Âme en peine\n|ru      = Неприкаянная душа\n|th      = จักราท่องเอกภพ\n|vi      = Linh Hồn Lạc Lối\n|de      = Wandernde Seele\n|id      = Jiwa dalam Kesesatan\n|pt      = Uma Alma Perdida\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Wandernde Seele]]\n[[es:Alma perdida]]\n[[ru:Неприкаянная душа]]\n[[th:จักราท่องเอกภพ]]\n[[vi:Linh Hồn Lạc Lối]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 17333,
+      "ns": 0,
+      "title": "Epochal Spectrum",
+      "revisions": [
+        {
+          "revid": 270216,
+          "parentid": 254877,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Dan Heng • Imbibitor Lunae\n|type      = Character Event Warps\n}}\n'''Epochal Spectrum''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Dan Heng • Imbibitor Lunae}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n\n==Other Languages==\n{{Other Languages\n|en   = Epochal Spectrum\n|zhs  = 濯世垂虹\n|zht  = 濯世垂虹\n|ja   = 世を濯ぐ垂虹\n|ko   = 세상을 정화하는 용오름\n|es   = Ablución dracónica\n|fr   = Fantômes du passé\n|ru   = Вспыхнувший радугой морок\n|th   = ประกายรุ้งโอบปฐพี\n|vi   = Long Tôn Hạ Thế, Thanh Tẩy Thế Gian\n|de   = Epochales Himmelsprisma\n|id   = Spektrum Krusial\n|pt   = Espectro Épico\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Epochales Himmelsprisma]]\n[[es:Ablución dracónica]]\n[[ru:Вспыхнувший радугой морок]]\n[[th:ประกายรุ้งโอบปฐพี]]\n[[vi:Long Tôn Hạ Thế, Thanh Tẩy Thế Gian]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 17334,
+      "ns": 0,
+      "title": "Foreseen, Foreknown, Foretold",
+      "revisions": [
+        {
+          "revid": 284819,
+          "parentid": 256256,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Fu Xuan\n|type      = Character Event Warps\n}}\n'''Foreseen, Foreknown, Foretold''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Fu Xuan}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Foreseen, Foreknown, Foretold\n|zhs  = 穷观妙算\n|zht  = 窮觀妙算\n|ja   = 窮観妙算\n|ko   = 궁관 묘책\n|es   = Predicciones, augurios y profecías\n|fr   = Prémonition, prescience, prédiction\n|ru   = Предвиденное и предсказанное\n|th   = ทัศนาพยากรณ์\n|vi   = Thần Cơ Diệu Toán\n|de   = Visionäre Vorhersage\n|id   = Jenius Prediksi\n|pt   = Profecias Desveladas\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Visionäre Vorhersage]]\n[[es:Predicciones, augurios y profecías]]\n[[ru:Предвиденное и предсказанное]]\n[[vi:Thần Cơ Diệu Toán]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 18885,
+      "ns": 0,
+      "title": "Gentle Eclipse of the Moon",
+      "revisions": [
+        {
+          "revid": 279197,
+          "parentid": 255896,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Jingliu\n|type      = Character Event Warps\n}}\n'''Gentle Eclipse of the Moon''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Jingliu}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n<!--\n==Trivia==\n-->\n==Other Languages==\n{{Other Languages\n|en   = Gentle Eclipse of the Moon\n|zhs  = 月有薄蚀\n|zht  = 月有薄蝕\n|ja   = 淡く月欠けて\n|ko   = 아른히 이지러진 달\n|es   = Ligero eclipse de luna\n|fr   = Éclipse lunaire\n|ru   = Нежность лунного затмения\n|th   = เคลื่อนคล้อยในเงาจันทร์\n|vi   = Nguyệt Thực Mong Manh\n|de   = Stille Mondfinsternis\n|id   = Kelembutan Gerhana Bulan\n|pt   = Delicado Eclipse Lunar\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Stille Mondfinsternis]]\n[[es:Ligero eclipse de luna]]\n[[ru:Нежность лунного затмения]]\n[[vi:Nguyệt Thực Mong Manh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 19699,
+      "ns": 0,
+      "title": "Bygone Reminiscence",
+      "revisions": [
+        {
+          "revid": 316183,
+          "parentid": 256392,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{See Also|Brilliant Fixation}}\n{{Warp Series Infobox\n|type = Light Cone Event Warp\n}}\n'''Bygone Reminiscence''' is a [[Light Cone Event Warp]]. It provides a rate-up for different [[Light Cone]]s in the item pool. 5-star characters cannot be obtained from Bygone Reminiscence, but 4-star characters may be acquired.\n\n==Warp History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bygone Reminiscence\n|zhs  = 溯回忆象\n|zht  = 溯洄憶象\n|ja   = 遡る記憶\n|ko   = 거슬러 올라가는 기억\n|es   = Reminiscencia pasada\n|fr   = Résurgence du passé\n|ru   = Ушедшие воспоминания\n|th   = ภาพจำที่ย้อนคืน\n|vi   = Ngược Dòng Ký Ức\n|de   = Reminiszenz an verflossene Zeiten\n|id   = Mengulang Kenangan\n|pt   = Reminiscência do Passado\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Reminiszenz an verflossene Zeiten]]\n[[es:Reminiscencia pasada]]\n[[ru:Ушедшие воспоминания]]\n[[th:ภาพจำที่ย้อนคืน]]\n[[vi:Ngược Dòng Ký Ức]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 19928,
+      "ns": 0,
+      "title": "Bloom in Gloom",
+      "revisions": [
+        {
+          "revid": 284818,
+          "parentid": 255615,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Huohuo\n|type      = Character Event Warps\n}}\n'''Bloom in Gloom''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Huohuo}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Bloom in Gloom\n|zhs  = 令奉贞凶\n|zht  = 令奉貞凶\n|ja   = 貞凶の令を承りて\n|ko   = 불운에 대한 직시\n|es   = Florecimiento sombrío\n|fr   = Lueur au milieu des ténèbres\n|ru   = Цветочек во мраке\n|th   = หาญกล้าประกาศิต\n|vi   = Hoa Nở U Sầu\n|de   = Unbeirrt im Unheil\n|id   = Titah Penakluk Kejahatan\n|pt   = Floreio na Escuridão\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Unbeirrt im Unheil]]\n[[es:Florecimiento sombrío]]\n[[ru:Цветочек во мраке]]\n[[vi:Hoa Nở U Sầu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 23923,
+      "ns": 0,
+      "title": "Floral Triptych",
+      "revisions": [
+        {
+          "revid": 284806,
+          "parentid": 256577,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Ruan Mei\n|type      = Character Event Warps\n}}\n'''Floral Triptych''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Ruan Mei}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Floral Triptych\n|zhs  = 疏影三迭\n|zht  = 疏影三迭\n|ja   = 疎影三迭\n|ko   = 매화꽃 화음\n|es   = Tríptico floral\n|fr   = Triolet floral\n|ru   = Трилогия сливового цвета\n|th   = กรุ่นกลิ่นเงาบุปผา\n|vi   = Mành Hoa In Bóng\n|de   = Im Schatten der Blüten\n|id   = Trilogi Elegansi\n|pt   = Tríptico Floral\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Im Schatten der Blüten]]\n[[es:Tríptico floral]]\n[[ru:Трилогия сливового цвета]]\n[[vi:Mành Hoa In Bóng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 23924,
+      "ns": 0,
+      "title": "Panta Rhei",
+      "revisions": [
+        {
+          "revid": 276696,
+          "parentid": 255066,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Dr. Ratio\n|type      = Character Event Warps\n}}\n'''Panta Rhei''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Dr. Ratio}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Panta Rhei\n|zhs  = 万物皆流\n|zht  = 萬物皆流\n|ja   = パンタ・レイ\n|ko   = 만물유전\n|es   = Cambio constante\n|fr   = Panta Rhei\n|ru   = Всё течёт, всё меняется\n|th   = สรรพสิ่งไหลหลั่งดั่งธารา\n|vi   = Vạn Vật Luân Chuyển\n|de   = Alles fließt\n|id   = Ritme Alam Semesta\n|pt   = Panta Rhei\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Alles fließt]]\n[[es:Cambio constante]]\n[[ru:Всё течёт, всё меняется]]\n[[vi:Vạn Vật Luân Chuyển]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 25577,
+      "ns": 0,
+      "title": "Ripples in Reflection",
+      "revisions": [
+        {
+          "revid": 277138,
+          "parentid": 256131,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Black Swan\n|type      = Character Event Warps\n}}\n'''Ripples in Reflection''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Black Swan}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ripples in Reflection\n|zhs  = 镜映婆娑\n|zht  = 鏡映婆娑\n|ja   = {{Rubi|鏡|かがみ}}に{{Rubi|映|うつ}}る{{Rubi|舞|まい}}\n|ko   = 거울에 비치는 잔물결\n|es   = Ondas en el reflejo\n|fr   = Vagues de réfraction\n|ru   = Рябь в отражении\n|th   = เงาสะท้อนรอยชะตา\n|vi   = Trước Gương Soi Thấu\n|de   = Wirbelnde Spiegelung\n|id   = Riak Takdir dalam Refleksi Cermin\n|pt   = Ondulações Refletidas\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Wirbelnde Spiegelung]]\n[[es:Ondas en el reflejo]]\n[[ru:Рябь в отражении]]\n[[vi:Trước Gương Soi Thấu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 31533,
+      "ns": 0,
+      "title": "Gilded Imprisonment",
+      "revisions": [
+        {
+          "revid": 284816,
+          "parentid": 255423,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Aventurine\n|type      = Character Event Warps\n}}\n'''Gilded Imprisonment''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Aventurine}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gilded Imprisonment\n|zhs  = 囚石铸金\n|zht  = 囚石鑄金\n|ja   = 金を鋳る囚石\n|ko   = 도금된 감옥\n|es   = Encarcelamiento dorado\n|fr   = Prison dorée\n|ru   = Позолоченная клетка\n|th   = กรงทองจองจำ\n|vi   = Luyện Đá Thành Vàng\n|de   = Stein zu Gold\n|id   = Emas di Balik Rantai Batu\n|pt   = Aprisionamento Dourado\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Stein zu Gold]]\n[[es:Encarcelamiento dorado]]\n[[ru:Позолоченная клетка]]\n[[vi:Luyện Đá Thành Vàng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 36787,
+      "ns": 0,
+      "title": "Just Intonation",
+      "revisions": [
+        {
+          "revid": 284812,
+          "parentid": 255700,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Robin\n|type      = Character Event Warps\n}}\n'''Just Intonation''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Robin}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n*{{w|Just intonation}} is a tuning system that uses simple whole number ratios derived from the {{w|Harmonic series (music)|harmonic series}}. Unlike the widely adopted {{w|equal temperament}}, which divides an octave into twelve equal steps, just intonation prioritizes the purity of musical intervals over ease of modulation between keys.\n\n==Other Languages==\n{{Other Languages\n|en   = Just Intonation\n|zhs  = 翼声纯律\n|zht  = 翼聲純律\n|ja   = 翼が奏でる純正律\n|ko   = 날갯짓의 순정률\n|es   = Gorjeo bien temperado\n|fr   = Intonation juste\n|ru   = Утешительная музыка крыльев\n|th   = สกาวเสียงแห่งวิหค\n|vi   = Giai Điệu Vỗ Cánh\n|de   = Reine Stimmung\n|id   = Intonasi Murni Kepakan Sayap\n|pt   = Entonação Justa\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Reine Stimmung]]\n[[es:Gorjeo bien temperado]]\n[[ru:Утешительная музыка крыльев]]\n[[vi:Giai Điệu Vỗ Cánh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 36789,
+      "ns": 0,
+      "title": "Dusty Trail's Lone Star",
+      "revisions": [
+        {
+          "revid": 316180,
+          "parentid": 255476,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{About|the Warp series featuring [[Boothill]]|Boothill's Level 1 Eidolon|Dusty Trail's Lone Star (Eidolon)}}\n{{Warp Series Infobox\n|character = Boothill\n|type      = Character Event Warps\n}}\n'''Dusty Trail's Lone Star''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Boothill}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dusty Trail's Lone Star\n|zhs  = 扬尘孤星\n|zht  = 揚塵孤星\n|ja   = 砂塵の中の一等星\n|ko   = 황야의 론스타\n|es   = Estrella solitaria del sendero polvoriento\n|fr   = Silage de l'étoile solitaire\n|ru   = Одинокая звезда пыльных дорог\n|th   = ดาราเดียวดายใต้ธุลี\n|vi   = Vì Sao Đơn Độc Dặm Trường\n|de   = Einsamer Stern im Staub\n|id   = Bintang Soliter di Jalan Berdebu\n|pt   = Estrela Solitária da Trilha Empoeirada\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Einsamer Stern im Staub (Warp)]]\n[[es:Estrella solitaria del sendero polvoriento]]\n[[ru:Одинокая звезда пыльных дорог]]\n[[vi:Vì Sao Đơn Độc Dặm Trường]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 42240,
+      "ns": 0,
+      "title": "Firefull Flyshine",
+      "revisions": [
+        {
+          "revid": 284805,
+          "parentid": 255213,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Firefly\n|type      = Character Event Warps\n}}\n'''Firefull Flyshine''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Firefly}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Firefull Flyshine\n|zhs  = 盈茧炽盛\n|zht  = 盈繭熾盛\n|ja   = 新生せし焔の朽草\n|ko   = 고치를 뚫고 솟아난 불길\n|es   = Crisálida enardecida\n|fr   = Pyro-métamorphose\n|ru   = Мерцающий кокон\n|th   = แสงอัคนีที่ลุกโชน\n|vi   = Chiếc Kén Rực Lửa\n|de   = Glühendes Glimmern\n|id   = Pijar Kehidupan Kunang-Kunang\n|pt   = Vaga-chama Lumardente\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Glühendes Glimmern]]\n[[es:Crisálida enardecida]]\n[[ru:Мерцающий кокон]]\n[[vi:Chiếc Kén Rực Lửa]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 42244,
+      "ns": 0,
+      "title": "Lien on Life, Lease on Fate",
+      "revisions": [
+        {
+          "revid": 284808,
+          "parentid": 256660,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Jade\n|type      = Character Event Warps\n}}\n'''Lien on Life, Lease on Fate''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Jade}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Lien on Life, Lease on Fate\n|zhs  = 质生契运\n|zht  = 質生契運\n|ja   = 生命と運命の質商\n|ko   = 목숨을 건 담보, 운명을 선 계약\n|es   = Fragante corona de espinas\n|fr   = Pacte du destin\n|ru   = Жизнь в залог, судьба в аренду\n|th   = ทอชะตาสัญญาชีวิต\n|vi   = Khế Ước Định Mệnh\n|de   = Pfand auf Leben, Pacht auf Schicksal\n|id   = Perjanjian Hidup dan Takdir\n|pt   = Vida Prometida, Destino Concedido\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Pfand auf Leben, Pacht auf Schicksal]]\n[[es:Vida empeñada, destino pactado]]\n[[ru:Жизнь в залог, судьба в аренду]]\n[[vi:Khế Ước Định Mệnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 56327,
+      "ns": 0,
+      "title": "Earth Hurled, Ether Curled",
+      "revisions": [
+        {
+          "revid": 270217,
+          "parentid": 256069,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Yunli\n|type      = Character Event Warps\n}}\n'''Earth Hurled, Ether Curled''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Yunli}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Earth Hurled, Ether Curled\n|zhs  = 掷山破云\n|zht  = 擲山破雲\n|ja   = {{Rubi|擲山破雲|てきざんはうん}}\n|ko   = 산과 구름을 가르는 기세\n|es   = Montañas derribadas y nubes reventadas\n|fr   = Nuages dispersés par les montagnes\n|ru   = Свернуть горы, рассеять облака\n|th   = ฝ่าภูผาทะลวงเมฆา\n|vi   = Dời Núi Xẻ Mây\n|de   = Geworfener Berg, gebrochene Wolke\n|id   = Membelah Gunung, Menebas Awan\n|pt   = Terra Arremessada, Nuvens Fragmentadas\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Geworfener Berg, gebrochene Wolke]]\n[[es:Montañas derribadas y nubes reventadas]]\n[[ru:Свернуть горы, рассеять облака]]\n[[vi:Dời Núi Xẻ Mây]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 61368,
+      "ns": 0,
+      "title": "Cauldron Contrivance",
+      "revisions": [
+        {
+          "revid": 284815,
+          "parentid": 220770,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Jiaoqiu\n|type      = Character Event Warps\n}}\n'''Cauldron Contrivance''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Jiaoqiu}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Cauldron Contrivance\n|zhs  = 鼎中捭阖\n|zht  = 鼎中捭闔\n|ja   = {{Rubi|鼎|かなえ}}に{{Rubi|見|み}}る{{Rubi|計略|けいりゃく}}\n|ko   = 솥에 담긴 계책\n|es   = Maniobras en el caldero\n|fr   = Équilibre des saveurs\n|ru   = Предназначение котла\n|th   = เตาเนรมิตชีวินสมดุล\n|vi   = Đỉnh Trung Tách Hợp\n|de   = Strategeme im Kessel\n|id   = Dinamika Keseimbangan dalam Tungku\n|pt   = Invenções em um Caldeirão\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Strategeme im Kessel]]\n[[ru:Предназначение котла]]\n[[vi:Đỉnh Trung Tách Hợp]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 63351,
+      "ns": 0,
+      "title": "Indelible Coterie",
+      "revisions": [
+        {
+          "revid": 448049,
+          "parentid": 340282,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{See Also|Coalesced Truths}}\n{{Stub}}\n{{Warp Series Infobox\n|type = Character Event Warp\n}}\n'''Indelible Coterie''' is a periodic [[Character Event Warp]] featuring three returning 5-star characters which the player must choose from to be the Warp's designated 5-star Character.\n{{Clr}}\n\n==Warp History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Indelible Coterie\n|zhs  = 铭心之萃\n|zht  = 銘心之萃\n|ja   = 銘心の萃\n|ko   = 결집된 명심\n|es   = Reuniones inolvidables\n|fr   = Figures indélébiles\n|ru   = Неизбывные толпы\n|th   = รวมพลในใต้หล้า\n|vi   = Gặp Gỡ Khó Phai\n|de   = Untilgbare Zusammenkunft\n|id   = Rekan dalam Sanubari\n|pt   = Multidões Indeléveis\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Untilgbare Zusammenkunft]]\n[[es:Reuniones inolvidables]]\n[[ru:Неизбывные толпы]]\n[[vi:Gặp Gỡ Khó Phai]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 63352,
+      "ns": 0,
+      "title": "Coalesced Truths",
+      "revisions": [
+        {
+          "revid": 448050,
+          "parentid": 395782,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{See Also|Indelible Coterie}}\n{{Stub}}\n{{Warp Series Infobox\n|type = Light Cone Event Warp\n}}\n'''Coalesced Truths''' is a periodic [[Light Cone Event Warp]] featuring three returning 5-star [[Light Cone]]s which the player must choose from to be the Warp's designated 5-star Light Cone.\n{{Clr}}\n\n==Warp History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Coalesced Truths\n|zhs  = 真意之汇\n|zht  = 真意之匯\n|ja   = 真心の集\n|ko   = 취합된 진의\n|es   = Convergencia verdadera\n|fr   = Vérités confluentes\n|ru   = Слияние истин\n|th   = สรรพสิ่งในดาราจักร\n|vi   = Chân Ý Hội Tụ\n|de   = Gesammelte Wahrheiten\n|id   = Kumpulan Makna Sejati\n|pt   = União das Verdades\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Gesammelte Wahrheiten]]\n[[es:Convergencia verdadera]]\n[[ru:Слияние истин]]\n[[vi:Chân Ý Hội Tụ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 65577,
+      "ns": 0,
+      "title": "Let Scent Sink In",
+      "revisions": [
+        {
+          "revid": 284820,
+          "parentid": 255902,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Lingsha\n|type      = Character Event Warps\n}}\n'''Let Scent Sink In''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Lingsha}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Let Scent Sink In\n|zhs  = 卧香沉水\n|zht  = 臥香沉水\n|ja   = {{Rubi|炉|ろ}}より{{Rubi|漂|ただよ}}う{{Rubi|沈香|じんこう}}\n|ko   = 피어오르는 침향 속에서\n|es   = Lecho envuelto en fragancia\n|fr   = Parfum envoûtant\n|ru   = Аромат благовоний\n|th   = หอมเลิศล้ำคลุ้งธารา\n|vi   = Ngọa Hương Trầm Thủy\n|de   = Versunkener Duft\n|id   = Lelap dalam Air Semerbak\n|pt   = Deixe o Perfume Envolver\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Versunkener Duft]]\n[[es:Lecho envuelto en fragancia]]\n[[ru:Аромат благовоний]]\n[[vi:Ngọa Hương Trầm Thủy]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 68933,
+      "ns": 0,
+      "title": "Eyes of a Ninja",
+      "revisions": [
+        {
+          "revid": 270215,
+          "parentid": 256012,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Rappa\n|type      = Character Event Warps\n}}\n'''Eyes of a Ninja''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Rappa}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eyes of a Ninja\n|zhs  = 忍视眈眈\n|zht  = 忍視眈眈\n|ja   = {{Rubi|邪|じゃ}}を{{Rubi|狙|ねら}}う{{Rubi|忍瞳|にんどう}}\n|ko   = 기회를 노리는 닌자\n|es   = Mirada de ninja\n|fr   = L'œil du ninja\n|ru   = Взгляд ниндзя\n|th   = แยงยลกลนินจา\n|vi   = Đôi Mắt Ninja\n|de   = Augen einer Ninja\n|id   = Ketajaman Mata Ninja\n|pt   = Olhos Ninja\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Augen einer Ninja]]\n[[es:Mirada de ninja]]\n[[ru:Взгляд ниндзя]]\n[[vi:Đôi Mắt Ninja]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 76724,
+      "ns": 0,
+      "title": "Eyes to the Stars",
+      "revisions": [
+        {
+          "revid": 316175,
+          "parentid": 260227,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Sunday\n|type      = Character Event Warps\n}}\n'''Eyes to the Stars''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Sunday}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Eyes to the Stars\n|zhs  = 向星举目\n|zht  = 向星舉目\n|ja   = {{Rubi|見上|みあ}}げる{{Rubi|星影|ほしかげ}}\n|ko   = 별을 향해 눈을 들어\n|es   = Levanten los ojos al cielo\n|fr   = Contemplation des étoiles\n|ru   = Поднимите к звёздам глаза ваши\n|th   = ยลดาราใต้ฟ้าเบื้องบน\n|vi   = Ngước Nhìn Cõi Sao\n|de   = Blick auf die Sterne\n|id   = Arahkanlah Matamu ke Bintang\n|pt   = Contemplar as Estrelas\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Blick auf die Sterne]]\n[[es:Levanten los ojos al cielo]]\n[[ru:Поднимите к звёздам глаза ваши]]\n[[vi:Ngước Nhìn Cõi Sao]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 82155,
+      "ns": 0,
+      "title": "Message From Beyond",
+      "revisions": [
+        {
+          "revid": 316177,
+          "parentid": 278913,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = The Herta\n|type      = Character Event Warps\n}}\n'''Message From Beyond''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|The Herta}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = Message From Beyond\n|zhs      = 视界来信\n|zht      = 視界來信\n|ja       = {{Rubi|視界|しかい}}からの{{Rubi|便|たよ}}り\n|ko       = 시야 끝에서 온 편지\n|es       = Noticias desde la frontera del conocimiento\n|fr       = Message de l'au-delà\n|ru       = Письмо из-за горизонта событий\n|th       = สารจากมิติจักรวาล\n|vi       = Thông Điệp Bên Ngoài Tầm Nhìn\n|de       = Brief vom Horizont\n|id       = Pesan dari Cakrawala\n|pt       = Mensagem Esotérica\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Brief vom Horizont]]\n[[es:Noticias desde la frontera del conocimiento]]\n[[ru:Письмо из-за горизонта событий]]\n[[vi:Thông Điệp Bên Ngoài Tầm Nhìn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 88668,
+      "ns": 0,
+      "title": "Back to Fons et Origo",
+      "revisions": [
+        {
+          "revid": 316184,
+          "parentid": 309825,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Tribbie\n|type      = Character Event Warps\n}}\n'''Back to Fons et Origo''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Tribbie}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n===Etymology===\n* ''{{w|Fons et origo}}'' is a Latin term, meaning \"source and origin.\"\n\n==Other Languages==\n{{Other Languages\n|en   = Back to Fons et Origo\n|zhs  = 径复原初\n|zht  = 徑復原初\n|ja   = {{Rubi|原初|げんしょ}}への{{Rubi|回帰|かいき}}の{{Rubi|道|みち}}\n|ko   = 원초로의 복귀\n|es   = Sendas que retornan\n|fr   = Chemins de retour\n|ru   = Возвращение к истокам\n|th   = หวนวนสู่ประภพ\n|vi   = Trở Về Cội Nguồn\n|de   = Rückkehr zum Ursprung\n|id   = Perjalanan ke Titik Awal\n|pt   = De volta a Fons et Origo\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Rückkehr zum Ursprung]]\n[[es:Sendas que retornan]]\n[[ru:Возвращение к истокам]]\n[[vi:Trở Về Cội Nguồn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 88669,
+      "ns": 0,
+      "title": "Fiery Lionheart",
+      "revisions": [
+        {
+          "revid": 316181,
+          "parentid": 309710,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Mydei\n|type      = Character Event Warps\n}}\n'''Fiery Lionheart''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Mydei}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Fiery Lionheart\n|zhs  = 血炬狮心\n|zht  = 血炬獅心\n|ja   = {{Rubi|熱|あつ}}き{{Rubi|血|ち}}のレグルス\n|ko   = 피의 횃불, 사자의 심장\n|es   = Corazón del león ardiente\n|fr   = Cœur de lion ardent\n|ru   = Пылающее львиное сердце\n|th   = เพลิงโลหิตจิตราชสีห์\n|vi   = Tim Sư Tử Rực Máu\n|de   = Feuriges Löwenherz\n|id   = Hati Singa yang Membara\n|pt   = Coração de Leão Ardente\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Feuriges Löwenherz]]\n[[es:Corazón del león ardiente]]\n[[ru:Пылающее львиное сердце]]\n[[vi:Tim Sư Tử Rực Máu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 97532,
+      "ns": 0,
+      "title": "Blossom to the Beyond",
+      "revisions": [
+        {
+          "revid": 316176,
+          "parentid": 309749,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Castorice\n|type      = Character Event Warps\n}}\n'''Blossom to the Beyond''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Castorice}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Blossom to the Beyond\n|zhs  = 冥途生花\n|zht  = 冥途生花\n|ja   = {{Rubi|幽界|ゆうかい}}へ{{Rubi|続|つづ}}く{{Rubi|花|はな}}\n|ko   = 저승길에 핀 꽃\n|es   = Flores para el más allá\n|fr   = Floraison funèbre\n|ru   = Цветы в обители мёртвых\n|th   = ธารบุปผาอนธการ\n|vi   = Hoa Nở Dẫn Lối Âm Ty\n|de   = Blühen auf dem Weg ins Jenseits\n|id   = Rekah Bunga di Perjalanan Akhirat\n|pt   = Flores Brotando do Abismo\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Blühen auf dem Weg ins Jenseits]]\n[[es:Flores para el más allá]]\n[[ru:Цветы в обители мёртвых]]\n[[vi:Hoa Nở Dẫn Lối Âm Ty]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 101422,
+      "ns": 0,
+      "title": "A Rainbow onto Twilight",
+      "revisions": [
+        {
+          "revid": 328724,
+          "parentid": 326044,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Hyacine\n|type      = Character Event Warps\n}}\n'''A Rainbow onto Twilight''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Hyacine}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = A Rainbow onto Twilight\n|zhs  = 虹隽晨昏\n|zht  = 虹雋晨昏\n|ja   = {{Rubi|晨昏|しんこん}}を{{Rubi|穿|うが}}つ{{Rubi|虹|にじ}}\n|ko   = 조석을 관통한 무지개\n|es   = Arcoíris a la penumbra\n|fr   = Crépuscule irisé\n|ru   = Радужные сумерки\n|th   = ทอรุ้งสาดอรุณสนธยา\n|vi   = Cầu Vồng Nở Rộ Ngày Và Đêm\n|de   = Regenbogen im Zwielicht\n|id   = Bias Pelangi Kala Senja\n|pt   = Arco-Íris Crepuscular\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Regenbogen im Zwielicht]]\n[[es:Arcoíris a la penumbra]]\n[[ru:Радужные сумерки]]\n[[vi:Cầu Vồng Nở Rộ Ngày Và Đêm]]\n[[zh:虹隽晨昏]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 113478,
+      "ns": 0,
+      "title": "Excalibur Excelsior",
+      "revisions": [
+        {
+          "revid": 350537,
+          "parentid": 347568,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Saber\n|type      = Character Collaboration Warps\n}}\n'''Excalibur Excelsior''' is a [[Character Collaboration Warp]] with the [[Character]] {{Character Intro|Saber}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Excalibur Excelsior\n|zhs  = 圣剑辉烈之誓\n|zht  = 聖劍輝烈之誓\n|ja   = {{Rubi|輝|かがや}}く{{Rubi|聖剣|せいけん}}の{{Rubi|誓|ちか}}い\n|ko   = 빛나는 성검의 맹세\n|es   = Juramento glorioso de una espada sagrada\n|fr   = Serment de l'épée sacrée\n|ru   = Клятва священного меча\n|th   = พันธะดาบศักดิ์สิทธิ์\n|vi   = Lời Thề Của Thánh Kiếm Rực Cháy\n|de   = Schwur des glorreichen Excalibur\n|id   = Ikrar Gemilang Pedang Suci\n|pt   = Juramento da Excalibur\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Клятва священного меча]]\n[[vi:Lời Thề Của Thánh Kiếm Rực Cháy]]\n[[zh:圣剑辉烈之誓]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 113588,
+      "ns": 0,
+      "title": "Birth of a King",
+      "revisions": [
+        {
+          "revid": 347585,
+          "parentid": 340777,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|light_cone = A Thankless Coronation\n|type       = Light Cone Collaboration Warps\n}}\n'''Birth of a King''' is a [[Light Cone Collaboration Warp]] with the [[Light Cone]] {{Light Cone Intro|A Thankless Coronation}} as the promoted Light Cone with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Birth of a King\n|zhs  = 王的诞生\n|zht  = 王的誕生\n|ja   = {{Rubi|王|おう}}の{{Rubi|誕生|たんじょう}}\n|ko   = 왕의 탄생\n|es   = El nacimiento de un rey\n|fr   = La naissance d'un roi\n|ru   = Рождение короля\n|th   = ก่อกำเนิดองค์ราชัน\n|vi   = Sự Ra Đời Của Vị Vua\n|de   = Geburt eines Königs\n|id   = Kelahiran sang Raja\n|pt   = O Nascimento de um Rei\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Рождение короля]]\n[[zh:王的诞生]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 132710,
+      "ns": 0,
+      "title": "Dance in Flame",
+      "revisions": [
+        {
+          "revid": 413072,
+          "parentid": 396649,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = The Dahlia\n|type      = Character Event Warps\n}}\n'''Dance in Flame''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|The Dahlia}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Dance in Flame\n|zhs  = 烛中翩影\n|zht  = 燭中翩影\n|ja   = {{Rubi|影|かげ}}、{{Rubi|燭火|しょっか}}に{{Rubi|舞|ま}}う\n|ko   = 촛불 속 춤추는 그림자\n|es   = Sombras danzantes entre velas\n|fr   = Ombres dansantes\n|ru   = Танец в пламени\n|th   = เงาเริงรำใต้แสงเทียน\n|vi   = Nhảy Múa Trong Ánh Nến\n|de   = Schatten im Kerzenlicht\n|id   = Tarian di Tengah Nyala Lilin\n|pt   = Bailar da Chama\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Ombres dansantes]]\n[[ru:Танец в пламени]]\n[[vi:Nhảy Múa Trong Ánh Nến]]\n[[zh:烛中翩影]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 135969,
+      "ns": 0,
+      "title": "Gleam of a Thousand Plumes",
+      "revisions": [
+        {
+          "revid": 402372,
+          "parentid": 399095,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Yao Guang\n|type      = Character Event Warps\n}}\n'''Gleam of a Thousand Plumes''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Yao Guang}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Gleam of a Thousand Plumes\n|zhs  = 光映千翎\n|zht  = 光映千翎\n|ja   = {{Rubi|光映千翎|こうえいせんれい}}\n|ko   = 빛이 비친 천 개의 깃털\n|es   = Luz reflejada en mil plumas\n|fr   = Roue prismatique\n|ru   = Тысяча сверкающих перьев\n|th   = จรัสแสงพันพู่มยุรา\n|vi   = Quang Ánh Thiên Linh\n|de   = Lichtglanz der tausend Federn\n|id   = Kirana Seribu Kepakan\n|pt   = Mil Plumas ao Brilho da Luz\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Roue prismatique]]\n[[ru:Тысяча сверкающих перьев]]\n[[vi:Quang Ánh Thiên Linh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 140062,
+      "ns": 0,
+      "title": "A Hunt Through Night",
+      "revisions": [
+        {
+          "revid": 430581,
+          "parentid": 411763,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Ashveil\n|type      = Character Event Warps\n}}\n'''A Hunt Through Night''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Ashveil}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = A Hunt Through Night\n|zhs  = 长夜狩影\n|zht  = 長夜狩影\n|ja   = {{Rubi|影|かげ}}の{{Rubi|夜狩|よかり}}\n|ko   = 긴 밤 속 사냥꾼의 그림자\n|es   = Sombra del cazador nocturno\n|fr   = Une ombre aux trousses\n|ru   = Охота долгой ночи\n|th   = เงาล่าข้ามฝ่ารัตติกาล\n|vi   = Thợ Săn Trong Đêm Dài\n|de   = Jagd im langen Nachtschatten\n|id   = Bayang Pemburu dalam Malam\n|pt   = Uma Caçada Pela Noite\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Une ombre aux trousses]]\n[[ru:Охота долгой ночи]]\n[[vi:Thợ Săn Trong Đêm Dài]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 161698,
+      "ns": 0,
+      "title": "Age of Gods Golden Gate",
+      "revisions": [
+        {
+          "revid": 457548,
+          "parentid": 449903,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|light_cone = I Am As You Behold\n|type       = Light Cone Collaboration Warps\n}}\n'''Age of Gods Golden Gate''' is a [[Light Cone Collaboration Warp]] with the [[Light Cone]] {{Light Cone Intro|I Am As You Behold}} as the promoted Light Cone with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Age of Gods Golden Gate\n|zhs  = 神代金扉\n|zht  = 神代金扉\n|ja   = {{Rubi|神代|しんだい}}の{{Rubi|黄金|おうごん}}の{{Rubi|扉|とびら}}\n|ko   = 신대의 황금 문\n|es   = Puerta dorada de la era divina\n|fr   = Porte d'or de l'ère divine\n|ru   = Золотые врата эпохи богов\n|th   = ทองทวารายุคเทวะ\n|vi   = Cổng Vàng Kỷ Nguyên Thần Thánh\n|de   = Goldenes Tor der göttlichen Ära\n|id   = Gerbang Emas Era Ilahi\n|pt   = Portão Dourado da Era Divina\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Золотые врата эпохи богов]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 161699,
+      "ns": 0,
+      "title": "Ad Astra Nova",
+      "revisions": [
+        {
+          "revid": 456004,
+          "parentid": 454681,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Himeko • Nova\n|type      = Character Event Warps\n}}\n'''Ad Astra Nova''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Himeko • Nova}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n===Etymology===\n* ''{{w|Ad astra}}'' is a Latin phrase meaning \"to the stars.\"\n\n==Other Languages==\n{{Other Languages\n|en   = Ad Astra Nova\n|zhs  = 拓星启明\n|zht  = 拓星啟明\n|ja   = {{Rubi|星|ほし}}を{{Rubi|拓|ひら}}く{{Rubi|明星|みょうじょう}}\n|ko   = 개척을 이끄는 별빛\n|es   = Ad Astra Nova\n|fr   = Ad Astra Nova\n|ru   = Свет Освоения\n|th   = ประกายนำวิถีบุกเบิกดาว\n|vi   = Ánh Sao Khai Phá Dẫn Đường\n|de   = Ad Astra Nova\n|id   = Fajar Perintisan Bintang\n|pt   = Ad Astra Nova\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Свет Освоения]]\n[[vi:Ánh Sao Khai Phá Dẫn Đường]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 168832,
+      "ns": 0,
+      "title": "An Ocean in a Pearl",
+      "revisions": [
+        {
+          "revid": 471834,
+          "parentid": 470303,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Pearl\n|type      = Character Event Warps\n}}\n'''An Ocean in a Pearl''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Pearl}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = An Ocean in a Pearl\n|zhs  = 沧海萃珠\n|zht  = 滄海萃珠\n|ja   = {{Rubi|海|うみ}}より{{Rubi|出|い}}づる{{Rubi|真珠|しんじゅ}}\n|ko   = 창해에서 맺은 진주\n|es   = Una perla en el océano\n|fr   = Perle de l'océan\n|ru   = Океан в жемчужине\n|th   = มุกสกาวพราวสมุทร\n|vi   = Trân Châu Giữa Biển Cả\n|de   = Perle der azurblauen Tiefe\n|id   = Mutiara Samudra Biru\n|pt   = Um Oceano em Uma Pérola\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Океан в жемчужине]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 2396,
+      "ns": 0,
+      "title": "Stellar Warp",
+      "revisions": [
+        {
+          "revid": 404900,
+          "parentid": 404896,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp\n|name              = Stellar Warp\n|image             = Stellar Warp.png\n|type              = Standard\n|duration          = perm\n|time_known        = yes\n|time_start        = 2023-04-25 10:00:00\n|time_start_offset = GMT+8\n|time_end          = none\n|nocountdown       = 1\n}}\n'''Stellar Warp''' is the permanent Standard Warp with no time limit. All ''Non-Event Exclusive'' [[Character]]s and [[Light Cone]]s are available in its pool. Event Exclusive 5{{Star}} characters and Event Exclusive 4{{Star}} or 5{{Star}} Light Cones are not added to this Warp.\n\nPlease note that despite the Warp banner showing certain characters and light cones in its banner image, none of them are actually featured items and do not have any better chance of being Warped over items not shown in the image.\n\nIn Stellar Warp, as well as other Warps, at least one 4{{Star}} or above item is guaranteed within 10 Warps since the last.\n\n==Rates==\n{|class=\"wikitable\" style=\"text-align:center;\"\n!Item !! Base Rate !! Average Rate<br />including Pity\n|-\n|5{{Star}} Character or Light Cone\n|0.6% || 1.6%\n|-\n|4{{Star}} Character or Light Cone\n|5.1% || 13%\n|-\n|3{{Star}} Light Cone\n|94.3% || 85.4%\n|}\n\n==Rules==\n* '''4{{Star}} drop guarantee:''' If a player does not obtain any 4{{Star}} (or above) item within 9 consecutive Warps, the 10th Warp is ''guaranteed'' to be a 4{{Star}} (or higher) item. (On guarantee, the probability of getting a 4{{Star}} item is 99.4%, and the probability of getting a 5{{Star}} item remains at 0.6%.)\n** This counter will reset if the player obtains any 4{{Star}} item.\n* '''5{{Star}} drop guarantee:''' If a player does not obtain any 5{{Star}} item after 89 consecutive Warps, the 90th Warp is ''guaranteed'' to be a 5{{Star}} item. \n** This counter will reset if the player obtains any 5{{Star}} item.\n* '''Additional Reward:''' After taking 300 Warps in the Stellar Warp event, the player can choose one of these characters &mdash; {{Item List|Himeko;Welt;Bronya;Gepard;Clara;Yanqing;Bailu|type=Character|size=25|mode=sent}} &mdash; to join their team. This reward can only be claimed once.<!--taken from the in-game character selector description, but edited to use third person and the updated banner name-->\n\n==Item Pool==\n{{Warp Pool\n|character_5   = Bailu; Bronya; Clara; Gepard; Himeko; Welt; Yanqing\n|character_4   = Arlan; Asta; Dan Heng; Gallagher; Guinaifen; Hanya; Herta; Hook; Luka; Lynx; March 7th (Preservation); Misha; Moze; Natasha; Pela; Qingque; Sampo; Serval; Sushang; Tingyun; Xueyi; Yukong\n|lightcone_5   = But the Battle Isn't Over; In the Name of the World; Moment of Victory; Night on the Milky Way; Sleep Like the Dead; Something Irreplaceable; Time Waits for No One\n|lightcone_4   = A Secret Vow; After the Charmony Fall; Boundless Choreo; Concert for Two; Dance! Dance! Dance!; Day One of My New Life; Dream's Montage; Eyes of the Prey; Geniuses' Greetings; Geniuses' Repose; Good Night and Sleep Well; Indelible Promise; Landau's Choice; Make the World Clamor; Memories of the Past; Only Silence Remains; Perfect Timing; Planetary Rendezvous; Poised to Bloom; Post-Op Conversation; Resolution Shines As Pearls of Sweat; Shadowed by Night; Shared Feeling; Subscribe for More!; Swordplay; The Birth of the Self; The Moles Welcome You; The Story's Next Page; Trend of the Universal Market; Under the Blue Sky\n|lightcone_3   = Adversarial; Amber (Light Cone); Arrows; Chorus; Collapsing Sky; Cornucopia; Darting Arrow; Data Bank (Light Cone); Defense; Fine Fruit; Hidden Shadow; Lingering Tear; Loop; Mediation; Meshing Cogs; Multiplication; Mutual Demise; Passkey; Pioneering; Reminiscence; Sagacity; Shadowburn; Shattered Home; Sneering; Void\n}}\n\n==Other Languages==\n{{Other Languages\n|en   = Stellar Warp\n|zhs  = 群星跃迁\n|zht  = 群星躍遷\n|ja   = 群星跳躍\n|ko   = 뭇별의&nbsp;워프\n|es   = Salto estelar\n|fr   = Saut stellaire\n|ru   = Звёздный прыжок\n|th   = วาร์ปสู่ดวงดาว\n|vi   = Bước Nhảy Chòm Sao\n|de   = Stellarwarp\n|id   = Warp Bintang-Bintang\n|pt   = Salto Hiperespacial Estelar\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Stellarwarp]]\n[[es:Salto estelar]]\n[[ru:Звёздный прыжок]]\n[[th:วาร์ปสู่ดวงดาว]]\n[[vi:Bước Nhảy Chòm Sao]]\n[[zh:群星跃迁]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 7446,
+      "ns": 0,
+      "title": "Swirl of Heavenly Spear",
+      "revisions": [
+        {
+          "revid": 270165,
+          "parentid": 255527,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Jing Yuan\n|type      = Character Event Warps\n}}\n'''Swirl of Heavenly Spear''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Jing Yuan}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Swirl of Heavenly Spear\n|zhs  = 天戈麾斥\n|zht  = 天戈麾斥\n|ja   = 奔放な天矛\n|ko   = 천과수&nbsp;소용돌이\n|es   = Espiral de la lanza celestial\n|fr   = Tourbillon de la lance céleste\n|ru   = Вихрь небесных копий\n|th   = เกลียวหอกสวรรค์\n|vi   = Thiên Giáo Trách Phạt\n|de   = Wirbel des himmlischen Speeres\n|id   = Pusaran Tombak Langit\n|pt   = Turbilhão da Lança Celestial\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Wirbel des himmlischen Speeres]]\n[[es:Espiral de la lanza celestial]]\n[[ru:Вихрь небесных копий]]\n[[th:เกลียวหอกสวรรค์]]\n[[vi:Thiên Giáo Trách Phạt]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 18886,
+      "ns": 0,
+      "title": "Sunset Clause",
+      "revisions": [
+        {
+          "revid": 284813,
+          "parentid": 255144,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Topaz and Numby\n|type      = Character Event Warps\n}}\n'''Sunset Clause''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Topaz and Numby}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n<!--\n==Trivia==\n-->\n==Other Languages==\n{{Other Languages\n|en   = Sunset Clause\n|zhs  = 落日条款\n|zht  = 落日條款\n|ja   = サンセット条項\n|ko   = 일몰 조항\n|es   = Cláusula de extinción\n|fr   = Échéance crépusculaire\n|ru   = Срок истекает на закате\n|th   = บัญญัติตะวันลับฟ้า\n|vi   = Điều Khoản Hoàng Hôn\n|de   = Sunset-Klausel\n|id   = Klausul Matahari Terbenam\n|pt   = Cláusula do Crepúsculo\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Sunset-Klausel]]\n[[es:Cláusula de extinción]]\n[[ru:Срок истекает на закате]]\n[[vi:Điều Khoản Hoàng Hôn]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 19930,
+      "ns": 0,
+      "title": "Thorns of Scented Crown",
+      "revisions": [
+        {
+          "revid": 284807,
+          "parentid": 255657,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Argenti\n|type      = Character Event Warps\n}}\n'''Thorns of Scented Crown''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Argenti}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Thorns of Scented Crown\n|zhs  = 荆冠芳勋\n|zht  = 荊冠芳勳\n|ja   = 荊冠と勲章\n|ko   = 가시관의 아름다운 훈장\n|es   = Fragante corona de espinas\n|fr   = Subjugation de la couronne d'épines\n|ru   = Колючий венец отваги\n|th   = กิตติคุณมงกุฎหนาม\n|vi   = Vương Miện Gai Góc\n|de   = Krone des Dornenwegs\n|id   = Aroma Mahkota Mawar\n|pt   = Espinhos de Coroa Perfumada\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Krone des Dornenwegs]]\n[[es:Fragante corona de espinas]]\n[[ru:Колючий венец отваги]]\n[[vi:Vương Miện Gai Góc]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 25586,
+      "ns": 0,
+      "title": "Sparkling Splendor",
+      "revisions": [
+        {
+          "revid": 284811,
+          "parentid": 255485,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Sparkle\n|type      = Character Event Warps\n}}\n'''Sparkling Splendor''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Sparkle}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Sparkling Splendor\n|zhs  = 焰锦游鱼\n|zht  = 焰錦游魚\n|ja   = {{Rubi|焔錦|えんきん}}に{{Rubi|遊魚|ゆうぎょ}}\n|ko   = 화려한 불꽃과 금붕어\n|es   = Esplendor resplandeciente\n|fr   = Tourbillon d'étincelles\n|ru   = Фееричные всплески\n|th   = พลุฉายประกายจรัส\n|vi   = Rực Rỡ Lấp Lánh\n|de   = Schillernde Pracht\n|id   = Semarak Ikan dan Kembang Api\n|pt   = Esplendor Reluzente\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Schillernde Pracht]]\n[[es:Esplendor resplandeciente]]\n[[ru:Фееричные всплески]]\n[[vi:Rực Rỡ Lấp Lánh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 31532,
+      "ns": 0,
+      "title": "Words of Yore",
+      "revisions": [
+        {
+          "revid": 398591,
+          "parentid": 279478,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Acheron\n|type      = Character Event Warps\n}}\n'''Words of Yore''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Acheron}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Words of Yore\n|zhs  = 远辞畴昔\n|zht  = 遠辭疇昔\n|ja   = 往昔との別れ\n|ko   = 과거와의 고별\n|es   = Palabras de antaño\n|fr   = Mots d'antan\n|ru   = Слова былых времён\n|th   = ลาลับจากวันวาน\n|vi   = Giã Biệt Quá Khứ\n|de   = Abschied von der Vergangenheit\n|id   = Selamat Tinggal, Masa Lalu\n|pt   = Palavras de Outrora\n}}\n\n==Trivia==\n===Etymology===\n* {{zh|远辞畴昔}} means \"the distant past.\"\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Abschied von der Vergangenheit]]\n[[es:Palabras de antaño]]\n[[ru:Слова былых времён]]\n[[vi:Giã Biệt Quá Khứ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 63150,
+      "ns": 0,
+      "title": "Stormrider's Bolt",
+      "revisions": [
+        {
+          "revid": 284814,
+          "parentid": 255813,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Feixiao\n|type      = Character Event Warps\n}}\n'''Stormrider's Bolt''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Feixiao}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Stormrider's Bolt\n|zhs  = 飙驭霆击\n|zht  = 飆馭霆擊\n|ja   = {{Rubi|嵐|あらし}}を{{Rubi|統|す}}べる{{Rubi|豪傑|ごうけつ}}\n|ko   = 폭풍을 다스리는 기세\n|es   = Jinete del huracán\n|fr   = Éclair Foule-Orages\n|ru   = Грохот божественной колесницы\n|th   = วายุโหมอัสนีคำราม\n|vi   = Cưỡi Bão Tố, Sấm Vang Rền\n|de   = Stürmischer Schlag\n|id   = Gelora Pengendara Badai\n|pt   = Raio do Cavaleiro da Tempestade\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Stürmischer Schlag]]\n[[es:Jinete del huracán]]\n[[ru:Грохот божественной колесницы]]\n[[vi:Cưỡi Bão Tố, Sấm Vang Rền]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 76726,
+      "ns": 0,
+      "title": "The Long Voyage Home",
+      "revisions": [
+        {
+          "revid": 316179,
+          "parentid": 265320,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Fugue\n|type      = Character Event Warps\n}}\n'''The Long Voyage Home''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Fugue}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Long Voyage Home\n|zhs  = 归路迢迢\n|zht  = 歸路迢迢\n|ja   = {{Rubi|遥|はる}}かな{{Rubi|帰路|きろ}}\n|ko   = 머나먼 귀로\n|es   = Retorno desde un lugar lejano\n|fr   = Revenir de loin\n|ru   = Долгий путь домой\n|th   = ทางสู่เหย้าอันไกลโพ้น\n|vi   = Đường Về Xa Xăm\n|de   = Die lange Heimreise\n|id   = Jalan Pulang yang Berliku\n|pt   = A Longa Viagem para Casa\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Die lange Heimreise]]\n[[es:Retorno desde un lugar lejano]]\n[[ru:Долгий путь домой]]\n[[vi:Đường Về Xa Xăm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 82154,
+      "ns": 0,
+      "title": "Tailored Fate",
+      "revisions": [
+        {
+          "revid": 316185,
+          "parentid": 284379,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Aglaea\n|type      = Character Event Warps\n}}\n'''Tailored Fate''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Aglaea}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en      = Tailored Fate\n|zhs     = 裁酌天命\n|zht     = 裁酌天命\n|ja      = {{Rubi|天命|てんめい}}の{{Rubi|裁断|さいだん}}\n|ko      = 천명의 재단자\n|es      = Las costuras del destino\n|fr      = Destin sur mesure\n|ru      = Взвешенная судьба\n|th      = ถักทอชะตาฟ้าลิขิต\n|vi      = Đan Dệt Thiên Mệnh\n|de      = Schicksal in Nadel und Faden\n|id      = Menakar Jalinan Takdir\n|pt      = Costuras do Destino\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Schicksal in Nadel und Faden]]\n[[es:Las costuras del destino]]\n[[ru:Взвешенная судьба]]\n[[vi:Đan Dệt Thiên Mệnh]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 97531,
+      "ns": 0,
+      "title": "The Universe in a Seed",
+      "revisions": [
+        {
+          "revid": 328736,
+          "parentid": 316178,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Anaxa\n|type      = Character Event Warps\n}}\n'''The Universe in a Seed''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Anaxa}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Universe in a Seed\n|zhs  = 胚中万物\n|zht  = 胚中萬物\n|ja   = {{Rubi|万物|ばんぶつ}}を{{Rubi|宿|やど}}す{{Rubi|種子|しゅし}}\n|ko   = 씨앗 속 만물\n|es   = El universo en una simiente\n|fr   = L'univers dans une graine\n|ru   = Вселенная в семечке\n|th   = จักรวาลในเมล็ดพันธุ์\n|vi   = Vạn Vật Trong Phôi\n|de   = Das Universum in einem Samenkorn\n|id   = Dalam Benih, Tersua Dunia\n|pt   = O Universo numa Semente\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Das Universum in einem Samenkorn]]\n[[es:El universo en una simiente]]\n[[ru:Вселенная в семечке]]\n[[vi:Vạn Vật Trong Phôi]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 101424,
+      "ns": 0,
+      "title": "Slick and Speedy Steals the Sky",
+      "revisions": [
+        {
+          "revid": 328756,
+          "parentid": 326700,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Cipher\n|type      = Character Event Warps\n}}\n'''Slick and Speedy Steals the Sky''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Cipher}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Slick and Speedy Steals the Sky\n|zhs  = 捷足盗天\n|zht  = 捷足盜天\n|ja   = {{Rubi|世|よ}}を{{Rubi|欺|あざむ}}く{{Rubi|駿足|しゅんそく}}\n|ko   = 하늘을 훔친 빠른 발\n|es   = Latrocinio celeste\n|fr   = Larcin céleste\n|ru   = Украденное небо\n|th   = จอมโจรชิงเวหา\n|vi   = Nhanh Chân Trộm Trời\n|de   = Himmelsraub auf Samtpfoten\n|id   = Mencuri Langit Secepat Bayangan\n|pt   = A Ladra Veloz que Rouba o Céu\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Himmelsraub auf Samtpfoten]]\n[[es:Latrocinio celeste]]\n[[ru:Украденное небо]]\n[[vi:Nhanh Chân Trộm Trời]]\n[[zh:捷足盗天]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 106013,
+      "ns": 0,
+      "title": "To Evermore Burn as the Sun",
+      "revisions": [
+        {
+          "revid": 346404,
+          "parentid": 334490,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Phainon\n|type      = Character Event Warps\n}}\n'''To Evermore Burn as the Sun''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Phainon}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en       = To Evermore Burn as the Sun\n|zhs      = 永劫燔阳\n|zht      = 永劫燔陽\n|ja       = {{Rubi|永遠|とわ}}に{{Rubi|燃|も}}ゆる{{Rubi|太陽|たいよう}}\n|ko       = 영원히 타오르는 태양\n|es       = En la perpetuidad de las llamas\n|fr       = Feu d'un soleil éternel\n|ru       = Вечно горящее солнце\n|th       = ตะวันผลาญชั่วกัลป์\n|vi       = Mặt Trời Thiêu Đốt Vĩnh Hằng\n|de       = Ewig brennende Sonne\n|id       = Bara Abadi Matahari\n|pt       = Chama Solar Perpétua\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[de:Ewig brennende Sonne]]\n[[ru:Вечно горящее солнце]]\n[[vi:Mặt Trời Thiêu Đốt Vĩnh Hằng]]\n[[zh:永劫燔阳]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 113477,
+      "ns": 0,
+      "title": "I Am the Bone of My Sword",
+      "revisions": [
+        {
+          "revid": 350538,
+          "parentid": 347584,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Archer\n|type      = Character Collaboration Warps\n}}\n'''I Am the Bone of My Sword''' is a [[Character Collaboration Warp]] with the [[Character]] {{Character Intro|Archer}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = I Am the Bone of My Sword\n|zhs  = 此身剑所天成\n|zht  = 此身劍所天成\n|ja   = {{Rubi|体|からだ}}は{{Rubi|剣|つるぎ}}で{{Rubi|出来|でき}}ている\n|ko   = 몸은 검으로 되어 있다\n|es   = Espada forjada por el cielo\n|fr   = L'os de l'épée\n|ru   = Выкованный небесами клинок\n|th   = แก่นดาบแห่งอัตตา\n|vi   = Thân Này Là Kiếm Trời Sinh\n|de   = Der Knochen meines Schwertes\n|id   = Dengan Bilah Tubuh Ini Ditempa\n|pt   = Espada da Forja Celestial\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Выкованный небесами клинок]]\n[[vi:Thân Này Là Kiếm Trời Sinh]]\n[[zh:此身剑所天成]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 113589,
+      "ns": 0,
+      "title": "Red Radiance of Fuyuki",
+      "revisions": [
+        {
+          "revid": 347587,
+          "parentid": 340776,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|light_cone = The Hell Where Ideals Burn\n|type       = Light Cone Collaboration Warps\n}}\n'''Red Radiance of Fuyuki''' is a [[Light Cone Collaboration Warp]] with the [[Light Cone]] {{Light Cone Intro|The Hell Where Ideals Burn}} as the promoted Light Cone with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Red Radiance of Fuyuki\n|zhs  = 冬木赤影\n|zht  = 冬木赤影\n|ja   = {{Rubi|冬木|ふゆき}}の{{Rubi|赤|あか}}い{{Rubi|影|かげ}}\n|ko   = 후유키의 붉은 그림자\n|es   = Sombra escarlata de Fuyuki\n|fr   = Ombre écarlate de Fuyuki\n|ru   = Багряная тень Фуюки\n|th   = เงาสีชาดแห่งฟุยูกิ\n|vi   = Sắc Đỏ Fuyuki\n|de   = Rotes Strahlen von Fuyuki\n|id   = Siluet Merah Fuyuki\n|pt   = Luz Escarlate de Fuyuki\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Багряная тень Фуюки]]\n[[zh:冬木赤影]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 116373,
+      "ns": 0,
+      "title": "Winedark Swansong",
+      "revisions": [
+        {
+          "revid": 360634,
+          "parentid": 349856,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Hysilens\n|type      = Character Event Warps\n}}\n'''Winedark Swansong''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Hysilens}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Winedark Swansong\n|zhs  = 绀碧绝音\n|zht  = 紺碧絕音\n|ja   = {{Rubi|蒼海|そうかい}}を{{Rubi|染|そ}}める{{Rubi|絶唱|ぜっしょう}}\n|ko   = 짙게 물든 마지막 노래\n|es   = Canción de añil profundo\n|fr   = Le Chant du cygne pourpre\n|ru   = Элегия морской глубины\n|th   = เพลงอวสานสีครามชาด\n|vi   = Tuyệt Âm Lặng Biếc\n|de   = Blutroter Abgesang\n|id   = Tembang Terakhir Segara Merah\n|pt   = Melodia Azul-Anil\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Элегия морской глубины]]\n[[vi:Tuyệt Âm Lặng Biếc]]\n[[zh:绀碧绝音]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 116374,
+      "ns": 0,
+      "title": "The Iron Tamer of Tides",
+      "revisions": [
+        {
+          "revid": 360635,
+          "parentid": 360264,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Cerydra\n|type      = Character Event Warps\n}}\n'''The Iron Tamer of Tides''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Cerydra}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Iron Tamer of Tides\n|zhs  = 弄潮铁血\n|zht  = 弄潮鐵血\n|ja   = {{Rubi|潮|しお}}を{{Rubi|征|せい}}する{{Rubi|鉄血|てっけつ}}\n|ko   = 물결을 다스리는 철혈\n|es   = Dominatriz de la marea\n|fr   = D'une marée de fer\n|ru   = Покорительница огнём и мечом\n|th   = คลื่นโลหะเคล้าโลหิต\n|vi   = Ngự Triều Thiết Huyết\n|de   = Eiserne Bezwingerin der Flut\n|id   = Penakluk Ombak Bertangan Besi\n|pt   = Domadora de Marés de Ferro\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Покорительница огнём и мечом]]\n[[vi:Ngự Triều Thiết Huyết]]\n[[zh:弄潮铁血]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 123391,
+      "ns": 0,
+      "title": "Slay Until Evil Ends",
+      "revisions": [
+        {
+          "revid": 385133,
+          "parentid": 373195,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Dan Heng • Permansor Terrae\n|type      = Character Event Warps\n}}\n'''Slay Until Evil Ends''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Dan Heng • Permansor Terrae}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Slay Until Evil Ends\n|zhs  = 八荒诛邪\n|zht  = 八荒誅邪\n|ja   = {{Rubi|八荒|はっこう}}の{{Rubi|邪|じゃ}}を{{Rubi|滅|めっ}}す\n|ko   = 팔황의 정화\n|es   = Castigo del mal terreno\n|fr   = Purgation des maux\n|ru   = Очищение земель от зла\n|th   = ปราบอธรรมสะท้านปฐพี\n|vi   = Bát Hoang Trừ Tà\n|de   = Läuterung aller Welten\n|id   = Membasmi Durjana Sejagat\n|pt   = Aniquilação de Todo o Mal\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Очищение земель от зла]]\n[[vi:Bát Hoang Trừ Tà]]\n[[zh:八荒诛邪]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 123393,
+      "ns": 0,
+      "title": "The Remembrance of None",
+      "revisions": [
+        {
+          "revid": 385134,
+          "parentid": 364146,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{About|the Warp series featuring [[Evernight]]|the achievement|The Remembrance of None (Achievement)}}\n{{Warp Series Infobox\n|character = Evernight\n|type      = Character Event Warps\n}}\n'''The Remembrance of None''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Evernight}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Remembrance of None\n|zhs  = 无我所忆\n|zht  = 無我所憶\n|ja   = {{Rubi|無|む}}からなる{{Rubi|記憶|きおく}}\n|ko   = 무아의 기억\n|es   = Nada en mis recuerdos\n|fr   = Vacuité des souvenirs\n|ru   = Моё забвение\n|th   = เร้นไร้ลืมเลือน\n|vi   = Ký Ức Vô Ngã\n|de   = Gedenken an das Nichts\n|id   = Kenangan Tanpa Diri\n|pt   = A Recordação do Vazio\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Моё забвение]]\n[[vi:Ký Ức Vô Ngã]]\n[[zh:无我所忆]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 129111,
+      "ns": 0,
+      "title": "Ripples Rejoined",
+      "revisions": [
+        {
+          "revid": 385135,
+          "parentid": 376765,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Cyrene\n|type      = Character Event Warps\n}}\n'''Ripples Rejoined''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Cyrene}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Ripples Rejoined\n|zhs  = 涟漪回环\n|zht  = 漣漪迴環\n|ja   = {{Rubi|円|えん}}を{{Rubi|描|えが}}くさざ{{Rubi|波|なみ}}\n|ko   = 윤환의 물결\n|es   = Ondas circulantes\n|fr   = Là où s'embrassent les vagues\n|ru   = Кольца ряби\n|th   = ริ้วคลื่นหวนบรรจบ\n|vi   = Gợn Sóng Luân Chuyển\n|de   = Wiedervereinte Wellen\n|id   = Riak yang Bergema\n|pt   = Realinhamento dos Fluxos\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Là où s'embrassent les vagues]]\n[[ru:Кольца ряби]]\n[[vi:Gợn Sóng Luân Chuyển]]\n[[zh:涟漪回环]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 135970,
+      "ns": 0,
+      "title": "Project Party Time",
+      "revisions": [
+        {
+          "revid": 402371,
+          "parentid": 399142,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|title     = Project: Party Time\n|character = Sparxie\n|type      = Character Event Warps\n}}\n'''Project: Party Time''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Sparxie}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Project: Party Time\n|zhs  = 狂欢企划\n|zht  = 狂歡企畫\n|ja   = {{Rubi|狂宴|きょうえん}}プロジェクト\n|ko   = 광란 프로젝트\n|es   = Plan de fiesta\n|fr   = Canevas carnavalesque\n|ru   = Проект «Веселье»\n|th   = โปรเจกต์มันส์เต็มสตรีม\n|vi   = Dự Án: Tiệc Vui Bắt Đầu\n|de   = Projekt: Party Time\n|id   = Proyek Pesta Pora\n|pt   = Preparando a Festa\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Canevas carnavalesque]]\n[[ru:Проект «Веселье»]]\n[[vi:Dự Án: Tiệc Vui Bắt Đầu]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 153431,
+      "ns": 0,
+      "title": "Godmode Player",
+      "revisions": [
+        {
+          "revid": 441930,
+          "parentid": 436888,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Silver Wolf LV.999\n|type      = Character Event Warps\n}}\n'''Godmode Player''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Silver Wolf LV.999}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Godmode Player\n|zhs  = 无敌玩家\n|zht  = 無敵玩家\n|ja   = {{Rubi|無敵|むてき}}プレイヤー\n|ko   = 무적 플레이어\n|es   = Jugadora imbatible\n|fr   = MVP incontestée\n|ru   = Непобедимый игрок\n|th   = เพลย์เยอร์ขั้นเทพ\n|vi   = Người Chơi Vô Địch\n|de   = God-Mode-Spielerin\n|id   = Gamer Dewa\n|pt   = Jogadora Imbatível\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:MVP incontestée]]\n[[ru:Непобедимый игрок]]\n[[vi:Người Chơi Vô Địch]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 153432,
+      "ns": 0,
+      "title": "The Demoiselle in Charge",
+      "revisions": [
+        {
+          "revid": 440637,
+          "parentid": 436887,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Evanescia\n|type      = Character Event Warps\n}}\n'''The Demoiselle in Charge''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Evanescia}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Demoiselle in Charge\n|zhs  = 韶艾裁英\n|zht  = 韶艾裁英\n|ja   = {{Rubi|花盛|はなざか}}りの{{Rubi|裁|さば}}き{{Rubi|手|て}}\n|ko   = 꽃피운 중재자\n|es   = Beldad arbitraria\n|fr   = Arbitre en herbe\n|ru   = Юный арбитр\n|th   = พริ้งพิจพิจารณ์\n|vi   = Thiếu Nữ Phán Định\n|de   = Urteil der jungen Schönheit\n|id   = Nona Muda sang Penentu\n|pt   = Donzela no Comando\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Юный арбитр]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 157915,
+      "ns": 0,
+      "title": "Now I Am Become Blade",
+      "revisions": [
+        {
+          "revid": 453864,
+          "parentid": 446763,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Mortenax Blade\n|type      = Character Event Warps\n}}\n'''Now I Am Become Blade''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Mortenax Blade}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Trivia==\n===Etymology===\n* The phrase \"I am become Death\" is from the {{w|Bhagavad Gita}}, a part of Hindu scripture from the epic poem the ''{{w|Mahabharata}}''.\n\n==Other Languages==\n{{Other Languages\n|en   = Now I Am Become Blade\n|zhs  = 我身即刃\n|zht  = 我身即刃\n|ja   = {{Rubi|我|われ}}、{{Rubi|即|すなわ}}ち{{Rubi|刃|やいば}}なり\n|ko   = 내 몸이 곧 검일지니\n|es   = Mi cuerpo es la espada\n|fr   = Sur le fil de l'être\n|ru   = Я стал клинком\n|th   = กายานี้ดั่งศัสตรา\n|vi   = Thân Ta Là Lưỡi Kiếm\n|de   = Ich selbst bin die Klinge\n|id   = Kini, Akulah Sang Bilah\n|pt   = Eu Sou a Própria Lâmina\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[fr:Sur le fil de l'être]]\n[[ru:Я стал клинком]]\n[[vi:Thân Ta Là Lưỡi Kiếm]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 161697,
+      "ns": 0,
+      "title": "Kaleidic Coruscation",
+      "revisions": [
+        {
+          "revid": 457559,
+          "parentid": 449904,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|light_cone = Flickering Stars\n|type       = Light Cone Collaboration Warps\n}}\n'''Kaleidic Coruscation''' is a [[Light Cone Collaboration Warp]] with the [[Light Cone]] {{Light Cone Intro|Flickering Stars}} as the promoted Light Cone with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Kaleidic Coruscation\n|zhs  = 万华骄芒\n|zht  = 萬華驕芒\n|ja   = {{Rubi|煌|きら}}めく{{Rubi|万華|ばんか}}\n|ko   = 찬란한 만화의 빛\n|es   = Esplendor caleidoscópico\n|fr   = Splendeur prismatique\n|ru   = Калейдоскоп великолепного сияния\n|th   = แสงจรัสหมื่นรัศมี\n|vi   = Ánh Sáng Vạn Hoa Rực Rỡ\n|de   = Prismatische Strahlen der Pracht\n|id   = Gemerlap Seribu Cahaya\n|pt   = Esplendor Prismático\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Калейдоскоп великолепного сияния]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 161700,
+      "ns": 0,
+      "title": "The Gem Coursing in Red",
+      "revisions": [
+        {
+          "revid": 457376,
+          "parentid": 456515,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Rin Tohsaka\n|type      = Character Collaboration Warps\n}}\n'''The Gem Coursing in Red''' is a [[Character Collaboration Warp]] with the [[Character]] {{Character Intro|Rin Tohsaka}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = The Gem Coursing in Red\n|zhs  = 魔石赤染流光\n|zht  = 魔石赤染流光\n|ja   = {{Rubi|輝|かがや}}ける{{Rubi|赤|あか}}き{{Rubi|宝石|ほうせき}}\n|ko   = 빛을 붉게 적시는 마석\n|es   = Resplandor de la gema escarlata\n|fr   = Éclat de la gemme pourpre\n|ru   = Алый отблеск камня\n|th   = แสงมณีเวทสีชาด\n|vi   = Lưu Quang Nhuốm Đỏ Ma Thạch\n|de   = Im Schimmer des Rubinrots\n|id   = Kilau Permata Merah Darah\n|pt   = Brilho da Gema Escarlate\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Алый отблеск камня]]\n[[vi:Lưu Quang Nhuốm Đỏ Ma Thạch]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 161701,
+      "ns": 0,
+      "title": "Of the Beginning, Enuma Elish",
+      "revisions": [
+        {
+          "revid": 458393,
+          "parentid": 457375,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Gilgamesh\n|type      = Character Collaboration Warps\n}}\n'''Of the Beginning, Enuma Elish''' is a [[Character Collaboration Warp]] with the [[Character]] {{Character Intro|Gilgamesh}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Of the Beginning, Enuma Elish\n|zhs  = 原初开辟之星\n|zht  = 原初開闢之星\n|ja   = {{Rubi|原初|げんしょ}}なる{{Rubi|開闢|かいびゃく}}の{{Rubi|星|ほし}}\n|ko   = 원초 개벽의 별\n|es   = Estrella del amanecer primigenio\n|fr   = Étoile de l'aube primordiale\n|ru   = Звезда сотворения\n|th   = ดารกะเบิกปฐมกาล\n|vi   = Tinh Tú Khai Tịch Nguyên Sơ\n|de   = Stern der Urschöpfung\n|id   = Bintang Awal Mula\n|pt   = Estrela do Alvorecer Primordial\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Звезда сотворения]]\n[[vi:Tinh Tú Khai Tịch Nguyên Sơ]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 165931,
+      "ns": 0,
+      "title": "Summer Chorus",
+      "revisions": [
+        {
+          "revid": 466489,
+          "parentid": 462869,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Robin • Summeretto\n|type      = Character Event Warps\n}}\n'''Summer Chorus''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Robin • Summeretto}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Summer Chorus\n|zhs  = 晴音和鸣\n|zht  = 晴音和鳴\n|ja   = {{Rubi|夏空|なつぞら}}に{{Rubi|響|ひび}}く{{Rubi|旋律|せんりつ}}\n|ko   = 서머 앙상블\n|es   = Coro estival\n|fr   = Mélodie du soleil\n|ru   = Песнь солнца\n|th   = วิหคขานกังวานฟ้าคราม\n|vi   = Bản Hòa Âm Ngày Nắng\n|de   = Sommerklänge\n|id   = Harmoni Musim Panas\n|pt   = Melodia de Verão\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Песнь солнца]]\n[[vi:Bản Hòa Âm Ngày Nắng]]"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "pageid": 165932,
+      "ns": 0,
+      "title": "Over the Gilded Tides",
+      "revisions": [
+        {
+          "revid": 468545,
+          "parentid": 460692,
+          "slots": {
+            "main": {
+              "contentmodel": "wikitext",
+              "contentformat": "text/x-wiki",
+              "content": "{{Warp Series Infobox\n|character = Aventurine • Waveflair\n|type      = Character Event Warps\n}}\n'''Over the Gilded Tides''' is a [[Character Event Warp]] with the [[Character]] {{Character Intro|Aventurine • Waveflair}} as the promoted character with an increased chance to be obtained.\n\n==History==\n{{Warp History Table}}\n\n==Other Languages==\n{{Other Languages\n|en   = Over the Gilded Tides\n|zhs  = 激浪跃金\n|zht  = 激浪躍金\n|ja   = {{Rubi|黄金|おうごん}}の{{Rubi|波|なみ}}しぶき\n|ko   = 넘실대는 금빛 파도\n|es   = Sobre el dorado oleaje\n|fr   = Vague des marées dorées\n|ru   = Золотые блики волн\n|th   = เริงระรื่นโต้คลื่นจรัสทอง\n|vi   = Lướt Trên Con Sóng Dát Vàng\n|de   = Über goldene Wogen\n|id   = Deburan Ombak Emas\n|pt   = Sobre Ondas Douradas\n}}\n\n==Navigation==\n{{Warp Navbox}}\n\n[[ru:Золотые блики волн]]"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "fetchedAt": "2026-10-03T03:10:42.547Z"
+}

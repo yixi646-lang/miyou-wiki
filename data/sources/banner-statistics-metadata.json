@@ -1,0 +1,10 @@
+{
+  "updatedAt": "2026-10-03T05:30:33.540Z",
+  "count": 670,
+  "backup": "data/backups/wiki-before-banner-stats-2026-10-03T05-30-33.172Z.json.gz",
+  "roles": {
+    "up": 1301,
+    "selectable": 15,
+    "pool": 78
+  }
+}

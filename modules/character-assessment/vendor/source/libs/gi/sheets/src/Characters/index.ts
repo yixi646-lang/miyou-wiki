@@ -1,0 +1,295 @@
+import type {
+  CharacterKey,
+  CharacterSheetKey,
+  GenderKey,
+  TravelerKey,
+} from '@genshin-optimizer/gi/consts'
+import { allTravelerKeys } from '@genshin-optimizer/gi/consts'
+import Aino from './Aino'
+import Albedo from './Albedo'
+import Alhaitham from './Alhaitham'
+import Aloy from './Aloy'
+import Alyosha from './Alyosha'
+import Amber from './Amber'
+import AratakiItto from './AratakiItto'
+import Arlecchino from './Arlecchino'
+import Baizhu from './Baizhu'
+import Barbara from './Barbara'
+import Beidou from './Beidou'
+import Bennett from './Bennett'
+import Candace from './Candace'
+import type { CharacterSheet } from './CharacterSheet'
+import Charlotte from './Charlotte'
+import Chasca from './Chasca'
+import Chevreuse from './Chevreuse'
+import Chiori from './Chiori'
+import Chongyun from './Chongyun'
+import Citlali from './Citlali'
+import Clorinde from './Clorinde'
+import Collei from './Collei'
+import Columbina from './Columbina'
+import Cyno from './Cyno'
+import Dahlia from './Dahlia'
+import Dehya from './Dehya'
+import Diluc from './Diluc'
+import Diona from './Diona'
+import Dori from './Dori'
+import Durin from './Durin'
+import Emilie from './Emilie'
+import Escoffier from './Escoffier'
+import Eula from './Eula'
+import Faruzan from './Faruzan'
+import Fischl from './Fischl'
+import Flins from './Flins'
+import Freminet from './Freminet'
+import Furina from './Furina'
+import Gaming from './Gaming'
+import Ganyu from './Ganyu'
+import Gorou from './Gorou'
+import HuTao from './HuTao'
+import Iansan from './Iansan'
+import Ifa from './Ifa'
+import Illuga from './Illuga'
+import Ineffa from './Ineffa'
+import Jahoda from './Jahoda'
+import Jean from './Jean'
+import Kachina from './Kachina'
+import KaedeharaKazuha from './KaedeharaKazuha'
+import Kaeya from './Kaeya'
+import KamisatoAyaka from './KamisatoAyaka'
+import KamisatoAyato from './KamisatoAyato'
+import Kaveh from './Kaveh'
+import Keqing from './Keqing'
+import Kinich from './Kinich'
+import Kirara from './Kirara'
+import Klee from './Klee'
+import KujouSara from './KujouSara'
+import KukiShinobu from './KukiShinobu'
+import LanYan from './LanYan'
+import Lauma from './Lauma'
+import Layla from './Layla'
+import Linnea from './Linnea'
+import Lisa from './Lisa'
+import Lohen from './Lohen'
+import Lynette from './Lynette'
+import Lyney from './Lyney'
+import Mavuika from './Mavuika'
+import Mika from './Mika'
+import Mona from './Mona'
+import Mualani from './Mualani'
+import Nahida from './Nahida'
+import Navia from './Navia'
+import Nefer from './Nefer'
+import Neuvillette from './Neuvillette'
+import Nicole from './Nicole'
+import Nilou from './Nilou'
+import Ningguang from './Ningguang'
+import Noelle from './Noelle'
+import Odette from './Odette'
+import Ororon from './Ororon'
+import Prune from './Prune'
+import Qiqi from './Qiqi'
+import RaidenShogun from './RaidenShogun'
+import Razor from './Razor'
+import Rosaria from './Rosaria'
+import Sandrone from './Sandrone'
+import SangonomiyaKokomi from './SangonomiyaKokomi'
+import Sayu from './Sayu'
+import Sethos from './Sethos'
+import Shenhe from './Shenhe'
+import ShikanoinHeizou from './ShikanoinHeizou'
+import Sigewinne from './Sigewinne'
+import Skirk from './Skirk'
+import Somnia from './Somnia'
+import Sucrose from './Sucrose'
+import Tartaglia from './Tartaglia'
+import Thoma from './Thoma'
+import Tighnari from './Tighnari'
+import TravelerAnemoF from './TravelerAnemoF'
+import TravelerAnemoM from './TravelerAnemoM'
+import TravelerCryoF from './TravelerCryoF'
+import TravelerCryoM from './TravelerCryoM'
+import TravelerDendroF from './TravelerDendroF'
+import TravelerDendroM from './TravelerDendroM'
+import TravelerElectroF from './TravelerElectroF'
+import TravelerElectroM from './TravelerElectroM'
+import TravelerGeoF from './TravelerGeoF'
+import TravelerGeoM from './TravelerGeoM'
+import TravelerHydroF from './TravelerHydroF'
+import TravelerHydroM from './TravelerHydroM'
+import TravelerPyroF from './TravelerPyroF'
+import TravelerPyroM from './TravelerPyroM'
+import Varesa from './Varesa'
+import Varka from './Varka'
+import Venti from './Venti'
+import Vesna from './Vesna'
+import Vodyanitsa from './Vodyanitsa'
+import Wanderer from './Wanderer'
+import Wriothesley from './Wriothesley'
+import Xiangling from './Xiangling'
+import Xianyun from './Xianyun'
+import Xiao from './Xiao'
+import Xilonen from './Xilonen'
+import Xingqiu from './Xingqiu'
+import Xinyan from './Xinyan'
+import YaeMiko from './YaeMiko'
+import Yanfei from './Yanfei'
+import Yaoyao from './Yaoyao'
+import Yelan from './Yelan'
+import Yoimiya from './Yoimiya'
+import YumemizukiMizuki from './YumemizukiMizuki'
+import YunJin from './YunJin'
+import Zhongli from './Zhongli'
+import Zibai from './Zibai'
+
+const characters: Record<CharacterSheetKey, CharacterSheet> = {
+  Aino,
+  Albedo,
+  Alhaitham,
+  Aloy,
+  Alyosha,
+  Amber,
+  AratakiItto,
+  Arlecchino,
+  Baizhu,
+  Barbara,
+  Beidou,
+  Bennett,
+  Candace,
+  Charlotte,
+  Chasca,
+  Chevreuse,
+  Chiori,
+  Chongyun,
+  Citlali,
+  Clorinde,
+  Collei,
+  Columbina,
+  Cyno,
+  Dahlia,
+  Dehya,
+  Diluc,
+  Diona,
+  Dori,
+  Durin,
+  Emilie,
+  Escoffier,
+  Eula,
+  Faruzan,
+  Fischl,
+  Flins,
+  Freminet,
+  Furina,
+  Gaming,
+  Ganyu,
+  Gorou,
+  HuTao,
+  Iansan,
+  Ifa,
+  Illuga,
+  Ineffa,
+  Jahoda,
+  Jean,
+  Kachina,
+  KaedeharaKazuha,
+  Kaeya,
+  KamisatoAyaka,
+  KamisatoAyato,
+  Kaveh,
+  Keqing,
+  Kinich,
+  Kirara,
+  Klee,
+  KujouSara,
+  KukiShinobu,
+  LanYan,
+  Lauma,
+  Layla,
+  Linnea,
+  Lisa,
+  Lohen,
+  Lynette,
+  Lyney,
+  Mavuika,
+  Mika,
+  Mona,
+  Mualani,
+  Nahida,
+  Navia,
+  Nefer,
+  Neuvillette,
+  Nicole,
+  Nilou,
+  Ningguang,
+  Noelle,
+  Odette,
+  Ororon,
+  Prune,
+  Qiqi,
+  RaidenShogun,
+  Razor,
+  Rosaria,
+  Sandrone,
+  SangonomiyaKokomi,
+  Sayu,
+  Sethos,
+  Shenhe,
+  ShikanoinHeizou,
+  Sigewinne,
+  Skirk,
+  Somnia,
+  Sucrose,
+  Tartaglia,
+  Thoma,
+  Tighnari,
+  TravelerAnemoF,
+  TravelerAnemoM,
+  TravelerCryoF,
+  TravelerCryoM,
+  TravelerGeoF,
+  TravelerGeoM,
+  TravelerElectroF,
+  TravelerElectroM,
+  TravelerDendroF,
+  TravelerDendroM,
+  TravelerHydroF,
+  TravelerHydroM,
+  TravelerPyroF,
+  TravelerPyroM,
+  Varesa,
+  Varka,
+  Venti,
+  Vesna,
+  Vodyanitsa,
+  Wanderer,
+  Wriothesley,
+  Xiangling,
+  Xianyun,
+  Xiao,
+  Xilonen,
+  Xingqiu,
+  Xinyan,
+  YaeMiko,
+  Yanfei,
+  Yaoyao,
+  Yelan,
+  Yoimiya,
+  YumemizukiMizuki,
+  YunJin,
+  Zhongli,
+  Zibai,
+} as const
+export function getCharSheet(charKey: CharacterKey, gender: GenderKey) {
+  return characters[charKeyToCharSheetKey(charKey, gender)]
+}
+
+function charKeyToCharSheetKey(
+  charKey: CharacterKey,
+  gender: GenderKey
+): CharacterSheetKey {
+  if (allTravelerKeys.includes(charKey as TravelerKey))
+    return `${charKey}${gender}` as CharacterSheetKey
+  else return charKey as CharacterSheetKey
+}
+
+export default characters

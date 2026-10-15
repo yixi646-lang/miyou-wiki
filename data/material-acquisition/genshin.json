@@ -1,0 +1,6640 @@
+{
+  "schemaVersion": 1,
+  "game": "genshin",
+  "source": {
+    "name": "genshin-db · 材料秘境",
+    "url": "https://github.com/theBowja/genshin-db-dist/tree/371c228cabc9e182995919e595d67409823a0bbe",
+    "commit": "371c228cabc9e182995919e595d67409823a0bbe",
+    "snapshot": "data/sources/genshin/material-domains-371c228cabc9.json.gz",
+    "snapshotDate": "2026-09-21",
+    "fetchedAt": "2026-10-13T05:18:28.263Z",
+    "note": "秘境入口、地区与难度条件；按同版本挑战名称及奖励物品编号关联。"
+  },
+  "records": {
+    "genshin-materials-114078": {
+      "sourceId": "114078",
+      "challenge": "炼武秘境：祷颂",
+      "domains": [
+        {
+          "id": 4676,
+          "name": "炼武秘境：祷颂 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4677,
+          "name": "炼武秘境：祷颂 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4678,
+          "name": "炼武秘境：祷颂 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114073": {
+      "sourceId": "114073",
+      "challenge": "炼武秘境：明辉",
+      "domains": [
+        {
+          "id": 4671,
+          "name": "炼武秘境：明辉 I",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4672,
+          "name": "炼武秘境：明辉 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4673,
+          "name": "炼武秘境：明辉 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4674,
+          "name": "炼武秘境：明辉 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114075": {
+      "sourceId": "114075",
+      "challenge": "炼武秘境：明辉",
+      "domains": [
+        {
+          "id": 4673,
+          "name": "炼武秘境：明辉 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4674,
+          "name": "炼武秘境：明辉 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114074": {
+      "sourceId": "114074",
+      "challenge": "炼武秘境：明辉",
+      "domains": [
+        {
+          "id": 4672,
+          "name": "炼武秘境：明辉 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4673,
+          "name": "炼武秘境：明辉 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4674,
+          "name": "炼武秘境：明辉 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114076": {
+      "sourceId": "114076",
+      "challenge": "炼武秘境：明辉",
+      "domains": [
+        {
+          "id": 4674,
+          "name": "炼武秘境：明辉 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114084": {
+      "sourceId": "114084",
+      "challenge": "炼武秘境：祭月",
+      "domains": [
+        {
+          "id": 4682,
+          "name": "炼武秘境：祭月 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114023": {
+      "sourceId": "114023",
+      "challenge": "炼武秘境：古雷试炼场",
+      "domains": [
+        {
+          "id": 5224,
+          "name": "炼武秘境：古雷试炼场 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5225,
+          "name": "炼武秘境：古雷试炼场 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114080": {
+      "sourceId": "114080",
+      "challenge": "炼武秘境：祷颂",
+      "domains": [
+        {
+          "id": 4678,
+          "name": "炼武秘境：祷颂 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114062": {
+      "sourceId": "114062",
+      "challenge": "炼武秘境：冥见",
+      "domains": [
+        {
+          "id": 4383,
+          "name": "炼武秘境：冥见 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4384,
+          "name": "炼武秘境：冥见 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4385,
+          "name": "炼武秘境：冥见 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114063": {
+      "sourceId": "114063",
+      "challenge": "炼武秘境：冥见",
+      "domains": [
+        {
+          "id": 4384,
+          "name": "炼武秘境：冥见 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4385,
+          "name": "炼武秘境：冥见 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114064": {
+      "sourceId": "114064",
+      "challenge": "炼武秘境：冥见",
+      "domains": [
+        {
+          "id": 4385,
+          "name": "炼武秘境：冥见 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114061": {
+      "sourceId": "114061",
+      "challenge": "炼武秘境：冥见",
+      "domains": [
+        {
+          "id": 4382,
+          "name": "炼武秘境：冥见 I",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4383,
+          "name": "炼武秘境：冥见 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4384,
+          "name": "炼武秘境：冥见 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4385,
+          "name": "炼武秘境：冥见 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114007": {
+      "sourceId": "114007",
+      "challenge": "炼武秘境：深没之谷",
+      "domains": [
+        {
+          "id": 4322,
+          "name": "炼武秘境：深没之谷 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4323,
+          "name": "炼武秘境：深没之谷 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114006": {
+      "sourceId": "114006",
+      "challenge": "炼武秘境：深没之谷",
+      "domains": [
+        {
+          "id": 4321,
+          "name": "炼武秘境：深没之谷 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4322,
+          "name": "炼武秘境：深没之谷 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4323,
+          "name": "炼武秘境：深没之谷 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114005": {
+      "sourceId": "114005",
+      "challenge": "炼武秘境：深没之谷",
+      "domains": [
+        {
+          "id": 4320,
+          "name": "炼武秘境：深没之谷 I",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4321,
+          "name": "炼武秘境：深没之谷 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4322,
+          "name": "炼武秘境：深没之谷 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4323,
+          "name": "炼武秘境：深没之谷 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114008": {
+      "sourceId": "114008",
+      "challenge": "炼武秘境：深没之谷",
+      "domains": [
+        {
+          "id": 4323,
+          "name": "炼武秘境：深没之谷 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114057": {
+      "sourceId": "114057",
+      "challenge": "炼武秘境：奇械",
+      "domains": [
+        {
+          "id": 4504,
+          "name": "炼武秘境：奇械 I",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4505,
+          "name": "炼武秘境：奇械 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4506,
+          "name": "炼武秘境：奇械 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4507,
+          "name": "炼武秘境：奇械 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114010": {
+      "sourceId": "114010",
+      "challenge": "炼武秘境：渴水的废都",
+      "domains": [
+        {
+          "id": 4331,
+          "name": "炼武秘境：渴水的废都 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4332,
+          "name": "炼武秘境：渴水的废都 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4333,
+          "name": "炼武秘境：渴水的废都 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114050": {
+      "sourceId": "114050",
+      "challenge": "炼武秘境：机思",
+      "domains": [
+        {
+          "id": 4471,
+          "name": "炼武秘境：机思 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4472,
+          "name": "炼武秘境：机思 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4473,
+          "name": "炼武秘境：机思 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114024": {
+      "sourceId": "114024",
+      "challenge": "炼武秘境：古雷试炼场",
+      "domains": [
+        {
+          "id": 5225,
+          "name": "炼武秘境：古雷试炼场 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114087": {
+      "sourceId": "114087",
+      "challenge": "炼武秘境：铸铁",
+      "domains": [
+        {
+          "id": 4709,
+          "name": "炼武秘境：铸铁 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4710,
+          "name": "炼武秘境：铸铁 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114037": {
+      "sourceId": "114037",
+      "challenge": "炼武秘境：云垢",
+      "domains": [
+        {
+          "id": 4370,
+          "name": "炼武秘境：云垢 I",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4371,
+          "name": "炼武秘境：云垢 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4372,
+          "name": "炼武秘境：云垢 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4373,
+          "name": "炼武秘境：云垢 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114025": {
+      "sourceId": "114025",
+      "challenge": "炼武秘境：沉沙之渊",
+      "domains": [
+        {
+          "id": 4340,
+          "name": "炼武秘境：沉沙之渊 I",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4341,
+          "name": "炼武秘境：沉沙之渊 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4342,
+          "name": "炼武秘境：沉沙之渊 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4343,
+          "name": "炼武秘境：沉沙之渊 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114002": {
+      "sourceId": "114002",
+      "challenge": "炼武秘境：水光之城",
+      "domains": [
+        {
+          "id": 4311,
+          "name": "炼武秘境：水光之城 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4312,
+          "name": "炼武秘境：水光之城 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4313,
+          "name": "炼武秘境：水光之城 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114065": {
+      "sourceId": "114065",
+      "challenge": "炼武秘境：究观",
+      "domains": [
+        {
+          "id": 4386,
+          "name": "炼武秘境：究观 I",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4387,
+          "name": "炼武秘境：究观 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4388,
+          "name": "炼武秘境：究观 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4389,
+          "name": "炼武秘境：究观 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114067": {
+      "sourceId": "114067",
+      "challenge": "炼武秘境：究观",
+      "domains": [
+        {
+          "id": 4388,
+          "name": "炼武秘境：究观 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4389,
+          "name": "炼武秘境：究观 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114066": {
+      "sourceId": "114066",
+      "challenge": "炼武秘境：究观",
+      "domains": [
+        {
+          "id": 4387,
+          "name": "炼武秘境：究观 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4388,
+          "name": "炼武秘境：究观 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4389,
+          "name": "炼武秘境：究观 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114068": {
+      "sourceId": "114068",
+      "challenge": "炼武秘境：究观",
+      "domains": [
+        {
+          "id": 4389,
+          "name": "炼武秘境：究观 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114016": {
+      "sourceId": "114016",
+      "challenge": "炼武秘境：雷云祭坛",
+      "domains": [
+        {
+          "id": 5217,
+          "name": "炼武秘境：雷云祭坛 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114047": {
+      "sourceId": "114047",
+      "challenge": "炼武秘境：引业",
+      "domains": [
+        {
+          "id": 4380,
+          "name": "炼武秘境：引业 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4381,
+          "name": "炼武秘境：引业 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114012": {
+      "sourceId": "114012",
+      "challenge": "炼武秘境：渴水的废都",
+      "domains": [
+        {
+          "id": 4333,
+          "name": "炼武秘境：渴水的废都 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114053": {
+      "sourceId": "114053",
+      "challenge": "炼武秘境：匠理",
+      "domains": [
+        {
+          "id": 4500,
+          "name": "炼武秘境：匠理 I",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4501,
+          "name": "炼武秘境：匠理 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4502,
+          "name": "炼武秘境：匠理 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4503,
+          "name": "炼武秘境：匠理 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114052": {
+      "sourceId": "114052",
+      "challenge": "炼武秘境：机思",
+      "domains": [
+        {
+          "id": 4473,
+          "name": "炼武秘境：机思 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114045": {
+      "sourceId": "114045",
+      "challenge": "炼武秘境：引业",
+      "domains": [
+        {
+          "id": 4378,
+          "name": "炼武秘境：引业 I",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4379,
+          "name": "炼武秘境：引业 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4380,
+          "name": "炼武秘境：引业 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4381,
+          "name": "炼武秘境：引业 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114077": {
+      "sourceId": "114077",
+      "challenge": "炼武秘境：祷颂",
+      "domains": [
+        {
+          "id": 4675,
+          "name": "炼武秘境：祷颂 I",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4676,
+          "name": "炼武秘境：祷颂 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4677,
+          "name": "炼武秘境：祷颂 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4678,
+          "name": "炼武秘境：祷颂 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114056": {
+      "sourceId": "114056",
+      "challenge": "炼武秘境：匠理",
+      "domains": [
+        {
+          "id": 4503,
+          "name": "炼武秘境：匠理 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114091": {
+      "sourceId": "114091",
+      "challenge": "炼武秘境：链轨",
+      "domains": [
+        {
+          "id": 4713,
+          "name": "炼武秘境：链轨 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4714,
+          "name": "炼武秘境：链轨 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114009": {
+      "sourceId": "114009",
+      "challenge": "炼武秘境：渴水的废都",
+      "domains": [
+        {
+          "id": 4330,
+          "name": "炼武秘境：渴水的废都 I",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4331,
+          "name": "炼武秘境：渴水的废都 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4332,
+          "name": "炼武秘境：渴水的废都 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4333,
+          "name": "炼武秘境：渴水的废都 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114079": {
+      "sourceId": "114079",
+      "challenge": "炼武秘境：祷颂",
+      "domains": [
+        {
+          "id": 4677,
+          "name": "炼武秘境：祷颂 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4678,
+          "name": "炼武秘境：祷颂 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114049": {
+      "sourceId": "114049",
+      "challenge": "炼武秘境：机思",
+      "domains": [
+        {
+          "id": 4470,
+          "name": "炼武秘境：机思 I",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4471,
+          "name": "炼武秘境：机思 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4472,
+          "name": "炼武秘境：机思 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4473,
+          "name": "炼武秘境：机思 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114003": {
+      "sourceId": "114003",
+      "challenge": "炼武秘境：水光之城",
+      "domains": [
+        {
+          "id": 4312,
+          "name": "炼武秘境：水光之城 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4313,
+          "name": "炼武秘境：水光之城 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114028": {
+      "sourceId": "114028",
+      "challenge": "炼武秘境：沉沙之渊",
+      "domains": [
+        {
+          "id": 4343,
+          "name": "炼武秘境：沉沙之渊 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114060": {
+      "sourceId": "114060",
+      "challenge": "炼武秘境：奇械",
+      "domains": [
+        {
+          "id": 4507,
+          "name": "炼武秘境：奇械 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114040": {
+      "sourceId": "114040",
+      "challenge": "炼武秘境：云垢",
+      "domains": [
+        {
+          "id": 4373,
+          "name": "炼武秘境：云垢 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114021": {
+      "sourceId": "114021",
+      "challenge": "炼武秘境：古雷试炼场",
+      "domains": [
+        {
+          "id": 5222,
+          "name": "炼武秘境：古雷试炼场 I",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 5223,
+          "name": "炼武秘境：古雷试炼场 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5224,
+          "name": "炼武秘境：古雷试炼场 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5225,
+          "name": "炼武秘境：古雷试炼场 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114090": {
+      "sourceId": "114090",
+      "challenge": "炼武秘境：链轨",
+      "domains": [
+        {
+          "id": 4712,
+          "name": "炼武秘境：链轨 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4713,
+          "name": "炼武秘境：链轨 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4714,
+          "name": "炼武秘境：链轨 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114038": {
+      "sourceId": "114038",
+      "challenge": "炼武秘境：云垢",
+      "domains": [
+        {
+          "id": 4371,
+          "name": "炼武秘境：云垢 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4372,
+          "name": "炼武秘境：云垢 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4373,
+          "name": "炼武秘境：云垢 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114027": {
+      "sourceId": "114027",
+      "challenge": "炼武秘境：沉沙之渊",
+      "domains": [
+        {
+          "id": 4342,
+          "name": "炼武秘境：沉沙之渊 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4343,
+          "name": "炼武秘境：沉沙之渊 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114026": {
+      "sourceId": "114026",
+      "challenge": "炼武秘境：沉沙之渊",
+      "domains": [
+        {
+          "id": 4341,
+          "name": "炼武秘境：沉沙之渊 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4342,
+          "name": "炼武秘境：沉沙之渊 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4343,
+          "name": "炼武秘境：沉沙之渊 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114013": {
+      "sourceId": "114013",
+      "challenge": "炼武秘境：雷云祭坛",
+      "domains": [
+        {
+          "id": 5214,
+          "name": "炼武秘境：雷云祭坛 I",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 5215,
+          "name": "炼武秘境：雷云祭坛 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5216,
+          "name": "炼武秘境：雷云祭坛 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5217,
+          "name": "炼武秘境：雷云祭坛 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114014": {
+      "sourceId": "114014",
+      "challenge": "炼武秘境：雷云祭坛",
+      "domains": [
+        {
+          "id": 5215,
+          "name": "炼武秘境：雷云祭坛 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5216,
+          "name": "炼武秘境：雷云祭坛 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5217,
+          "name": "炼武秘境：雷云祭坛 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114036": {
+      "sourceId": "114036",
+      "challenge": "炼武秘境：流沙之葬",
+      "domains": [
+        {
+          "id": 4363,
+          "name": "炼武秘境：流沙之葬 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114035": {
+      "sourceId": "114035",
+      "challenge": "炼武秘境：流沙之葬",
+      "domains": [
+        {
+          "id": 4362,
+          "name": "炼武秘境：流沙之葬 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4363,
+          "name": "炼武秘境：流沙之葬 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114034": {
+      "sourceId": "114034",
+      "challenge": "炼武秘境：流沙之葬",
+      "domains": [
+        {
+          "id": 4361,
+          "name": "炼武秘境：流沙之葬 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4362,
+          "name": "炼武秘境：流沙之葬 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4363,
+          "name": "炼武秘境：流沙之葬 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114033": {
+      "sourceId": "114033",
+      "challenge": "炼武秘境：流沙之葬",
+      "domains": [
+        {
+          "id": 4360,
+          "name": "炼武秘境：流沙之葬 I",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4361,
+          "name": "炼武秘境：流沙之葬 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4362,
+          "name": "炼武秘境：流沙之葬 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4363,
+          "name": "炼武秘境：流沙之葬 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114089": {
+      "sourceId": "114089",
+      "challenge": "炼武秘境：链轨",
+      "domains": [
+        {
+          "id": 4711,
+          "name": "炼武秘境：链轨 I",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4712,
+          "name": "炼武秘境：链轨 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4713,
+          "name": "炼武秘境：链轨 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4714,
+          "name": "炼武秘境：链轨 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114019": {
+      "sourceId": "114019",
+      "challenge": "炼武秘境：鸣雷城墟",
+      "domains": [
+        {
+          "id": 5220,
+          "name": "炼武秘境：鸣雷城墟 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5221,
+          "name": "炼武秘境：鸣雷城墟 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114017": {
+      "sourceId": "114017",
+      "challenge": "炼武秘境：鸣雷城墟",
+      "domains": [
+        {
+          "id": 5218,
+          "name": "炼武秘境：鸣雷城墟 I",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 5219,
+          "name": "炼武秘境：鸣雷城墟 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5220,
+          "name": "炼武秘境：鸣雷城墟 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5221,
+          "name": "炼武秘境：鸣雷城墟 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114018": {
+      "sourceId": "114018",
+      "challenge": "炼武秘境：鸣雷城墟",
+      "domains": [
+        {
+          "id": 5219,
+          "name": "炼武秘境：鸣雷城墟 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5220,
+          "name": "炼武秘境：鸣雷城墟 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5221,
+          "name": "炼武秘境：鸣雷城墟 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114020": {
+      "sourceId": "114020",
+      "challenge": "炼武秘境：鸣雷城墟",
+      "domains": [
+        {
+          "id": 5221,
+          "name": "炼武秘境：鸣雷城墟 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114051": {
+      "sourceId": "114051",
+      "challenge": "炼武秘境：机思",
+      "domains": [
+        {
+          "id": 4472,
+          "name": "炼武秘境：机思 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4473,
+          "name": "炼武秘境：机思 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114086": {
+      "sourceId": "114086",
+      "challenge": "炼武秘境：铸铁",
+      "domains": [
+        {
+          "id": 4708,
+          "name": "炼武秘境：铸铁 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4709,
+          "name": "炼武秘境：铸铁 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4710,
+          "name": "炼武秘境：铸铁 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114031": {
+      "sourceId": "114031",
+      "challenge": "炼武秘境：砂之祭场",
+      "domains": [
+        {
+          "id": 4352,
+          "name": "炼武秘境：砂之祭场 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4353,
+          "name": "炼武秘境：砂之祭场 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114030": {
+      "sourceId": "114030",
+      "challenge": "炼武秘境：砂之祭场",
+      "domains": [
+        {
+          "id": 4351,
+          "name": "炼武秘境：砂之祭场 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4352,
+          "name": "炼武秘境：砂之祭场 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4353,
+          "name": "炼武秘境：砂之祭场 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114032": {
+      "sourceId": "114032",
+      "challenge": "炼武秘境：砂之祭场",
+      "domains": [
+        {
+          "id": 4353,
+          "name": "炼武秘境：砂之祭场 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114029": {
+      "sourceId": "114029",
+      "challenge": "炼武秘境：砂之祭场",
+      "domains": [
+        {
+          "id": 4350,
+          "name": "炼武秘境：砂之祭场 I",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4351,
+          "name": "炼武秘境：砂之祭场 II",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4352,
+          "name": "炼武秘境：砂之祭场 III",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4353,
+          "name": "炼武秘境：砂之祭场 IV",
+          "entrance": "砂流之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114071": {
+      "sourceId": "114071",
+      "challenge": "炼武秘境：测度",
+      "domains": [
+        {
+          "id": 4392,
+          "name": "炼武秘境：测度 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4393,
+          "name": "炼武秘境：测度 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114069": {
+      "sourceId": "114069",
+      "challenge": "炼武秘境：测度",
+      "domains": [
+        {
+          "id": 4390,
+          "name": "炼武秘境：测度 I",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4391,
+          "name": "炼武秘境：测度 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4392,
+          "name": "炼武秘境：测度 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4393,
+          "name": "炼武秘境：测度 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114070": {
+      "sourceId": "114070",
+      "challenge": "炼武秘境：测度",
+      "domains": [
+        {
+          "id": 4391,
+          "name": "炼武秘境：测度 II",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4392,
+          "name": "炼武秘境：测度 III",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4393,
+          "name": "炼武秘境：测度 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114072": {
+      "sourceId": "114072",
+      "challenge": "炼武秘境：测度",
+      "domains": [
+        {
+          "id": 4393,
+          "name": "炼武秘境：测度 IV",
+          "entrance": "深古瞭望所",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114042": {
+      "sourceId": "114042",
+      "challenge": "炼武秘境：思惑",
+      "domains": [
+        {
+          "id": 4375,
+          "name": "炼武秘境：思惑 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4376,
+          "name": "炼武秘境：思惑 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4377,
+          "name": "炼武秘境：思惑 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114043": {
+      "sourceId": "114043",
+      "challenge": "炼武秘境：思惑",
+      "domains": [
+        {
+          "id": 4376,
+          "name": "炼武秘境：思惑 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4377,
+          "name": "炼武秘境：思惑 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114041": {
+      "sourceId": "114041",
+      "challenge": "炼武秘境：思惑",
+      "domains": [
+        {
+          "id": 4374,
+          "name": "炼武秘境：思惑 I",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4375,
+          "name": "炼武秘境：思惑 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4376,
+          "name": "炼武秘境：思惑 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4377,
+          "name": "炼武秘境：思惑 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114044": {
+      "sourceId": "114044",
+      "challenge": "炼武秘境：思惑",
+      "domains": [
+        {
+          "id": 4377,
+          "name": "炼武秘境：思惑 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114083": {
+      "sourceId": "114083",
+      "challenge": "炼武秘境：祭月",
+      "domains": [
+        {
+          "id": 4681,
+          "name": "炼武秘境：祭月 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4682,
+          "name": "炼武秘境：祭月 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114048": {
+      "sourceId": "114048",
+      "challenge": "炼武秘境：引业",
+      "domains": [
+        {
+          "id": 4381,
+          "name": "炼武秘境：引业 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114022": {
+      "sourceId": "114022",
+      "challenge": "炼武秘境：古雷试炼场",
+      "domains": [
+        {
+          "id": 5223,
+          "name": "炼武秘境：古雷试炼场 II",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 5224,
+          "name": "炼武秘境：古雷试炼场 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5225,
+          "name": "炼武秘境：古雷试炼场 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114015": {
+      "sourceId": "114015",
+      "challenge": "炼武秘境：雷云祭坛",
+      "domains": [
+        {
+          "id": 5216,
+          "name": "炼武秘境：雷云祭坛 III",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 5217,
+          "name": "炼武秘境：雷云祭坛 IV",
+          "entrance": "震雷连山密宫",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114046": {
+      "sourceId": "114046",
+      "challenge": "炼武秘境：引业",
+      "domains": [
+        {
+          "id": 4379,
+          "name": "炼武秘境：引业 II",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4380,
+          "name": "炼武秘境：引业 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4381,
+          "name": "炼武秘境：引业 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114092": {
+      "sourceId": "114092",
+      "challenge": "炼武秘境：链轨",
+      "domains": [
+        {
+          "id": 4714,
+          "name": "炼武秘境：链轨 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114085": {
+      "sourceId": "114085",
+      "challenge": "炼武秘境：铸铁",
+      "domains": [
+        {
+          "id": 4707,
+          "name": "炼武秘境：铸铁 I",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4708,
+          "name": "炼武秘境：铸铁 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4709,
+          "name": "炼武秘境：铸铁 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4710,
+          "name": "炼武秘境：铸铁 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114004": {
+      "sourceId": "114004",
+      "challenge": "炼武秘境：水光之城",
+      "domains": [
+        {
+          "id": 4313,
+          "name": "炼武秘境：水光之城 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114011": {
+      "sourceId": "114011",
+      "challenge": "炼武秘境：渴水的废都",
+      "domains": [
+        {
+          "id": 4332,
+          "name": "炼武秘境：渴水的废都 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4333,
+          "name": "炼武秘境：渴水的废都 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114059": {
+      "sourceId": "114059",
+      "challenge": "炼武秘境：奇械",
+      "domains": [
+        {
+          "id": 4506,
+          "name": "炼武秘境：奇械 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4507,
+          "name": "炼武秘境：奇械 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114039": {
+      "sourceId": "114039",
+      "challenge": "炼武秘境：云垢",
+      "domains": [
+        {
+          "id": 4372,
+          "name": "炼武秘境：云垢 III",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4373,
+          "name": "炼武秘境：云垢 IV",
+          "entrance": "有顶塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114055": {
+      "sourceId": "114055",
+      "challenge": "炼武秘境：匠理",
+      "domains": [
+        {
+          "id": 4502,
+          "name": "炼武秘境：匠理 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4503,
+          "name": "炼武秘境：匠理 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114054": {
+      "sourceId": "114054",
+      "challenge": "炼武秘境：匠理",
+      "domains": [
+        {
+          "id": 4501,
+          "name": "炼武秘境：匠理 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4502,
+          "name": "炼武秘境：匠理 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4503,
+          "name": "炼武秘境：匠理 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114081": {
+      "sourceId": "114081",
+      "challenge": "炼武秘境：祭月",
+      "domains": [
+        {
+          "id": 4679,
+          "name": "炼武秘境：祭月 I",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4680,
+          "name": "炼武秘境：祭月 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4681,
+          "name": "炼武秘境：祭月 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4682,
+          "name": "炼武秘境：祭月 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114094": {
+      "sourceId": "114094",
+      "challenge": "炼武秘境：断钢",
+      "domains": [
+        {
+          "id": 4716,
+          "name": "炼武秘境：断钢 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4717,
+          "name": "炼武秘境：断钢 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4718,
+          "name": "炼武秘境：断钢 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114096": {
+      "sourceId": "114096",
+      "challenge": "炼武秘境：断钢",
+      "domains": [
+        {
+          "id": 4718,
+          "name": "炼武秘境：断钢 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114095": {
+      "sourceId": "114095",
+      "challenge": "炼武秘境：断钢",
+      "domains": [
+        {
+          "id": 4717,
+          "name": "炼武秘境：断钢 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4718,
+          "name": "炼武秘境：断钢 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114093": {
+      "sourceId": "114093",
+      "challenge": "炼武秘境：断钢",
+      "domains": [
+        {
+          "id": 4715,
+          "name": "炼武秘境：断钢 I",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4716,
+          "name": "炼武秘境：断钢 II",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4717,
+          "name": "炼武秘境：断钢 III",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4718,
+          "name": "炼武秘境：断钢 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114001": {
+      "sourceId": "114001",
+      "challenge": "炼武秘境：水光之城",
+      "domains": [
+        {
+          "id": 4310,
+          "name": "炼武秘境：水光之城 I",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 15,
+          "recommendedLevel": 15
+        },
+        {
+          "id": 4311,
+          "name": "炼武秘境：水光之城 II",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4312,
+          "name": "炼武秘境：水光之城 III",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4313,
+          "name": "炼武秘境：水光之城 IV",
+          "entrance": "塞西莉亚苗圃",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114088": {
+      "sourceId": "114088",
+      "challenge": "炼武秘境：铸铁",
+      "domains": [
+        {
+          "id": 4710,
+          "name": "炼武秘境：铸铁 IV",
+          "entrance": "妄念的创痕",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114082": {
+      "sourceId": "114082",
+      "challenge": "炼武秘境：祭月",
+      "domains": [
+        {
+          "id": 4680,
+          "name": "炼武秘境：祭月 II",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4681,
+          "name": "炼武秘境：祭月 III",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4682,
+          "name": "炼武秘境：祭月 IV",
+          "entrance": "失落的月庭",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-114058": {
+      "sourceId": "114058",
+      "challenge": "炼武秘境：奇械",
+      "domains": [
+        {
+          "id": 4505,
+          "name": "炼武秘境：奇械 II",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 21,
+          "recommendedLevel": 36
+        },
+        {
+          "id": 4506,
+          "name": "炼武秘境：奇械 III",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 30,
+          "recommendedLevel": 59
+        },
+        {
+          "id": 4507,
+          "name": "炼武秘境：奇械 IV",
+          "entrance": "深潮的余响",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 40,
+          "recommendedLevel": 80
+        }
+      ]
+    },
+    "genshin-materials-104347": {
+      "sourceId": "104347",
+      "challenge": "精通秘境：转竟",
+      "domains": [
+        {
+          "id": 4434,
+          "name": "精通秘境：转竟 I",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4435,
+          "name": "精通秘境：转竟 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4436,
+          "name": "精通秘境：转竟 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4437,
+          "name": "精通秘境：转竟 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104351": {
+      "sourceId": "104351",
+      "challenge": "精通秘境：空华",
+      "domains": [
+        {
+          "id": 4445,
+          "name": "精通秘境：空华 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4446,
+          "name": "精通秘境：空华 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4447,
+          "name": "精通秘境：空华 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104354": {
+      "sourceId": "104354",
+      "challenge": "精通秘境：旋复",
+      "domains": [
+        {
+          "id": 4455,
+          "name": "精通秘境：旋复 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4456,
+          "name": "精通秘境：旋复 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4457,
+          "name": "精通秘境：旋复 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104348": {
+      "sourceId": "104348",
+      "challenge": "精通秘境：转竟",
+      "domains": [
+        {
+          "id": 4435,
+          "name": "精通秘境：转竟 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4436,
+          "name": "精通秘境：转竟 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4437,
+          "name": "精通秘境：转竟 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104355": {
+      "sourceId": "104355",
+      "challenge": "精通秘境：旋复",
+      "domains": [
+        {
+          "id": 4457,
+          "name": "精通秘境：旋复 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104349": {
+      "sourceId": "104349",
+      "challenge": "精通秘境：转竟",
+      "domains": [
+        {
+          "id": 4437,
+          "name": "精通秘境：转竟 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104352": {
+      "sourceId": "104352",
+      "challenge": "精通秘境：空华",
+      "domains": [
+        {
+          "id": 4447,
+          "name": "精通秘境：空华 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104338": {
+      "sourceId": "104338",
+      "challenge": "精通秘境：旋韵",
+      "domains": [
+        {
+          "id": 4460,
+          "name": "精通秘境：旋韵 I",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4461,
+          "name": "精通秘境：旋韵 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4462,
+          "name": "精通秘境：旋韵 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4463,
+          "name": "精通秘境：旋韵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104342": {
+      "sourceId": "104342",
+      "challenge": "精通秘境：箴铭",
+      "domains": [
+        {
+          "id": 4491,
+          "name": "精通秘境：箴铭 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4492,
+          "name": "精通秘境：箴铭 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4493,
+          "name": "精通秘境：箴铭 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104345": {
+      "sourceId": "104345",
+      "challenge": "精通秘境：琅诵",
+      "domains": [
+        {
+          "id": 4495,
+          "name": "精通秘境：琅诵 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4496,
+          "name": "精通秘境：琅诵 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4497,
+          "name": "精通秘境：琅诵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104339": {
+      "sourceId": "104339",
+      "challenge": "精通秘境：旋韵",
+      "domains": [
+        {
+          "id": 4461,
+          "name": "精通秘境：旋韵 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4462,
+          "name": "精通秘境：旋韵 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4463,
+          "name": "精通秘境：旋韵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104346": {
+      "sourceId": "104346",
+      "challenge": "精通秘境：琅诵",
+      "domains": [
+        {
+          "id": 4497,
+          "name": "精通秘境：琅诵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104340": {
+      "sourceId": "104340",
+      "challenge": "精通秘境：旋韵",
+      "domains": [
+        {
+          "id": 4463,
+          "name": "精通秘境：旋韵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104343": {
+      "sourceId": "104343",
+      "challenge": "精通秘境：箴铭",
+      "domains": [
+        {
+          "id": 4493,
+          "name": "精通秘境：箴铭 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104301": {
+      "sourceId": "104301",
+      "challenge": "精通秘境：霜凝祭坛",
+      "domains": [
+        {
+          "id": 4210,
+          "name": "精通秘境：霜凝祭坛 I",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4211,
+          "name": "精通秘境：霜凝祭坛 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4212,
+          "name": "精通秘境：霜凝祭坛 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4213,
+          "name": "精通秘境：霜凝祭坛 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104305": {
+      "sourceId": "104305",
+      "challenge": "精通秘境：冰封废渊",
+      "domains": [
+        {
+          "id": 4221,
+          "name": "精通秘境：冰封废渊 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4222,
+          "name": "精通秘境：冰封废渊 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4223,
+          "name": "精通秘境：冰封废渊 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104308": {
+      "sourceId": "104308",
+      "challenge": "精通秘境：沉睡之国",
+      "domains": [
+        {
+          "id": 4231,
+          "name": "精通秘境：沉睡之国 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4232,
+          "name": "精通秘境：沉睡之国 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4233,
+          "name": "精通秘境：沉睡之国 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104302": {
+      "sourceId": "104302",
+      "challenge": "精通秘境：霜凝祭坛",
+      "domains": [
+        {
+          "id": 4211,
+          "name": "精通秘境：霜凝祭坛 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4212,
+          "name": "精通秘境：霜凝祭坛 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4213,
+          "name": "精通秘境：霜凝祭坛 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104309": {
+      "sourceId": "104309",
+      "challenge": "精通秘境：沉睡之国",
+      "domains": [
+        {
+          "id": 4233,
+          "name": "精通秘境：沉睡之国 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104303": {
+      "sourceId": "104303",
+      "challenge": "精通秘境：霜凝祭坛",
+      "domains": [
+        {
+          "id": 4213,
+          "name": "精通秘境：霜凝祭坛 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104306": {
+      "sourceId": "104306",
+      "challenge": "精通秘境：冰封废渊",
+      "domains": [
+        {
+          "id": 4223,
+          "name": "精通秘境：冰封废渊 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104365": {
+      "sourceId": "104365",
+      "challenge": "精通秘境：默想",
+      "domains": [
+        {
+          "id": 4691,
+          "name": "精通秘境：默想 I",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4692,
+          "name": "精通秘境：默想 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4693,
+          "name": "精通秘境：默想 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4694,
+          "name": "精通秘境：默想 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104369": {
+      "sourceId": "104369",
+      "challenge": "精通秘境：隐修",
+      "domains": [
+        {
+          "id": 4696,
+          "name": "精通秘境：隐修 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4697,
+          "name": "精通秘境：隐修 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4698,
+          "name": "精通秘境：隐修 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104372": {
+      "sourceId": "104372",
+      "challenge": "精通秘境：共观",
+      "domains": [
+        {
+          "id": 4700,
+          "name": "精通秘境：共观 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4701,
+          "name": "精通秘境：共观 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4702,
+          "name": "精通秘境：共观 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104366": {
+      "sourceId": "104366",
+      "challenge": "精通秘境：默想",
+      "domains": [
+        {
+          "id": 4692,
+          "name": "精通秘境：默想 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4693,
+          "name": "精通秘境：默想 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4694,
+          "name": "精通秘境：默想 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104373": {
+      "sourceId": "104373",
+      "challenge": "精通秘境：共观",
+      "domains": [
+        {
+          "id": 4702,
+          "name": "精通秘境：共观 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104367": {
+      "sourceId": "104367",
+      "challenge": "精通秘境：默想",
+      "domains": [
+        {
+          "id": 4694,
+          "name": "精通秘境：默想 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104370": {
+      "sourceId": "104370",
+      "challenge": "精通秘境：隐修",
+      "domains": [
+        {
+          "id": 4698,
+          "name": "精通秘境：隐修 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104310": {
+      "sourceId": "104310",
+      "challenge": "精通秘境：炽炎祭场",
+      "domains": [
+        {
+          "id": 5254,
+          "name": "精通秘境：炽炎祭场 I",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 5255,
+          "name": "精通秘境：炽炎祭场 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5256,
+          "name": "精通秘境：炽炎祭场 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5257,
+          "name": "精通秘境：炽炎祭场 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104314": {
+      "sourceId": "104314",
+      "challenge": "精通秘境：深炎之底",
+      "domains": [
+        {
+          "id": 5259,
+          "name": "精通秘境：深炎之底 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5260,
+          "name": "精通秘境：深炎之底 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5261,
+          "name": "精通秘境：深炎之底 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104317": {
+      "sourceId": "104317",
+      "challenge": "精通秘境：焚尽之环",
+      "domains": [
+        {
+          "id": 5263,
+          "name": "精通秘境：焚尽之环 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5264,
+          "name": "精通秘境：焚尽之环 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5265,
+          "name": "精通秘境：焚尽之环 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104311": {
+      "sourceId": "104311",
+      "challenge": "精通秘境：炽炎祭场",
+      "domains": [
+        {
+          "id": 5255,
+          "name": "精通秘境：炽炎祭场 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5256,
+          "name": "精通秘境：炽炎祭场 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5257,
+          "name": "精通秘境：炽炎祭场 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104318": {
+      "sourceId": "104318",
+      "challenge": "精通秘境：焚尽之环",
+      "domains": [
+        {
+          "id": 5265,
+          "name": "精通秘境：焚尽之环 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104312": {
+      "sourceId": "104312",
+      "challenge": "精通秘境：炽炎祭场",
+      "domains": [
+        {
+          "id": 5257,
+          "name": "精通秘境：炽炎祭场 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104315": {
+      "sourceId": "104315",
+      "challenge": "精通秘境：深炎之底",
+      "domains": [
+        {
+          "id": 5261,
+          "name": "精通秘境：深炎之底 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104320": {
+      "sourceId": "104320",
+      "challenge": "精通秘境：菫染之国",
+      "domains": [
+        {
+          "id": 4400,
+          "name": "精通秘境：菫染之国 I",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4401,
+          "name": "精通秘境：菫染之国 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4402,
+          "name": "精通秘境：菫染之国 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4403,
+          "name": "精通秘境：菫染之国 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104324": {
+      "sourceId": "104324",
+      "challenge": "精通秘境：初雷幽谷",
+      "domains": [
+        {
+          "id": 4411,
+          "name": "精通秘境：初雷幽谷 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4412,
+          "name": "精通秘境：初雷幽谷 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4413,
+          "name": "精通秘境：初雷幽谷 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104327": {
+      "sourceId": "104327",
+      "challenge": "精通秘境：真葛废都",
+      "domains": [
+        {
+          "id": 4421,
+          "name": "精通秘境：真葛废都 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4422,
+          "name": "精通秘境：真葛废都 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4423,
+          "name": "精通秘境：真葛废都 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104321": {
+      "sourceId": "104321",
+      "challenge": "精通秘境：菫染之国",
+      "domains": [
+        {
+          "id": 4401,
+          "name": "精通秘境：菫染之国 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4402,
+          "name": "精通秘境：菫染之国 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4403,
+          "name": "精通秘境：菫染之国 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104328": {
+      "sourceId": "104328",
+      "challenge": "精通秘境：真葛废都",
+      "domains": [
+        {
+          "id": 4423,
+          "name": "精通秘境：真葛废都 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104322": {
+      "sourceId": "104322",
+      "challenge": "精通秘境：菫染之国",
+      "domains": [
+        {
+          "id": 4403,
+          "name": "精通秘境：菫染之国 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104325": {
+      "sourceId": "104325",
+      "challenge": "精通秘境：初雷幽谷",
+      "domains": [
+        {
+          "id": 4413,
+          "name": "精通秘境：初雷幽谷 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104329": {
+      "sourceId": "104329",
+      "challenge": "精通秘境：圆镜",
+      "domains": [
+        {
+          "id": 4430,
+          "name": "精通秘境：圆镜 I",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4431,
+          "name": "精通秘境：圆镜 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4432,
+          "name": "精通秘境：圆镜 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4433,
+          "name": "精通秘境：圆镜 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104333": {
+      "sourceId": "104333",
+      "challenge": "精通秘境：妙语",
+      "domains": [
+        {
+          "id": 4441,
+          "name": "精通秘境：妙语 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4442,
+          "name": "精通秘境：妙语 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4443,
+          "name": "精通秘境：妙语 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104336": {
+      "sourceId": "104336",
+      "challenge": "精通秘境：律藏",
+      "domains": [
+        {
+          "id": 4451,
+          "name": "精通秘境：律藏 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4452,
+          "name": "精通秘境：律藏 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4453,
+          "name": "精通秘境：律藏 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104330": {
+      "sourceId": "104330",
+      "challenge": "精通秘境：圆镜",
+      "domains": [
+        {
+          "id": 4431,
+          "name": "精通秘境：圆镜 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4432,
+          "name": "精通秘境：圆镜 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4433,
+          "name": "精通秘境：圆镜 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104337": {
+      "sourceId": "104337",
+      "challenge": "精通秘境：律藏",
+      "domains": [
+        {
+          "id": 4453,
+          "name": "精通秘境：律藏 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104331": {
+      "sourceId": "104331",
+      "challenge": "精通秘境：圆镜",
+      "domains": [
+        {
+          "id": 4433,
+          "name": "精通秘境：圆镜 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104334": {
+      "sourceId": "104334",
+      "challenge": "精通秘境：妙语",
+      "domains": [
+        {
+          "id": 4443,
+          "name": "精通秘境：妙语 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104359": {
+      "sourceId": "104359",
+      "challenge": "精通秘境：遗荫",
+      "domains": [
+        {
+          "id": 4655,
+          "name": "精通秘境：遗荫 I",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4656,
+          "name": "精通秘境：遗荫 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4657,
+          "name": "精通秘境：遗荫 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4658,
+          "name": "精通秘境：遗荫 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104360": {
+      "sourceId": "104360",
+      "challenge": "精通秘境：遗荫",
+      "domains": [
+        {
+          "id": 4656,
+          "name": "精通秘境：遗荫 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4657,
+          "name": "精通秘境：遗荫 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4658,
+          "name": "精通秘境：遗荫 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104361": {
+      "sourceId": "104361",
+      "challenge": "精通秘境：遗荫",
+      "domains": [
+        {
+          "id": 4658,
+          "name": "精通秘境：遗荫 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104307": {
+      "sourceId": "104307",
+      "challenge": "精通秘境：沉睡之国",
+      "domains": [
+        {
+          "id": 4230,
+          "name": "精通秘境：沉睡之国 I",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4231,
+          "name": "精通秘境：沉睡之国 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4232,
+          "name": "精通秘境：沉睡之国 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4233,
+          "name": "精通秘境：沉睡之国 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104332": {
+      "sourceId": "104332",
+      "challenge": "精通秘境：妙语",
+      "domains": [
+        {
+          "id": 4440,
+          "name": "精通秘境：妙语 I",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4441,
+          "name": "精通秘境：妙语 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4442,
+          "name": "精通秘境：妙语 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4443,
+          "name": "精通秘境：妙语 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104368": {
+      "sourceId": "104368",
+      "challenge": "精通秘境：隐修",
+      "domains": [
+        {
+          "id": 4695,
+          "name": "精通秘境：隐修 I",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4696,
+          "name": "精通秘境：隐修 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4697,
+          "name": "精通秘境：隐修 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4698,
+          "name": "精通秘境：隐修 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104323": {
+      "sourceId": "104323",
+      "challenge": "精通秘境：初雷幽谷",
+      "domains": [
+        {
+          "id": 4410,
+          "name": "精通秘境：初雷幽谷 I",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4411,
+          "name": "精通秘境：初雷幽谷 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4412,
+          "name": "精通秘境：初雷幽谷 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4413,
+          "name": "精通秘境：初雷幽谷 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104344": {
+      "sourceId": "104344",
+      "challenge": "精通秘境：琅诵",
+      "domains": [
+        {
+          "id": 4494,
+          "name": "精通秘境：琅诵 I",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4495,
+          "name": "精通秘境：琅诵 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4496,
+          "name": "精通秘境：琅诵 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4497,
+          "name": "精通秘境：琅诵 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104316": {
+      "sourceId": "104316",
+      "challenge": "精通秘境：焚尽之环",
+      "domains": [
+        {
+          "id": 5262,
+          "name": "精通秘境：焚尽之环 I",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 5263,
+          "name": "精通秘境：焚尽之环 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5264,
+          "name": "精通秘境：焚尽之环 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5265,
+          "name": "精通秘境：焚尽之环 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104304": {
+      "sourceId": "104304",
+      "challenge": "精通秘境：冰封废渊",
+      "domains": [
+        {
+          "id": 4220,
+          "name": "精通秘境：冰封废渊 I",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4221,
+          "name": "精通秘境：冰封废渊 II",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4222,
+          "name": "精通秘境：冰封废渊 III",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4223,
+          "name": "精通秘境：冰封废渊 IV",
+          "entrance": "忘却之峡",
+          "region": "蒙德",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104341": {
+      "sourceId": "104341",
+      "challenge": "精通秘境：箴铭",
+      "domains": [
+        {
+          "id": 4490,
+          "name": "精通秘境：箴铭 I",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4491,
+          "name": "精通秘境：箴铭 II",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4492,
+          "name": "精通秘境：箴铭 III",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4493,
+          "name": "精通秘境：箴铭 IV",
+          "entrance": "苍白的遗荣",
+          "region": "枫丹",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104353": {
+      "sourceId": "104353",
+      "challenge": "精通秘境：旋复",
+      "domains": [
+        {
+          "id": 4454,
+          "name": "精通秘境：旋复 I",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4455,
+          "name": "精通秘境：旋复 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4456,
+          "name": "精通秘境：旋复 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4457,
+          "name": "精通秘境：旋复 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104326": {
+      "sourceId": "104326",
+      "challenge": "精通秘境：真葛废都",
+      "domains": [
+        {
+          "id": 4420,
+          "name": "精通秘境：真葛废都 I",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4421,
+          "name": "精通秘境：真葛废都 II",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4422,
+          "name": "精通秘境：真葛废都 III",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4423,
+          "name": "精通秘境：真葛废都 IV",
+          "entrance": "菫色之庭",
+          "region": "稻妻",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104313": {
+      "sourceId": "104313",
+      "challenge": "精通秘境：深炎之底",
+      "domains": [
+        {
+          "id": 5258,
+          "name": "精通秘境：深炎之底 I",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 5259,
+          "name": "精通秘境：深炎之底 II",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 5260,
+          "name": "精通秘境：深炎之底 III",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 5261,
+          "name": "精通秘境：深炎之底 IV",
+          "entrance": "太山府",
+          "region": "璃月",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104350": {
+      "sourceId": "104350",
+      "challenge": "精通秘境：空华",
+      "domains": [
+        {
+          "id": 4444,
+          "name": "精通秘境：空华 I",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4445,
+          "name": "精通秘境：空华 II",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4446,
+          "name": "精通秘境：空华 III",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4447,
+          "name": "精通秘境：空华 IV",
+          "entrance": "蕴火的幽墟",
+          "region": "纳塔",
+          "days": [
+            "周二",
+            "周五",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104335": {
+      "sourceId": "104335",
+      "challenge": "精通秘境：律藏",
+      "domains": [
+        {
+          "id": 4450,
+          "name": "精通秘境：律藏 I",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4451,
+          "name": "精通秘境：律藏 II",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4452,
+          "name": "精通秘境：律藏 III",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4453,
+          "name": "精通秘境：律藏 IV",
+          "entrance": "昏识塔",
+          "region": "须弥",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104356": {
+      "sourceId": "104356",
+      "challenge": "精通秘境：墟都",
+      "domains": [
+        {
+          "id": 4651,
+          "name": "精通秘境：墟都 I",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4652,
+          "name": "精通秘境：墟都 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4653,
+          "name": "精通秘境：墟都 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4654,
+          "name": "精通秘境：墟都 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104357": {
+      "sourceId": "104357",
+      "challenge": "精通秘境：墟都",
+      "domains": [
+        {
+          "id": 4652,
+          "name": "精通秘境：墟都 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4653,
+          "name": "精通秘境：墟都 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4654,
+          "name": "精通秘境：墟都 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104358": {
+      "sourceId": "104358",
+      "challenge": "精通秘境：墟都",
+      "domains": [
+        {
+          "id": 4654,
+          "name": "精通秘境：墟都 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周一",
+            "周四",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104362": {
+      "sourceId": "104362",
+      "challenge": "精通秘境：覆巢",
+      "domains": [
+        {
+          "id": 4659,
+          "name": "精通秘境：覆巢 I",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4660,
+          "name": "精通秘境：覆巢 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4661,
+          "name": "精通秘境：覆巢 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4662,
+          "name": "精通秘境：覆巢 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104363": {
+      "sourceId": "104363",
+      "challenge": "精通秘境：覆巢",
+      "domains": [
+        {
+          "id": 4660,
+          "name": "精通秘境：覆巢 II",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4661,
+          "name": "精通秘境：覆巢 III",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4662,
+          "name": "精通秘境：覆巢 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104364": {
+      "sourceId": "104364",
+      "challenge": "精通秘境：覆巢",
+      "domains": [
+        {
+          "id": 4662,
+          "name": "精通秘境：覆巢 IV",
+          "entrance": "无光的深都",
+          "region": "挪德卡莱",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    },
+    "genshin-materials-104371": {
+      "sourceId": "104371",
+      "challenge": "精通秘境：共观",
+      "domains": [
+        {
+          "id": 4699,
+          "name": "精通秘境：共观 I",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 25,
+          "recommendedLevel": 38
+        },
+        {
+          "id": 4700,
+          "name": "精通秘境：共观 II",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 28,
+          "recommendedLevel": 54
+        },
+        {
+          "id": 4701,
+          "name": "精通秘境：共观 III",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 36,
+          "recommendedLevel": 71
+        },
+        {
+          "id": 4702,
+          "name": "精通秘境：共观 IV",
+          "entrance": "荒坠的圣迹",
+          "region": "至冬",
+          "days": [
+            "周三",
+            "周六",
+            "周日"
+          ],
+          "unlockRank": 45,
+          "recommendedLevel": 88
+        }
+      ]
+    }
+  },
+  "gaps": []
+}

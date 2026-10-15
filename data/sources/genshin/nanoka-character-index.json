@@ -1,0 +1,2402 @@
+{
+  "10000002": {
+    "birth": [
+      9,
+      28
+    ],
+    "release": "2021-07-21 00:00:00",
+    "icon": "UI_AvatarIcon_Ayaka",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Kamisato Ayaka",
+    "desc": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "ko": "카미사토 아야카",
+    "zh": "神里绫华",
+    "ja": "神里綾華"
+  },
+  "10000003": {
+    "birth": [
+      3,
+      14
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Qin",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Jean",
+    "desc": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius.",
+    "ko": "진",
+    "zh": "琴",
+    "ja": "ジン"
+  },
+  "10000006": {
+    "birth": [
+      6,
+      9
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Lisa",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Electro",
+    "en": "Lisa",
+    "desc": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Akademiya to be their most distinguished graduate in the past two centuries.",
+    "ko": "리사",
+    "zh": "丽莎",
+    "ja": "リサ"
+  },
+  "10000014": {
+    "birth": [
+      7,
+      5
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Barbara",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Barbara",
+    "desc": "Every citizen of Mondstadt adores Barbara. She learned the word \"idol\" from a magazine.",
+    "ko": "바바라",
+    "zh": "芭芭拉",
+    "ja": "バーバラ"
+  },
+  "10000015": {
+    "birth": [
+      11,
+      30
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Kaeya",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Kaeya",
+    "desc": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt.",
+    "ko": "케이아",
+    "zh": "凯亚",
+    "ja": "ガイア"
+  },
+  "10000016": {
+    "birth": [
+      4,
+      30
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Diluc",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Pyro",
+    "en": "Diluc",
+    "desc": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "ko": "다이루크",
+    "zh": "迪卢克",
+    "ja": "ディルック"
+  },
+  "10000020": {
+    "birth": [
+      9,
+      9
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Razor",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Electro",
+    "en": "Razor",
+    "desc": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning.",
+    "ko": "레이저",
+    "zh": "雷泽",
+    "ja": "レザー"
+  },
+  "10000021": {
+    "birth": [
+      8,
+      10
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Ambor",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Pyro",
+    "en": "Amber",
+    "desc": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+    "ko": "엠버",
+    "zh": "安柏",
+    "ja": "アンバー"
+  },
+  "10000022": {
+    "birth": [
+      6,
+      16
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Venti",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Anemo",
+    "en": "Venti",
+    "desc": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys.",
+    "ko": "벤티",
+    "zh": "温迪",
+    "ja": "ウェンティ"
+  },
+  "10000023": {
+    "birth": [
+      11,
+      2
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Xiangling",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Pyro",
+    "en": "Xiangling",
+    "desc": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes.",
+    "ko": "향릉",
+    "zh": "香菱",
+    "ja": "香菱"
+  },
+  "10000024": {
+    "birth": [
+      2,
+      14
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Beidou",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Electro",
+    "en": "Beidou",
+    "desc": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "ko": "북두",
+    "zh": "北斗",
+    "ja": "北斗"
+  },
+  "10000025": {
+    "birth": [
+      10,
+      9
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Xingqiu",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Xingqiu",
+    "desc": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all.",
+    "ko": "행추",
+    "zh": "行秋",
+    "ja": "行秋"
+  },
+  "10000026": {
+    "birth": [
+      4,
+      17
+    ],
+    "release": "2021-02-02 00:00:00",
+    "icon": "UI_AvatarIcon_Xiao",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Anemo",
+    "en": "Xiao",
+    "desc": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\"",
+    "ko": "소",
+    "zh": "魈",
+    "ja": "魈"
+  },
+  "10000027": {
+    "birth": [
+      8,
+      26
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Ningguang",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Geo",
+    "en": "Ningguang",
+    "desc": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat.",
+    "ko": "응광",
+    "zh": "凝光",
+    "ja": "凝光"
+  },
+  "10000029": {
+    "birth": [
+      7,
+      27
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Klee",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Pyro",
+    "en": "Klee",
+    "desc": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight.",
+    "ko": "클레",
+    "zh": "可莉",
+    "ja": "クレー"
+  },
+  "10000030": {
+    "birth": [
+      12,
+      31
+    ],
+    "release": "2020-12-02 04:00:00",
+    "icon": "UI_AvatarIcon_Zhongli",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Geo",
+    "en": "Zhongli",
+    "desc": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+    "ko": "종려",
+    "zh": "钟离",
+    "ja": "鍾離"
+  },
+  "10000031": {
+    "birth": [
+      5,
+      27
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Fischl",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Electro",
+    "en": "Fischl",
+    "desc": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz.",
+    "ko": "피슬",
+    "zh": "菲谢尔",
+    "ja": "フィッシュル"
+  },
+  "10000032": {
+    "birth": [
+      2,
+      29
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Bennett",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Bennett",
+    "desc": "A good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "ko": "베넷",
+    "zh": "班尼特",
+    "ja": "ベネット"
+  },
+  "10000033": {
+    "birth": [
+      7,
+      20
+    ],
+    "release": "2020-11-11 04:00:00",
+    "icon": "UI_AvatarIcon_Tartaglia",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Hydro",
+    "en": "Tartaglia",
+    "desc": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield.",
+    "ko": "타르탈리아",
+    "zh": "达达利亚",
+    "ja": "タルタリヤ"
+  },
+  "10000034": {
+    "birth": [
+      3,
+      21
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Noel",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Geo",
+    "en": "Noelle",
+    "desc": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday.",
+    "ko": "노엘",
+    "zh": "诺艾尔",
+    "ja": "ノエル"
+  },
+  "10000035": {
+    "birth": [
+      3,
+      3
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Qiqi",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Qiqi",
+    "desc": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion.",
+    "ko": "치치",
+    "zh": "七七",
+    "ja": "七七"
+  },
+  "10000036": {
+    "birth": [
+      9,
+      7
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Chongyun",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Cryo",
+    "en": "Chongyun",
+    "desc": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy.",
+    "ko": "중운",
+    "zh": "重云",
+    "ja": "重雲"
+  },
+  "10000037": {
+    "birth": [
+      12,
+      2
+    ],
+    "release": "2021-01-12 18:00:00",
+    "icon": "UI_AvatarIcon_Ganyu",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Cryo",
+    "en": "Ganyu",
+    "desc": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "ko": "감우",
+    "zh": "甘雨",
+    "ja": "甘雨"
+  },
+  "10000038": {
+    "birth": [
+      9,
+      13
+    ],
+    "release": "2020-12-22 00:00:00",
+    "icon": "UI_AvatarIcon_Albedo",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Albedo",
+    "desc": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "ko": "알베도",
+    "zh": "阿贝多",
+    "ja": "アルベド"
+  },
+  "10000039": {
+    "birth": [
+      1,
+      18
+    ],
+    "release": "2020-11-11 04:00:00",
+    "icon": "UI_AvatarIcon_Diona",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Cryo",
+    "en": "Diona",
+    "desc": "A young lady who has inherited trace amounts of non-human blood. She is the incredibly popular bartender of the Cat's Tail tavern.",
+    "ko": "디오나",
+    "zh": "迪奥娜",
+    "ja": "ディオナ"
+  },
+  "10000041": {
+    "birth": [
+      8,
+      31
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Mona",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Mona",
+    "desc": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful.",
+    "ko": "모나",
+    "zh": "莫娜",
+    "ja": "モナ"
+  },
+  "10000042": {
+    "birth": [
+      11,
+      20
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Keqing",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Keqing",
+    "desc": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis's unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot.",
+    "ko": "각청",
+    "zh": "刻晴",
+    "ja": "刻晴"
+  },
+  "10000043": {
+    "birth": [
+      11,
+      26
+    ],
+    "release": "2020-09-15 04:00:00",
+    "icon": "UI_AvatarIcon_Sucrose",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Sucrose",
+    "desc": "An alchemist filled with curiosity about all things. She researches bio-alchemy.",
+    "ko": "설탕",
+    "zh": "砂糖",
+    "ja": "スクロース"
+  },
+  "10000044": {
+    "birth": [
+      10,
+      16
+    ],
+    "release": "2020-12-02 04:00:00",
+    "icon": "UI_AvatarIcon_Xinyan",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Pyro",
+    "en": "Xinyan",
+    "desc": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing.",
+    "ko": "신염",
+    "zh": "辛焱",
+    "ja": "辛炎"
+  },
+  "10000045": {
+    "birth": [
+      1,
+      24
+    ],
+    "release": "2021-04-06 18:00:00",
+    "icon": "UI_AvatarIcon_Rosaria",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Cryo",
+    "en": "Rosaria",
+    "desc": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "ko": "로자리아",
+    "zh": "罗莎莉亚",
+    "ja": "ロサリア"
+  },
+  "10000046": {
+    "birth": [
+      7,
+      15
+    ],
+    "release": "2021-03-02 18:00:00",
+    "icon": "UI_AvatarIcon_Hutao",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Pyro",
+    "en": "Hu Tao",
+    "desc": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "ko": "호두",
+    "zh": "胡桃",
+    "ja": "胡桃"
+  },
+  "10000047": {
+    "birth": [
+      10,
+      29
+    ],
+    "release": "2021-06-29 18:00:00",
+    "icon": "UI_AvatarIcon_Kazuha",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Kaedehara Kazuha",
+    "desc": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past.",
+    "ko": "카에데하라 카즈하",
+    "zh": "枫原万叶",
+    "ja": "楓原万葉"
+  },
+  "10000048": {
+    "birth": [
+      7,
+      28
+    ],
+    "release": "2021-04-27 00:00:00",
+    "icon": "UI_AvatarIcon_Feiyan",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Pyro",
+    "en": "Yanfei",
+    "desc": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast.",
+    "ko": "연비",
+    "zh": "烟绯",
+    "ja": "煙緋"
+  },
+  "10000049": {
+    "birth": [
+      6,
+      21
+    ],
+    "release": "2021-08-10 18:00:00",
+    "icon": "UI_AvatarIcon_Yoimiya",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Pyro",
+    "en": "Yoimiya",
+    "desc": "Owner of Naganohara Fireworks. Known as the \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams.",
+    "ko": "요이미야",
+    "zh": "宵宫",
+    "ja": "宵宮"
+  },
+  "10000050": {
+    "birth": [
+      1,
+      9
+    ],
+    "release": "2021-11-02 18:00:00",
+    "icon": "UI_AvatarIcon_Tohma",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Pyro",
+    "en": "Thoma",
+    "desc": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma.",
+    "ko": "토마",
+    "zh": "托马",
+    "ja": "トーマ"
+  },
+  "10000051": {
+    "birth": [
+      10,
+      25
+    ],
+    "release": "2021-05-18 18:00:00",
+    "icon": "UI_AvatarIcon_Eula",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Cryo",
+    "en": "Eula",
+    "desc": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day.",
+    "ko": "유라",
+    "zh": "优菈",
+    "ja": "エウルア"
+  },
+  "10000052": {
+    "birth": [
+      6,
+      26
+    ],
+    "release": "2021-09-01 00:00:00",
+    "icon": "UI_AvatarIcon_Shougun",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Raiden Shogun",
+    "desc": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+    "ko": "라이덴 쇼군",
+    "zh": "雷电将军",
+    "ja": "雷電将軍"
+  },
+  "10000053": {
+    "birth": [
+      10,
+      19
+    ],
+    "release": "2021-08-10 18:00:00",
+    "icon": "UI_AvatarIcon_Sayu",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Anemo",
+    "en": "Sayu",
+    "desc": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived.",
+    "ko": "사유",
+    "zh": "早柚",
+    "ja": "早柚"
+  },
+  "10000054": {
+    "birth": [
+      2,
+      22
+    ],
+    "release": "2021-09-21 18:00:00",
+    "icon": "UI_AvatarIcon_Kokomi",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Sangonomiya Kokomi",
+    "desc": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips.",
+    "ko": "산고노미야 코코미",
+    "zh": "珊瑚宫心海",
+    "ja": "珊瑚宮心海"
+  },
+  "10000055": {
+    "birth": [
+      5,
+      18
+    ],
+    "release": "2021-12-14 18:00:00",
+    "icon": "UI_AvatarIcon_Gorou",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Geo",
+    "en": "Gorou",
+    "desc": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates.",
+    "ko": "고로",
+    "zh": "五郎",
+    "ja": "ゴロー"
+  },
+  "10000056": {
+    "birth": [
+      7,
+      14
+    ],
+    "release": "2021-09-01 00:00:00",
+    "icon": "UI_AvatarIcon_Sara",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Electro",
+    "en": "Kujou Sara",
+    "desc": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle.",
+    "ko": "쿠죠 사라",
+    "zh": "九条裟罗",
+    "ja": "九条裟羅"
+  },
+  "10000057": {
+    "birth": [
+      6,
+      1
+    ],
+    "release": "2021-12-14 18:00:00",
+    "icon": "UI_AvatarIcon_Itto",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Geo",
+    "en": "Arataki Itto",
+    "desc": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?",
+    "ko": "아라타키 이토",
+    "zh": "荒泷一斗",
+    "ja": "荒瀧一斗"
+  },
+  "10000058": {
+    "birth": [
+      6,
+      27
+    ],
+    "release": "2022-02-16 00:00:00",
+    "icon": "UI_AvatarIcon_Yae",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Electro",
+    "en": "Yae Miko",
+    "desc": "Lady Guuji of the Grand Narukami Shrine. Also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance.",
+    "ko": "야에 미코",
+    "zh": "八重神子",
+    "ja": "八重神子"
+  },
+  "10000059": {
+    "birth": [
+      7,
+      24
+    ],
+    "release": "2022-07-13 00:00:00",
+    "icon": "UI_AvatarIcon_Heizo",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Shikanoin Heizou",
+    "desc": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear.",
+    "ko": "시카노인 헤이조",
+    "zh": "鹿野院平藏",
+    "ja": "鹿野院平蔵"
+  },
+  "10000060": {
+    "birth": [
+      4,
+      20
+    ],
+    "release": "2022-05-31 00:00:00",
+    "icon": "UI_AvatarIcon_Yelan",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Hydro",
+    "en": "Yelan",
+    "desc": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list.",
+    "ko": "야란",
+    "zh": "夜兰",
+    "ja": "夜蘭"
+  },
+  "10000061": {
+    "birth": [
+      1,
+      22
+    ],
+    "release": "2023-05-23 00:00:00",
+    "icon": "UI_AvatarIcon_Momoka",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Kirara",
+    "desc": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.",
+    "ko": "키라라",
+    "zh": "绮良良",
+    "ja": "綺良々"
+  },
+  "10000062": {
+    "birth": [
+      4,
+      4
+    ],
+    "release": "2021-09-01 00:00:00",
+    "icon": "UI_AvatarIcon_Aloy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_BOW",
+    "element": "Cryo",
+    "en": "Aloy",
+    "desc": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time.",
+    "ko": "에일로이",
+    "zh": "埃洛伊",
+    "ja": "アーロイ"
+  },
+  "10000063": {
+    "birth": [
+      3,
+      10
+    ],
+    "release": "2022-01-05 00:00:00",
+    "icon": "UI_AvatarIcon_Shenhe",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Cryo",
+    "en": "Shenhe",
+    "desc": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves.",
+    "ko": "신학",
+    "zh": "申鹤",
+    "ja": "申鶴"
+  },
+  "10000064": {
+    "birth": [
+      5,
+      21
+    ],
+    "release": "2022-01-05 00:00:00",
+    "icon": "UI_AvatarIcon_Yunjin",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Geo",
+    "en": "Yun Jin",
+    "desc": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself.",
+    "ko": "운근",
+    "zh": "云堇",
+    "ja": "雲菫"
+  },
+  "10000065": {
+    "birth": [
+      7,
+      27
+    ],
+    "release": "2022-06-21 18:00:00",
+    "icon": "UI_AvatarIcon_Shinobu",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Kuki Shinobu",
+    "desc": "The capable and reliable Arataki Gang deputy leader. Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific.",
+    "ko": "쿠키 시노부",
+    "zh": "久岐忍",
+    "ja": "久岐忍"
+  },
+  "10000066": {
+    "birth": [
+      3,
+      26
+    ],
+    "release": "2022-03-30 00:00:00",
+    "icon": "UI_AvatarIcon_Ayato",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Kamisato Ayato",
+    "desc": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means.",
+    "ko": "카미사토 아야토",
+    "zh": "神里绫人",
+    "ja": "神里綾人"
+  },
+  "10000067": {
+    "birth": [
+      5,
+      8
+    ],
+    "release": "2022-08-24 00:00:00",
+    "icon": "UI_AvatarIcon_Collei",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Dendro",
+    "en": "Collei",
+    "desc": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality.",
+    "ko": "콜레이",
+    "zh": "柯莱",
+    "ja": "コレイ"
+  },
+  "10000068": {
+    "birth": [
+      12,
+      21
+    ],
+    "release": "2022-09-09 18:00:00",
+    "icon": "UI_AvatarIcon_Dori",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Electro",
+    "en": "Dori",
+    "desc": "An elusive merchant who has a fondness for glittering Mora.",
+    "ko": "도리",
+    "zh": "多莉",
+    "ja": "ドリー"
+  },
+  "10000069": {
+    "birth": [
+      12,
+      29
+    ],
+    "release": "2022-08-24 00:00:00",
+    "icon": "UI_AvatarIcon_Tighnari",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Dendro",
+    "en": "Tighnari",
+    "desc": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils.",
+    "ko": "타이나리",
+    "zh": "提纳里",
+    "ja": "ティナリ"
+  },
+  "10000070": {
+    "birth": [
+      12,
+      3
+    ],
+    "release": "2022-10-14 18:00:00",
+    "icon": "UI_AvatarIcon_Nilou",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Nilou",
+    "desc": "The star of the Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant.",
+    "ko": "닐루",
+    "zh": "妮露",
+    "ja": "ニィロウ"
+  },
+  "10000071": {
+    "birth": [
+      6,
+      23
+    ],
+    "release": "2022-09-27 00:00:00",
+    "icon": "UI_AvatarIcon_Cyno",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Cyno",
+    "desc": "The General Mahamatra in charge of supervising the researchers of the Akademiya. It is said that when he gets down to work, the General Mahamatra is even more efficient than the \"Great Vayuvyastra\" made by the Kshahrewar.",
+    "ko": "사이노",
+    "zh": "赛诺",
+    "ja": "セノ"
+  },
+  "10000072": {
+    "birth": [
+      5,
+      3
+    ],
+    "release": "2022-09-27 00:00:00",
+    "icon": "UI_AvatarIcon_Candace",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Hydro",
+    "en": "Candace",
+    "desc": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "ko": "캔디스",
+    "zh": "坎蒂丝",
+    "ja": "キャンディス"
+  },
+  "10000073": {
+    "birth": [
+      10,
+      27
+    ],
+    "release": "2022-11-01 00:00:00",
+    "icon": "UI_AvatarIcon_Nahida",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Dendro",
+    "en": "Nahida",
+    "desc": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
+    "ko": "나히다",
+    "zh": "纳西妲",
+    "ja": "ナヒーダ"
+  },
+  "10000074": {
+    "birth": [
+      12,
+      19
+    ],
+    "release": "2022-11-18 18:00:00",
+    "icon": "UI_AvatarIcon_Layla",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Layla",
+    "desc": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her.",
+    "ko": "레일라",
+    "zh": "莱依拉",
+    "ja": "レイラ"
+  },
+  "10000075": {
+    "birth": [
+      1,
+      3
+    ],
+    "release": "2022-12-06 00:00:00",
+    "icon": "UI_AvatarIcon_Wanderer",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Wanderer",
+    "desc": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part.",
+    "ko": "방랑자",
+    "zh": "流浪者",
+    "ja": "放浪者"
+  },
+  "10000076": {
+    "birth": [
+      8,
+      20
+    ],
+    "release": "2022-12-06 00:00:00",
+    "icon": "UI_AvatarIcon_Faruzan",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Anemo",
+    "en": "Faruzan",
+    "desc": "A researcher from \"one hundred years ago.\" She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
+    "ko": "파루잔",
+    "zh": "珐露珊",
+    "ja": "ファルザン"
+  },
+  "10000077": {
+    "birth": [
+      3,
+      6
+    ],
+    "release": "2023-01-17 00:00:00",
+    "icon": "UI_AvatarIcon_Yaoyao",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Dendro",
+    "en": "Yaoyao",
+    "desc": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\"",
+    "ko": "요요",
+    "zh": "瑶瑶",
+    "ja": "ヨォーヨ"
+  },
+  "10000078": {
+    "birth": [
+      2,
+      11
+    ],
+    "release": "2023-01-17 00:00:00",
+    "icon": "UI_AvatarIcon_Alhatham",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Alhaitham",
+    "desc": "The current scribe of the Sumeru Akademiya, a man endowed with extraordinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway.",
+    "ko": "알하이탐",
+    "zh": "艾尔海森",
+    "ja": "アルハイゼン"
+  },
+  "10000079": {
+    "birth": [
+      4,
+      7
+    ],
+    "release": "2023-02-28 00:00:00",
+    "icon": "UI_AvatarIcon_Dehya",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Pyro",
+    "en": "Dehya",
+    "desc": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+    "ko": "데히야",
+    "zh": "迪希雅",
+    "ja": "ディシア"
+  },
+  "10000080": {
+    "birth": [
+      8,
+      11
+    ],
+    "release": "2023-03-21 18:00:00",
+    "icon": "UI_AvatarIcon_Mika",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Cryo",
+    "en": "Mika",
+    "desc": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.",
+    "ko": "미카",
+    "zh": "米卡",
+    "ja": "ミカ"
+  },
+  "10000081": {
+    "birth": [
+      7,
+      9
+    ],
+    "release": "2023-05-02 18:00:00",
+    "icon": "UI_AvatarIcon_Kaveh",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Dendro",
+    "en": "Kaveh",
+    "desc": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality.",
+    "ko": "카베",
+    "zh": "卡维",
+    "ja": "カーヴェ"
+  },
+  "10000082": {
+    "birth": [
+      4,
+      25
+    ],
+    "release": "2023-05-02 18:00:00",
+    "icon": "UI_AvatarIcon_Baizhuer",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Dendro",
+    "en": "Baizhu",
+    "desc": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle.",
+    "ko": "백출",
+    "zh": "白术",
+    "ja": "白朮"
+  },
+  "10000083": {
+    "birth": [
+      2,
+      2
+    ],
+    "release": "2023-08-15 00:00:00",
+    "icon": "UI_AvatarIcon_Linette",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Lynette",
+    "desc": "A magic assistant of few words, her emotions are as inscrutable as any cat's.",
+    "ko": "리넷",
+    "zh": "琳妮特",
+    "ja": "リネット"
+  },
+  "10000084": {
+    "birth": [
+      2,
+      2
+    ],
+    "release": "2023-08-15 00:00:00",
+    "icon": "UI_AvatarIcon_Liney",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Pyro",
+    "en": "Lyney",
+    "desc": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word.",
+    "ko": "리니",
+    "zh": "林尼",
+    "ja": "リネ"
+  },
+  "10000085": {
+    "birth": [
+      9,
+      24
+    ],
+    "release": "2023-09-05 18:00:00",
+    "icon": "UI_AvatarIcon_Freminet",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Cryo",
+    "en": "Freminet",
+    "desc": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws.",
+    "ko": "프레미네",
+    "zh": "菲米尼",
+    "ja": "フレミネ"
+  },
+  "10000086": {
+    "birth": [
+      11,
+      23
+    ],
+    "release": "2023-10-17 18:00:00",
+    "icon": "UI_AvatarIcon_Wriothesley",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Cryo",
+    "en": "Wriothesley",
+    "desc": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths.",
+    "ko": "라이오슬리",
+    "zh": "莱欧斯利",
+    "ja": "リオセスリ"
+  },
+  "10000087": {
+    "birth": [
+      12,
+      18
+    ],
+    "release": "2023-09-26 00:00:00",
+    "icon": "UI_AvatarIcon_Neuvillette",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Neuvillette",
+    "desc": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality.",
+    "ko": "느비예트",
+    "zh": "那维莱特",
+    "ja": "ヌヴィレット"
+  },
+  "10000088": {
+    "birth": [
+      4,
+      10
+    ],
+    "release": "2023-11-07 00:00:00",
+    "icon": "UI_AvatarIcon_Charlotte",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Cryo",
+    "en": "Charlotte",
+    "desc": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\"",
+    "ko": "샤를로트",
+    "zh": "夏洛蒂",
+    "ja": "シャルロット"
+  },
+  "10000089": {
+    "birth": [
+      10,
+      13
+    ],
+    "release": "2023-11-07 00:00:00",
+    "icon": "UI_AvatarIcon_Furina",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Furina",
+    "desc": "The absolute focus of the stage of judgment, until the final applause sounds.",
+    "ko": "푸리나",
+    "zh": "芙宁娜",
+    "ja": "フリーナ"
+  },
+  "10000090": {
+    "birth": [
+      1,
+      10
+    ],
+    "release": "2024-01-09 18:00:00",
+    "icon": "UI_AvatarIcon_Chevreuse",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Pyro",
+    "en": "Chevreuse",
+    "desc": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
+    "ko": "슈브르즈",
+    "zh": "夏沃蕾",
+    "ja": "シュヴルーズ"
+  },
+  "10000091": {
+    "birth": [
+      8,
+      16
+    ],
+    "release": "2023-12-19 00:00:00",
+    "icon": "UI_AvatarIcon_Navia",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Geo",
+    "en": "Navia",
+    "desc": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss.",
+    "ko": "나비아",
+    "zh": "娜维娅",
+    "ja": "ナヴィア"
+  },
+  "10000092": {
+    "birth": [
+      12,
+      22
+    ],
+    "release": "2024-01-30 00:00:00",
+    "icon": "UI_AvatarIcon_Gaming",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Pyro",
+    "en": "Gaming",
+    "desc": "Guard of the Sword and Strongbox Secure Transport Agency, and the head of the \"Mighty Mythical Beasts\" Wushou troupe.",
+    "ko": "가명",
+    "zh": "嘉明",
+    "ja": "嘉明"
+  },
+  "10000093": {
+    "birth": [
+      4,
+      11
+    ],
+    "release": "2024-01-30 00:00:00",
+    "icon": "UI_AvatarIcon_Liuyun",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Xianyun",
+    "desc": "One of the Mighty and Illuminated Adepti of Jueyun, known as \"Cloud Retainer.\" Expert in all kinds of mechanical contraptions, her heart now turns towards the affairs of the mortal world, through which she walks under the name \"Xianyun.\"",
+    "ko": "한운",
+    "zh": "闲云",
+    "ja": "閑雲"
+  },
+  "10000094": {
+    "birth": [
+      8,
+      17
+    ],
+    "release": "2024-03-12 00:00:00",
+    "icon": "UI_AvatarIcon_Chiori",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Chiori",
+    "desc": "The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.",
+    "ko": "치오리",
+    "zh": "千织",
+    "ja": "千織"
+  },
+  "10000095": {
+    "birth": [
+      3,
+      30
+    ],
+    "release": "2024-06-26 18:00:00",
+    "icon": "UI_AvatarIcon_Sigewinne",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Hydro",
+    "en": "Sigewinne",
+    "desc": "A Melusine and the Fortress of Meropide's head nurse. She cares equally for every convict locked in the undersea prison.",
+    "ko": "시그윈",
+    "zh": "希格雯",
+    "ja": "シグウィン"
+  },
+  "10000096": {
+    "birth": [
+      8,
+      22
+    ],
+    "release": "2024-04-23 00:00:00",
+    "icon": "UI_AvatarIcon_Arlecchino",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Pyro",
+    "en": "Arlecchino",
+    "desc": "\"The Knave,\" Fourth of the Fatui Harbingers. A poised, ruthless diplomat. To the children in the House of the Hearth, she is their feared yet dependable \"Father.\"",
+    "ko": "아를레키노",
+    "zh": "阿蕾奇诺",
+    "ja": "アルレッキーノ"
+  },
+  "10000097": {
+    "birth": [
+      5,
+      31
+    ],
+    "release": "2024-06-04 00:00:00",
+    "icon": "UI_AvatarIcon_Sethos",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Electro",
+    "en": "Sethos",
+    "desc": "The Temple of Silence's heir. Burdened with secrets, he comes from the sands.",
+    "ko": "세토스",
+    "zh": "赛索斯",
+    "ja": "セトス"
+  },
+  "10000098": {
+    "birth": [
+      9,
+      20
+    ],
+    "release": "2024-06-04 00:00:00",
+    "icon": "UI_AvatarIcon_Clorinde",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Clorinde",
+    "desc": "An undefeated Champion Duelist. Sword in hand, she defends justice in the Court of Fontaine.",
+    "ko": "클로린드",
+    "zh": "克洛琳德",
+    "ja": "クロリンデ"
+  },
+  "10000099": {
+    "birth": [
+      9,
+      22
+    ],
+    "release": "2024-08-06 18:00:00",
+    "icon": "UI_AvatarIcon_Emilie",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Dendro",
+    "en": "Emilie",
+    "desc": "A Fontainian perfumer, one who bottles secrets.",
+    "ko": "에밀리",
+    "zh": "艾梅莉埃",
+    "ja": "エミリエ"
+  },
+  "10000100": {
+    "birth": [
+      4,
+      22
+    ],
+    "release": "2024-08-27 00:00:00",
+    "icon": "UI_AvatarIcon_Kachina",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Geo",
+    "en": "Kachina",
+    "desc": "A young warrior of the Nanatzcayan, given the Ancient Name of \"Uthabiti.\" Kind-hearted and insatiably persistent, she grows stronger and more capable with each setback she faces.",
+    "ko": "카치나",
+    "zh": "卡齐娜",
+    "ja": "カチーナ"
+  },
+  "10000101": {
+    "birth": [
+      11,
+      11
+    ],
+    "release": "2024-09-17 18:00:00",
+    "icon": "UI_AvatarIcon_Kinich",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Dendro",
+    "en": "Kinich",
+    "desc": "A Huitztlan Saurian Hunter skilled at counting costs.",
+    "ko": "키니치",
+    "zh": "基尼奇",
+    "ja": "キィニチ"
+  },
+  "10000102": {
+    "birth": [
+      8,
+      3
+    ],
+    "release": "2024-08-27 00:00:00",
+    "icon": "UI_AvatarIcon_Mualani",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Mualani",
+    "desc": "A well-known guide in Natlan who owns a watersports shop, and expert in all forms of wave-chasing.",
+    "ko": "말라니",
+    "zh": "玛拉妮",
+    "ja": "ムアラニ"
+  },
+  "10000103": {
+    "birth": [
+      3,
+      13
+    ],
+    "release": "2024-10-08 00:00:00",
+    "icon": "UI_AvatarIcon_Xilonen",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Xilonen",
+    "desc": "A Name Engraver of the Nanatzcayan, she is especially skilled at finding a good balance between the heavy responsibilities of her job and living well.",
+    "ko": "실로닌",
+    "zh": "希诺宁",
+    "ja": "シロネン"
+  },
+  "10000104": {
+    "birth": [
+      12,
+      10
+    ],
+    "release": "2024-11-19 00:00:00",
+    "icon": "UI_AvatarIcon_Chasca",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Anemo",
+    "en": "Chasca",
+    "desc": "The Peacemaker of the Tlalocan, the ender of all disputes.",
+    "ko": "차스카",
+    "zh": "恰斯卡",
+    "ja": "チャスカ"
+  },
+  "10000105": {
+    "birth": [
+      10,
+      14
+    ],
+    "release": "2024-11-19 00:00:00",
+    "icon": "UI_AvatarIcon_Olorun",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Electro",
+    "en": "Ororon",
+    "desc": "A young man from the Masters of the Night-Wind who instead lives in the wild alongside all manner of life.",
+    "ko": "올로룬",
+    "zh": "欧洛伦",
+    "ja": "オロルン"
+  },
+  "10000106": {
+    "birth": [
+      8,
+      28
+    ],
+    "release": "2024-12-31 00:00:00",
+    "icon": "UI_AvatarIcon_Mavuika",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Pyro",
+    "en": "Mavuika",
+    "desc": "The leader of Natlan who inherited the Ancient Name of \"Kiongozi.\" She made a vow to illuminate the future of the nation of war with the Sacred Flame.",
+    "ko": "마비카",
+    "zh": "玛薇卡",
+    "ja": "マーヴィカ"
+  },
+  "10000107": {
+    "birth": [
+      1,
+      20
+    ],
+    "release": "2024-12-31 00:00:00",
+    "icon": "UI_AvatarIcon_Citlali",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Cryo",
+    "en": "Citlali",
+    "desc": "The great shaman from the Masters of the Night-Wind, the universally-revered Granny Itztli.",
+    "ko": "시틀라리",
+    "zh": "茜特菈莉",
+    "ja": "シトラリ"
+  },
+  "10000108": {
+    "birth": [
+      1,
+      6
+    ],
+    "release": "2025-01-21 18:00:00",
+    "icon": "UI_AvatarIcon_Lanyan",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Lan Yan",
+    "desc": "A rattan weaver from Chenyu Vale. Clear-minded and well-tempered, she is as lively as a mountain spring.",
+    "ko": "남연",
+    "zh": "蓝砚",
+    "ja": "藍硯"
+  },
+  "10000109": {
+    "birth": [
+      3,
+      16
+    ],
+    "release": "2025-02-11 00:00:00",
+    "icon": "UI_AvatarIcon_Mizuki",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Yumemizuki Mizuki",
+    "desc": "A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated to the dispersal of nightmares, and to bringing people peace of mind.",
+    "ko": "유메미즈키 미즈키",
+    "zh": "梦见月瑞希",
+    "ja": "夢見月瑞希"
+  },
+  "10000110": {
+    "birth": [
+      8,
+      8
+    ],
+    "release": "2025-03-25 00:00:00",
+    "icon": "UI_AvatarIcon_Iansan",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Iansan",
+    "desc": "Head coach of the fitness club at the Collective of Plenty, and a renowned Natlanese nutritionist.",
+    "ko": "얀사",
+    "zh": "伊安珊",
+    "ja": "イアンサ"
+  },
+  "10000111": {
+    "birth": [
+      11,
+      15
+    ],
+    "release": "2025-03-25 00:00:00",
+    "icon": "UI_AvatarIcon_Varesa",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Electro",
+    "en": "Varesa",
+    "desc": "A laid-back orchard manager and warrior of the Collective of Plenty. An aspiring hero who hungers for justice... and lots and lots of food!",
+    "ko": "바레사",
+    "zh": "瓦雷莎",
+    "ja": "ヴァレサ"
+  },
+  "10000112": {
+    "birth": [
+      6,
+      8
+    ],
+    "release": "2025-05-06 00:00:00",
+    "icon": "UI_AvatarIcon_Escoffier",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Cryo",
+    "en": "Escoffier",
+    "desc": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+    "ko": "에스코피에",
+    "zh": "爱可菲",
+    "ja": "エスコフィエ"
+  },
+  "10000113": {
+    "birth": [
+      3,
+      23
+    ],
+    "release": "2025-05-06 00:00:00",
+    "icon": "UI_AvatarIcon_Ifa",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Ifa",
+    "desc": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+    "ko": "이파",
+    "zh": "伊法",
+    "ja": "イファ"
+  },
+  "10000114": {
+    "birth": [
+      11,
+      5
+    ],
+    "release": "2025-06-17 00:00:00",
+    "icon": "UI_AvatarIcon_SkirkNew",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Skirk",
+    "desc": "A visitor who once appeared in an Abyssal rift and the Primordial Sea, this solitary warrior mentored Tartaglia in the martial arts.",
+    "ko": "스커크",
+    "zh": "丝柯克",
+    "ja": "スカーク"
+  },
+  "10000115": {
+    "birth": [
+      5,
+      25
+    ],
+    "release": "2025-06-17 00:00:00",
+    "icon": "UI_AvatarIcon_Dahlia",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Dahlia",
+    "desc": "Deacon of the Church of Favonius and the Anemo Archon's representative in the church.",
+    "ko": "달리아",
+    "zh": "塔利雅",
+    "ja": "ダリア"
+  },
+  "10000116": {
+    "birth": [
+      4,
+      2
+    ],
+    "release": "2025-07-29 00:00:00",
+    "icon": "UI_AvatarIcon_Ineffa",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Ineffa",
+    "desc": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+    "ko": "이네파",
+    "zh": "伊涅芙",
+    "ja": "イネファ"
+  },
+  "10000119": {
+    "birth": [
+      3,
+      1
+    ],
+    "release": "2025-09-09 00:00:00",
+    "icon": "UI_AvatarIcon_Lauma",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Dendro",
+    "en": "Lauma",
+    "desc": "A Maiden blessed by moonlight and the grove alike, hope born to the Frostmoon Scions.",
+    "ko": "라우마",
+    "zh": "菈乌玛",
+    "ja": "ラウマ"
+  },
+  "10000120": {
+    "birth": [
+      10,
+      31
+    ],
+    "release": "2025-09-30 18:00:00",
+    "icon": "UI_AvatarIcon_Flins",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Flins",
+    "desc": "A Lightkeeper of Nod-Krai, guardian of a lighthouse and graveyard on a northern isle. An enigmatic gentleman, cultured and courtly.",
+    "ko": "플린스",
+    "zh": "菲林斯",
+    "ja": "フリンズ"
+  },
+  "10000121": {
+    "birth": [
+      9,
+      21
+    ],
+    "release": "2025-09-09 00:00:00",
+    "icon": "UI_AvatarIcon_Aino",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Hydro",
+    "en": "Aino",
+    "desc": "A genius mechanic and inventor from Nod-Krai who loves interesting machines and sweet treats.",
+    "ko": "아이노",
+    "zh": "爱诺",
+    "ja": "アイノ"
+  },
+  "10000122": {
+    "birth": [
+      5,
+      9
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_Nefer",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Dendro",
+    "en": "Nefer",
+    "desc": "The remarkably resourceful owner of the Curatorium of Secrets.",
+    "ko": "네페르",
+    "zh": "奈芙尔",
+    "ja": "ネフェル"
+  },
+  "10000123": {
+    "birth": [
+      3,
+      14
+    ],
+    "release": "2025-12-02 00:00:00",
+    "icon": "UI_AvatarIcon_Durin",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Durin",
+    "desc": "A dragon born from M's pen, who came to alight in the human world. His \"story\" continues to unfold.",
+    "ko": "두린",
+    "zh": "杜林",
+    "ja": "ドゥリン"
+  },
+  "10000124": {
+    "birth": [
+      1,
+      5
+    ],
+    "release": "2025-12-02 00:00:00",
+    "icon": "UI_AvatarIcon_Jahoda",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_BOW",
+    "element": "Anemo",
+    "en": "Jahoda",
+    "desc": "The Curatorium of Secrets' extremely reliable, do-it-all super employee (or so she claims).",
+    "ko": "야호다",
+    "zh": "雅珂达",
+    "ja": "ヤフォダ"
+  },
+  "10000125": {
+    "birth": [
+      1,
+      14
+    ],
+    "release": "2026-01-13 00:00:00",
+    "icon": "UI_AvatarIcon_Columbina",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Columbina",
+    "desc": "The Moon Maiden born in Nod-Krai, and also the welkin moon returning home.",
+    "ko": "콜롬비나",
+    "zh": "哥伦比娅",
+    "ja": "コロンビーナ"
+  },
+  "10000126": {
+    "birth": [
+      5,
+      15
+    ],
+    "release": "2026-02-03 18:00:00",
+    "icon": "UI_AvatarIcon_Zibai",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Zibai",
+    "desc": "The White Horse Adeptus from Liyue's legends, known as Zibai. The most mysterious figure in Liyue's myths.",
+    "ko": "자백",
+    "zh": "兹白",
+    "ja": "兹白"
+  },
+  "10000127": {
+    "birth": [
+      12,
+      23
+    ],
+    "release": "2026-02-03 18:00:00",
+    "icon": "UI_AvatarIcon_Illuga",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Geo",
+    "en": "Illuga",
+    "desc": "Member of the investigation squad, the Nightmare Orioles. The youngest squad leader among the Lightkeepers.",
+    "ko": "일루가",
+    "zh": "叶洛亚",
+    "ja": "イルーガ"
+  },
+  "10000128": {
+    "birth": [
+      2,
+      17
+    ],
+    "release": "2026-02-24 00:00:00",
+    "icon": "UI_AvatarIcon_Varka",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Anemo",
+    "en": "Varka",
+    "desc": "Grand Master of the Knights of Favonius. Knight of Boreas, protector of Mondstadt.",
+    "ko": "바르카",
+    "zh": "法尔伽",
+    "ja": "ファルカ"
+  },
+  "10000129": {
+    "birth": [
+      4,
+      3
+    ],
+    "release": "2026-06-09 18:00:00",
+    "icon": "UI_AvatarIcon_Lohen",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "element": "Cryo",
+    "en": "Lohen",
+    "desc": "Vice Captain of the Knights of Favonius Ranged Company, a knight known for his unorthodox approach and fondness for unconventional tactics.",
+    "ko": "로엔",
+    "zh": "洛恩",
+    "ja": "ローエン"
+  },
+  "10000130": {
+    "birth": [
+      5,
+      23
+    ],
+    "release": "2026-04-07 00:00:00",
+    "icon": "UI_AvatarIcon_Linnea",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_BOW",
+    "element": "Geo",
+    "en": "Linnea",
+    "desc": "Naturalist and Advisor to the Nod-Krai Branch of the Adventurers' Guild.",
+    "ko": "린네아",
+    "zh": "莉奈娅",
+    "ja": "リンネア"
+  },
+  "10000131": {
+    "birth": [
+      9,
+      29
+    ],
+    "release": "2026-05-19 00:00:00",
+    "icon": "UI_AvatarIcon_Nicole",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Pyro",
+    "en": "Nicole",
+    "desc": "The Silent \"Mage,\" the Voiceless \"Angel.\"",
+    "ko": "니콜",
+    "zh": "尼可",
+    "ja": "ニコ"
+  },
+  "10000132": {
+    "birth": [
+      11,
+      20
+    ],
+    "release": "2026-05-19 00:00:00",
+    "icon": "UI_AvatarIcon_Prune",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Anemo",
+    "en": "Prune",
+    "desc": "A diminutive Witch Hunter who has journeyed all the way from Nod-Krai with the singular purpose of rooting out a witch who, to hear her tell it, has committed every sin imaginable — including bullying little kids!",
+    "ko": "프루네",
+    "zh": "布伦妮",
+    "ja": "プルーネ"
+  },
+  "10000133": {
+    "birth": [
+      1,
+      13
+    ],
+    "release": "2026-06-30 00:00:00",
+    "icon": "UI_AvatarIcon_MarionetteNew",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CLAYMORE",
+    "element": "Cryo",
+    "en": "Sandrone",
+    "desc": "The Seventh of the Fatui Harbingers, \"Marionette.\" Interprets all phenomena through the prism of mathematics, and is an elegant lady who is never absent from a tea party.",
+    "ko": "산드로네",
+    "zh": "桑多涅",
+    "ja": "サンドローネ"
+  },
+  "10000134": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CROSSBOW",
+    "element": "None",
+    "en": "Traveler",
+    "desc": "",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000135": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CROSSBOW",
+    "element": "None",
+    "en": "Traveler",
+    "desc": "",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000140": {
+    "birth": [
+      3,
+      29
+    ],
+    "release": "2026-09-22 00:00:00",
+    "icon": "UI_AvatarIcon_Vodyanitsa",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_CATALYST",
+    "element": "Hydro",
+    "en": "Vodyanitsa",
+    "desc": "Prima Donna of the Korolevskiy Troupe and a Water Imp who has parted from her kin.",
+    "ko": "보댜니차",
+    "zh": "沃雅妮莎",
+    "ja": "ヴォジャニーツァ"
+  },
+  "10000143": {
+    "birth": [
+      2,
+      4
+    ],
+    "release": "2026-09-22 00:00:00",
+    "icon": "UI_AvatarIcon_Vesna",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Vesna",
+    "desc": "Commander of the Druzhna and the Tsaritsa's keen blade.",
+    "ko": "베스나",
+    "zh": "薇斯纳",
+    "ja": "ヴェスナ"
+  },
+  "10000148": {
+    "birth": [
+      2,
+      9
+    ],
+    "release": "2026-08-11 00:00:00",
+    "icon": "UI_AvatarIcon_Alyosha",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_POLE",
+    "element": "Electro",
+    "en": "Alyosha",
+    "desc": "A \"professional hunter\" and master of the Snezhnayan snowfields. A fierce, distinct \"idealism\" burns beneath his calm demeanor.",
+    "ko": "알료샤",
+    "zh": "阿罗夏",
+    "ja": "アリョーシャ"
+  },
+  "10000150": {
+    "birth": [
+      2,
+      20
+    ],
+    "release": "2026-08-11 00:00:00",
+    "icon": "UI_AvatarIcon_Odette",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Odette",
+    "desc": "A famed Snezhnayan ballerina who blossoms against the frozen landscape with a beauty as sharp as frost.",
+    "ko": "오데트",
+    "zh": "奥黛塔",
+    "ja": "オデット"
+  },
+  "10000005-2": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-3": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-4": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-5": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-6": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-7": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000005-8": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerBoy",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-2": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-3": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-4": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-5": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-6": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-7": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000007-8": {
+    "birth": [
+      1,
+      1
+    ],
+    "release": "1970-01-01 00:00:00",
+    "icon": "UI_AvatarIcon_PlayerGirl",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Traveler",
+    "desc": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "ko": "여행자",
+    "zh": "旅行者",
+    "ja": "旅人"
+  },
+  "10000117-2": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-3": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-4": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-5": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-6": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-7": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000117-8": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinBoy",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Manekin",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·남성",
+    "zh": "奇偶·男性",
+    "ja": "ドール（男）"
+  },
+  "10000118-2": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Pyro",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-3": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Hydro",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-4": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Anemo",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-5": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Cryo",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-6": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Geo",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-7": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Electro",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  },
+  "10000118-8": {
+    "birth": [
+      null,
+      null
+    ],
+    "release": "2025-10-21 00:00:00",
+    "icon": "UI_AvatarIcon_MannequinGirl",
+    "rank": "QUALITY_ORANGE_SP",
+    "weapon": "WEAPON_SWORD_ONE_HAND",
+    "element": "Dendro",
+    "en": "Manekina",
+    "desc": "A Manekin gifted to you and Paimon by a witch who uses the pseudonym \"Octavia.\" They are gifted at exploring the mysteries sealed within the Miliastra Wonderland.",
+    "ko": "별인형·여성",
+    "zh": "奇偶·女性",
+    "ja": "ドール（女）"
+  }
+}

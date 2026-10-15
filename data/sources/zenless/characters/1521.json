@@ -1,0 +1,1984 @@
+{
+  "id": 1521,
+  "icon": "IconRole60",
+  "name": "希希芙",
+  "code_name": "Cissia",
+  "rarity": 4,
+  "weapon_type": {
+    "1": "强攻"
+  },
+  "element_type": {
+    "203": "电属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "101": "斩击"
+  },
+  "camp": {
+    "7": "新艾利都治安局"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "1/10",
+    "full_name": "希希芙",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle60.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0060.png",
+    "impression_f": "没有什么零食能瞒过希希芙的眼睛和鼻子！她到底是怎么穿过包装袋闻到薯片的味道的？",
+    "impression_m": "自从希希芙来了家里之后，有的东西再也没丢过了，比如找不到的老录像带。有些东西再也没见过了，比如冰箱里没吃完的芝士蛋糕…",
+    "impressions": [
+      "对希希芙的印象：\n · 投蛋报之以膨化食品。",
+      " · 警报没响，又是好孩子的一天。",
+      " · 已单方面宣布对录像店沙发的主权。"
+    ],
+    "profile_desc": "希希芙，新艾利都治安局秩序督察麾下的案件专员，正在积极竞选「Random Play」二楼的新室友中。\n\n比起来自行动和任务本身的危险，更害怕的是来自长官的来电。行动中的专业素养比外表和言语表现出来的可靠得多，仅凭五感和直觉便能做出正确的判断。\n\n虽然自称是只遵循本能、自私任性的「坏蛋」，做出的选择却时常闪烁着超越利益的人性微光。虽然对秩序与正义嗤之以鼻，却能成为追猎恶性罪犯最锋利的匕首。\n\n但无论是用于自保的谎言、用以反水的獠牙，还是那套「趋利避害」的野生哲学，希希芙都已将其化为保护仅存之物的盾牌。无论背负着怎样的过往与枷锁，她已决心在此立足。",
+    "role_icon": "IconRole/UnPacker/IconRole60",
+    "stature": "156",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季·尾音 新·艾利都日落时 上",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "希希芙，新艾利都治安局秩序督察麾下的案件专员，正在积极竞选「Random Play」二楼的新室友中。\n\n比起来自行动和任务本身的危险，更害怕的是来自长官的来电。行动中的专业素养比外表和言语表现出来的可靠得多，仅凭五感和直觉便能做出正确的判断。\n\n虽然自称是只遵循本能、自私任性的「坏蛋」，做出的选择却时常闪烁着超越利益的人性微光。虽然对秩序与正义嗤之以鼻，却能成为追猎恶性罪犯最锋利的匕首。\n\n但无论是用于自保的谎言、用以反水的獠牙，还是那套「趋利避害」的野生哲学，希希芙都已将其化为保护仅存之物的盾牌。无论背负着怎样的过往与枷锁，她已决心在此立足。",
+      "2": "",
+      "3": "「本能」是希希芙赖以生存的基石，却也成了将她拖入更深处漩涡的引力。她过于信赖那些从气味、痕迹与肌肉颤动中读取的信息，却未曾学会辨识纸面契约与权力程序中的陷阱。\n\n在被捕之前，她最后一次「合法」雇佣任务是运送一批保密物资。委托人给出了丰厚报酬和简单的路线——这对熟悉外环每一处暗巷的希希芙来说轻而易举。她像往常一样，凭借动物般的警觉避开了几处微妙的巡逻间隙，却不知自己的每一个规避动作，都被记录为「鬼祟行径」与「反侦察能力」的证据。那场吞噬一切的大爆炸发生时，她恰因察觉到热量异常波动而提前数秒缩进了废弃管道。这救了她一命，也彻底坐实了「唯一幸存且行迹可疑的纵火犯」这个身份。\n\n在治安局的档案中，她的直觉与能力被倒置为精心策划犯罪的证明。审讯并非为了真相，而是一场冰冷的程序：用强光摧毁她对光线的耐受力，用连续的问话剥夺她对时间的概念，最终在她生理与精神濒临断裂时，推来了一份认罪书。\n\n百般的厄运中终于有幸运的眷顾：秩序督察赛维里安发现了希希芙漏洞百出的审讯记录，当她因卓越的天赋与纯良的本质被赛维里安特聘为「案件专员」，颈环与手铐不再是单纯的束缚。它们是她与这个她既不理解也不信任的秩序之间，一道被她利用着的危险界限。\n",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3115210": {
+      "name": "希希芙·蛇鼠游戏",
+      "desc": "世上的人都是毒蛇和老鼠！至于谁是蛇、谁是鼠…\n希希芙大人坦言：比我强就是蛇，比我弱就是鼠！",
+      "obtain_desc": "",
+      "image": "IconRole60"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 135,
+    "attack_growth": 82578,
+    "avatar_piece_id": 5521,
+    "break_stun": 93,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66203,
+    "element_abnormal_power": 94,
+    "element_mystery": 93,
+    "endurance": 0,
+    "hp_growth": 837238,
+    "hp_max": 617,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Cissia",
+      "Cut",
+      "Electric",
+      "Female",
+      "Camp7",
+      "Size2",
+      "AidTypeParry",
+      "Cissia",
+      "EtherEyesSize0"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hp_max": 423,
+      "attack": 48,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hp_max": 847,
+      "attack": 96,
+      "defence": 67,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hp_max": 1270,
+      "attack": 145,
+      "defence": 100,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hp_max": 1694,
+      "attack": 193,
+      "defence": 134,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hp_max": 2117,
+      "attack": 241,
+      "defence": 167,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：吐信",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，造成<color=#2EB6FF>电属性伤害</color>；\n第四段攻击命中敌人后，获得2点<color=#FFFFFF>[毒素]</color>，命中处于失衡状态下的敌人时，额外获得1点<color=#FFFFFF>[毒素]</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：蛇吻",
+          "desc": "拥有<color=#FFFFFF>[蛇影]</color>时可长按 <IconMap:Icon_Normal> 发动：\n希希芙跳入空中并锁定目标，随后落地对范围内敌人造成<color=#2EB6FF>电属性伤害</color>；\n锁定期间，保持长按 <IconMap:Icon_Normal> 并拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}可以延长锁定时间，并自由控制落地位置；\n每获得6点<color=#FFFFFF>[毒素]</color>，自身获得1层<color=#FFFFFF>[蛇影]</color>效果，至多获得3层；\n进入战场时，获得1层<color=#FFFFFF>[蛇影]</color>效果；\n招式发动时消耗1层<color=#FFFFFF>[蛇影]</color>；\n命中敌人后，快速消耗所有<color=#FFFFFF>[毒素]</color>并触发<color=#FFFFFF>[蚀骨]</color>；\n招式发动时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "蚀骨",
+          "desc": "对附近敌人造成<color=#2EB6FF>电属性伤害</color>；\n每次触发，使自身暴击率提升6%，持续15秒，至多叠加3层，重复触发刷新持续时间。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：吐信",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1521001, Prop:1001}",
+              "param": {
+                "1521001": {
+                  "main": 7770,
+                  "growth": 710,
+                  "format": "%",
+                  "damage_percentage": 7770,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 6030,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 23520,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 179850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6530,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6531
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1521002, Prop:1001}",
+              "param": {
+                "1521002": {
+                  "main": 13870,
+                  "growth": 1270,
+                  "format": "%",
+                  "damage_percentage": 13870,
+                  "damage_percentage_growth": 1270,
+                  "stun_ratio": 9840,
+                  "stun_ratio_growth": 450,
+                  "sp_recovery": 37680,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 287925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10466,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10467
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1521003, Prop:1001}",
+              "param": {
+                "1521003": {
+                  "main": 13510,
+                  "growth": 1230,
+                  "format": "%",
+                  "damage_percentage": 13510,
+                  "damage_percentage_growth": 1230,
+                  "stun_ratio": 8740,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 32750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 250250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9096,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9097
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1521004, Prop:1001}",
+              "param": {
+                "1521004": {
+                  "main": 25020,
+                  "growth": 2280,
+                  "format": "%",
+                  "damage_percentage": 25020,
+                  "damage_percentage_growth": 2280,
+                  "stun_ratio": 15910,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 67440,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 515350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18732,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18733
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1521001, Prop:1002}",
+              "param": {
+                "1521001": {
+                  "main": 6030,
+                  "growth": 280,
+                  "format": "%",
+                  "damage_percentage": 7770,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 6030,
+                  "stun_ratio_growth": 280,
+                  "sp_recovery": 23520,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 179850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6530,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6531
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1521002, Prop:1002}",
+              "param": {
+                "1521002": {
+                  "main": 9840,
+                  "growth": 450,
+                  "format": "%",
+                  "damage_percentage": 13870,
+                  "damage_percentage_growth": 1270,
+                  "stun_ratio": 9840,
+                  "stun_ratio_growth": 450,
+                  "sp_recovery": 37680,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 287925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10466,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10467
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1521003, Prop:1002}",
+              "param": {
+                "1521003": {
+                  "main": 8740,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 13510,
+                  "damage_percentage_growth": 1230,
+                  "stun_ratio": 8740,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 32750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 250250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9096,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9097
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1521004, Prop:1002}",
+              "param": {
+                "1521004": {
+                  "main": 15910,
+                  "growth": 730,
+                  "format": "%",
+                  "damage_percentage": 25020,
+                  "damage_percentage_growth": 2280,
+                  "stun_ratio": 15910,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 67440,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 515350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18732,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18733
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：蛇吻",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521006, Prop:1001}",
+              "param": {
+                "1521006": {
+                  "main": 50420,
+                  "growth": 4590,
+                  "format": "%",
+                  "damage_percentage": 50420,
+                  "damage_percentage_growth": 4590,
+                  "stun_ratio": 17970,
+                  "stun_ratio_growth": 820,
+                  "sp_recovery": 49970,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 359425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13063,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13064
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521006, Prop:1002}",
+              "param": {
+                "1521006": {
+                  "main": 17970,
+                  "growth": 820,
+                  "format": "%",
+                  "damage_percentage": 50420,
+                  "damage_percentage_growth": 4590,
+                  "stun_ratio": 17970,
+                  "stun_ratio_growth": 820,
+                  "sp_recovery": 49970,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 359425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13063,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13064
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "蚀骨",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521019, Prop:1001}",
+              "param": {
+                "1521019": {
+                  "main": 12680,
+                  "growth": 1160,
+                  "format": "%",
+                  "damage_percentage": 12680,
+                  "damage_percentage_growth": 1160,
+                  "stun_ratio": 15510,
+                  "stun_ratio_growth": 710,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521019, Prop:1002}",
+              "param": {
+                "1521019": {
+                  "main": 15510,
+                  "growth": 710,
+                  "format": "%",
+                  "damage_percentage": 12680,
+                  "damage_percentage_growth": 1160,
+                  "stun_ratio": 15510,
+                  "stun_ratio_growth": 710,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：蛇行",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：齿痕",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前进行快速斩击，造成<color=#2EB6FF>电属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：反咬一口",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n向前方跃起，落地后进行横扫攻击，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：齿痕",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521010, Prop:1001}",
+              "param": {
+                "1521010": {
+                  "main": 14730,
+                  "growth": 1340,
+                  "format": "%",
+                  "damage_percentage": 14730,
+                  "damage_percentage_growth": 1340,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5665,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5666
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521010, Prop:1002}",
+              "param": {
+                "1521010": {
+                  "main": 6240,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 14730,
+                  "damage_percentage_growth": 1340,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5665,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5666
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：反咬一口",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521011, Prop:1001}",
+              "param": {
+                "1521011": {
+                  "main": 32450,
+                  "growth": 2950,
+                  "format": "%",
+                  "damage_percentage": 32450,
+                  "damage_percentage_growth": 2950,
+                  "stun_ratio": 23660,
+                  "stun_ratio_growth": 1080,
+                  "sp_recovery": 41420,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 316525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521011, Prop:1002}",
+              "param": {
+                "1521011": {
+                  "main": 23660,
+                  "growth": 1080,
+                  "format": "%",
+                  "damage_percentage": 32450,
+                  "damage_percentage_growth": 2950,
+                  "stun_ratio": 23660,
+                  "stun_ratio_growth": 1080,
+                  "sp_recovery": 41420,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 316525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11503,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：獠齿",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方发动远距离蛇咬， 造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：毒牙",
+          "desc": "能量足够时，点按或长按 <IconMap:Icon_SpecialReady> 发动：\n向前方发动多段远距离蛇咬，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动时，回复5点能量；\n长按发动时，会额外消耗能量，每20点发动一次额外的打击，造成<color=#2EB6FF>电属性伤害</color>，至多额外消耗60点能量；\n招式发动后，自身获得3点<color=#FFFFFF>[毒素]</color>，长按时每额外消耗20点能量，获得1点<color=#FFFFFF>[毒素]</color>；\n招式发动后，可直接衔接第四段<color=#FFFFFF>[普通攻击：吐信]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：獠齿",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521007, Prop:1001}",
+              "param": {
+                "1521007": {
+                  "main": 5200,
+                  "growth": 480,
+                  "format": "%",
+                  "damage_percentage": 5200,
+                  "damage_percentage_growth": 480,
+                  "stun_ratio": 4400,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3998,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3999
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521007, Prop:1002}",
+              "param": {
+                "1521007": {
+                  "main": 4400,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 5200,
+                  "damage_percentage_growth": 480,
+                  "stun_ratio": 4400,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3998,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3999
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：毒牙",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{{Skill:1521008, Prop:1001}*3+{Skill:1521009, Prop:1001}}",
+              "param": {
+                "1521008": {
+                  "main": 20040,
+                  "growth": 1830,
+                  "format": "%",
+                  "damage_percentage": 20040,
+                  "damage_percentage_growth": 1830,
+                  "stun_ratio": 10830,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5650
+                },
+                "1521009": {
+                  "main": 6680,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 6680,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 3610,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 192500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5459,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1884
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{{Skill:1521008, Prop:1002}*3+{Skill:1521009, Prop:1002}}",
+              "param": {
+                "1521008": {
+                  "main": 10830,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 20040,
+                  "damage_percentage_growth": 1830,
+                  "stun_ratio": 10830,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5650
+                },
+                "1521009": {
+                  "main": 3610,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 6680,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 3610,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 192500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5459,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1884
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "额外打击伤害倍率",
+              "desc": "{Skill:1521008, Prop:1001}",
+              "param": {
+                "1521008": {
+                  "main": 20040,
+                  "growth": 1830,
+                  "format": "%",
+                  "damage_percentage": 20040,
+                  "damage_percentage_growth": 1830,
+                  "stun_ratio": 10830,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5650
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "额外打击失衡倍率",
+              "desc": "{Skill:1521008, Prop:1002}",
+              "param": {
+                "1521008": {
+                  "main": 10830,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 20040,
+                  "damage_percentage_growth": 1830,
+                  "stun_ratio": 10830,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 16375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5650
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "65点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：团伙作案",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n向前方进行多段攻击，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动后，获得3点<color=#FFFFFF>[毒素]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：爬行恐惧",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n对前方发动落雷攻击，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动后，获得3点<color=#FFFFFF>[毒素]</color>；\n招式发动后，开启<color=#FFFFFF>[以太帷幕：冷血]</color>，持续30秒，期间全队角色暴击伤害提升5%；\n重复开启<color=#FFFFFF>[以太帷幕：冷血]</color>前，将关闭已有的<color=#FFFFFF>[以太帷幕：冷血]</color>；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：团伙作案",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521012, Prop:1001}",
+              "param": {
+                "1521012": {
+                  "main": 73780,
+                  "growth": 6710,
+                  "format": "%",
+                  "damage_percentage": 73780,
+                  "damage_percentage_growth": 6710,
+                  "stun_ratio": 25860,
+                  "stun_ratio_growth": 1180,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2475275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 43453,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521012, Prop:1002}",
+              "param": {
+                "1521012": {
+                  "main": 25860,
+                  "growth": 1180,
+                  "format": "%",
+                  "damage_percentage": 73780,
+                  "damage_percentage_growth": 6710,
+                  "stun_ratio": 25860,
+                  "stun_ratio_growth": 1180,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2475275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 43453,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：爬行恐惧",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521013, Prop:1001}",
+              "param": {
+                "1521013": {
+                  "main": 181100,
+                  "growth": 16470,
+                  "format": "%",
+                  "damage_percentage": 181100,
+                  "damage_percentage_growth": 16470,
+                  "stun_ratio": 12110,
+                  "stun_ratio_growth": 560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 61004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521013, Prop:1002}",
+              "param": {
+                "1521013": {
+                  "main": 12110,
+                  "growth": 560,
+                  "format": "%",
+                  "damage_percentage": 181100,
+                  "damage_percentage_growth": 16470,
+                  "stun_ratio": 12110,
+                  "stun_ratio_growth": 560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 61004
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：报警装置",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n向前方跃起，落地后进行横扫攻击，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间，可以快速衔接<color=#FFFFFF>[特殊技：獠齿]</color>、<color=#FFFFFF>[强化特殊技：毒牙]</color>和<color=#FFFFFF>[普通攻击：蛇吻]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：牢饭加餐",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：共犯情谊",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对目标发动连续攻击，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：报警装置",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521014, Prop:1001}",
+              "param": {
+                "1521014": {
+                  "main": 7480,
+                  "growth": 680,
+                  "format": "%",
+                  "damage_percentage": 7480,
+                  "damage_percentage_growth": 680,
+                  "stun_ratio": 6330,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 158400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5751,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5752
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521014, Prop:1002}",
+              "param": {
+                "1521014": {
+                  "main": 6330,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 7480,
+                  "damage_percentage_growth": 680,
+                  "stun_ratio": 6330,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 158400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5751,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5752
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：牢饭加餐",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1521015, Prop:1002}",
+              "param": {
+                "1521015": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1521016, Prop:1002}",
+              "param": {
+                "1521016": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1521017, Prop:1002}",
+              "param": {
+                "1521017": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：共犯情谊",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1521018, Prop:1001}",
+              "param": {
+                "1521018": {
+                  "main": 52060,
+                  "growth": 4740,
+                  "format": "%",
+                  "damage_percentage": 52060,
+                  "damage_percentage_growth": 4740,
+                  "stun_ratio": 38720,
+                  "stun_ratio_growth": 1760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1234475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 37617,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1521018, Prop:1002}",
+              "param": {
+                "1521018": {
+                  "main": 38720,
+                  "growth": 1760,
+                  "format": "%",
+                  "damage_percentage": 52060,
+                  "damage_percentage_growth": 4740,
+                  "stun_ratio": 38720,
+                  "stun_ratio_growth": 1760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1234475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 37617,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1521001,
+      "avatar_id": 1521,
+      "first_priority": [
+        5,
+        0
+      ],
+      "second_priority": [
+        1,
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1521001": {
+      "name": "普通攻击：吐信",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521002": {
+      "name": "普通攻击：蛇吻",
+      "desc": "<IconMap:Icon_Normal>（拥有[蛇影]时长按）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521003": {
+      "name": "特殊技：獠齿",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521004": {
+      "name": "强化特殊技：毒牙",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521005": {
+      "name": "强化特殊技：毒牙",
+      "desc": "<IconMap:Icon_SpecialReady>（长按）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521006": {
+      "name": "冲刺攻击：齿痕",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521007": {
+      "name": "闪避反击：反咬一口",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521008": {
+      "name": "连携技：团伙作案",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521009": {
+      "name": "终结技：爬行恐惧",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521010": {
+      "name": "快速支援：报警装置",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1521011": {
+      "name": "招架支援：牢饭加餐",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1521012": {
+      "name": "支援突击：共犯情谊",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1521049": {
+        "level": 1,
+        "id": 1521049,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>3%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.52%</color>防御力，至多无视敌人<color=#2BAD00>12.88%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>227%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521050": {
+        "level": 2,
+        "id": 1521050,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>3.5%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.6%</color>防御力，至多无视敌人<color=#2BAD00>14.9%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>245%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521051": {
+        "level": 3,
+        "id": 1521051,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>4%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.68%</color>防御力，至多无视敌人<color=#2BAD00>16.92%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>263%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521052": {
+        "level": 4,
+        "id": 1521052,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>4.5%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.76%</color>防御力，至多无视敌人<color=#2BAD00>18.94%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>281%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521053": {
+        "level": 5,
+        "id": 1521053,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>5%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.84%</color>防御力，至多无视敌人<color=#2BAD00>20.96%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>299%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521054": {
+        "level": 6,
+        "id": 1521054,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>5.5%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>0.92%</color>防御力，至多无视敌人<color=#2BAD00>22.98%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>317%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1521055": {
+        "level": 7,
+        "id": 1521055,
+        "name": [
+          "核心被动：致命私酿",
+          "额外能力：毒素发酵"
+        ],
+        "desc": [
+          "进入战场时，获得3点<color=#FFFFFF>[毒素]</color>，在勘域模式中此效果180秒内最多触发一次。\n拥有<color=#FFFFFF>[毒素]</color>时，接战状态下每5秒消耗1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>，造成<color=#2EB6FF>电属性伤害</color>；\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色对敌人造成的<color=#2EB6FF>电属性伤害</color>无视敌人<color=#2BAD00>6%</color>防御力，初始能量自动回复大于1.4时，超过部分每超过0.12，额外无视敌人<color=#2BAD00>1%</color>防御力，至多无视敌人<color=#2BAD00>25%</color>防御力，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。\n<color=#FFFFFF>[蚀骨]</color>额外附加自身<color=#2BAD00>335%</color>攻击力的<color=#2EB6FF>电属性伤害</color>；\n队伍中有1/2名<color=#2EB6FF>电属性</color>角色时，<color=#FFFFFF>[蚀骨]</color>造成的失衡值提升40%/60%；\n获得<color=#FFFFFF>[毒素]</color>时，每溢出1点<color=#FFFFFF>[毒素]</color>，触发一次<color=#FFFFFF>[蚀骨]</color>。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>或与自身属性相同的角色时触发：\n拥有<color=#FFFFFF>[毒素]</color>时，使全队角色暴击伤害提升40%，自身额外提升10%，持续至<color=#FFFFFF>[毒素]</color>耗尽后30秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110514": 2
+      },
+      "3": {
+        "10": 28000,
+        "110514": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110514": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110514": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110514": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "旅人与猎物",
+      "desc": "进入战场时，获得的<color=#FFFFFF>[毒素]</color>点数提升至6点；<color=#FFFFFF>[核心被动]</color>中无视敌人防御力效果提升至原本的140%，并使全队角色造成的伤害无视目标5%<color=#2EB6FF>电属性伤害抗性</color>；<color=#FFFFFF>[蚀骨]</color>造成的伤害无视目标10%<color=#2EB6FF>电属性伤害抗性</color>。",
+      "desc2": "气味、脚步、闪烁的目光…这些「痕迹」为我区分了猎人与猎物。在成为猎物之前溜走，在成为猎人之前低头——这就是我的生存之道。「家」？那种东西只在童话故事里出现。偌大的荒原，就是我的猎人小屋。"
+    },
+    "2": {
+      "level": 2,
+      "name": "饥肠与箴言",
+      "desc": "<color=#FFFFFF>[连携技：团伙作案]</color>或<color=#FFFFFF>[终结技：爬行恐惧]</color>命中处于失衡状态下的敌人后，额外获得3点<color=#FFFFFF>[毒素]</color>；<color=#FFFFFF>[普通攻击：蛇吻]</color>造成的伤害提升35%。",
+      "desc2": "能吃饱的地方就是好地方，能给我饭吃的就是好人，这是世界上最简单最可靠的道理。另外——蛋包饭是绝世的美味，包括你勺子里的剩饭。"
+    },
+    "3": {
+      "level": 3,
+      "name": "锁链与暖巢",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "正义？秩序？那种光明正大的东西让我腿软。我熟悉的是阴影里的规则：背叛、谎言、为了活命可以跪得很漂亮。我不介意被当作工具，只要报酬是一顿饱饭和一个温暖的角落。"
+    },
+    "4": {
+      "level": 4,
+      "name": "坏蛋的觉悟",
+      "desc": "发动<color=#FFFFFF>[强化特殊技]</color>、<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>时，获得1层<color=#FFFFFF>[觉悟]</color>，至多叠加3层；发动<color=#FFFFFF>[普通攻击：蛇吻]</color>时，消耗全部<color=#FFFFFF>[觉悟]</color>，每消耗1层额外触发1次不消耗<color=#FFFFFF>[毒素]</color>的特殊<color=#FFFFFF>[蚀骨]</color>，该次<color=#FFFFFF>[蚀骨]</color>无法造成失衡值。",
+      "desc2": "颈环很冰，手铐很重，提醒着我无法洗刷的罪责。但比起那些看不见的规则和冷眼，这种明码标价的束缚反而让我安心…至少我知道代价是什么。而且，只要回到那个有沙发和零食的小窝，铁疙瘩们也有了温度。"
+    },
+    "5": {
+      "level": 5,
+      "name": "伪证与獠牙",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "被强光灼伤的回忆、白纸黑字的罪名…这些「痕迹」构成了曾经的我。但现在不同了，我学会了识字，也学会了分辨谎言的味道。当熟悉的阴谋气味再次飘来，我不会再呆呆地走进笼子。这一次，该由我来留下「痕迹」了——用牙齿，恶狠狠地。"
+    },
+    "6": {
+      "level": 6,
+      "name": "家与六分街道",
+      "desc": "每次触发<color=#FFFFFF>[蚀骨]</color>时，获得1层<color=#FFFFFF>[蚀骨印记]</color>；全队角色除<color=#FFFFFF>[蚀骨]</color>外的攻击命中敌人时，消耗1层<color=#FFFFFF>[蚀骨印记]</color>，触发1次特殊的<color=#FFFFFF>[蚀骨]</color>，该次<color=#FFFFFF>[蚀骨]</color>无法造成失衡值，3秒内至多消耗1层<color=#FFFFFF>[蚀骨印记]</color>。",
+      "desc2": "一旦有了比「活下去」更想抓住的东西，人就真的会变傻。如果有一天命运一定要我赴死，你那张又大又软的沙发，可不许给别人躺！\n\n「绝 对 不 准 忘 了 我 不 然 就 咬 死 你。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33300,
+    "slot2": 33400,
+    "slot_sub": 31600,
+    "part_sub_list": [
+      20103,
+      21103,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33300,
+          33400
+        ],
+        "part_sub_list": [
+          20103
+        ]
+      },
+      {
+        "suit_list": [
+          33300,
+          31600
+        ],
+        "part_sub_list": [
+          31803,
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          30502
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part6": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part_sub": {
+      "prop": 31803,
+      "name": "电属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>电属性，速切/站场输出",
+    "提供暴伤和无视一定防御的增益",
+    "后台持续造成伤害，积累额外失衡值"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "Xixifu"
+}

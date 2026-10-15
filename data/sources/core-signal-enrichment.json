@@ -1,0 +1,47 @@
+{
+  "updatedAt": "2026-10-03T06:09:16.409Z",
+  "backup": "data/backups/wiki-before-core-signals-2026-10-03T06-09-16.190Z.json.gz",
+  "characters": 60,
+  "banners": [
+    {
+      "id": "zenless-banners-ca99a4f888388b16",
+      "type": "独家重映",
+      "version": "2.5",
+      "start": "2026-01-21 12:00:00",
+      "end": "2026-02-05 14:59:59",
+      "rawSourceType": "Exclusive Rescreening",
+      "sourceType": "Exclusive Rescreening",
+      "pairedBannerId": "zenless-banners-24b630883f821fb9"
+    },
+    {
+      "id": "zenless-banners-28dd1b72d0ae8317",
+      "type": "独家重映",
+      "version": "3.1",
+      "start": "2026-08-19 12:00:00",
+      "end": "2026-09-08 14:59:59",
+      "rawSourceType": "Exclusive Channel",
+      "sourceType": "Exclusive Rescreening",
+      "pairedBannerId": "zenless-banners-41508ba8b15ea1e9"
+    },
+    {
+      "id": "zenless-banners-24b630883f821fb9",
+      "type": "音擎回响",
+      "version": "2.5",
+      "start": "2026-01-21 12:00:00",
+      "end": "2026-02-05 14:59:59",
+      "rawSourceType": "W-Engine Channel",
+      "sourceType": "W-Engine Reverberation",
+      "pairedBannerId": "zenless-banners-ca99a4f888388b16"
+    },
+    {
+      "id": "zenless-banners-41508ba8b15ea1e9",
+      "type": "音擎回响",
+      "version": "3.1",
+      "start": "2026-08-19 12:00:00",
+      "end": "2026-09-08 14:59:59",
+      "rawSourceType": "W-Engine Channel",
+      "sourceType": "W-Engine Reverberation",
+      "pairedBannerId": "zenless-banners-28dd1b72d0ae8317"
+    }
+  ]
+}

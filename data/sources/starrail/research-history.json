@@ -1,0 +1,75 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 10,
+        "title": "Template:Warp History",
+        "missing": true
+      },
+      {
+        "ns": 828,
+        "title": "Module:Warp",
+        "missing": true
+      },
+      {
+        "ns": 828,
+        "title": "Module:Warp/data",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Warp/History",
+        "missing": true
+      },
+      {
+        "pageid": 1062,
+        "ns": 0,
+        "title": "Blade",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Character Tabs}}\n{{About|the playable character|his previous identity|Yingxing|other uses|Blade (Disambiguation)}}\n{{Character Infobox\n|id             = 1205\n<!--Basic Information-->\n|title          = \n|title2         = \n|image          = <gallery>\nCharacter Blade Splash Art.png|Splash Art\nCharacter Blade Game.png|In-Game\n</gallery>\n|rarity         = 5\n|path           = Destruction\n|combatType     = Wind\n|type           = Playable Character\n|realname       = [[Yingxing]]\n|species        = [[Long-Life Species]]\n|speciesNote    = formerly Short-Life Species\n|birthday       = \n|deceased       = \n|pathlore       = Finality\n|pathRef        = <ref>{{Ref/Mission|Soldier's Pay|quote='''Jade:''' I wonder what they are like, and if all Stellaron Hunters are like you... {{Color|keyword|nobold=1|Traveling on the Path of Finality but struggling against your destiny, attempting to move in the opposite direction?}}}}</ref><ref>{{Ref/Mission|Night Veil, Shroud the Silent Past}}</ref>\n|pathlore2      = Abundance\n|pathNote2      = assimilated with the flesh of [[Shuhu]]\n|pathRef2       = <ref>{{Ref/Mission|Clouds Leave No Trace}}</ref>\n|faction        = Stellaron Hunters\n|factionNote    = \n|faction2       = High-Cloud Quintet\n|factionNote2   = formerly\n|world          = \n|how_to_obtain  = \n* [[A Lost Soul]]\n* Select [[Character Event Warp]]s\n|lightcone      = The Unreachable Side\n|release_date   = 2023-07-19\n|relatives      = \n<!--Voice Actors-->\n|vaEN           = [[imdb:nm5410860|Daman Mills]]<ref name=\"bili-blade\">{{zh|崩坏星穹铁道}} (July 8, 2023). [https://www.bilibili.com/video/BV1xg4y1P75E/ {{zh|1.2版本PV：「仙骸有终」}}]. Bilibili. Retrieved April 7, 2026.</ref>\n|vaCN           = [https://zh.moegirl.org.cn/刘以嘉 Liu Yijia ({{zh|刘以嘉}})]<ref name=\"bili-blade\" />\n|vaJP           = {{w|Shin-ichiro Miki|Miki Shin-ichiro ({{ja|三木眞一郎}})}}<ref name=\"bili-blade\" />\n|vaKR           = [https://namu.wiki/w/곽윤상 Kwak Yoon-sang ({{ko|곽윤상}})]<ref name=\"bili-blade\" />\n}}\n{{Description|\"When will death come for me? My patience is wearing thin.\"<ref>[{{Character Page Link|Blade}} Blade's Character Page], ''Honkai: Star Rail'' Official Website. Retrieved August 8, 2023.</ref>}}\n'''Blade''', previous name {{Lang|'''Yingxing'''|zh=应星}}, is a playable [[character]] in ''[[Honkai: Star Rail]]''.\n\nA member of the [[Stellaron Hunters]] and a swordsman who abandoned his body to become a blade. He pledges loyalty to [[Elio|Destiny's Slave]] and possesses a terrifying self-healing ability.\n\n==Combat Info==\n===Ascensions and Stats===\n{{Character Ascensions and Stats|Blade}}\n\n===Abilities===\n{{Tabber\n|Base\n|{{Skill Table}}\n|Enhanced \n|{{Skill Table|enhanced=1}}\n}}\n\n===Traces===\n{{Trace Upgrades|Blade}}\n\n{{Tabber\n|Base\n|{{Trace Table/Destruction\n|1_1 = HP\n|2_1 = CRIT Rate\n|2_3 = Effect RES\n}}\n|Enhanced \n|{{Trace Table|enhanced=1}}\n}}\n\n===Eidolons===\n{{Tabber\n|Base\n|{{Eidolon Table}}\n|Enhanced \n|{{Eidolon Table|enhanced=1}}\n}}\n\n==Achievements==\n{{Achievements by Category Table|topic=Blade}}\n\n==Availability==\n===Event Warps===\n{{Featured}}\n{{Non-Featured}}\n\n==Other Languages==\n{{Other Languages\n|en    = Blade\n|zhs   = 刃\n|zht   = 刃\n|ja    = {{Rubi|刃|ジン}}\n|ko    = 블레이드\n|es    = Blade\n|fr    = Blade\n|ru    = Блэйд\n|th    = Blade\n|vi    = Blade\n|de    = Blade\n|id    = Blade\n|pt    = Blade\n}}\n\n==Change History==\n{{Change History|1.2|introduced=1.0}}\n\n==References==\n{{Reflist}}\n\n==Navigation==\n{{Character Navbox}}\n\n[[de:Blade]]\n[[es:Blade]]\n[[fr:Blade]]\n[[pl:Blade]]\n[[pt-br:Blade]]\n[[ru:Блэйд]]\n[[th:Blade]]\n[[tr:Blade]]\n[[vi:Blade]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 1309,
+        "ns": 0,
+        "title": "Warp",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Stub|Collab Warp info.}}\n{{Custom Tabs\n|tab1 = Overview\n|tab2 = List\n|tab3 = Gallery\n}}\n{{Terminology Infobox\n|image = Icon Warp.png\n|type  = Game Systems\n|type2 = Monetization\n}}\n'''Warps''' are the ''{{w|Gacha game|gacha}}'' system in ''[[Honkai: Star Rail]]'' and the primary method to obtain [[Character]]s and [[Light Cone]]s.\n\nThe Warp system is unlocked during the {{Mission|A Moment of Peace|showChapter=0}}.\n\n==Types==\n* [[Departure Warp]]\n* [[Stellar Warp]]\n* [[Character Event Warp]]\n* [[Light Cone Event Warp]]\n* [[Character Collaboration Warp]]\n* [[Light Cone Collaboration Warp]]\n\n==Availability==\nThe [[Stellar Warp]] is always available and requires {{Item|Star Rail Pass|text=Star Rail Passes}}.\n\nThe [[Departure Warp]] is available indefinitely until all 50 Warps are made. It has a 20% discount using batch Warps, requiring only 40 Star Rail Passes to complete all 50 pulls. Within this limit, players are guaranteed to obtain one non-promotional 5{{Star}} character.\n\nLimited-time Event Warps are split into two types: [[Character Event Warp]]s and [[Light Cone Event Warp]]s. As the name suggests, they are only available for a limited time and require {{Item|Star Rail Special Pass|text=Star Rail Special Passes}} instead of Star Rail Passes.\n\nCharacter Event Warps have one promotional 5{{Star}} character and three featured 4{{Star}} characters. Light Cone Event Warps have one promotional 5{{Star}} Light Cone and three featured 4{{Star}} Light Cones. Both the promotional 5{{Star}} and featured 4{{Star}} items have an increased drop rate compared to the basic rates when the guarantees are factored in.\n\nPlayers can buy either of the Passes for {{Item|Stellar Jade|x=160}} each from the Warp menu or through the [[Store]]. However, purchasing is optional, as Stellar Jade will be used in place of missing Passes when performing a Warp. Additionally, there are also in-game methods of obtaining Passes; see their respective pages for more information.\n\n===Current Event Warps===\n{{Warp List|no_past=1|no_upcoming=1|no_headers=1}}\n\n===Upcoming Event Warps===\n{{Warp List|no_past=1|no_current=1|no_headers=1}}\n\n==Character Event Warps==\n{{Main|Character Event Warp}}\n\n===Rates===\n{{Transclude|Character Event Warp|Rates}}\n\n===Rules===\n{{Transclude|Character Event Warp|Rules}}\n\n==Light Cone Event Warps==\n{{Main|Light Cone Event Warp}}\n\n===Rates===\n{{Transclude|Light Cone Event Warp|Rates}}\n\n===Rules===\n{{Transclude|Light Cone Event Warp|Rules}}\n\n==Additional Items==\nWhen players receive characters and Light Cones from Warps, they also receive {{Item|Undying Embers}} and/or {{Item|Undying Starlight}}. These items can be traded in the Store to obtain other items.\n\nWhen players receive a duplicate character, they also receive [[Eidolon (Item)|Eidolon]] items, used to activate [[Eidolon]]s of characters.\n\nWhen players receive a duplicate 5-star character with maxed Eidolons, they also receive a {{Item|Silver Companion Spirit}}, used to exchange for {{Item|Golden Companion Spirit|text=Golden Companion Spirits}} in the [[Stellar Convergence]] shop.\n\n{| class=\"fandom-table sortable tdl1 align-center\"\n!Received Item\n!Undying Starlight\n!Undying Embers\n!Eidolon\n!Silver Companion Spirit\n|-\n|New Character\n|&mdash;\n|&mdash;\n|&mdash;\n|&mdash;\n|-\n|Duplicate 5{{Star}} Character (Eidolons Maxed)\n|100\n|&mdash;\n|&mdash;\n|1\n|-\n|Duplicate 5{{Star}} Character\n|40\n|&mdash;\n|1\n|&mdash;\n|-\n|Duplicate 4{{Star}} Character (Eidolons Maxed)\n|20\n|&mdash;\n|&mdash;\n|&mdash;\n|-\n|Duplicate 4{{Star}} Character\n|8\n|&mdash;\n|1\n|&mdash;\n|-\n|5{{Star}} Light Cone\n|40\n|&mdash;\n|&mdash;\n|&mdash;\n|-\n|4{{Star}} Light Cone\n|8\n|&mdash;\n|&mdash;\n|&mdash;\n|-\n|3{{Star}} Light Cone\n|&mdash;\n|20\n|&mdash;\n|&mdash;\n|}\n\n==Other Languages==\n{{Other Languages\n|en   = Warp\n|zhs  = 跃迁\n|zht  = 躍遷\n|ja   = 跳躍\n|ko   = 워프\n|es   = Salto\n|fr   = Saut hyperespace\n|ru   = Прыжок\n|th   = การวาร์ป\n|vi   = Bước Nhảy\n|de   = Warp\n|id   = Warp\n|pt   = Salto Hiperespacial\n}}\n\n==Change History==\n{{Change History|0.70}}\n\n==Navigation==\n{{Wiki Navbox}}\n\n[[de:Warp]]\n[[es:Saltos]]\n[[ru:Прыжки]]\n[[vi:Bước Nhảy]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 6770,
+        "ns": 0,
+        "title": "Warp/List",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{DISPLAYTITLE:Warp List}}\n{{Custom Tabs\n|tab1 = Overview\n|tab2 = List\n|tab3 = Gallery\n}}\n==Stellar Warp==\n{{Main|Stellar Warp}}\n''Duration: Indefinite''\n\n[[File:Stellar Warp.png|325px|link=Stellar Warp]]\n\n==Departure Warp==\n{{Main|Departure Warp}}\n''Duration: Indefinite until all 50 warps are made''\n\n[[File:Departure Warp.png|325px|link=Departure Warp]]\n\n==Event Warps==\n{{Warp List}}\n\n[[es:Saltos/Historial]]\n[[ru:Прыжки/Список]]\n[[vi:Bước Nhảy/Danh Sách]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

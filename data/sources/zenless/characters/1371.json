@@ -1,0 +1,2472 @@
+{
+  "id": 1371,
+  "icon": "IconRole44",
+  "name": "仪玄",
+  "code_name": "Yixuan",
+  "rarity": 4,
+  "weapon_type": {
+    "6": "命破"
+  },
+  "element_type": {
+    "205": "以太"
+  },
+  "special_element_type": {
+    "id": 205,
+    "name": "玄墨",
+    "title": "玄墨属性",
+    "desc": "<color=#FE437E>玄墨属性</color>会基于<color=#FE437E>以太属性</color>结算伤害与增益效果，造成<color=#FE437E>玄墨伤害</color>的同时，会对敌人累积<color=#FE437E>玄墨异常积蓄值</color>，随之将触发<color=#FE437E>[侵蚀]</color>效果；<color=#FE437E>[侵蚀]</color>效果能够在一段时间内，使目标受到攻击时，承受额外的<color=#FE437E>以太伤害</color>；对受到<color=#FE437E>以太属性</color>克制的敌人施加<color=#FE437E>[侵蚀]</color>效果时，能够打断目标的行动。",
+    "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconAuricInk.png"
+  },
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "10": "云岿山"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "12/3",
+    "full_name": "仪玄",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle44.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0044.png",
+    "impression_f": "师父看起来总是比较随性，好像没有什么执念和想法。也许她四处游历给人算卦的时候，见过了太多人的喜怒哀乐，命运波折了吧。",
+    "impression_m": "师父既然能起卦算命，恐怕很多事对她而言就失去了惊喜和未知，一切变化都能被精准预料。可能这就是她平日里波澜不惊，无欲无求的原因吧。",
+    "impressions": [
+      "对仪玄的印象：\n · 既无牵挂，何不随心而行？",
+      " · 一切命途波折，最终只会指向本应该有的结局。",
+      " · 最为珍重的事，更要深埋心底，切不可表露心迹。"
+    ],
+    "profile_desc": "仪玄是云岿山第十三代门主，也是被市长梅弗劳尔亲自认可的虚狩级调查员。\n\n她曾经是一名孤儿，自小与姐姐一同流浪。后来两人被当时的云岿山门主收留，成为弟子学习术法。在此期间，仪玄展现出了极高的天赋。无论何种术法，她总能以极快的速度掌握，不仅能够融会贯通，还能创造出属于自己的特殊术法。而「青溟鸟」则是她和姐姐合作研发的特殊术法之一，在各种困难和险境中，辅助她消灭敌人，铲除邪祟。在成为门主之后，她接受了梅弗劳尔市长的邀请，以合作的方式加入了空洞调查协会，成为了特遣调查员。\n\n自成为门主之后，仪玄也招收了不少颇有天赋的徒弟，继续延续云岿山的传承。可怎奈她行事风格颇为随意，很多时候即使是言传身教，弟子们也只能用「揣测」的方式，了解师父的本意究竟是什么…不过仪玄对此并不感到苦恼，毕竟对她而言，所谓的「正道」从来没有什么标准答案。让弟子们各自寻找到属于自己的「正道」，这才是她想传授的真意。当然，如果徒弟们能够自己领悟，自己学习自然最好。作为师父，只需要顺其自然而已。",
+    "role_icon": "IconRole/UnPacker/IconRole44",
+    "stature": "172",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第一章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "仪玄是云岿山第十三代门主，也是被市长梅弗劳尔亲自认可的虚狩级调查员。\n\n她曾经是一名孤儿，自小与姐姐一同流浪。后来两人被当时的云岿山门主收留，成为弟子学习术法。在此期间，仪玄展现出了极高的天赋。无论何种术法，她总能以极快的速度掌握，不仅能够融会贯通，还能创造出属于自己的特殊术法。而「青溟鸟」则是她和姐姐合作研发的特殊术法之一，在各种困难和险境中，辅助她消灭敌人，铲除邪祟。在成为门主之后，她接受了梅弗劳尔市长的邀请，以合作的方式加入了空洞调查协会，成为了特遣调查员。\n\n自成为门主之后，仪玄也招收了不少颇有天赋的徒弟，继续延续云岿山的传承。可怎奈她行事风格颇为随意，很多时候即使是言传身教，弟子们也只能用「揣测」的方式，了解师父的本意究竟是什么…不过仪玄对此并不感到苦恼，毕竟对她而言，所谓的「正道」从来没有什么标准答案。让弟子们各自寻找到属于自己的「正道」，这才是她想传授的真意。当然，如果徒弟们能够自己领悟，自己学习自然最好。作为师父，只需要顺其自然而已。",
+      "2": "",
+      "3": "仪玄小时候喜欢和姐姐一起吃叉烧包，只不过在旧都陷落之后一夜之间对其失去了兴趣，从那之后便很少吃过了。\n\n云岿山的弟子们并不知道这件事，只是觉得师父有些挑食而已。\n\n当然，这件事最好对其他人保密。许多往事和执念，就让它们随着时间慢慢消逝吧。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3113710": {
+      "name": "仪玄·观云同岿",
+      "desc": "身为云岿山宗主，穿搭和饰品只需自然随心，率性而为即可。",
+      "obtain_desc": "",
+      "image": "IconRole44"
+    },
+    "3113711": {
+      "name": "仪玄·墨形影踪",
+      "desc": "墨色基调的定制服饰，行踪如影，倏而即逝。",
+      "obtain_desc": "",
+      "image": "IconRole44_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 126,
+    "attack_growth": 88572,
+    "avatar_piece_id": 5371,
+    "break_stun": 93,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 35,
+    "defence_growth": 48155,
+    "element_abnormal_power": 92,
+    "element_mystery": 90,
+    "endurance": 0,
+    "hp_growth": 842519,
+    "hp_max": 673,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 0,
+    "sp_recover": 0,
+    "stun": 0,
+    "tags": [
+      "YiXuan",
+      "Punch",
+      "Ether",
+      "Female",
+      "Camp10",
+      "Size3",
+      "AidTypeParry",
+      "YiXuan",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 120,
+    "rp_recover": 200,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100216": 4
+      }
+    },
+    "2": {
+      "hp_max": 462,
+      "attack": 45,
+      "defence": 24,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100226": 12
+      }
+    },
+    "3": {
+      "hp_max": 924,
+      "attack": 90,
+      "defence": 49,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100226": 20
+      }
+    },
+    "4": {
+      "hp_max": 1386,
+      "attack": 134,
+      "defence": 73,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100236": 10
+      }
+    },
+    "5": {
+      "hp_max": 1848,
+      "attack": 179,
+      "defence": 97,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100236": 20
+      }
+    },
+    "6": {
+      "hp_max": 2310,
+      "attack": 224,
+      "defence": 122,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 140
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 140
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 280
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 280
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "11101": {
+          "prop": 11101,
+          "name": "生命值",
+          "format": "{0:0}",
+          "value": 420
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：霄云劲",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多五段的攻击，造成<color=#FE437E>玄墨伤害</color>，\n招式第三段与第四段期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：墨影凝云",
+          "desc": "长按 <IconMap:Icon_Evade> 发动：\n展开大太极阵，造成<color=#FE437E>玄墨伤害</color>；\n招式结束时自动释放[普通攻击：霄云劲]第五段攻击；\n招式发动期间抗打断等级提升，受到的伤害降低40%。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：玄墨极阵",
+          "desc": "拥有[玄墨值]时在[闪避：清霄同游]招式期间点按 <IconMap:Icon_Normal> 或拥有[玄墨值]时长按 <IconMap:Icon_Evade> 发动：\n展开阵法，持续造成<color=#FE437E>玄墨伤害</color>；\n招式结束时自动释放[普通攻击：青溟震击]；\n动作持续引导期间，持续回复闪能，每秒回复7点，最多3秒；\n招式发动期间拥有无敌效果且进入极限视域状态。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：青溟震击",
+          "desc": "发动[普通攻击：玄墨极阵]达到最大时长自动释放：\n张开翅膀发动爆炸攻击，造成大量<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：霄云劲",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1371001, Prop:1001}",
+              "param": {
+                "1371001": {
+                  "main": 4580,
+                  "growth": 420,
+                  "format": "%",
+                  "damage_percentage": 4580,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 2860,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 71500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2596,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 5200,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2597
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1371002, Prop:1001}",
+              "param": {
+                "1371002": {
+                  "main": 6550,
+                  "growth": 600,
+                  "format": "%",
+                  "damage_percentage": 6550,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 6890,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 172425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6260,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 12530,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6261
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1371003, Prop:1001}",
+              "param": {
+                "1371003": {
+                  "main": 8710,
+                  "growth": 800,
+                  "format": "%",
+                  "damage_percentage": 8710,
+                  "damage_percentage_growth": 800,
+                  "stun_ratio": 8580,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 214500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7791,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 15590,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7792
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1371004, Prop:1001}",
+              "param": {
+                "1371004": {
+                  "main": 10480,
+                  "growth": 960,
+                  "format": "%",
+                  "damage_percentage": 10480,
+                  "damage_percentage_growth": 960,
+                  "stun_ratio": 11180,
+                  "stun_ratio_growth": 510,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 279400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10159,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 20320,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10160
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段伤害倍率",
+              "desc": "{Skill:1371006, Prop:1001}",
+              "param": {
+                "1371006": {
+                  "main": 11370,
+                  "growth": 1040,
+                  "format": "%",
+                  "damage_percentage": 11370,
+                  "damage_percentage_growth": 1040,
+                  "stun_ratio": 10570,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 264275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9606,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 19220,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9607
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1371001, Prop:1002}",
+              "param": {
+                "1371001": {
+                  "main": 2860,
+                  "growth": 130,
+                  "format": "%",
+                  "damage_percentage": 4580,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 2860,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 71500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2596,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 5200,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2597
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1371002, Prop:1002}",
+              "param": {
+                "1371002": {
+                  "main": 6890,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 6550,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 6890,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 172425,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6260,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 12530,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6261
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1371003, Prop:1002}",
+              "param": {
+                "1371003": {
+                  "main": 8580,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 8710,
+                  "damage_percentage_growth": 800,
+                  "stun_ratio": 8580,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 214500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7791,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 15590,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7792
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1371004, Prop:1002}",
+              "param": {
+                "1371004": {
+                  "main": 11180,
+                  "growth": 510,
+                  "format": "%",
+                  "damage_percentage": 10480,
+                  "damage_percentage_growth": 960,
+                  "stun_ratio": 11180,
+                  "stun_ratio_growth": 510,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 279400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 10159,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 20320,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10160
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段失衡倍率",
+              "desc": "{Skill:1371006, Prop:1002}",
+              "param": {
+                "1371006": {
+                  "main": 10570,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 11370,
+                  "damage_percentage_growth": 1040,
+                  "stun_ratio": 10570,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 264275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9606,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 19220,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9607
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：墨影凝云",
+          "param": [
+            {
+              "name": "墨影凝云总伤害倍率",
+              "desc": "{Skill:1371005, Prop:1001}",
+              "param": {
+                "1371005": {
+                  "main": 23470,
+                  "growth": 2140,
+                  "format": "%",
+                  "damage_percentage": 23470,
+                  "damage_percentage_growth": 2140,
+                  "stun_ratio": 29340,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 733700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 26670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 53350,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "墨影凝云总失衡倍率",
+              "desc": "{Skill:1371005, Prop:1002}",
+              "param": {
+                "1371005": {
+                  "main": 29340,
+                  "growth": 1340,
+                  "format": "%",
+                  "damage_percentage": 23470,
+                  "damage_percentage_growth": 2140,
+                  "stun_ratio": 29340,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 733700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 26670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 53350,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：玄墨极阵",
+          "param": [
+            {
+              "name": "玄墨极阵总伤害倍率",
+              "desc": "{Skill:1371021, Prop:1001}",
+              "param": {
+                "1371021": {
+                  "main": 30520,
+                  "growth": 2780,
+                  "format": "%",
+                  "damage_percentage": 30520,
+                  "damage_percentage_growth": 2780,
+                  "stun_ratio": 29340,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 733700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 26670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "玄墨极阵总失衡倍率",
+              "desc": "{Skill:1371021, Prop:1002}",
+              "param": {
+                "1371021": {
+                  "main": 29340,
+                  "growth": 1340,
+                  "format": "%",
+                  "damage_percentage": 30520,
+                  "damage_percentage_growth": 2780,
+                  "stun_ratio": 29340,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 733700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 26670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：青溟震击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371007, Prop:1001}",
+              "param": {
+                "1371007": {
+                  "main": 11060,
+                  "growth": 1010,
+                  "format": "%",
+                  "damage_percentage": 11060,
+                  "damage_percentage_growth": 1010,
+                  "stun_ratio": 10630,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371007, Prop:1002}",
+              "param": {
+                "1371007": {
+                  "main": 10630,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 11060,
+                  "damage_percentage_growth": 1010,
+                  "stun_ratio": 10630,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：隐云身法",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：凌云破",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行突进攻击，造成<color=#FE437E>玄墨伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避：清霄同游",
+          "desc": "拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}时长按 <IconMap:Icon_Evade> 发动：\n进入可高速移动的<color=#FFFFFF>[轻身]</color>状态，当处于勘域模式中，在<color=#FFFFFF>[轻身]</color>状态下可自动收集一定范围内的物资收集点；\n在<color=#FFFFFF>[轻身]</color>状态下使用{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}控制方向，松开{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}则会停下；\n发动招式瞬间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：除祟一击",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动连续攻击，造成<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：凌云破",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371010, Prop:1001}",
+              "param": {
+                "1371010": {
+                  "main": 4990,
+                  "growth": 460,
+                  "format": "%",
+                  "damage_percentage": 4990,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 3120,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 78100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 5670,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371010, Prop:1002}",
+              "param": {
+                "1371010": {
+                  "main": 3120,
+                  "growth": 150,
+                  "format": "%",
+                  "damage_percentage": 4990,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 3120,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 78100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 5670,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：除祟一击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371012, Prop:1001}",
+              "param": {
+                "1371012": {
+                  "main": 21960,
+                  "growth": 2000,
+                  "format": "%",
+                  "damage_percentage": 21960,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 23650,
+                  "stun_ratio_growth": 1080,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 316250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11496,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 23000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26497
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371012, Prop:1002}",
+              "param": {
+                "1371012": {
+                  "main": 23650,
+                  "growth": 1080,
+                  "format": "%",
+                  "damage_percentage": 21960,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 23650,
+                  "stun_ratio_growth": 1080,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 316250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11496,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 23000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26497
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：烬影诀",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n快速后撤后向前方发动攻击，造成<color=#FE437E>玄墨伤害</color>；\n后撤期间可触发极限闪避效果，但不能衔接闪避反击；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：墨痕化形",
+          "desc": "闪能足够时，点按或长按 <IconMap:Icon_SpecialReady_Rp> 发动：\n持续蓄力，松开 <IconMap:Icon_SpecialReady_Rp> 时发动翅膀上挑攻击，造成大量<color=#FE437E>玄墨伤害</color>；\n蓄力期间，若受到敌人攻击，则可自动格挡并触发翅膀上挑攻击；\n蓄力开始瞬间受到敌人攻击时，可触发完美格挡效果，免疫该次伤害，提高招式的打断等级至与重招架支援一致，回复10点闪能；\n翅膀上挑攻击命中出现红色闪光或黄色闪光的敌人时，也可触发完美格挡效果，免疫该次伤害，提高招式的打断等级至与重招架支援一致，回复10点闪能；\n完美格挡效果每0.5秒最多触发一次；\n若蓄力至闪光或触发完美格挡效果，则翅膀上挑攻击后可额外追加符箓攻击；\n招式发动后，可点按 <IconMap:Icon_Special> 发动[强化特殊技：霄云迅击-破]；\n发动[强化特殊技：霄云迅击-破]后，若闪能足够，可点按 <IconMap:Icon_SpecialReady_Rp> 额外消耗20点闪能发动[强化特殊技：青溟震击-破]；\n[强化特殊技：青溟震击-破]发动后，若[玄墨值]足够，长按 <IconMap:Icon_Evade> 可快速衔接<color=#FFFFFF>[普通攻击：玄墨极阵]</color>；\n翅膀上挑攻击时拥有无敌效果，蓄力期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：凝云术",
+          "desc": "闪能足够时，长按 <IconMap:Icon_Normal> 发动：\n持续蓄力，在敌人身边引导能量汇聚，持续造成伤害，最多持续2秒，造成大量<color=#FE437E>玄墨伤害</color>；\n蓄力至最长时间或提前中断后，自动释放[强化特殊技：墨烬影消]；\n招式发动瞬间可触发极限闪避，触发极限闪避后可进入极限视域；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：墨烬影消",
+          "desc": "[强化特殊技：凝云术]过程中自动发动：\n能量球出现与收缩时，均会造成<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：烬影诀",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371008, Prop:1001}",
+              "param": {
+                "1371008": {
+                  "main": 5210,
+                  "growth": 480,
+                  "format": "%",
+                  "damage_percentage": 5210,
+                  "damage_percentage_growth": 480,
+                  "stun_ratio": 6510,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5916,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5917
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371008, Prop:1002}",
+              "param": {
+                "1371008": {
+                  "main": 6510,
+                  "growth": 300,
+                  "format": "%",
+                  "damage_percentage": 5210,
+                  "damage_percentage_growth": 480,
+                  "stun_ratio": 6510,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5916,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5917
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：墨痕化形",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371009, Prop:1001}",
+              "param": {
+                "1371009": {
+                  "main": 30030,
+                  "growth": 2730,
+                  "format": "%",
+                  "damage_percentage": 30030,
+                  "damage_percentage_growth": 2730,
+                  "stun_ratio": 17290,
+                  "stun_ratio_growth": 790,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 544225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 19787,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10831
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371009, Prop:1002}",
+              "param": {
+                "1371009": {
+                  "main": 17290,
+                  "growth": 790,
+                  "format": "%",
+                  "damage_percentage": 30030,
+                  "damage_percentage_growth": 2730,
+                  "stun_ratio": 17290,
+                  "stun_ratio_growth": 790,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 544225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 19787,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10831
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力完成追加伤害倍率",
+              "desc": "{Skill:1371024, Prop:1001}",
+              "param": {
+                "1371024": {
+                  "main": 14960,
+                  "growth": 1360,
+                  "format": "%",
+                  "damage_percentage": 14960,
+                  "damage_percentage_growth": 1360,
+                  "stun_ratio": 7580,
+                  "stun_ratio_growth": 350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 301400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5583,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力完成追加失衡倍率",
+              "desc": "{Skill:1371024, Prop:1002}",
+              "param": {
+                "1371024": {
+                  "main": 7580,
+                  "growth": 350,
+                  "format": "%",
+                  "damage_percentage": 14960,
+                  "damage_percentage_growth": 1360,
+                  "stun_ratio": 7580,
+                  "stun_ratio_growth": 350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 301400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5583,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "闪能消耗",
+              "desc": "40点",
+              "potential": []
+            },
+            {
+              "name": "[强化特殊技：霄云迅击-破]总伤害倍率",
+              "desc": "{Skill:1371023, Prop:1001}",
+              "param": {
+                "1371023": {
+                  "main": 37060,
+                  "growth": 3370,
+                  "format": "%",
+                  "damage_percentage": 37060,
+                  "damage_percentage_growth": 3370,
+                  "stun_ratio": 29440,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 990275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 29904,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "[强化特殊技：霄云迅击-破]总失衡倍率",
+              "desc": "{Skill:1371023, Prop:1002}",
+              "param": {
+                "1371023": {
+                  "main": 29440,
+                  "growth": 1340,
+                  "format": "%",
+                  "damage_percentage": 37060,
+                  "damage_percentage_growth": 3370,
+                  "stun_ratio": 29440,
+                  "stun_ratio_growth": 1340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 990275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 29904,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "[强化特殊技：青溟震击-破]总伤害倍率",
+              "desc": "{Skill:1371025, Prop:1001}",
+              "param": {
+                "1371025": {
+                  "main": 42640,
+                  "growth": 3880,
+                  "format": "%",
+                  "damage_percentage": 42640,
+                  "damage_percentage_growth": 3880,
+                  "stun_ratio": 28530,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1086250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30545,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "[强化特殊技：青溟震击-破]总失衡倍率",
+              "desc": "{Skill:1371025, Prop:1002}",
+              "param": {
+                "1371025": {
+                  "main": 28530,
+                  "growth": 1300,
+                  "format": "%",
+                  "damage_percentage": 42640,
+                  "damage_percentage_growth": 3880,
+                  "stun_ratio": 28530,
+                  "stun_ratio_growth": 1300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1086250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30545,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：凝云术",
+          "param": [
+            {
+              "name": "蓄力期间总伤害倍率",
+              "desc": "{Skill:1371022, Prop:1001}",
+              "param": {
+                "1371022": {
+                  "main": 67180,
+                  "growth": 6110,
+                  "format": "%",
+                  "damage_percentage": 67180,
+                  "damage_percentage_growth": 6110,
+                  "stun_ratio": 48000,
+                  "stun_ratio_growth": 2190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1741850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 50333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力期间总失衡倍率",
+              "desc": "{Skill:1371022, Prop:1002}",
+              "param": {
+                "1371022": {
+                  "main": 48000,
+                  "growth": 2190,
+                  "format": "%",
+                  "damage_percentage": 67180,
+                  "damage_percentage_growth": 6110,
+                  "stun_ratio": 48000,
+                  "stun_ratio_growth": 2190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1741850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 50333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "发动所需闪能",
+              "desc": "40点",
+              "potential": []
+            },
+            {
+              "name": "初始消耗",
+              "desc": "20点",
+              "potential": []
+            },
+            {
+              "name": "每秒消耗",
+              "desc": "20点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：墨烬影消",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371026, Prop:1001}",
+              "param": {
+                "1371026": {
+                  "main": 23430,
+                  "growth": 2130,
+                  "format": "%",
+                  "damage_percentage": 23430,
+                  "damage_percentage_growth": 2130,
+                  "stun_ratio": 14210,
+                  "stun_ratio_growth": 650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 582175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15716,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3001
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371026, Prop:1002}",
+              "param": {
+                "1371026": {
+                  "main": 14210,
+                  "growth": 650,
+                  "format": "%",
+                  "damage_percentage": 23430,
+                  "damage_percentage_growth": 2130,
+                  "stun_ratio": 14210,
+                  "stun_ratio_growth": 650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 582175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15716,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3001
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：玄墨迅击",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n快速突进向前发动攻击，随后进行展翅爆炸，造成大量<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：青溟云影",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n持续发动羽翼攻击，随后引导万千符箓进行攻击，造成大量<color=#FE437E>玄墨伤害</color>；\n释放招式时，仪玄会平均分配队伍中角色的生命值；\n招式发动后，若[玄墨值]足够，长按 <IconMap:Icon_Evade> 可快速衔接<color=#FFFFFF>[普通攻击：玄墨极阵]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：符法千重",
+          "desc": "[术法值]足够时，点按 <IconMap:Icon_UltimateReady> 发动：\n消耗120点[术法值]，张开羽翼，随后引导万千符箓进行攻击，造成大量<color=#FE437E>玄墨伤害</color>；\n[术法值]与[喧响值]同时足够时，优先释放该招式；\n招式发动后，若[玄墨值]足够，长按 <IconMap:Icon_Evade> 可快速衔接<color=#FFFFFF>[普通攻击：玄墨极阵]</color>；\n释放招式时，仪玄会平均分配队伍中角色的生命值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：玄墨迅击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371013, Prop:1001}",
+              "param": {
+                "1371013": {
+                  "main": 53310,
+                  "growth": 4850,
+                  "format": "%",
+                  "damage_percentage": 53310,
+                  "damage_percentage_growth": 4850,
+                  "stun_ratio": 22740,
+                  "stun_ratio_growth": 1040,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2397450,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40620,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371013, Prop:1002}",
+              "param": {
+                "1371013": {
+                  "main": 22740,
+                  "growth": 1040,
+                  "format": "%",
+                  "damage_percentage": 53310,
+                  "damage_percentage_growth": 4850,
+                  "stun_ratio": 22740,
+                  "stun_ratio_growth": 1040,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2397450,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40620,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：青溟云影",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371014, Prop:1001}",
+              "param": {
+                "1371014": {
+                  "main": 185340,
+                  "growth": 16850,
+                  "format": "%",
+                  "damage_percentage": 185340,
+                  "damage_percentage_growth": 16850,
+                  "stun_ratio": 40710,
+                  "stun_ratio_growth": 1860,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 37003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 87004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371014, Prop:1002}",
+              "param": {
+                "1371014": {
+                  "main": 40710,
+                  "growth": 1860,
+                  "format": "%",
+                  "damage_percentage": 185340,
+                  "damage_percentage_growth": 16850,
+                  "stun_ratio": 40710,
+                  "stun_ratio_growth": 1860,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 37003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 87004
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：符法千重",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371020, Prop:1001}",
+              "param": {
+                "1371020": {
+                  "main": 146620,
+                  "growth": 13330,
+                  "format": "%",
+                  "damage_percentage": 146620,
+                  "damage_percentage_growth": 13330,
+                  "stun_ratio": 24940,
+                  "stun_ratio_growth": 1140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 22670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 72671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371020, Prop:1002}",
+              "param": {
+                "1371020": {
+                  "main": 24940,
+                  "growth": 1140,
+                  "format": "%",
+                  "damage_percentage": 146620,
+                  "damage_percentage_growth": 13330,
+                  "stun_ratio": 24940,
+                  "stun_ratio_growth": 1140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 22670,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 72671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：流云影身",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动连续攻击，造成<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：清霄劲",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：霄云迅击",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n快速突进并发动攻击，造成<color=#FE437E>玄墨伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：流云影身",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371015, Prop:1001}",
+              "param": {
+                "1371015": {
+                  "main": 10120,
+                  "growth": 920,
+                  "format": "%",
+                  "damage_percentage": 10120,
+                  "damage_percentage_growth": 920,
+                  "stun_ratio": 6330,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 158125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5748,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11500,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5749
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371015, Prop:1002}",
+              "param": {
+                "1371015": {
+                  "main": 6330,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 10120,
+                  "damage_percentage_growth": 920,
+                  "stun_ratio": 6330,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 158125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5748,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11500,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5749
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：清霄劲",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1371016, Prop:1002}",
+              "param": {
+                "1371016": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1371017, Prop:1002}",
+              "param": {
+                "1371017": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1371018, Prop:1002}",
+              "param": {
+                "1371018": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：霄云迅击",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1371019, Prop:1001}",
+              "param": {
+                "1371019": {
+                  "main": 29700,
+                  "growth": 2700,
+                  "format": "%",
+                  "damage_percentage": 29700,
+                  "damage_percentage_growth": 2700,
+                  "stun_ratio": 32290,
+                  "stun_ratio_growth": 1470,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1049125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31551,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16171
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1371019, Prop:1002}",
+              "param": {
+                "1371019": {
+                  "main": 32290,
+                  "growth": 1470,
+                  "format": "%",
+                  "damage_percentage": 29700,
+                  "damage_percentage_growth": 2700,
+                  "stun_ratio": 32290,
+                  "stun_ratio_growth": 1470,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1049125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31551,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16171
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1371001,
+      "avatar_id": 1371,
+      "first_priority": [
+        5,
+        3,
+        1
+      ],
+      "second_priority": [
+        0
+      ],
+      "third_priority": [
+        2,
+        6
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1371001": {
+      "name": "普通攻击：霄云劲（一、二、三、四、五段）",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371002": {
+      "name": "普通攻击：墨影凝云",
+      "desc": "<IconMap:Icon_Evade>（长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371003": {
+      "name": "普通攻击：玄墨极阵",
+      "desc": "<IconMap:Icon_Evade>（拥有[玄墨值]时长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371004": {
+      "name": "特殊技：烬影诀",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371005": {
+      "name": "强化特殊技：墨痕化形",
+      "desc": "<IconMap:Icon_SpecialReady_Rp>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371006": {
+      "name": "强化特殊技：凝云术",
+      "desc": "<IconMap:Icon_Normal>（长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371007": {
+      "name": "闪避：隐云身法",
+      "desc": "<IconMap:Icon_Evade>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371008": {
+      "name": "闪避：清霄同游",
+      "desc": "<IconMap:Icon_Evade>（拖曳摇杆时长按）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371009": {
+      "name": "闪避反击：除祟一击",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371010": {
+      "name": "连携技：玄墨迅击",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371011": {
+      "name": "终结技：符法千重",
+      "desc": "<IconMap:Icon_UltimateReady>（[术法值]足够时）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371012": {
+      "name": "终结技：青溟云影",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371013": {
+      "name": "快速支援：流云影身",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371014": {
+      "name": "招架支援：清霄劲",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1371015": {
+      "name": "支援突击：霄云迅击",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 205,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1371501": {
+        "level": 1,
+        "id": 1371501,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>30%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371502": {
+        "level": 2,
+        "id": 1371502,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>35%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371503": {
+        "level": 3,
+        "id": 1371503,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>40%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371504": {
+        "level": 4,
+        "id": 1371504,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>45%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371505": {
+        "level": 5,
+        "id": 1371505,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>50%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371506": {
+        "level": 6,
+        "id": 1371506,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>55%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1371507": {
+        "level": 7,
+        "id": 1371507,
+        "name": [
+          "核心被动：术法宗师",
+          "额外能力：玄墨暗涌"
+        ],
+        "desc": [
+          "仪玄会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n仪玄发动招式造成的<color=#FE437E>玄墨伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n仪玄累积<color=#FE437E>玄墨异常积蓄值</color>时，具有独立的属性异常积蓄槽，触发属性异常效果时，额外回复10点闪能，每10秒最多触发一次；\n仪玄进入战斗时即可恢复全部闪能，在勘域模式中此效果180秒内最多触发一次，触发极限闪避时额外回复5点闪能，每1秒最多触发一次；\n消耗闪能时，仪玄会积累[术法值]，每消耗一点闪能，积累0.667点[术法值]，[术法值]足够时，可额外释放终结技：[终结技：符法千重]，[术法值]上限为120点；\n仪玄施展[普通攻击：玄墨极阵]、[普通攻击：青溟震击]、[强化特殊技]、[支援突击]、[连携技]、[终结技]造成的伤害提升<color=#2BAD00>60%</color>；\n释放[终结技：符法千重]后，仪玄获得一点[玄墨值]，仪玄可消耗一点[玄墨值]，释放[普通攻击：玄墨极阵]。",
+          "队伍中存在<color=#FFFFFF>[击破]</color>角色或<color=#FFFFFF>[支援]</color>角色或<color=#FFFFFF>[防护]</color>角色时触发：\n队友释放终结技时，仪玄持续回复2点闪能，持续10秒；仪玄被极限支援换下场时，仪玄会自动追加一道落雷，造成等同于仪玄225%贯穿力的伤害并额外回复5点闪能；\n[强化特殊技：凝云术]与[强化特殊技：墨烬影消]命中处于失衡状态下的敌人时，伤害提升30%；\n发动[终结技]后，仪玄进入[凝神]状态，[凝神]状态下，仪玄的暴击伤害提升40%，持续15秒。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110510": 2
+      },
+      "3": {
+        "10": 28000,
+        "110510": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110510": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110510": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110510": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "清灵道心",
+      "desc": "进入战场时，暴击率提升10%，立即获得120点<color=#FFFFFF>[术法值]</color>，在勘域模式中此效果180秒内最多触发一次；队伍中任意角色命中敌人时，仪玄会自动追加一道落雷，造成等同于仪玄50%贯穿力的伤害并额外回复5点闪能，6秒内最多追加一次落雷。",
+      "desc2": "「命运多变，前路难测，守恒不变的唯有清灵心境而已。纵使沧海桑田，依旧无悔。」\n「术法万千，其本质不变；歧路难行，唯心志不改。」\n「无论身处何等险境，遭逢何种强敌，皆可随机应变，以平常心应敌。」"
+    },
+    "2": {
+      "level": 2,
+      "name": "消灾渡厄",
+      "desc": "<color=#FFFFFF>[终结技]</color>或<color=#FFFFFF>[强化特殊技]</color>造成伤害时，无视目标15%<color=#FE437E>以太伤害抗性</color>；发动<color=#FFFFFF>[终结技：青溟云影]</color>时，使所有处于失衡状态的敌人失衡持续时间提升3秒，敌人在一次失衡期间内只会受到一次该效果，且同类效果不可叠加；此外，发动<color=#FFFFFF>[终结技：符法千重]</color>时，获得一层<color=#FFFFFF>[聚墨]</color>效果，发动<color=#FFFFFF>[普通攻击：青溟震击]</color>、<color=#FFFFFF>[强化特殊技：墨烬影消]</color>后点按普通攻击键，发动<color=#FFFFFF>[强化特殊技：青溟震击-破]</color>后点按特殊技键，可消耗一层<color=#FFFFFF>[聚墨]</color>发动<color=#FFFFFF>[强化特殊技：符法千重-破]</color>，最多造成等同于1200%贯穿力的伤害，<color=#FFFFFF>[聚墨]</color>效果最多维持一层。",
+      "desc2": "「世事难测，即使是卜算者也只能知其一二。」\n「所谓消灾祈福，只不过是因势象形，趋利避害而已。」\n「若能通晓避祸之术，便自然也能做到加祸于敌…只需将对方未曾遭逢的劫数，提前招来而已。」"
+    },
+    "3": {
+      "level": 3,
+      "name": "阴阳相生",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「万事万物皆有其相生相克之道，若能窥见其中真谛，则可阴阳相生，克敌制胜。」\n「以简单的技巧达到最佳效果，这不是走捷径，而是顺势引导的结果。」"
+    },
+    "4": {
+      "level": 4,
+      "name": "术道归一",
+      "desc": "发动<color=#FFFFFF>[终结技]</color>时，获得一层<color=#FFFFFF>[静心]</color>效果，最多拥有2层；每有一层<color=#FFFFFF>[静心]</color>效果，下一次<color=#FFFFFF>[强化特殊技：凝云术]</color>和<color=#FFFFFF>[强化特殊技：墨烬影消]</color>造成的伤害提升30%。",
+      "desc2": "「正所谓百变不离其中，学习术法不可拘泥于形，更需通晓其意。」\n「若能领悟其中真谛，则一招一式，皆可相互转化，此所谓术法之道，万变归一。」"
+    },
+    "5": {
+      "level": 5,
+      "name": "静观流云",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「若要修习术法，除去勤学善思之外，更要懂得保持灵台清明，闲时听风，静时观云。」\n「进入物我两忘的境地，不知不觉间对以太的掌握便能愈发精进。」\n「长此以往，无论遇到何事，都能稳住心性，以不变应万变。」"
+    },
+    "6": {
+      "level": 6,
+      "name": "动静相宜",
+      "desc": "发动<color=#FFFFFF>[终结技：青溟云影]</color>后，获得一层<color=#FFFFFF>[调息]</color>效果，<color=#FFFFFF>[调息]</color>状态下，可无视<color=#FFFFFF>[术法值]</color>发动一次<color=#FFFFFF>[终结技：符法千重]</color>，发动<color=#FFFFFF>[终结技：符法千重]</color>后<color=#FFFFFF>[调息]</color>状态结束，该效果每30秒最多获得一次，<color=#FFFFFF>[调息]</color>效果最多维持一层；此外，<color=#FFFFFF>[凝神]</color>状态下，仪玄的贯穿伤害提高20%。",
+      "desc2": "「以静制动，动静相宜。而动中有静，静中亦有动。」\n「无论何时，只要守得灵台清明，就能以不变应万变，抓住时机一招致胜。」\n「你…学会了吗？」\n「就算没有学会也无妨…静静领悟之后，总有那一刻会突然顿悟。这，也是另一种『动静相宜』。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33100,
+    "slot2": 31000,
+    "slot_sub": 32700,
+    "part_sub_list": [
+      20103,
+      21103,
+      11102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33100,
+          31000
+        ],
+        "part_sub_list": [
+          21103,
+          20103
+        ]
+      },
+      {
+        "suit_list": [
+          33100,
+          31000
+        ],
+        "part_sub_list": [
+          31903,
+          11102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          11102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part6": {
+      "prop": 31903,
+      "name": "以太伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png"
+    },
+    "part_sub": {
+      "prop": 11102,
+      "name": "生命值",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    }
+  },
+  "strategy": [
+    "02",
+    "双终结技机制带来爆发输出",
+    "<IconMap:Icon_GeneralBuff_AuricInk>玄墨属性，站场输出",
+    "无视防御造成大量贯穿伤害",
+    "[强化特殊技]集格挡与攻击于一体"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Yixuan"
+}

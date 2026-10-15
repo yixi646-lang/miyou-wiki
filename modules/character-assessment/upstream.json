@@ -1,0 +1,36 @@
+{
+  "name": "Genshin Optimizer",
+  "version": "7.1 开发版（PR #3316）",
+  "baseRelease": "10.38.1",
+  "sourceCommit": "0932414ffcd0232e6784ce1c51524360c9313299",
+  "sourceBranch": "van/go/7.1",
+  "pullRequest": "https://github.com/frzyc/genshin-optimizer/pull/3316",
+  "releaseStatus": "development",
+  "deployedAt": "2026-10-02T22:49:10Z",
+  "adaptedAt": "2026-10-05",
+  "source": "https://github.com/frzyc/genshin-optimizer",
+  "license": "MIT",
+  "localChanges": [
+    "固定源码构建独立计算核心，不加载 GO 网页",
+    "Wiki 原生角色、队伍与伤害、圣遗物及武器界面",
+    "复用 Wiki 本地素材与简体中文，字段描述保留为纯数据",
+    "配装、条件、目标和 GOOD 导入共用独立工作区",
+    "整肃仅强化灵剑，二命强化须解锁一破天赋",
+    "领唱与重唱区分普通水冰伤害和流荡风旋下的星扩散伤害",
+    "搜索器使用同一固定提交的 GO solver，Wiki 适配全队协调、借用、主词条、套装与双面板限制",
+    "接入同提交的 solver-tc 与 upopt，生成结果通过五件次数和档位合法性校验",
+    "GO 公式预计算改为指令解释执行，保留 Wiki 的 CSP 与原生界面"
+  ],
+  "coverage": {
+    "characters": 134,
+    "weapons": 253,
+    "sets": 63
+  },
+  "integration": "source-native",
+  "searchIntegration": {
+    "engine": "GO native solver",
+    "sourceCommit": "0932414ffcd0232e6784ce1c51524360c9313299",
+    "teamMode": "Wiki finite team coordination",
+    "runtime": "CSP-compatible precompiled instruction interpreter"
+  }
+}

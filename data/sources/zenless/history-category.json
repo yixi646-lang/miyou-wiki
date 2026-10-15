@@ -1,0 +1,707 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "categorymembers": [
+      {
+        "pageid": 55172,
+        "ns": 0,
+        "title": "'Till the Ends of the Sky/2026-08-19"
+      },
+      {
+        "pageid": 6476,
+        "ns": 0,
+        "title": "(No Match Found)/2024-09-04"
+      },
+      {
+        "pageid": 20580,
+        "ns": 0,
+        "title": "(No Match Found)/2025-04-23"
+      },
+      {
+        "pageid": 39619,
+        "ns": 0,
+        "title": "Alone in a Shared Dream/2025-11-05"
+      },
+      {
+        "pageid": 49321,
+        "ns": 0,
+        "title": "Alone in a Shared Dream/2026-03-24"
+      },
+      {
+        "pageid": 2936,
+        "ns": 0,
+        "title": "An Outstanding Partner"
+      },
+      {
+        "pageid": 55170,
+        "ns": 0,
+        "title": "Angel in the Shell/2026-07-29"
+      },
+      {
+        "pageid": 20582,
+        "ns": 0,
+        "title": "As Yesterday Dies/2025-05-14"
+      },
+      {
+        "pageid": 42111,
+        "ns": 0,
+        "title": "As Yesterday Dies/2025-11-26"
+      },
+      {
+        "pageid": 49318,
+        "ns": 0,
+        "title": "Axiom of Captivation/2026-03-24"
+      },
+      {
+        "pageid": 56822,
+        "ns": 0,
+        "title": "Axiom of Captivation/2026-09-09"
+      },
+      {
+        "pageid": 51983,
+        "ns": 0,
+        "title": "Bellicose Blaze/2026-05-27"
+      },
+      {
+        "pageid": 56817,
+        "ns": 0,
+        "title": "Bloodmoon Rising/2026-09-09"
+      },
+      {
+        "pageid": 8563,
+        "ns": 0,
+        "title": "Born to Burn/2024-10-16"
+      },
+      {
+        "pageid": 18179,
+        "ns": 0,
+        "title": "Born to Burn/2025-03-12"
+      },
+      {
+        "pageid": 12595,
+        "ns": 0,
+        "title": "Champion of Embers/2024-11-27"
+      },
+      {
+        "pageid": 20581,
+        "ns": 0,
+        "title": "Champion of Embers/2025-05-14"
+      },
+      {
+        "pageid": 52530,
+        "ns": 0,
+        "title": "Chief Sidekick/2026-07-08"
+      },
+      {
+        "pageid": 56883,
+        "ns": 0,
+        "title": "Cindernight Respite/2026-09-30"
+      },
+      {
+        "pageid": 52521,
+        "ns": 0,
+        "title": "Cloudcleave Radiance/2026-06-17"
+      },
+      {
+        "pageid": 51355,
+        "ns": 0,
+        "title": "Cold Rain Wanes in the Night/2026-05-06"
+      },
+      {
+        "pageid": 56887,
+        "ns": 0,
+        "title": "Cold Rain Wanes in the Night/2026-09-30"
+      },
+      {
+        "pageid": 49332,
+        "ns": 0,
+        "title": "Cordis Germina/2026-04-15"
+      },
+      {
+        "pageid": 56888,
+        "ns": 0,
+        "title": "Crimson Moon Casket/2026-09-30"
+      },
+      {
+        "pageid": 56881,
+        "ns": 0,
+        "title": "Crimson Thirst/2026-09-09"
+      },
+      {
+        "pageid": 14764,
+        "ns": 0,
+        "title": "Dazzling Choir/2024-12-18"
+      },
+      {
+        "pageid": 16889,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-01-22"
+      },
+      {
+        "pageid": 16891,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-02-12"
+      },
+      {
+        "pageid": 18187,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-04-02"
+      },
+      {
+        "pageid": 20586,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-05-14"
+      },
+      {
+        "pageid": 23356,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-06-25"
+      },
+      {
+        "pageid": 28442,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-08-06"
+      },
+      {
+        "pageid": 30425,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-09-24"
+      },
+      {
+        "pageid": 39625,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-11-05"
+      },
+      {
+        "pageid": 42124,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-12-17"
+      },
+      {
+        "pageid": 43542,
+        "ns": 0,
+        "title": "Dazzling Choir/2025-12-30"
+      },
+      {
+        "pageid": 46444,
+        "ns": 0,
+        "title": "Dazzling Choir/2026-03-04"
+      },
+      {
+        "pageid": 18188,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-04-02"
+      },
+      {
+        "pageid": 20588,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-05-14"
+      },
+      {
+        "pageid": 23358,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-06-25"
+      },
+      {
+        "pageid": 28443,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-08-06"
+      },
+      {
+        "pageid": 30426,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-09-24"
+      },
+      {
+        "pageid": 39626,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-11-05"
+      },
+      {
+        "pageid": 42125,
+        "ns": 0,
+        "title": "Dazzling Melody/2025-12-17"
+      },
+      {
+        "pageid": 46445,
+        "ns": 0,
+        "title": "Dazzling Melody/2026-03-04"
+      },
+      {
+        "pageid": 2917,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-07-04"
+      },
+      {
+        "pageid": 2918,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-07-24"
+      },
+      {
+        "pageid": 6474,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-08-14"
+      },
+      {
+        "pageid": 8145,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-09-04"
+      },
+      {
+        "pageid": 8551,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-09-25"
+      },
+      {
+        "pageid": 8561,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-10-16"
+      },
+      {
+        "pageid": 12596,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-11-06"
+      },
+      {
+        "pageid": 12597,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-11-27"
+      },
+      {
+        "pageid": 14762,
+        "ns": 0,
+        "title": "Dissonant Sonata/2024-12-18"
+      },
+      {
+        "pageid": 16890,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-01-22"
+      },
+      {
+        "pageid": 16892,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-02-12"
+      },
+      {
+        "pageid": 18181,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-03-12"
+      },
+      {
+        "pageid": 20585,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-04-23"
+      },
+      {
+        "pageid": 23359,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-06-06"
+      },
+      {
+        "pageid": 28440,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-07-16"
+      },
+      {
+        "pageid": 30421,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-09-04"
+      },
+      {
+        "pageid": 39621,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-10-15"
+      },
+      {
+        "pageid": 42117,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-11-26"
+      },
+      {
+        "pageid": 43540,
+        "ns": 0,
+        "title": "Dissonant Sonata/2025-12-30"
+      },
+      {
+        "pageid": 46440,
+        "ns": 0,
+        "title": "Dissonant Sonata/2026-02-06"
+      },
+      {
+        "pageid": 51358,
+        "ns": 0,
+        "title": "Dreamlit Hearth/2026-05-06"
+      },
+      {
+        "pageid": 18180,
+        "ns": 0,
+        "title": "Electric Reflection/2025-03-12"
+      },
+      {
+        "pageid": 8560,
+        "ns": 0,
+        "title": "Ember-Crowned Overlord/2024-09-25"
+      },
+      {
+        "pageid": 23353,
+        "ns": 0,
+        "title": "Ember-Crowned Overlord/2025-06-25"
+      },
+      {
+        "pageid": 49322,
+        "ns": 0,
+        "title": "Evolution of Gluttony/2026-04-15"
+      },
+      {
+        "pageid": 45593,
+        "ns": 0,
+        "title": "Exclusive Rescreening/2026-01-21"
+      },
+      {
+        "pageid": 55177,
+        "ns": 0,
+        "title": "Exclusive Rescreening/2026-08-19"
+      },
+      {
+        "pageid": 51357,
+        "ns": 0,
+        "title": "Frostfall Sickle/2026-05-06"
+      },
+      {
+        "pageid": 56895,
+        "ns": 0,
+        "title": "Frostfall Sickle/2026-09-30"
+      },
+      {
+        "pageid": 23352,
+        "ns": 0,
+        "title": "Fu-rocious Feline/2025-06-25"
+      },
+      {
+        "pageid": 39620,
+        "ns": 0,
+        "title": "Fu-rocious Feline/2025-11-05"
+      },
+      {
+        "pageid": 52514,
+        "ns": 0,
+        "title": "Graceful Gale/2026-06-17"
+      },
+      {
+        "pageid": 14757,
+        "ns": 0,
+        "title": "Honed Blade of Reflection/2024-12-18"
+      },
+      {
+        "pageid": 28412,
+        "ns": 0,
+        "title": "Honed Blade of Reflection/2025-07-16"
+      },
+      {
+        "pageid": 52518,
+        "ns": 0,
+        "title": "Joyau Dore/2026-06-17"
+      },
+      {
+        "pageid": 55178,
+        "ns": 0,
+        "title": "Knight's Extolment/2026-08-19"
+      },
+      {
+        "pageid": 49327,
+        "ns": 0,
+        "title": "Kraken's Cradle/2026-03-24"
+      },
+      {
+        "pageid": 43527,
+        "ns": 0,
+        "title": "Light Upon Fingertips/2025-12-30"
+      },
+      {
+        "pageid": 52515,
+        "ns": 0,
+        "title": "Light Upon Fingertips/2026-06-17"
+      },
+      {
+        "pageid": 23333,
+        "ns": 0,
+        "title": "Lonely Wayfarer Beyond/2025-06-06"
+      },
+      {
+        "pageid": 46439,
+        "ns": 0,
+        "title": "Lonely Wayfarer Beyond/2026-02-06"
+      },
+      {
+        "pageid": 2915,
+        "ns": 0,
+        "title": "Mellow Waveride/2024-07-04"
+      },
+      {
+        "pageid": 16882,
+        "ns": 0,
+        "title": "Mellow Waveride/2025-01-22"
+      },
+      {
+        "pageid": 42113,
+        "ns": 0,
+        "title": "Mellow Waveride/2025-12-17"
+      },
+      {
+        "pageid": 12594,
+        "ns": 0,
+        "title": "Moonlit Serenity/2024-11-06"
+      },
+      {
+        "pageid": 28415,
+        "ns": 0,
+        "title": "Moonlit Serenity/2025-08-06"
+      },
+      {
+        "pageid": 46442,
+        "ns": 0,
+        "title": "Neon Angel/2026-03-04"
+      },
+      {
+        "pageid": 55165,
+        "ns": 0,
+        "title": "Neon Angel/2026-07-29"
+      },
+      {
+        "pageid": 49326,
+        "ns": 0,
+        "title": "Neon Fantasies/2026-03-24"
+      },
+      {
+        "pageid": 56882,
+        "ns": 0,
+        "title": "Neon Fantasies/2026-09-09"
+      },
+      {
+        "pageid": 55166,
+        "ns": 0,
+        "title": "Ode of Resurrected Wings/2026-07-29"
+      },
+      {
+        "pageid": 52526,
+        "ns": 0,
+        "title": "Outlier of Prodigies/2026-07-08"
+      },
+      {
+        "pageid": 55160,
+        "ns": 0,
+        "title": "Paradise Regained/2026-07-29"
+      },
+      {
+        "pageid": 14758,
+        "ns": 0,
+        "title": "Per Aspera/2024-12-18"
+      },
+      {
+        "pageid": 43529,
+        "ns": 0,
+        "title": "Priceless Heart/2025-12-30"
+      },
+      {
+        "pageid": 49331,
+        "ns": 0,
+        "title": "Serpentine Seeker/2026-04-15"
+      },
+      {
+        "pageid": 18183,
+        "ns": 0,
+        "title": "Sights of Asphodel/2025-04-02"
+      },
+      {
+        "pageid": 30416,
+        "ns": 0,
+        "title": "Sights of Asphodel/2025-09-04"
+      },
+      {
+        "pageid": 20579,
+        "ns": 0,
+        "title": "Soar Into the Gentle Night/2025-04-23"
+      },
+      {
+        "pageid": 39616,
+        "ns": 0,
+        "title": "Soar Into the Gentle Night/2025-10-15"
+      },
+      {
+        "pageid": 2572,
+        "ns": 0,
+        "title": "Star-Studded Cast"
+      },
+      {
+        "pageid": 51982,
+        "ns": 0,
+        "title": "Starlight Rider Faceplate/2026-05-27"
+      },
+      {
+        "pageid": 51981,
+        "ns": 0,
+        "title": "Starlight, Shine Bright!/2026-05-27"
+      },
+      {
+        "pageid": 28414,
+        "ns": 0,
+        "title": "Sworn to Noble Courage/2025-08-06"
+      },
+      {
+        "pageid": 30415,
+        "ns": 0,
+        "title": "Tearforged Blossoms/2025-09-04"
+      },
+      {
+        "pageid": 49325,
+        "ns": 0,
+        "title": "Tearforged Blossoms/2026-04-15"
+      },
+      {
+        "pageid": 52533,
+        "ns": 0,
+        "title": "Thoughtbop/2026-07-08"
+      },
+      {
+        "pageid": 16884,
+        "ns": 0,
+        "title": "Thousand Melodies/2025-01-22"
+      },
+      {
+        "pageid": 23334,
+        "ns": 0,
+        "title": "Thousand Melodies/2025-06-06"
+      },
+      {
+        "pageid": 42112,
+        "ns": 0,
+        "title": "Through Night's Inferno/2025-12-17"
+      },
+      {
+        "pageid": 2916,
+        "ns": 0,
+        "title": "Unswerving Bullet/2024-07-24"
+      },
+      {
+        "pageid": 18184,
+        "ns": 0,
+        "title": "Unswerving Bullet/2025-04-02"
+      },
+      {
+        "pageid": 6473,
+        "ns": 0,
+        "title": "Untainted Jade/2024-08-14"
+      },
+      {
+        "pageid": 16888,
+        "ns": 0,
+        "title": "Untainted Jade/2025-02-12"
+      },
+      {
+        "pageid": 18182,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-03-12"
+      },
+      {
+        "pageid": 20587,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-04-23"
+      },
+      {
+        "pageid": 23767,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-06-06"
+      },
+      {
+        "pageid": 28441,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-07-16"
+      },
+      {
+        "pageid": 30422,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-09-04"
+      },
+      {
+        "pageid": 39624,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-10-15"
+      },
+      {
+        "pageid": 42123,
+        "ns": 0,
+        "title": "Vibrant Resonance/2025-11-26"
+      },
+      {
+        "pageid": 46441,
+        "ns": 0,
+        "title": "Vibrant Resonance/2026-02-06"
+      },
+      {
+        "pageid": 42110,
+        "ns": 0,
+        "title": "Voice of the Once-Spoken/2025-11-26"
+      },
+      {
+        "pageid": 45607,
+        "ns": 0,
+        "title": "W-Engine Reverberation/2026-01-21"
+      },
+      {
+        "pageid": 55182,
+        "ns": 0,
+        "title": "W-Engine Reverberation/2026-08-19"
+      },
+      {
+        "pageid": 39615,
+        "ns": 0,
+        "title": "Wandering Night Lantern/2025-10-15"
+      },
+      {
+        "pageid": 51356,
+        "ns": 0,
+        "title": "Wandering Night Lantern/2026-05-06"
+      },
+      {
+        "pageid": 16886,
+        "ns": 0,
+        "title": "Web of Light and Shadow/2025-02-12"
+      },
+      {
+        "pageid": 30420,
+        "ns": 0,
+        "title": "Web of Light and Shadow/2025-09-24"
+      },
+      {
+        "pageid": 46438,
+        "ns": 0,
+        "title": "Whimsy in Triple Meter/2026-02-06"
+      },
+      {
+        "pageid": 52529,
+        "ns": 0,
+        "title": "Whimsy in Triple Meter/2026-07-08"
+      },
+      {
+        "pageid": 28413,
+        "ns": 0,
+        "title": "Whispered Tales/2025-07-16"
+      },
+      {
+        "pageid": 46443,
+        "ns": 0,
+        "title": "Whispered Tales/2026-03-04"
+      },
+      {
+        "pageid": 30418,
+        "ns": 0,
+        "title": "Wrathborn Duo/2025-09-24"
+      },
+      {
+        "pageid": 51980,
+        "ns": 0,
+        "title": "Wrathborn Duo/2026-05-27"
+      }
+    ]
+  }
+}

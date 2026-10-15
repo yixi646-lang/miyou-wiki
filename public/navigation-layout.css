@@ -1,0 +1,25 @@
+/* 详情保留右侧目录；目录自身滚动，不随长文章离开屏幕。 */
+.detail-layout{display:grid;grid-template-columns:minmax(0,1fr) 210px;gap:22px;align-items:start}
+.detail-aside{display:block;position:sticky;top:16px;align-self:start;max-height:calc(100dvh - 32px);overflow-y:auto;overscroll-behavior:contain;min-width:0}
+.detail-aside .toc{margin:0}
+.detail-aside .toc a{overflow-wrap:anywhere}
+.detail-aside .subtle-action+.subtle-action{margin-top:8px}
+.sidebar-edge{display:none}
+@media(max-width:1000px){
+ .detail-layout{grid-template-columns:minmax(0,1fr) 174px;gap:16px}
+ .detail-aside .toc{padding:18px 14px}
+ .sidebar-edge{display:block;position:fixed;inset:0 auto 0 0;width:12px;padding:0;border:0;background:transparent;z-index:6;cursor:pointer}
+ .sidebar-edge:focus-visible{background:#456ee929;outline:2px solid var(--accent);outline-offset:-2px}
+ .sidebar-edge[hidden]{display:none}
+ html[data-sidebar] .sidebar.edge-open{visibility:visible;transform:translateX(0);box-shadow:12px 0 35px #25345a22;z-index:7}
+ html[data-sidebar] .sidebar.edge-open .sidebar-heading{flex-direction:row}
+}
+@media(max-width:650px){
+ .detail-layout{grid-template-columns:minmax(0,1fr) 126px;gap:10px}
+ .detail-aside .toc{padding:13px 9px}
+ .detail-aside .toc h3{font-size:13px}
+ .detail-aside .toc a{font-size:11px;line-height:1.6;margin:9px 0}
+ .detail-aside .subtle-action{font-size:11px;white-space:normal;padding:7px 4px}
+ .detail-layout .article{padding:18px 14px}
+}
+@media(max-width:420px){.detail-layout{grid-template-columns:minmax(0,1fr) 102px;gap:8px}.detail-layout .article{padding:14px 10px}}

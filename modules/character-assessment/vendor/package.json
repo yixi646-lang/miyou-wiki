@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "description": "GO 固定源码的本地构建工具，仅开发时需要",
+  "devDependencies": {"esbuild": "0.25.10", "fflate": "0.8.3"}
+}

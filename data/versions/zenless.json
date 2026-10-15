@@ -1,0 +1,2985 @@
+{
+  "schemaVersion": 1,
+  "game": "zenless",
+  "updatedAt": "2026-10-04T08:36:05.974Z",
+  "sourceFetchedAt": "2026-10-04T05:26:30.212Z",
+  "sourceBatch": "2026-10-04-4603c579",
+  "scope": "档案用于快速了解主要剧情、地图、常驻玩法及重要系统变化；保留具体规则、开放条件与明确数值。新增角色、装备与套装仅关联已收录图鉴，卡池沿用实际记录。版本固定补偿、限时活动、问题修复及指定周期挑战不收录；完整公告保存在来源快照。",
+  "versions": [
+    {
+      "version": "3.2",
+      "alias": null,
+      "title": "她与她的隐秘往事",
+      "titleOriginal": "Their Secret Histories",
+      "releaseDate": "2026-09-09",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-09-09 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-10-21 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第三季第三章「她与她的隐秘往事」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "3.2版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第三季第二章「漫长的告别」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：克拉蕾 / 洛克茜 / 密友同行"
+              ],
+              "times": [
+                "3.2版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增「罗斯凯利法」-「维尔乌姆城区」",
+              "group": "全新地区",
+              "requirements": [
+                "主线第三季第一章「某个梦游者的自白」期间解锁。"
+              ]
+            },
+            {
+              "name": "新增「罗斯凯利法」-「[管制区]辉金研究所」",
+              "group": "全新地区",
+              "requirements": [
+                "主线第三季第三章「她与她的隐秘往事」期间解锁。"
+              ]
+            },
+            {
+              "name": "新增「罗斯凯利法」-「[管制区]隐礁中转站」",
+              "group": "全新地区",
+              "requirements": [
+                "主线第三季第三章「她与她的隐秘往事」期间解锁。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "南宫羽-[心动应援中]",
+              "group": "全新时装"
+            },
+            {
+              "name": "爱芮-[萌力加载中]",
+              "group": "全新时装"
+            },
+            {
+              "name": "千夏-[梦想营业中]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 专业挑战室 / 征服者 / 高维数据：拟造核心",
+              "explanation": "新增了 「专业挑战室」中「征服者」关卡，挑战后可获得核心技升级道具「高维数据：拟造核心」。"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 库萨里库 / 赝造离核",
+              "explanation": "新增了 「恶名狩猎」中「库萨里库」关卡，挑战后可获得核心技强化道具「赝造离核」，且商店「哨站后勤」中的「遗存秘藏」也可兑换该道具。"
+            },
+            {
+              "name": "新增 · 保本信标 / 公文包",
+              "explanation": "新增了战术道具 [保本信标]，可通过在困难/高危难度下，搜索容器[公文包]概率获得。"
+            },
+            {
+              "name": "新增 · 马马米娅 / 马马莉亚 / 放马过来",
+              "explanation": "新增了商店内可兑换奖励绳匠配饰「马马米娅」&「马马莉亚」、绳匠配饰「放马过来」、道具[赛季背包扩容插件]，可使用[赛季硬币]兑换。"
+            },
+            {
+              "name": "新增 · 背包",
+              "explanation": "新增了使用手柄时，使用[背包]左侧页签直接控制手柄焦点快速定位的操作。"
+            },
+            {
+              "name": "新增了点击背包中携带的装备时",
+              "explanation": "新增了点击背包中携带的装备时，可查看其详情，并进行出售、移动、更换等操作的功能。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/166000",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/3.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 186920,
+          "sourceUpdatedAt": "2026-09-30T05:51:27Z"
+        }
+      ]
+    },
+    {
+      "version": "3.1",
+      "alias": null,
+      "title": "漫长的告别",
+      "titleOriginal": "The Long Goodbye",
+      "releaseDate": "2026-07-29",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-07-29 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-09-09 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第三季第二章「漫长的告别」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "3.1版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第三季第一章「某个梦游者的自白」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：蕾米埃尔 / 希格莉德 / 密友同行"
+              ],
+              "times": [
+                "3.1版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增 · 罗斯凯利法 / 布亚斯特 / 齿轮街",
+              "group": "全新地区",
+              "explanation": "新增「罗斯凯利法」-「布亚斯特」城区-「齿轮街」区域。",
+              "requirements": [
+                "解锁「布亚斯特」城区后，3.1版本更新完成后即可解锁。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "蕾米埃尔-[影池独舞]",
+              "group": "全新时装"
+            },
+            {
+              "name": "蕾米埃尔-[月夜密语]",
+              "group": "全新时装",
+              "times": [
+                "3.1版本更新后~2026/09/09 05:59（UTC+8）期间，时装组合「月夜与海风」限时上架商城， 时装组合包含蕾米埃尔时装[影池独舞]和时装[月夜密语]，期间可享受限时7折优惠，售价为2350菲林底片。"
+              ]
+            },
+            {
+              "name": "希格莉德-[惊鸿逐浪]",
+              "group": "全新时装"
+            },
+            {
+              "name": "露西-[公主假日]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 高机动型强化机器人",
+              "explanation": "新增了「高机动型强化机器人」，可在主线剧情探索时变成球形滚动、蓄力冲撞，用于解谜和开拓路径。"
+            },
+            {
+              "name": "新增 · 区域巡防 / 迅脊与裂爪 / 谶羽之誓",
+              "explanation": "「区域巡防」新增了「迅脊与裂爪」挑战，挑战后可获得「谶羽之誓」、「荆棘玫瑰」全新系列驱动盘。"
+            },
+            {
+              "name": "新增 · 实战模拟室 / 琢光测试 / 特化流明芯片",
+              "explanation": "「实战模拟室」新增了「琢光测试」关卡，挑战后可获得「特化流明芯片」、「进阶流明芯片」、「基础流明芯片」。"
+            },
+            {
+              "name": "新增 · 新人绳匠指南 / 快捷手册 / 目标",
+              "explanation": "新增了「新人绳匠指南」，位于主界面右侧按钮内，「快捷手册」-「目标」-「绳匠传奇」将移至该系统内。「新人绳匠指南」分为「培养指南」和「手册任务」两大界面。完成「新人绳匠指南」中的阶段任务，即可获得[菲林]、[原装母带]、[调律校音器]、驱动盘套装及各类养成材料奖励。"
+            },
+            {
+              "name": "调整 · 『深度清扫』服务卡 / 储值电卡 / 哨站后勤",
+              "explanation": "调整了「『深度清扫』服务卡」合成「储值电卡」至「哨站后勤」内，绳匠可使用「『深度清扫』服务卡」兑换「储值电卡」。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/165414",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/3.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 182280,
+          "sourceUpdatedAt": "2026-09-08T10:02:28Z"
+        }
+      ]
+    },
+    {
+      "version": "3.0",
+      "alias": null,
+      "title": "某个梦游者的自白",
+      "titleOriginal": "A Sleepwalker's Confession",
+      "releaseDate": "2026-06-17",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-06-17 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-07-29 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第三季第一章「某个梦游者的自白」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "3.0版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季·尾音「新·艾利都日落时 下」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：维琳娜 / 诺姆 / 密友同行"
+              ],
+              "times": [
+                "3.0版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增 · 罗斯凯利法 / 布亚斯特",
+              "group": "全新地区",
+              "explanation": "新增「罗斯凯利法」-「布亚斯特」城区。",
+              "facts": [
+                "新增了罗斯凯利法主城氛围事件。"
+              ],
+              "requirements": [
+                "主线第三季第一章「某个梦游者的自白」期间解锁。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "维琳娜-[暇时闲影]",
+              "group": "全新时装"
+            },
+            {
+              "name": "哲-[苍穹执誓]",
+              "group": "全新时装"
+            },
+            {
+              "name": "铃-[极星澄明]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "拟境湮灭战",
+              "group": "全新玩法",
+              "facts": [
+                "绳匠可从指定的试用代理人，选择代理人出战，挑战过往曾对战过的高危目标。这些敌人获得了一定程度的强化，不仅增加了新的招式或机制，伤害也获得了增长。",
+                "「拟境湮灭战」为每个作战目标提供了两个难度版本。「常规」关卡中难度较低，绳匠可以在相对轻松的环境下熟悉敌人的新机制。「极限」关卡则更为艰难，敌人的伤害和血量都大幅提升。完成「极限」关卡后，系统会记录绳匠的最短通关用时，并根据该数据进行全服排名。",
+                "挑战强敌、完成任务，可获得专属头像[拟境湮灭·终焉]、[菲林]和各类养成材料奖励。"
+              ],
+              "times": [
+                "3.0版本更新后"
+              ],
+              "requirements": [
+                "绳网等级≥55级，在主线第三季第一章「某个梦游者的自白」中解锁布亚斯特后即可参与。"
+              ]
+            },
+            {
+              "name": "「布连邦」拓展方案",
+              "group": "全新玩法"
+            },
+            {
+              "name": "解锁 · 布连邦 / 布连币 / 布连邦 / 布连邦 / 日冕遗蜕 / 菲林",
+              "group": "全新玩法",
+              "explanation": "绳匠可通过探索布亚斯特，解锁「布连邦」系统中的各项内容，提交[布连币]提升「布连邦」账号等级。完成「布连邦」相关玩法，即可获得佩洛伊斯代理人影画、佩洛伊斯代理人专属音擎[日冕遗蜕]、[菲林]和各类养成材料奖励。（*奖励将随后续版本更新而不断扩充。）",
+              "times": [
+                "3.0版本更新后"
+              ],
+              "requirements": [
+                "在主线第三季第一章任务「天之算枢」中解锁「布连邦」后即可参与「布连邦」账号升级玩法。"
+              ]
+            },
+            {
+              "name": "吼吼饼铺",
+              "group": "全新玩法",
+              "facts": [
+                "3.0版本更新后，每日都可在罗斯凯利法的「吼吼先生」经营的「吼吼饼铺」处抽取一次「零食盲盒」，获得其中的「数据卡片」与对应奖励。收集不同品阶的「数据卡片」可获取「好运瓶盖」在「瓶盖仙子喷泉」处进行许愿。"
+              ]
+            },
+            {
+              "name": "环空运轨",
+              "group": "全新玩法",
+              "facts": [
+                "绳匠可以利用佩洛伊斯施展的空间移动能力在轨道上飞驰，快速移动到想去的地方。"
+              ]
+            },
+            {
+              "name": "全域终端权限",
+              "group": "全新玩法",
+              "facts": [
+                "绳匠可以通过操作伊埃斯移动无人机并进行交互。无人机搭载了「充能」和「蓄力爆破」两个技能：靠近可「充能」的目标会出现连线提示，靠近可以通过「蓄力爆破」破坏的目标，也会有特殊的物件表现；绳匠们可以根据相关指引操作释放无人机技能。"
+              ],
+              "explanation": "绳匠将解锁「全域终端权限」，通过罗斯凯利法城内摄像头的第一人称视角获得更广阔的视野，扫描和接入特定对象，获取关键信息。"
+            },
+            {
+              "name": "泄露奇点",
+              "group": "全新玩法",
+              "facts": [
+                "绳匠激活「泄露奇点」后，周围空间的场景、物件和敌人将发生变化。绳匠可以通过佩洛伊斯的力量直接消除「泄露奇点」本身脱离。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 区域巡防 / 机师与叛甲 / 呼啸沙龙",
+              "explanation": "「区域巡防」新增了「机师与叛甲」挑战，挑战后可获得「呼啸沙龙」、「拂晓行纪」全新系列驱动盘。"
+            },
+            {
+              "name": "新增 · 风属性伤害加成",
+              "explanation": "驱动盘5号位置新增主属性「风属性伤害加成」。"
+            },
+            {
+              "name": "新增 · 地图 / 隐藏空间 / 泄露奇点",
+              "explanation": "「地图」系统新增3.0版本场景与玩法相关地图内容；「隐藏空间」和「泄露奇点」激活时，地图也会同步变动区域信息；主城空中巴士动态将实时同步显示在地图中。"
+            },
+            {
+              "name": "新增 · 快捷手册 / 电量 / 储蓄电量",
+              "explanation": "「快捷手册」界面右上角新增资源栏，展示「电量」、「储蓄电量」、「以太电池」的具体数量。",
+              "facts": [
+                "满足一定养成条件之后，代理人详情页界面新增驱动盘有效副词条命中数量显示。",
+                "驱动盘拆解新增智能弃置功能，绳匠可以根据需求批量弃置不需要的驱动盘。"
+              ]
+            },
+            {
+              "name": "新增 · 更换特训目标",
+              "explanation": "驱动盘定制界面新增「更换特训目标」功能，可根据特训目标的方案优先展示四件套相关代理人和二件套相关代理人。"
+            },
+            {
+              "name": "调整 · 战备评估",
+              "group": "系统",
+              "explanation": "调整了代理人详情界面「战备评估」的评级样式，可以直观一览代理人的待提升项并前往培养。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/164775",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/3.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 180876,
+          "sourceUpdatedAt": "2026-08-31T02:42:40Z"
+        }
+      ]
+    },
+    {
+      "version": "2.8",
+      "alias": null,
+      "title": "新·艾利都日落时",
+      "titleOriginal": "New: Eridan Sunset",
+      "releaseDate": "2026-05-06",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-05-06 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-06-17 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季·尾音 「新·艾利都日落时 下」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.8版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季·尾音 「新·艾利都日落时 上」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：普罗米娅 / 密友同行"
+              ],
+              "times": [
+                "2.8版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "星见雅-[银庭花信]",
+              "group": "时装上架"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 代理人 / 技能 / 培养建议",
+              "explanation": "「代理人」-「技能」-「培养建议」界面新增「满级推荐」功能，开启「满级推荐」开关后，会在推荐使用[「仓鼠笼」访问器]道具的技能图标上显示该道具图标。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/163836",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.8",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 169389,
+          "sourceUpdatedAt": "2026-06-17T12:37:25Z"
+        }
+      ]
+    },
+    {
+      "version": "2.7",
+      "alias": null,
+      "title": "英雄不死于往昔",
+      "titleOriginal": "Champions Never Fall to the Past",
+      "releaseDate": "2026-03-24",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-03-24 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-05-06 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季·尾音「新·艾利都日落时 上」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.7版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季·间章 「旧梦的安可曲」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：南宫羽 / 希希芙 / 密友同行"
+              ],
+              "times": [
+                "2.7版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "南宫羽-[狂想缪斯]",
+              "group": "时装上架"
+            },
+            {
+              "name": "潘引壶-[馔玉烹金]",
+              "group": "时装上架"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 区域巡防 / 伏龙与战车 / 雪兔梦游仙境",
+              "explanation": "新增了「区域巡防」中的「伏龙与战车」关卡，挑战后可获得「雪兔梦游仙境」、「囚徒手记」全新系列驱动盘。"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 猎血清道夫 / 吮髓之棘",
+              "explanation": "新增了 「恶名狩猎」中「猎血清道夫」挑战关卡，掉落核心技强化道具「吮髓之棘」，且商店「哨站后勤」中的「遗存秘藏」也可兑换该道具。"
+            },
+            {
+              "name": "新增 · 实战模拟室",
+              "explanation": "新增了[实战模拟室]卡组的名称自定义后可恢复默认的功能。"
+            },
+            {
+              "name": "新增 · 潜能影像",
+              "explanation": "新增了[潜能影像]界面右上角，所有可激发潜能的代理人列表。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/163253",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.7",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 169390,
+          "sourceUpdatedAt": "2026-06-17T12:41:49Z"
+        }
+      ]
+    },
+    {
+      "version": "2.6",
+      "alias": null,
+      "title": "旧梦的安可曲",
+      "titleOriginal": "Encore for an Old Dream",
+      "releaseDate": "2026-02-06",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-02-06 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-03-24 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "第二季·间章 「旧梦的安可曲」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第六章「微光引灯时」。"
+              ]
+            },
+            {
+              "name": "支线任务「曦光携来的轻吟」、「未知今日天气如何」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成第二季·间章「旧梦的安可曲」后即可接取。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：千夏 / 爱芮 / 密友同行"
+              ],
+              "times": [
+                "2.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增 · 404",
+              "group": "全新地区",
+              "explanation": "新增全新区域「404」音乐现场，该区域将在2.6版本更新后解锁。"
+            },
+            {
+              "name": "增加 · 六分街 / 卫非地 / 光映广场 / 拓金日",
+              "group": "全新地区",
+              "explanation": "「六分街」、「卫非地」和「光映广场」等部分地区增加了「拓金日」节日氛围。"
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "千夏-[午后茶歇]",
+              "group": "全新时装"
+            },
+            {
+              "name": "爱芮-[不协和音]",
+              "group": "全新时装"
+            },
+            {
+              "name": "潘引壶-[馔玉烹金]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 专业挑战室 / 牲鬼·卫律使者",
+              "explanation": "「专业挑战室」新增了「牲鬼·卫律使者」挑战。"
+            },
+            {
+              "name": "新增 · 快捷手册 / 训练 / 特训目标",
+              "explanation": "「快捷手册」-「训练」新增「特训目标」页签，绳匠可以选择特训目标并查看对应代理人的特训方案。"
+            },
+            {
+              "name": "新增 · 拓金日 / 衔瑞金萝 / 以太电池",
+              "explanation": "新增了「拓金日」祝福邮件，随邮件赠送[衔瑞金萝]道具，该道具使用后可获得1个[以太电池]和1个[衔瑞金萝]纪念道具。"
+            },
+            {
+              "name": "新增 · 矩阵行动 / 零号空洞 / 初始补给",
+              "explanation": "新增了玩法「矩阵行动」：绳匠每周可在不同环境下探索「零号空洞」；部分探索中，绳匠可获得「初始补给」。"
+            },
+            {
+              "name": "新增 · 奖励进度",
+              "explanation": "新增「奖励进度」页面，统计零号空洞迷失之地、枯萎之都、断层之谜内各玩法、任务条目中的菲林奖励获取情况。"
+            },
+            {
+              "name": "调整 · 区域巡防 / 自动拆解",
+              "group": "系统",
+              "explanation": "调整了「区域巡防」驱动盘副本结算界面的「自动拆解」按钮位置。"
+            },
+            {
+              "name": "调整 · 潜能预演 / 潜能影集 / 获取剪影",
+              "group": "系统",
+              "explanation": "调整了「潜能预演」界面按钮：「潜能影集」调整为「获取剪影」，调整只涉及文本不涉及功能；「业绩获取」调整为「查看潜能」，绳匠可直接通过「查看潜能」进入「潜能影像」界面。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/162561",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163969,
+          "sourceUpdatedAt": "2026-05-01T16:25:34Z"
+        }
+      ]
+    },
+    {
+      "version": "2.5",
+      "alias": null,
+      "title": "微光引灯时",
+      "titleOriginal": "To Be Fuel for the Night",
+      "releaseDate": "2025-12-30",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-12-30 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-02-06 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第六章「微光引灯时」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.5版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第五章「将临未抵的深渊」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：叶瞬光 / 照 / 密友同行"
+              ],
+              "times": [
+                "2.5版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增 · 港口工厂旧址 / 辉瓷加工基地 / 辉岭石矿场",
+              "group": "全新地区",
+              "explanation": "新增了主线场景「港口工厂旧址」、「辉瓷加工基地」、「辉岭石矿场」。"
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "叶瞬光-[暖霞拾光]",
+              "group": "全新时装"
+            },
+            {
+              "name": "简-[漪光夜曲]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "「不掩」小铺",
+              "group": "全新玩法",
+              "facts": [
+                "这里搜集着来自过往岁月中的种种隐秘，绳匠可前往莱姆尼安空洞拾取各类收集品收藏于此。",
+                "「探秘等级」：通过完成支线任务、收集「蒙尘古币」等方式均可获取「探秘积分」，「探秘积分」可提升「不掩」小铺的「探秘等级」，获取丰厚的奖励。"
+              ]
+            },
+            {
+              "name": "开放 · 探秘图鉴 / 不掩",
+              "group": "全新玩法",
+              "explanation": "「探秘图鉴」：在2.5版本新开放的航天城区域探索时，可拾取收集品交至「不掩」小铺，解锁对应的图鉴。"
+            },
+            {
+              "name": "解锁 · 不掩 / 快捷手册 / 目标 / 寻幽探秘 / 不掩",
+              "group": "全新玩法",
+              "explanation": "解锁「不掩」小铺后，可通过「快捷手册」-「目标」-「寻幽探秘」查看当前「不掩」小铺的任务或收集进度。"
+            },
+            {
+              "name": "「勘域」更新",
+              "group": "全新玩法",
+              "facts": [
+                "[显相之法· 溯 ]能力：绳匠将准星瞄准「被侵蚀物体」，完成交互后可消除秽息对其产生的影响，改变「被侵蚀物体」的状态。",
+                "[剑光掠影]能力：当代理人「叶瞬光」在勘域编队中时，可使用[剑光掠影]能力。当屏幕内出现「飞剑」标记时，完成点按操作后叶瞬光可使用能力飞向目标位置。当屏幕内出现「连环飞剑」标记时，完成点按操作后叶瞬光将会连续飞向目标位置，飞行途中无法中断。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "解锁 · 潜能影像",
+              "group": "全新系统",
+              "explanation": "已获取的指定代理人可通过该系统提升「潜能影像」等级，持续解锁新的战斗机制、提升战斗强度。",
+              "facts": [
+                "绳匠可通过「丽都周纪」、「协会物资」、「哨站后勤」等方式获取「日常业绩」兑换对应代理人的「潜能剪影」，提升代理人的「潜能影像」等级。"
+              ]
+            },
+            {
+              "name": "新增 · 代理人详情 / 装备 / 驱动盘",
+              "explanation": "新增了「代理人详情」-「装备」-「驱动盘」界面前往「音像店」的快捷入口。"
+            },
+            {
+              "name": "调整 · 快捷手册",
+              "group": "系统",
+              "explanation": "调整了「快捷手册」中部分试炼内容，降低了完成试炼的难度。"
+            },
+            {
+              "name": "调整 · 主线序章到第二章的历程",
+              "group": "系统",
+              "explanation": "调整了主线序章到第二章的历程，部分系统功能的解锁条件与活动参与条件与主线历程进行了拆分，涉及到的变动详见【重要系统&活动参与条件变更信息汇总】部分。"
+            },
+            {
+              "name": "调整 · 代理人详情 / 装备 / 驱动盘",
+              "group": "系统",
+              "explanation": "调整了「代理人详情」-「装备」-「驱动盘」中，「弃置」与「锁定」功能的展示顺序，并新增了对应的PC端快捷键。"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 魇缚者 / 浊纹晶质",
+              "explanation": "新增了「恶名狩猎」中「魇缚者」挑战关卡，掉落核心强化道具「浊纹晶质」，且商店「哨站后勤]中的「遗存秘藏」也可兑换该道具。"
+            },
+            {
+              "name": "新增 · 专业挑战室 / 秽息行者·蝎骸 / 高维数据：淬刺蚀芯",
+              "explanation": "新增了「专业挑战室」中「秽息行者·蝎骸」挑战关卡，掉落核心强化道具「高维数据：淬刺蚀芯」。"
+            },
+            {
+              "name": "新增 · 区域巡防 / 诡步与重壁 / 沧浪行歌",
+              "explanation": "新增了「区域巡防」中「诡步与重壁」的挑战，挑战完成后可获得全新[沧浪行歌]、[流光咏叹]系列驱动盘。",
+              "facts": [
+                "新增了代理人预览功能，绳匠可在预览界面对所有代理人模型进行缩放、旋转、上下移动镜头等交互操作。"
+              ]
+            },
+            {
+              "name": "新增 · 丽都周纪 / 日常业绩 / 储值电卡",
+              "explanation": "新增了「丽都周纪」中积分线的奖励，[日常业绩]和[储值电卡]，其中[日常业绩]可用于兑换指定代理人的[潜能剪影]。"
+            },
+            {
+              "name": "新增 · 自动拆解",
+              "explanation": "新增了驱动盘的「自动拆解」功能，在获取驱动盘后结算时，可设置自动拆解指定稀有度的驱动盘。"
+            },
+            {
+              "name": "新增 · 谐振核心仪",
+              "explanation": "新增了音像店中驱动盘副属性定向功能，可以通过消耗对应数量的「谐振核心仪」，至多定向选择2条想要的驱动盘属性。"
+            },
+            {
+              "name": "新增 · 音像店 / 特训方案",
+              "explanation": "新增了「音像店」内「特训方案」的快捷入口。"
+            },
+            {
+              "name": "新增 · 音像店 / 合成 / 拆解",
+              "explanation": "新增了「音像店」内的「合成」和「拆解」的快捷入口。"
+            },
+            {
+              "name": "新增 · 音像店 / 母盘自动合成",
+              "explanation": "新增了「音像店」内「母盘自动合成」功能。"
+            },
+            {
+              "name": "新增 · 驱动盘筛选 / 批量操作",
+              "explanation": "新增了「驱动盘筛选」的「批量操作」功能。"
+            },
+            {
+              "name": "新增 · 以太电池 / 储值电卡 / 电量",
+              "explanation": "新增了「以太电池」的合成方式，可使用「储值电卡」和「电量」合成「以太电池」；另外，「维多利亚家政券」将等比例转化为「以太电池」。"
+            },
+            {
+              "name": "新增 · 实战模拟室 / 区域巡防 / 以太电池",
+              "explanation": "新增了快速通过「实战模拟室」与「区域巡防」挑战的方式，可通过消耗「以太电池」快速完成挑战，直接获取对应的养成材料与驱动盘通关奖励。"
+            },
+            {
+              "name": "新增 · 普通对话",
+              "explanation": "新增了跳过「普通对话」的功能，点击跳过按钮或使用Esc键可以跳过对话内容。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/161728",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 175970,
+          "sourceUpdatedAt": "2026-07-28T11:26:59Z"
+        }
+      ]
+    },
+    {
+      "version": "2.4",
+      "alias": null,
+      "title": "将临未抵的深渊",
+      "titleOriginal": "On the Precipice of the Abyss",
+      "releaseDate": "2025-11-26",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-11-26 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-12-30 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第五章：「将临未抵的深渊」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.4版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第四章「可曾记得梦」。"
+              ]
+            },
+            {
+              "name": "解锁 · 恶名狩猎 / 超前点映",
+              "group": "全新剧情",
+              "explanation": "主线第二季内容支持在主线第一季第二章·幕间中解锁「恶名狩猎」后，通过「超前点映」功能提前体验。"
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：般岳 / 琉音 / 密友同行"
+              ],
+              "times": [
+                "2.4版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 丽都周纪",
+              "group": "系统",
+              "explanation": "调整了2.4版本「丽都周纪」第五周期的结束时间。原「丽都周纪」第五周期的时间为2025/12/22 04:00（服务器时间）~ 2025/12/29 03:59（服务器时间），现调整为2025/12/22 04:00（服务器时间）~ 2.4版本结束。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/161086",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163967,
+          "sourceUpdatedAt": "2026-05-01T16:23:58Z"
+        }
+      ]
+    },
+    {
+      "version": "2.3",
+      "alias": null,
+      "title": "可曾记得梦",
+      "titleOriginal": "Memories of Dreams Bygone",
+      "releaseDate": "2025-10-15",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-10-15 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-11-26 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第四章：「可曾记得梦」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.3版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第三章「不要温和地走入那良夜」。"
+              ]
+            },
+            {
+              "name": "解锁 · 恶名狩猎 / 超前点映",
+              "group": "全新剧情",
+              "explanation": "主线第二季内容支持在主线第一季第二章·幕间中解锁「恶名狩猎」后，通过「超前点映」功能提前体验。"
+            },
+            {
+              "name": "「卢西娅」代理人秘闻：「失梦者奇谭」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.3版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第四章「可曾记得梦」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：卢西娅 / 伊德海莉 / 狛野真斗 / 密友同行"
+              ],
+              "times": [
+                "2.3版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "薇薇安·鸢花池畔",
+              "group": "全新时装"
+            },
+            {
+              "name": "狛野真斗·白心旧影",
+              "group": "全新时装",
+              "requirements": [
+                "完成主线新章「可曾记得梦」，限时领取狛野真斗时装[白心旧影]。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "银锋解放",
+              "group": "全新玩法",
+              "facts": [
+                "新招式解锁、招式衔接优化、核心被动增强！"
+              ],
+              "times": [
+                "2.3版本更新后"
+              ],
+              "requirements": [
+                "拥有代理人[零号·安比]即可参与。",
+                "绳网等级≥55后即可参与。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 恶名狩猎 / 彷徨猎手 / 秽红晶刺",
+              "explanation": "新增了 「恶名狩猎」中「彷徨猎手」挑战关卡，掉落核心技强化道具「秽红晶刺」，且商店「哨站后勤」中的「遗存秘藏」也可兑换该道具。"
+            },
+            {
+              "name": "优化 · 驱动盘养成界面的显示与筛选的体验",
+              "group": "系统",
+              "explanation": "优化了驱动盘养成界面的显示与筛选的体验，同时在驱动盘推荐界面中新增副属性推荐功能。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/160259",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163966,
+          "sourceUpdatedAt": "2026-05-01T16:23:40Z"
+        }
+      ]
+    },
+    {
+      "version": "2.2",
+      "alias": null,
+      "title": "不要温和地走入那良夜",
+      "titleOriginal": "Do Not Go Gentle Into That Good Night",
+      "releaseDate": "2025-09-04",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-09-04 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-10-15 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第三章：「不要温和地走入那良夜」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.2版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第二章「迟吟的浪涌」。"
+              ]
+            },
+            {
+              "name": "解锁 · 恶名狩猎 / 超前点映",
+              "group": "全新剧情",
+              "explanation": "主线第二季内容支持在主线第一季第二章·幕间中解锁「恶名狩猎」后，通过「超前点映」功能提前体验。"
+            },
+            {
+              "name": "「席德」代理人秘闻：「花之谷的芙罗拉」",
+              "group": "全新剧情"
+            },
+            {
+              "name": "「芙罗拉呀，发梢轻轻地飘扬～芙罗拉呀，飞越沉眠的花之谷。」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.2版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第三章「不要温和地走入那良夜」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：奥菲丝&『鬼火』 / 『席德』 / 密友同行"
+              ],
+              "times": [
+                "2.2版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "调整 · 引力电影院 / 光映广场",
+              "explanation": "调整了「引力电影院」导航传送点的解锁条件为解锁「光映广场」地图场景。"
+            },
+            {
+              "name": "新增 · 定期清剿 / 铁律与狂徒 / 拂晓生花",
+              "explanation": "「定期清剿」新增了「铁律与狂徒」挑战，挑战后可获得「拂晓生花」、「月光骑士颂」全新系列驱动盘。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/159176",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163965,
+          "sourceUpdatedAt": "2026-05-01T16:23:15Z"
+        },
+        {
+          "name": "官方版本预下载通知（主题名）",
+          "kind": "official",
+          "url": "https://www.hoyolab.com/article/40841471",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/supplement-40841471.json.gz",
+          "language": "zh-cn"
+        }
+      ]
+    },
+    {
+      "version": "2.1",
+      "alias": null,
+      "title": "迟吟的浪涌",
+      "titleOriginal": "The Impending Crash of Waves",
+      "releaseDate": "2025-07-16",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-07-16 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-09-04 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第二章：「迟吟的浪涌」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.1版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第一章「云霞同归处」。"
+              ]
+            },
+            {
+              "name": "解锁 · 恶名狩猎 / 超前点映",
+              "group": "全新剧情",
+              "explanation": "主线第二季内容支持在主线第一季第二章·幕间中解锁「恶名狩猎」后，通过「超前点映」功能提前体验。"
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：爱丽丝 / 浮波柚叶 / 密友同行"
+              ],
+              "times": [
+                "2.1版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新增 · 泅珑围",
+              "group": "全新地区",
+              "explanation": "新增「泅珑围」区域。",
+              "facts": [
+                "新增了泅珑围氛围事件。"
+              ],
+              "requirements": [
+                "主线第二季第二章剧情「迟吟的浪涌」期间解锁。"
+              ]
+            },
+            {
+              "name": "新增 · 绮梦度假村",
+              "group": "全新地区",
+              "explanation": "新增「绮梦度假村」区域。",
+              "facts": [
+                "新增了沙滩区域绮梦度假村街区氛围事件。"
+              ],
+              "requirements": [
+                "「仲夏游梦绮谭」活动剧情期间解锁。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "柚叶-[晴空化狸]",
+              "group": "全新时装"
+            },
+            {
+              "name": "爱丽丝-[百里香之海]",
+              "group": "全新时装"
+            },
+            {
+              "name": "铃-[夏日晴空]",
+              "group": "全新时装"
+            },
+            {
+              "name": "哲-[浪影闲庭]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 快捷导航 / 收藏",
+              "group": "全新系统",
+              "explanation": "新增了「快捷导航」的收藏置顶功能，点击「收藏」按钮可以将常用的街区进行收藏，并在「快捷导航」界面内置顶展示。"
+            },
+            {
+              "name": "新增 · 零号空洞·迷失之地 / 特遣任务",
+              "explanation": "拓展了「零号空洞·迷失之地」调查进度等级上限，从lv.160提升至lv.180；同时，新增了「特遣任务」条目及对应奖励。"
+            },
+            {
+              "name": "新增 · 祸首歼灭战 / 特遣突袭 / 战术强化",
+              "explanation": "新增了「祸首歼灭战」-「特遣突袭」玩法：为代理人配备独特的战术棱镜方案、鸣徽以及「战术强化」；还有难度升级的「突袭挑战」玩法。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/157696",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163964,
+          "sourceUpdatedAt": "2026-05-01T16:22:48Z"
+        }
+      ]
+    },
+    {
+      "version": "2.0",
+      "alias": null,
+      "title": "云霞同归处",
+      "titleOriginal": "Where Clouds Embrace the Dawn",
+      "releaseDate": "2025-06-06",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-06-06 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第二季第一章：「云霞同归处」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2.0版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第七章「将眼泪与过往一同埋葬 下」。"
+              ]
+            },
+            {
+              "name": "解锁 · 恶名狩猎 / 超前点映",
+              "group": "全新剧情",
+              "explanation": "本内容支持在主线第一季第二章·幕间中解锁「恶名狩猎」后，通过「超前点映」功能提前体验。"
+            },
+            {
+              "name": "橘福福代理人秘闻：「《猛虎伏魔传！》」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2025/06/25 12:00（服务器时间）后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第二季第一章「 云霞同归处」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：仪玄 / 橘福福 / 潘引壶 / 密友同行"
+              ],
+              "times": [
+                "2.0版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "澄辉坪",
+              "group": "全新地区",
+              "explanation": "在第二季第一章「云霞同归处」内解锁。",
+              "facts": [
+                "位于卫非地半岛临海一侧的半山腰上，这里有随便观、饮茶仙、好物铺、德丰大押、邦巢等众多标志性建筑。"
+              ]
+            },
+            {
+              "name": "随便观",
+              "group": "全新地区",
+              "explanation": "完成指定任务进行随便观的修缮与升级，随着随便观等级的提升，可领取丰富的奖励。"
+            },
+            {
+              "name": "饮茶仙",
+              "group": "全新地区",
+              "explanation": "与「红豆」对话，完成看板上的「邻里心愿」和「定期采办」委托后，能获得大量「云纹徽」和「百通宝」等奖励。"
+            },
+            {
+              "name": "好物铺",
+              "group": "全新地区",
+              "explanation": "可将在空洞里采集的材料转化为随便观经营制造所需材料；也可使用「云纹徽」兑换经营随便观所需的物品。"
+            },
+            {
+              "name": "德丰大押",
+              "group": "全新地区",
+              "explanation": "可使用「百通宝」在「德丰大押」兑换奖励；随着随便观等级提升，还能使用「云纹徽」兑换奖励。"
+            },
+            {
+              "name": "航天城",
+              "group": "全新地区",
+              "explanation": "在第二季第一章「云霞同归处」内解锁。",
+              "facts": [
+                "进入航天城后，界面将切换成勘域模式，该模式详情请查看【全新系统-勘域模式】部分。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "仪玄-[墨形影踪]",
+              "group": "全新时装"
+            },
+            {
+              "name": "铃-[曦色玲珑]",
+              "group": "全新时装"
+            },
+            {
+              "name": "哲-[鹤唳青霄]",
+              "group": "全新时装"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "凋荣十载随便一观",
+              "group": "全新玩法",
+              "times": [
+                "2.0版本更新后"
+              ],
+              "requirements": [
+                "在第二季第一章主线任务「随便观复兴计划」中解锁后即可与狮耶对话，参与随便观复兴玩法。"
+              ]
+            },
+            {
+              "name": "暴鲨重袭",
+              "group": "全新玩法",
+              "times": [
+                "2.0版本更新后"
+              ],
+              "requirements": [
+                "拥有代理人[艾莲]即可参与。",
+                "绳网等级≥42级，在「零号空洞·迷失之地」完成一次「战线肃清·难度四」后即可参与。"
+              ]
+            },
+            {
+              "name": "占卜",
+              "group": "全新玩法"
+            },
+            {
+              "name": "解锁 · 随便观 / 阿朔 / 卦象集录",
+              "group": "全新玩法",
+              "explanation": "2.0版本更新后，每日都可在澄辉坪的「随便观」的「阿朔」处进行一次占卜。占卜后可以在「卦象集录」中解锁对应卦象，获得占卜图鉴奖励。（占卜和刮刮卡共享每日次数，若进行了占卜则当日无法再进行刮刮卡）",
+              "times": [
+                "2.0版本更新后的第一个周一2025/06/09 03:59（服务器时间）起，「占卜」次数也将计入「丽都周纪」中的原「刮刮乐」任务。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "「地图」系统",
+              "group": "全新系统",
+              "facts": [
+                "2.0版本更新后，绳匠可以通过右上角地图查看当前所在位置。",
+                "点击或通过快捷键进入地图后，可以查看各个区域的3D地图，也可通过右上角「世界地图」按钮，查看新艾利都和卫非地的全貌。",
+                "「快捷导航」功能仍然保留，绳匠可通过地图右上角进入。",
+                "通过地图右上角「标识点筛选」功能，可以开启「任务聚焦」以及选择在地图上是否显示不同分类的标识点。"
+              ]
+            },
+            {
+              "name": "新增 · 直接打开目的地地图",
+              "group": "全新系统",
+              "explanation": "在全新地图的基础上，委托追踪也将新增「直接打开目的地地图」功能。绳匠们追踪正在进行的委托时，可通过快捷键直接打开目的地所在区域的地图。"
+            },
+            {
+              "name": "勘域模式",
+              "group": "全新系统",
+              "facts": [
+                "绳匠获得新的能力「觉感术」：在航天城内，绳匠可以点击R键使用该特殊能力，通过「崩解」「显相」「追迹」感知并操控空洞内侵蚀物质的频率，可以使该物质发生相变。",
+                "进入航天城后，界面将切换成勘域模式，在该模式下可直接释放代理人技能。",
+                "进入航天城后，界面右上角会显示勘域模式菜单，点按T编队，可以自由切换勘域编队。",
+                "勘域模式下，可使用街道中大部分系统功能"
+              ]
+            },
+            {
+              "name": "优化 · 实战模拟室 / 专业挑战室 / 沉浸模式",
+              "explanation": "「实战模拟室」和「专业挑战室」玩法的「沉浸模式」优化为自动开启，不再需要手动切换（「沉浸模式」仍为绳网等级30级解锁）。"
+            },
+            {
+              "name": "提升 · 零号空洞·迷失之地 / 偶遇事件 / 神秘的声音",
+              "group": "系统",
+              "explanation": "提升了在「零号空洞·迷失之地」中选择「偶遇事件」后，出现「神秘的声音」的概率。"
+            },
+            {
+              "name": "新增 · 地图 / 快捷导航",
+              "explanation": "新增了「地图」预览功能，「快捷导航」迁移至「地图」右侧。"
+            },
+            {
+              "name": "新增 · 特殊能力 / 地图",
+              "explanation": "使用手柄操作时，新增了「特殊能力」按键和「地图」按键，其具体按键如下："
+            },
+            {
+              "name": "新增 · 遗存秘藏 / 塑炼遗蜕",
+              "explanation": "物品[遗存秘藏]新增可兑换核心强化道具[塑炼遗蜕]。"
+            },
+            {
+              "name": "新增 · 零号空洞·迷失之地 / 特遣调查 / 仪玄",
+              "explanation": "「零号空洞·迷失之地」新增了「特遣调查」 ，升级了已有角色武备并新增了代理人「仪玄」、「橘福福」的武备 。"
+            },
+            {
+              "name": "新增 · 定期清剿 / 口舌与刀兵 / 云岿如我",
+              "explanation": "「定期清剿」新增了「口舌与刀兵」挑战，挑战后可获得「云岿如我」、「山大王」全新系列驱动盘。",
+              "facts": [
+                "优化了绳网声望晋升任务和主线剧情的开启节点，绳网声望晋升任务不再需要观测数据。"
+              ]
+            },
+            {
+              "name": "新增 · 实战模拟室 / 代理人晋升 / 命破演练",
+              "explanation": "「实战模拟室」中「代理人晋升」新增了「命破演练」挑战，「音擎改装」新增了「命破共鸣试验」挑战。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/156753",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-2.0-official-site.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/2.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163963,
+          "sourceUpdatedAt": "2026-05-01T16:21:48Z"
+        }
+      ]
+    },
+    {
+      "version": "1.7",
+      "alias": null,
+      "title": "将眼泪与过往一同埋葬",
+      "titleOriginal": "Bury Your Tears With the Past",
+      "releaseDate": "2025-04-23",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-04-23 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-06-06 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第一季·尾音：「将眼泪与过往一同埋葬 下」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.7版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第一季·尾音「将眼泪与过往一同埋葬 上」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：雨果 / 薇薇安 / 密友同行"
+              ],
+              "times": [
+                "1.7版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "优化 · 装备养成系统",
+              "group": "系统",
+              "explanation": "优化了装备养成系统，1.7版本更新后，已装备的音擎和驱动盘也可以被标记为弃置状态。"
+            },
+            {
+              "name": "优化 · 恶名狩猎 / 无报酬模式 / 深度追猎",
+              "group": "系统",
+              "explanation": "优化了「恶名狩猎」体验，「恶名狩猎」的每周免费挑战次数消耗完毕后，可在战斗结束后直接选择进入「无报酬模式」或者进行「深度追猎」。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/155604",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.7",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163962,
+          "sourceUpdatedAt": "2026-05-01T16:21:21Z"
+        }
+      ]
+    },
+    {
+      "version": "1.6",
+      "alias": null,
+      "title": "在被遗忘的废墟之上",
+      "titleOriginal": "Among the Forgotten Ruins",
+      "releaseDate": "2025-03-12",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-03-12 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第一季·尾音：「将眼泪与过往一同埋葬 上」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成「悠然插曲·金翅雀逃跑计划」（主线第五章完成后开启）及独家视界「闪耀的此刻」。"
+              ]
+            },
+            {
+              "name": "零号·安比代理人秘闻：「白银的复苏」",
+              "group": "全新剧情"
+            },
+            {
+              "name": "「被卷入过往，她必须做出决断。」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·金翅雀逃跑计划」（主线第五章完成后开启）。"
+              ]
+            },
+            {
+              "name": "「扳机」代理人秘闻：「目不可及」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2025/4/2 12:00（服务器时间）后永久开放。"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·意外的新顾客」（主线第四章完成后开启）。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：『扳机』 / 波可娜 / 密友同行",
+                "新增关联：『11号』 / 信赖 / 密友同行"
+              ],
+              "times": [
+                "1.6版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "「斯科特哨站」场景更新",
+              "group": "全新地区",
+              "explanation": "主线「将眼泪与过往一同埋葬 上」推进后，「斯科特哨站」的平台区域将会被撤除，绳匠可在「斯科特哨站」更好地观测「零号空洞」的状态。"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 专业挑战室 / 燃竭模式",
+              "explanation": "「专业挑战室」新增了「燃竭模式」，「专业挑战室」针对部分挑战对象，周期性开启「燃竭模式」。绳匠在「燃竭模式」内消耗双倍电量，同时获得双倍奖励。开启「燃竭模式」挑战对象产出的高维数据材料与当期限定S级代理人所需的高维数据材料保持一致。"
+            },
+            {
+              "name": "新增 · 定期清剿 / 游侠与守卫 / 如影相随",
+              "explanation": "「定期清剿」新增了「游侠与守卫」挑战，挑战后可获得「如影相随」、「法厄同之歌」全新系列驱动盘。"
+            },
+            {
+              "name": "新增 · 代理人信赖 / 零号空洞·迷失之地",
+              "explanation": "新增了「代理人信赖」、「零号空洞·迷失之地」相关称号。"
+            },
+            {
+              "name": "新增 · 快捷手册 / 零号空洞 / 挑战模式",
+              "explanation": "「快捷手册」-「零号空洞」新增「挑战模式」的快捷跳转。"
+            },
+            {
+              "name": "优化 · 定期清剿",
+              "group": "系统",
+              "explanation": "优化了「定期清剿」界面内关卡页签的顺序，新增挑战关卡将会依次出现在「定期清剿」界面的左侧。"
+            },
+            {
+              "name": "优化 · 特训方案",
+              "group": "系统",
+              "explanation": "优化了「特训方案」系统，将代理人设定为特训目标后，在关卡结算界面中将提示绳匠当前养成目标材料获取进度。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/154662",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.6",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163954,
+          "sourceUpdatedAt": "2026-05-01T15:51:23Z"
+        }
+      ]
+    },
+    {
+      "version": "1.5",
+      "alias": null,
+      "title": "闪耀的此刻",
+      "titleOriginal": "Astra-nomical Moment",
+      "releaseDate": "2025-01-22",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2025-01-22 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-03-12 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "独家视界：「闪耀的此刻」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.5版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·金翅雀逃跑计划」（主线第五章完成后开启）。"
+              ]
+            },
+            {
+              "name": "艾莲代理人秘闻：「我是艾莲，在忙，有事留言」",
+              "group": "全新剧情"
+            },
+            {
+              "name": "「嘿，不要说再见，要说明天见！」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.5版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第三章「危楼夜寻踪」。"
+              ]
+            },
+            {
+              "name": "代理人信赖事件、「密友同行」事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "facts": [
+                "新增关联：耀嘉音 / 伊芙琳 / 密友同行"
+              ],
+              "times": [
+                "1.5版本更新后永久开放。"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "星环",
+              "group": "全新地区",
+              "explanation": "1.5版本更新后开放，完成独家视界「闪耀的此刻」后解锁。"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "怪奇旅伴-异梦同游",
+              "group": "全新玩法"
+            },
+            {
+              "name": "上架 · 怪奇旅伴 / 怪奇旅伴-异梦同游 / 金手指",
+              "group": "全新玩法",
+              "availability": "permanent",
+              "explanation": "「怪奇旅伴」的联机模式：「怪奇旅伴-异梦同游」即将随活动上架「金手指」电玩店。",
+              "times": [
+                "2025/01/28 10:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "在序章·幕间中解锁「金手指」电玩店后即可参与。"
+              ]
+            },
+            {
+              "name": "25马赫",
+              "group": "全新玩法"
+            },
+            {
+              "name": "上架 · 25马赫 / 金手指",
+              "group": "全新玩法",
+              "availability": "permanent",
+              "explanation": "「25马赫」街机小游戏即将随活动上架「金手指」电玩店。",
+              "times": [
+                "2025/01/28 10:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "在序章·幕间中解锁「金手指」电玩店后即可参与。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 特训方案",
+              "explanation": "「特训方案」系统新增了自定义功能，绳匠对代理人的特训方案进行自定义设置后，自定义的养成目标会显示在对应模块中。"
+            },
+            {
+              "name": "优化 · 储蓄电量",
+              "group": "系统",
+              "explanation": "优化了「储蓄电量」系统，在恢复电量界面中，「储蓄电量」将作为默认选项用于补充电量。当绳匠的电量不足以进入挑战时，选择「储蓄电量」进行兑换，系统将默认显示当前挑战所需补足的电量。"
+            },
+            {
+              "name": "优化 · 道具处理",
+              "group": "系统",
+              "explanation": "优化了养成材料的合成和分解功能，在养成角色和音擎需要合成或分解材料时，不再需要跳转至「道具处理」界面，可直接在材料转化界面进行转化。"
+            },
+            {
+              "name": "调整 · 恶名狩猎 / 降噪处理母盘 / 高保真母盘",
+              "group": "系统",
+              "explanation": "调整了「恶名狩猎」部分等级关卡的挑战奖励内容；Lv.65的「恶名狩猎」每次挑战完成后，原先可获得的13-14个[降噪处理母盘]奖励调整为2-3个[高保真母盘]；「深度追猎」模式下，原先可获得的6-7个[降噪处理母盘]奖励调整为1-2个[高保真母盘]。"
+            },
+            {
+              "name": "优化 · 恶名狩猎 / 牲鬼·布林格",
+              "group": "系统",
+              "explanation": "优化了「恶名狩猎」中除「牲鬼·布林格」外的所有关卡战斗；1.5版本更新后，在「恶名狩猎」所有的关卡中，不会再有普通、精英品阶的敌人，绳匠可直接与最终的首领敌人进行战斗。"
+            },
+            {
+              "name": "优化 · 代理人的驱动盘装备界面中驱动盘的筛选逻辑",
+              "group": "系统",
+              "explanation": "优化了代理人的驱动盘装备界面中驱动盘的筛选逻辑，筛选后的条件将按照不同的代理人分别保存。"
+            },
+            {
+              "name": "新增 · 实战模拟室 / 专业挑战室 / 调查员培训课",
+              "explanation": "新增了「实战模拟室」、「专业挑战室」、「调查员培训课」、「拟真鏖战试炼」界面的手柄-键鼠快捷切换功能。"
+            },
+            {
+              "name": "新增 · 定期清剿",
+              "explanation": "「定期清剿」界面内关卡入口新增了驱动盘的图标展示。"
+            },
+            {
+              "name": "新增 · 光映广场 / 三Z设计工作室",
+              "explanation": "「光映广场」新增了「三Z设计工作室」导航传送点和部分节日氛围场景变化。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/129572",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.5",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163951,
+          "sourceUpdatedAt": "2026-05-01T15:48:16Z"
+        }
+      ]
+    },
+    {
+      "version": "1.4",
+      "alias": null,
+      "title": "星流霆击",
+      "titleOriginal": "A Storm of Falling Stars",
+      "releaseDate": "2024-12-18",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-12-18 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2025-01-22 06:00"
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第五章：星流霆击",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成主线第四章「火狱骑行」及独家视界「虚拟杀机」。"
+              ]
+            },
+            {
+              "name": "浅羽悠真代理人秘闻：此地长眠者",
+              "group": "全新剧情"
+            },
+            {
+              "name": "「那是他伤口愈合后的疤。」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2024/12/30 12:00:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·金翅雀逃跑计划」（主线第五章完成后开启）"
+              ]
+            },
+            {
+              "name": "代理人信赖事件",
+              "group": "全新剧情"
+            },
+            {
+              "name": "新增星见雅、苍角、浅羽悠真代理人信赖事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            },
+            {
+              "name": "新增 · 邀约事件 / 邀约同行 / 邀约事件",
+              "group": "全新剧情",
+              "explanation": "自1.4版本起，新增代理人的「邀约事件」会升级为「邀约同行」模式，现有代理人「邀约事件」会在后续版本陆续升级。"
+            },
+            {
+              "name": "新增「密友同行」事件",
+              "group": "全新剧情"
+            },
+            {
+              "name": "新增 · 密友同行",
+              "group": "全新剧情",
+              "explanation": "1.4版本更新后，新增代理人「密友同行」事件："
+            },
+            {
+              "name": "开放 · 同行店铺 / 电玩店",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "explanation": "「同行店铺」：可以与代理人在「电玩店」双人游玩小游戏；后续将持续开放更多可供同行游玩的店铺。",
+              "times": [
+                "1.4版本更新后永久开放"
+              ],
+              "requirements": [
+                "获取对应代理人，并将对应代理人信赖度等级提升至「友好」。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "厄匹斯港",
+              "group": "全新地区",
+              "explanation": "1.4版本更新后开放，在主线第五章「星流霆击」内解锁。"
+            },
+            {
+              "name": "热望角",
+              "group": "全新地区",
+              "explanation": "1.4版本更新后开放，达到主线第一章·幕间且完成代理人秘闻「洞中谍 上」后解锁。"
+            },
+            {
+              "name": "对空六课办公室",
+              "group": "全新地区",
+              "explanation": "完成主线第五章「星流霆击」，拿到雅信物后开放。",
+              "facts": [
+                "随着雅的授权，HAND总部开放区域有所调整。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "开放 · 零号空洞：枯萎之都",
+              "group": "全新玩法",
+              "explanation": "1.4版本更新后，「零号空洞：枯萎之都」每周可获得的调查点数将开放上限。"
+            },
+            {
+              "name": "「断层之谜」新增「进阶模式」",
+              "group": "全新玩法",
+              "facts": [
+                "1.4版本更新后，绳匠进入「断层之谜」关卡时，可以选择「正常模式」或「进阶模式」进行体验。在「进阶模式」中，[绯红晶丝]的获取量提升50%，绳匠无法招募代理人，科技树效果的触发概率减半，怪物属性略微提高。",
+                "绳匠可以根据自己的意愿选择合适的难度进行挑战。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 特训方案",
+              "group": "全新系统",
+              "explanation": "新增了代理人「特训方案」系统，可前往代理人界面「特训方案」查看：",
+              "facts": [
+                "在「特训方案」中可以查看代理人的养成方案，计算养成材料，并能快速前往代理人养成界面或材料获取界面。",
+                "在「特训方案」中可以为代理人、技能和驱动盘分别设置养成方案，设置后养成目标将会显示在对应模块中。",
+                "在「特训方案」中支持批量对养成方案进行设置。",
+                "在「特训方案」中可以设置当前代理人为「特训目标」，「特训目标」所需的材料会在HIA俱乐部、定期清剿、恶名狩猎、音像店、快捷手册等界面出现特殊标识。"
+              ]
+            },
+            {
+              "name": "新增 · 战备评估",
+              "group": "全新系统",
+              "explanation": "新增了代理人「战备评估」系统，在代理人的「战备评估」界面可以查看当前代理人的推荐养成方向，并能快速前往相应养成界面。"
+            },
+            {
+              "name": "新增 · 历程 / 主线章节 / 功能点",
+              "group": "全新系统",
+              "explanation": "绳网新增「历程」系统，在「历程」系统中绳匠可以快速查看当前「主线章节」、「功能点」、「委托」进程，推进历程至相应节点后可以领取对应章节奖励。"
+            },
+            {
+              "name": "提升 · 异常 / 紊乱",
+              "group": "系统",
+              "explanation": "1）提升了代理人通过命中敌人等方式获得喧响值的效率，并分别下调了代理人对普通、精英品阶的敌人施加[异常]、[紊乱]效果获得的喧响值；代理人通过命中敌人等方式获得的喧响值也将会以一定比例传递给队友。"
+            },
+            {
+              "name": "调整 · 鸣徽",
+              "group": "系统",
+              "explanation": "5）部分喧响值效果相关「鸣徽」的效果作用范围将仅对单一代理人生效，详细调整请以游戏内为准。"
+            },
+            {
+              "name": "优化 · 强化 / 进阶",
+              "group": "优化了信赖系统：",
+              "explanation": "优化了音擎强化、驱动盘升级时的交互逻辑，音擎的「强化」和「进阶」功能收录至右下角「强化」按钮内，驱动盘升级时点击「强化」即可直接进行驱动升级。"
+            },
+            {
+              "name": "新增 · 斯科特哨站 / 协会物资 / 遗存秘藏",
+              "group": "优化了信赖系统：",
+              "explanation": "「斯科特哨站」中NPC卡斯珀处的「协会物资」商店新增可兑换道具[遗存秘藏]，同时[遗存贮备]下架，绳匠已兑换且未使用的[遗存贮备]新增了可自选奖励[狂信之塑]；使用零号业绩兑换[遗存秘藏]时，可直接选择需要的[稀有遗存]（核心技强化道具）进行兑换。"
+            },
+            {
+              "name": "优化 · 直接打开功能界面（每日首次）",
+              "group": "优化了信赖系统：",
+              "explanation": "优化了导航传送功能，部分店铺导航传送点新增了「直接打开功能界面（每日首次）」可勾选项，勾选后绳匠每日第一次传送至对应店铺时将直接打开对应店铺营业界面。"
+            },
+            {
+              "name": "优化 · 实战模拟室",
+              "group": "优化了信赖系统：",
+              "explanation": "优化了「实战模拟室」的战斗体验，每次挑战开始时代理人可直接获得一定能量值。"
+            },
+            {
+              "name": "提高 · 浓缩咖啡 / 实战模拟室",
+              "group": "优化了信赖系统：",
+              "explanation": "[浓缩咖啡]效果：饮用后恢复60电量，获得效果：「实战模拟室」玩法掉落提高100%，增益1张怪物卡。"
+            },
+            {
+              "name": "新增 · 怪奇旅伴 / 加载存档 / 放弃存档",
+              "group": "玩法",
+              "explanation": "新增了街机小游戏「怪奇旅伴」的自动存档功能，进入「怪奇旅伴」时若上局未完成，绳匠可从退出时最近一次休息阶段的商店处选择「加载存档」或「放弃存档」。"
+            },
+            {
+              "name": "新增 · 定期清剿 / 怪兽二重奏 / 折枝剑歌",
+              "explanation": "「定期清剿」新增了「怪兽二重奏」挑战，挑战后可获得[折枝剑歌]、[静听嘉音]全新系列驱动盘。"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 特殊牲鬼个体",
+              "explanation": "「恶名狩猎」新增了「特殊牲鬼个体」挑战。"
+            },
+            {
+              "name": "新增 · 维多利亚家政券 / 零号空洞 / 迷失之地",
+              "explanation": "新增了物品[维多利亚家政券]，[维多利亚家政券]可通过「零号空洞」-「迷失之地」提升执照等级和完成「悬赏委托」获得；在通关[定期清剿]后，即可使用[维多利亚家政券]直接获取对应难度的驱动盘奖励。"
+            },
+            {
+              "name": "新增 · 墨利诺厄 / 直到苍白荒秽之地",
+              "explanation": "新增了「墨利诺厄」主题场景地图，可在活动「直到苍白荒秽之地」体验。"
+            },
+            {
+              "name": "新增 · 丽都周纪",
+              "explanation": "「丽都周纪」新增了部分任务内容（每周任务数量不变），每周一4:00（服务器时间）「丽都周纪」刷新后绳匠可以查看本周需要完成的任务内容。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/127445",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.4",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163950,
+          "sourceUpdatedAt": "2026-05-01T15:46:42Z"
+        }
+      ]
+    },
+    {
+      "version": "1.3",
+      "alias": null,
+      "title": "虚拟杀机",
+      "titleOriginal": "Virtual Revenge",
+      "releaseDate": "2024-11-06",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-11-06 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "独家视界：虚拟杀机",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·意外的新顾客」（主线第四章完成后开启）"
+              ]
+            },
+            {
+              "name": "莱特代理人秘闻：无人喝彩之冠",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2024/11/27 12:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·意外的新顾客」（主线第四章完成后开启）"
+              ]
+            },
+            {
+              "name": "代理人信赖事件",
+              "group": "全新剧情"
+            },
+            {
+              "name": "新增月城柳、莱特代理人信赖事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            },
+            {
+              "name": "新增 · 赫克托尔的死斗",
+              "group": "新增委托",
+              "explanation": "新增了「赫克托尔的死斗」战斗委托，完成第四章剧情后，可在绳网领取。"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "3Z设计工作室：1.3版本更新后开放",
+              "group": "全新地区"
+            },
+            {
+              "name": "收藏柜：1.3版本更新后开放",
+              "group": "全新地区",
+              "facts": [
+                "收藏柜位于「Random Play」2F房间，绳匠们可以用兑换的方式从「3Z设计工作室」获取乙的设计作品，放在「收藏柜」进行展示。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "琶音大断层",
+              "group": "全新玩法",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "在「零号空洞」通关「资质考核·外围」后即可参与。"
+              ]
+            },
+            {
+              "name": "HIA新增「拟真鏖战试炼」",
+              "group": "全新玩法",
+              "availability": "permanent",
+              "times": [
+                "1.3版本更新后永久开放"
+              ],
+              "requirements": [
+                "绳网等级≥36级且完成主线第三章「危楼夜寻踪」。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 丽都周纪",
+              "group": "全新系统",
+              "explanation": "1.3版本新增「丽都周纪」系统，周期内完成任务可领取到相应的积分，积累积分后可获得绳网信用、菲林、丁尼、养成材料等奖励。",
+              "facts": [
+                "该系统将于版本更新后的首个周一4:00（服务器时间）生效，系统开放后每周的周一4:00（服务器时间）更新任务；",
+                "新增了称号系统，绳匠在个人信息界面可以查看和佩戴称号；佩戴称号后，称号将展示在绳网好友列表中。"
+              ]
+            },
+            {
+              "name": "新增 · 快捷手册 / 定期清剿 / 专业挑战室",
+              "explanation": "「快捷手册」中「定期清剿」、「专业挑战室」、「恶名狩猎」新增了相关代理人功能，绳匠可以在快捷手册以及对应的挑战详情界面中，查看掉落材料相关的代理人；"
+            },
+            {
+              "name": "优化 · 旧都列车 / 施工废墟 / 巨厦遗骸",
+              "group": "玩法",
+              "explanation": "优化了零号空洞内「旧都列车」、「施工废墟」、「巨厦遗骸」部分副本的解锁条件，绳网等级达到对应等级后可直接解锁；"
+            },
+            {
+              "name": "新增 · 快捷手册 / 零号空洞",
+              "group": "键鼠-手柄优化",
+              "explanation": "新增了「快捷手册」、「零号空洞」界面的手柄-键鼠快捷切换功能；"
+            },
+            {
+              "name": "优化 · 音像店 / 玩具店 / 仓库",
+              "explanation": "优化了「音像店」、「玩具店」、「仓库」驱动盘拆解界面和音擎回收界面的筛选功能并增加了功能说明，「全选」功能调整为「快速选择」，绳匠可根据筛选状态进行批量选择；"
+            },
+            {
+              "name": "优化了音擎、驱动盘获取数量达到仓库上限时的跳转功能",
+              "explanation": "优化了音擎、驱动盘获取数量达到仓库上限时的跳转功能；"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/126739",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.3",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163949,
+          "sourceUpdatedAt": "2026-05-01T15:45:28Z"
+        }
+      ]
+    },
+    {
+      "version": "1.2",
+      "alias": null,
+      "title": "火狱骑行",
+      "titleOriginal": "Tour de Inferno",
+      "releaseDate": "2024-09-25",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-09-25 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第四章：火狱骑行",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成独家视界「卧底蓝调」"
+              ]
+            },
+            {
+              "name": "柏妮思代理人秘闻：幸运当头",
+              "group": "全新剧情"
+            },
+            {
+              "name": "和柏妮思一起「一夜暴富」吧~",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "2024/10/16 12:00（服务器时间）后永久开放"
+              ],
+              "requirements": [
+                "完成主线「悠然插曲·意外的新顾客」"
+              ]
+            },
+            {
+              "name": "代理人信赖事件",
+              "group": "全新剧情"
+            },
+            {
+              "name": "新增凯撒、柏妮思、露西、派派代理人信赖事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.2版本更新后永久开放"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成主线「悠然插曲·意外的新顾客」"
+              ]
+            },
+            {
+              "name": "新增 · 夜雨的请托",
+              "group": "新增委托",
+              "explanation": "新增了「夜雨的请托」系列战斗委托，完成相关前置委托后即可接取；"
+            },
+            {
+              "name": "新增 · 仙人掌花的邀约",
+              "group": "新增委托",
+              "explanation": "新增了「仙人掌花的邀约」系列拉力委托，完成相关前置委托后即可接取；"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "野火镇",
+              "group": "全新地区",
+              "explanation": "在主线第四章「火狱骑行」内解锁；"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "HIA新增「调查员培训课」",
+              "group": "全新玩法",
+              "availability": "permanent",
+              "facts": [
+                "「调查员培训课」将授予代理人们最实在的经验与奖赏！"
+              ],
+              "times": [
+                "永久"
+              ],
+              "requirements": [
+                "完成主线第二章间章「非常任务」"
+              ]
+            },
+            {
+              "name": "零号空洞「枯败花圃」新增「闪击模式」",
+              "group": "全新玩法"
+            },
+            {
+              "name": "新增 · 枯败花圃 / 闪击模式 / 枯败花圃·苗床 / 以太活性3 / 枯败花圃·核心",
+              "group": "全新玩法",
+              "explanation": "零号空洞「枯败花圃」新增「闪击模式」-「枯败花圃·苗床」，绳匠通关1次「以太活性3」-「枯败花圃·核心」即可解锁；"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增储蓄电量系统",
+              "group": "全新系统",
+              "facts": [
+                "1.2版本更新后，当电量恢复至上限或超过上限时，储蓄电量开始随时间恢复。每18分钟恢复1点，存储上限为2400点。",
+                "若维护开始时，绳匠的电量＜240点，电量将随时间自然恢复至240点上限。电量超出240点上限后将按比例恢复储蓄电量；"
+              ]
+            },
+            {
+              "name": "「HDD」新增Fairy代行模式",
+              "group": "全新系统",
+              "facts": [
+                "首次通过部分委托（探索委托和剧情委托）后，即可使用Fairy代替绳匠进行探索；",
+                "绳匠离线时，Fairy也会持续探索；"
+              ]
+            },
+            {
+              "name": "新增 · 技能培养建议 / 培养建议",
+              "explanation": "新增了代理人「技能培养建议」功能，可前往代理人技能培养界面点击「培养建议」查看；"
+            },
+            {
+              "name": "新增 · 预备编队 / 更多-预备编队",
+              "explanation": "新增了「预备编队」功能，在菜单主界面的「更多-预备编队」内编辑队伍后，即可在非剧情模式下快速应用预设阵容；"
+            },
+            {
+              "name": "调整 · 零号空洞",
+              "explanation": "「零号空洞」的执照等级上限由60提升至90，该调整将于版本更新后的首个周一4:00（服务器时间）生效；"
+            },
+            {
+              "name": "优化 · 赛斯 / 拉面店 / 日程",
+              "group": "代理人",
+              "explanation": "优化了代理人「赛斯」信赖事件的任务指引，代理人「赛斯」在光映广场「拉面店」的信赖事件现可在「日程」界面中查看并追踪；"
+            },
+            {
+              "name": "新增 · 零号空洞 / 悬赏委托",
+              "group": "系统",
+              "explanation": "「零号空洞」-「悬赏委托」界面新增了全部领取功能；"
+            },
+            {
+              "name": "调整 · 零号空洞 / 特殊委托*1 / 常规委托*3",
+              "group": "玩法",
+              "explanation": "「零号空洞」每周悬赏委托由「特殊委托*1」和「常规委托*3」调整为「常规委托*4」，「常规委托」现分为S、A、B、C共4档，每周获取对应数量的调查点数即可完成「常规委托」，该调整将于版本更新后的首个周一4:00（服务器时间）生效；"
+            },
+            {
+              "name": "调整 · 枯败花圃 / 旧都列车·外围 / 妖冶妍丽凋枯朽落",
+              "group": "玩法",
+              "explanation": "调整了零号空洞「枯败花圃」探索模式的解锁条件，绳网等级达到42级、通关「旧都列车·外围」且完成委托「妖冶妍丽凋枯朽落」即可解锁「枯败花圃」探索模式；"
+            },
+            {
+              "name": "优化 · 枯败花圃·核心",
+              "group": "玩法",
+              "explanation": "优化了零号空洞「枯败花圃·核心」的常规奖励获得：自选以太活性词条提升烈度，在更高烈度下作战，完成作战后，会获得更多的调查点数；"
+            },
+            {
+              "name": "优化 · 零号空洞 / 监视器阵列",
+              "group": "玩法",
+              "explanation": "优化了「零号空洞」和部分系统中，通过「监视器阵列」探索空洞时和事件的交互逻辑：可直接与事件进行快捷交互；",
+              "facts": [
+                "版本更新后，「咖啡店」内所有咖啡在点单时均不消耗丁尼。"
+              ]
+            },
+            {
+              "name": "新增 · 监视器阵列 / 零号空洞 / 鸣徽",
+              "explanation": "新增了通过「监视器阵列」探索「零号空洞」时，点击任意屏幕位置即可跳过[鸣徽]获取、[鸣徽]催化等动画的功能（手柄模式下，点按[确认]即可跳过部分动画）；"
+            },
+            {
+              "name": "新增 · 斯科特哨站 / 哨站后勤 / 遗存贮备",
+              "explanation": "「斯科特哨站」中NPC卡斯珀处的「哨站后勤」商店内新增可兑换道具[遗存贮备]和[音擎残芯]，使用[遗存贮备]后，可任选一个[稀有遗存]（核心技强化道具）获取；"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 深度追猎",
+              "explanation": "「恶名狩猎」新增了「深度追猎」功能，每周完成3次无电量消耗挑战获取奖励后，可消耗60电量重复挑战获得部分奖励；"
+            },
+            {
+              "name": "新增 · 恶名狩猎 / 霸主侵蚀体·庞培",
+              "explanation": "「恶名狩猎」新增了「霸主侵蚀体·庞培」挑战；"
+            },
+            {
+              "name": "新增 · 专业挑战室 / 多佩冈亚·简",
+              "explanation": "「专业挑战室」新增了「多佩冈亚·简」挑战；"
+            },
+            {
+              "name": "新增 · 定期清剿 / 猎手与凶兽 / 混沌爵士",
+              "explanation": "「定期清剿」新增了「猎手与凶兽」挑战，挑战后可获得[混沌爵士]、[原始朋克]全新系列驱动盘；"
+            },
+            {
+              "name": "新增 · 设置-输入 / 手动锁定目标切换灵敏度",
+              "explanation": "「设置-输入」新增了「手动锁定目标切换灵敏度」设置功能；"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/126054",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.2",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163948,
+          "sourceUpdatedAt": "2026-05-01T15:36:31Z"
+        }
+      ]
+    },
+    {
+      "version": "1.1",
+      "alias": null,
+      "title": "卧底蓝调",
+      "titleOriginal": "Undercover R&B",
+      "releaseDate": "2024-08-14",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2024-08-14 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新艾利都治安局：接取委托【独家视界「卧底蓝调」】后解锁",
+              "group": "全新场景"
+            }
+          ]
+        },
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "独家视界：卧底蓝调",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成主线第三章「危楼夜寻踪」"
+              ]
+            },
+            {
+              "name": "青衣代理人秘闻：失踪邦口",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "完成主线第二章间章「非常任务」"
+              ]
+            },
+            {
+              "name": "代理人信赖事件",
+              "group": "全新剧情"
+            },
+            {
+              "name": "新增简、青衣、赛斯代理人信赖事件",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "1.1版本更新后永久开放"
+              ],
+              "requirements": [
+                "获取对应代理人，并完成相关前置剧情（详见工作台-合作者档案）。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "零号空洞新增「刀耕火焚」挑战",
+              "group": "全新玩法",
+              "requirements": [
+                "通关「枯败花圃·核心」且推进委托「寻叶逐花」至一定进度。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "新增 · 斯科特哨站 / 后勤商店",
+              "explanation": "「斯科特哨站」新增了「后勤商店」导航传送点；"
+            },
+            {
+              "name": "新增 · 新艾利都治安局",
+              "explanation": "新增了「新艾利都治安局」地区及其导航传送点；"
+            },
+            {
+              "name": "新增了各代理人驱动盘对应主属性使用率推荐（数据来源于近期活跃玩家）",
+              "explanation": "新增了各代理人驱动盘对应主属性使用率推荐（数据来源于近期活跃玩家）；"
+            },
+            {
+              "name": "新增 · 定期清剿",
+              "explanation": "「定期清剿」内【战况-委托详情】界面新增了挑战目标；"
+            },
+            {
+              "name": "优化 · 返回养成",
+              "group": "系统",
+              "explanation": "优化了代理人升级的交互体验：可以从材料道具详情处直接跳转至对应玩法，并在挑战结果界面通过“返回养成”按钮直接返回代理人升级界面。"
+            },
+            {
+              "name": "调整 · 零号空洞",
+              "group": "玩法",
+              "explanation": "「零号空洞」每周完成悬赏委托内特殊委托所需次数由5次下调为2次，特殊委托任务由4个下调为2个，该调整将于1.1版本更新后的首个周一4:00（服务器时间）生效；"
+            },
+            {
+              "name": "优化 · 零号空洞",
+              "group": "玩法",
+              "explanation": "优化了「零号空洞」内呼叫增援事件的逻辑，当绳匠不需要支援时，代理人将不会入队，且玩家可以自选支援物资；"
+            },
+            {
+              "name": "调整 · 恶名狩猎 / 重新开始 / 再来一次",
+              "group": "玩法",
+              "explanation": "「恶名狩猎」挑战结果界面中“重新开始”按钮描述调整为了“再来一次”。"
+            },
+            {
+              "name": "优化 · 斯科特哨站",
+              "explanation": "优化了「斯科特哨站」中NPC卡斯珀周围的布局，增加了部分材料道具的快捷传送功能；"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/125244",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-official.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.1",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 163946,
+          "sourceUpdatedAt": "2026-05-01T15:29:19Z"
+        }
+      ]
+    },
+    {
+      "version": "1.0",
+      "alias": null,
+      "title": "公测开服",
+      "titleOriginal": "Welcome To New Eridu",
+      "releaseDate": "2024-07-04",
+      "dateBasis": "社区版本索引明示日期",
+      "maintenance": {},
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线序章至第三章",
+              "explanation": "开服主线涵盖序章、第一章、第二章及其间章、第三章；按章节推进解锁街区、委托与功能。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            },
+            {
+              "name": "首批代理人秘闻",
+              "explanation": "开放11号、猫又、格莉丝、珂蕾妲、莱卡恩、丽娜的代理人故事。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "初始街区与设施",
+              "explanation": "开放六分街、光映广场、黑雁工地旧址、芭莱大厦、斯科特哨站及HIA俱乐部。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "零号空洞",
+              "explanation": "通过空洞探索、战斗及鸣徽组合推进挑战。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            },
+            {
+              "name": "常驻养成挑战",
+              "explanation": "实战模拟室提供基础养成材料，专业挑战室提供核心技材料，定期清剿提供驱动盘，恶名狩猎提供高阶核心技材料。",
+              "availability": "permanent",
+              "sourceKind": "community"
+            }
+          ]
+        }
+      ],
+      "coverage": "launch-index",
+      "gaps": [
+        "开服版本按社区目录整理主要章节、区域与玩法；重要系统的初始规则尚待官方中文资料补充"
+      ],
+      "sourceRefs": [
+        {
+          "name": "社区版本索引",
+          "kind": "community",
+          "url": "https://zenless-zone-zero.fandom.com/wiki/Version/1.0",
+          "snapshot": "data/sources/version-archive/2026-10-04-4603c579/zenless-wiki-0.json.gz",
+          "revision": 158967,
+          "sourceUpdatedAt": "2026-03-24T05:32:29Z"
+        }
+      ]
+    }
+  ]
+}

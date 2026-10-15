@@ -1,0 +1,116 @@
+{
+  "updatedAt": "2026-10-03T04:02:02.323Z",
+  "added": 181,
+  "updated": 560,
+  "downloaded": 36,
+  "imageFailures": [
+    {
+      "id": "zenless-materials-110501",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110001",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110502",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110505",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110003",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110512",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110007",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110507",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110004",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110503",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110508",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110005",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110504",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110506",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110510",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110002",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110513",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110008",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110509",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110006",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110511",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110009",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110514",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110515",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110010",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110516",
+      "error": "HTTP 404"
+    },
+    {
+      "id": "zenless-materials-110011",
+      "error": "HTTP 404"
+    }
+  ]
+}

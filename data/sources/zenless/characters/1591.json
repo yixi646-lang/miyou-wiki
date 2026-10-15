@@ -1,0 +1,2016 @@
+{
+  "id": 1591,
+  "icon": "IconRole66",
+  "name": "希格莉德",
+  "code_name": "Sigrid",
+  "rarity": 4,
+  "weapon_type": {
+    "1": "强攻"
+  },
+  "element_type": {
+    "202": "冰属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "103": "穿透"
+  },
+  "camp": {
+    "16": "罗斯凯利法"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "04/23",
+    "full_name": "希格莉德·德拉叙尔",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle66.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0066.png",
+    "impression_f": "「德拉叙尔」的意思是天空的骑士！很符合希格莉德的身份呢！",
+    "impression_m": "我赞同！不过…「法厄同」也不失为一个帅气的称号吧？",
+    "impressions": [
+      "对希格莉德的印象：\n · 传说中的骑士，果然如传说般威风！",
+      " · 传说中的骑士…和传说中的似乎不大一样？",
+      " · 传说中的骑士，一起踏上新的传奇吧！"
+    ],
+    "profile_desc": "希格莉德·德拉叙尔，现任空域巡戍局总务次官，林德薇恩·挽昼的亲信副官，罗斯凯利法久负盛名的世家——德拉叙尔家族的家主继承人。\n\n与所有那些传说中的人物一样，希格莉德拥有一个长长的、长长的头衔后缀。但时至今日，即使希格莉德已经接任空巡局次官数年之间，拿到了每一个最佳的年度绩效，她仍然时常心有疑虑，怀疑自己是否匹配得上罗斯凯利法街头巷尾所流传的传闻里，传说中的英雄「希格莉德」的名声。\n\n这倒不能怪希格莉德是个缺乏自信的战士，毕竟面对「轻松比肩虚狩」「单手击碎大楼」「一枪洞穿空洞」这样的传闻，任何正直又不乏理性的战士都会怀疑自己手中的兵器是否真能发挥出如此的伟力。\n\n唯有一则传说，希格莉德始终坚信：「只要她的长枪未曾折断，天空的奇迹就绝不会陷落。」",
+    "role_icon": "IconRole/UnPacker/IconRole66",
+    "stature": "175",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线第三季第二章 漫长的告别",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "希格莉德·德拉叙尔，现任空域巡戍局总务次官，林德薇恩·挽昼的亲信副官，罗斯凯利法久负盛名的世家——德拉叙尔家族的家主继承人。\n\n与所有那些传说中的人物一样，希格莉德拥有一个长长的、长长的头衔后缀。但时至今日，即使希格莉德已经接任空巡局次官数年之间，拿到了每一个最佳的年度绩效，她仍然时常心有疑虑，怀疑自己是否匹配得上罗斯凯利法街头巷尾所流传的传闻里，传说中的英雄「希格莉德」的名声。\n\n这倒不能怪希格莉德是个缺乏自信的战士，毕竟面对「轻松比肩虚狩」「单手击碎大楼」「一枪洞穿空洞」这样的传闻，任何正直又不乏理性的战士都会怀疑自己手中的兵器是否真能发挥出如此的伟力。\n\n唯有一则传说，希格莉德始终坚信：「只要她的长枪未曾折断，天空的奇迹就绝不会陷落。」",
+      "2": "",
+      "3": "「德拉叙尔家族世代追随林德薇恩大人」，希格莉德如是说，就像她的母亲、以及每一位德拉叙尔的继承人一样。\n\n但是林德薇恩不喜欢「追随」这个词，她与希格莉德或是任何一位德拉叙尔的关系都不是亦步亦趋的追随者和领袖的关系，她们更像是并肩作战的战友、亦师亦友的至交，每一位德拉叙尔都把林德薇恩当作师长，也都教会了林德薇恩许多东西。\n\n但不管哪一位德拉叙尔如何努力，都有一样东西永远也追不上林德薇恩——「生命的长度」，林德薇恩用这样一个微妙又曲折的说法来掩饰她的不安。所以德拉叙尔的誓词中从来不出现具体的名字，而只是重复着「世代追随」这样一句庄严的承诺。\n\n不负责任的林德薇恩大人一遍又一遍地渲染着新任空巡局次官的功绩，以致于大家都觉得这位德拉叙尔的出色更胜上一位。德拉叙尔们十分骄傲于这样的传承，但对于林德薇恩来说，每一位德拉叙尔都独一无二。总有一天，拥有过希格莉德的林德薇恩也会再次失去她，这是被德拉叙尔们爱戴着的林德薇恩注定的诅咒。\n\n但希格莉德却能始终拥有着林德薇恩，这是她作为德拉叙尔的幸福。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3115910": {
+      "name": "希格莉德·空岛传奇",
+      "desc": "空巡局总务次官的例行着装，不仅是统领戍卫队员的身份象征，也在许多绘本故事中留下了传奇的剪影。",
+      "obtain_desc": "",
+      "image": "IconRole66"
+    },
+    "3115911": {
+      "name": "希格莉德·惊鸿逐浪",
+      "desc": "惯于在天空中驰骋的骑士，这一次将要面对来自海浪与阳光的挑战！",
+      "obtain_desc": "",
+      "image": "IconRole66_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 135,
+    "attack_growth": 82578,
+    "avatar_piece_id": 5591,
+    "break_stun": 93,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66203,
+    "element_abnormal_power": 92,
+    "element_mystery": 90,
+    "endurance": 0,
+    "hp_growth": 849779,
+    "hp_max": 626,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Sigrid",
+      "Pierce",
+      "Ice",
+      "Female",
+      "Camp16",
+      "Size03",
+      "AidTypeParry",
+      "Sigrid",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hp_max": 430,
+      "attack": 48,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hp_max": 859,
+      "attack": 96,
+      "defence": 67,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hp_max": 1289,
+      "attack": 145,
+      "defence": 100,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hp_max": 1719,
+      "attack": 193,
+      "defence": 134,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hp_max": 2149,
+      "attack": 241,
+      "defence": 167,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：凛冽枪尖",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方发动至多四段斩击，造成<color=#98EFF0>冰属性伤害</color>；\n<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段视为<Term:1000029></Term>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：敛枪式",
+          "desc": "处于<Term:1000030></Term>状态，并有<color=#FFFFFF>[普通攻击：敛枪式]</color>发动次数时，长按 <IconMap:Icon_Normal> 发动：\n按当前分支段数发动对应<color=#FFFFFF>[普通攻击：敛枪式]</color>，造成<color=#98EFF0>冰属性伤害</color>；\n<color=#FFFFFF>[普通攻击：敛枪式]</color>共有三段，每次释放都可以使段数提升，发动<color=#FFFFFF>[普通攻击：敛枪式]</color>第三段后重置段数；\n<color=#FFFFFF>[普通攻击：敛枪式]</color>第一、二段蓄力架势期间受到敌方攻击时，希格莉德会用盾牌进行格挡，若格挡成功，抵挡此次攻击伤害，使下一次<color=#FFFFFF>[普通攻击：敛枪式]</color>造成的失衡值提升100%，刷新<Term:1000030></Term>状态，并获得一次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会；格挡成功后点按 <IconMap:Icon_Normal> 可发动对应段数的<color=#FFFFFF>[普通攻击：敛枪式]</color>；\n衔接在<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>后的<color=#FFFFFF>[普通攻击：敛枪式]</color>可以保留<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>的段数；\n招式发动期间受到的伤害减少60%；\n招式发动期间抗打断等级提升;\n<color=#FFFFFF>[普通攻击：敛枪式]</color>第三段发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：凛冽枪尖",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1591001, Prop:1001}",
+              "param": {
+                "1591001": {
+                  "main": 7700,
+                  "growth": 700,
+                  "format": "%",
+                  "damage_percentage": 7700,
+                  "damage_percentage_growth": 700,
+                  "stun_ratio": 4540,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 14850,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 113575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4122,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1591002, Prop:1001}",
+              "param": {
+                "1591002": {
+                  "main": 14380,
+                  "growth": 1310,
+                  "format": "%",
+                  "damage_percentage": 14380,
+                  "damage_percentage_growth": 1310,
+                  "stun_ratio": 8870,
+                  "stun_ratio_growth": 410,
+                  "sp_recovery": 29010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 221650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8057,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7784
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1591004, Prop:1001}",
+              "param": {
+                "1591004": {
+                  "main": 10140,
+                  "growth": 930,
+                  "format": "%",
+                  "damage_percentage": 10140,
+                  "damage_percentage_growth": 930,
+                  "stun_ratio": 5580,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 21710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6027,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5070
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1591005, Prop:1001}",
+              "param": {
+                "1591005": {
+                  "main": 22100,
+                  "growth": 2010,
+                  "format": "%",
+                  "damage_percentage": 22100,
+                  "damage_percentage_growth": 2010,
+                  "stun_ratio": 13850,
+                  "stun_ratio_growth": 630,
+                  "sp_recovery": 41850,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 319825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11624,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12584
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1591001, Prop:1002}",
+              "param": {
+                "1591001": {
+                  "main": 4540,
+                  "growth": 210,
+                  "format": "%",
+                  "damage_percentage": 7700,
+                  "damage_percentage_growth": 700,
+                  "stun_ratio": 4540,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 14850,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 113575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4122,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4398
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1591002, Prop:1002}",
+              "param": {
+                "1591002": {
+                  "main": 8870,
+                  "growth": 410,
+                  "format": "%",
+                  "damage_percentage": 14380,
+                  "damage_percentage_growth": 1310,
+                  "stun_ratio": 8870,
+                  "stun_ratio_growth": 410,
+                  "sp_recovery": 29010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 221650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8057,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7784
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1591004, Prop:1002}",
+              "param": {
+                "1591004": {
+                  "main": 5580,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 10140,
+                  "damage_percentage_growth": 930,
+                  "stun_ratio": 5580,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 21710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6027,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5070
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1591005, Prop:1002}",
+              "param": {
+                "1591005": {
+                  "main": 13850,
+                  "growth": 630,
+                  "format": "%",
+                  "damage_percentage": 22100,
+                  "damage_percentage_growth": 2010,
+                  "stun_ratio": 13850,
+                  "stun_ratio_growth": 630,
+                  "sp_recovery": 41850,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 319825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11624,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12584
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：敛枪式 第一段",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591007, Prop:1001}",
+              "param": {
+                "1591007": {
+                  "main": 35830,
+                  "growth": 3260,
+                  "format": "%",
+                  "damage_percentage": 35830,
+                  "damage_percentage_growth": 3260,
+                  "stun_ratio": 8630,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 28220,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 215600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7836,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7837
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591007, Prop:1002}",
+              "param": {
+                "1591007": {
+                  "main": 8630,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 35830,
+                  "damage_percentage_growth": 3260,
+                  "stun_ratio": 8630,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 28220,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 215600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7836,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7837
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：敛枪式 第二段",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591008, Prop:1001}",
+              "param": {
+                "1591008": {
+                  "main": 60910,
+                  "growth": 5540,
+                  "format": "%",
+                  "damage_percentage": 60910,
+                  "damage_percentage_growth": 5540,
+                  "stun_ratio": 14310,
+                  "stun_ratio_growth": 660,
+                  "sp_recovery": 46820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 357775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591008, Prop:1002}",
+              "param": {
+                "1591008": {
+                  "main": 14310,
+                  "growth": 660,
+                  "format": "%",
+                  "damage_percentage": 60910,
+                  "damage_percentage_growth": 5540,
+                  "stun_ratio": 14310,
+                  "stun_ratio_growth": 660,
+                  "sp_recovery": 46820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 357775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13004
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：敛枪式 第三段",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591022, Prop:1001}",
+              "param": {
+                "1591022": {
+                  "main": 81460,
+                  "growth": 7410,
+                  "format": "%",
+                  "damage_percentage": 81460,
+                  "damage_percentage_growth": 7410,
+                  "stun_ratio": 19620,
+                  "stun_ratio_growth": 900,
+                  "sp_recovery": 64200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 490600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 17834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591022, Prop:1002}",
+              "param": {
+                "1591022": {
+                  "main": 19620,
+                  "growth": 900,
+                  "format": "%",
+                  "damage_percentage": 81460,
+                  "damage_percentage_growth": 7410,
+                  "stun_ratio": 19620,
+                  "stun_ratio_growth": 900,
+                  "sp_recovery": 64200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 490600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 17834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：蹑云",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：逐风",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前进行劈斩，造成<color=#F0D12B>物理属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：回马枪",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n凝聚寒冰在枪头对前方进行强力反击，造成<color=#98EFF0>冰属性伤害</color>；\n衔接在<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>后的<color=#FFFFFF>[闪避反击：回马枪]</color>可以保留<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>的段数；\n招式视为<Term:1000029></Term>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：逐风",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591013, Prop:1001}",
+              "param": {
+                "1591013": {
+                  "main": 11900,
+                  "growth": 1090,
+                  "format": "%",
+                  "damage_percentage": 11900,
+                  "damage_percentage_growth": 1090,
+                  "stun_ratio": 4680,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 15300,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 116875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4249
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591013, Prop:1002}",
+              "param": {
+                "1591013": {
+                  "main": 4680,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 11900,
+                  "damage_percentage_growth": 1090,
+                  "stun_ratio": 4680,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 15300,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 116875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4249
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：回马枪",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591014, Prop:1001}",
+              "param": {
+                "1591014": {
+                  "main": 24310,
+                  "growth": 2210,
+                  "format": "%",
+                  "damage_percentage": 24310,
+                  "damage_percentage_growth": 2210,
+                  "stun_ratio": 17230,
+                  "stun_ratio_growth": 790,
+                  "sp_recovery": 20390,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591014, Prop:1002}",
+              "param": {
+                "1591014": {
+                  "main": 17230,
+                  "growth": 790,
+                  "format": "%",
+                  "damage_percentage": 24310,
+                  "damage_percentage_growth": 2210,
+                  "stun_ratio": 17230,
+                  "stun_ratio_growth": 790,
+                  "sp_recovery": 20390,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5663,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：冰花",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方发动三段刺击，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：乱琼",
+          "desc": "能量足够且不处于<Term:1000030></Term>状态时，点按 <IconMap:Icon_SpecialReady> 发动：\n向前方发动强力连续刺击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式视为<Term:1000029></Term>；\n衔接在<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>后的<color=#FFFFFF>[强化特殊技：乱琼]</color>可以保留<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>的段数；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：碎玉",
+          "desc": "能量足够且处于<Term:1000030></Term>状态时，点按 <IconMap:Icon_SpecialReady> 发动：\n向前方发动强力的连续突进刺击，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式视为<Term:1000029></Term>；\n衔接在<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>后的<color=#FFFFFF>[强化特殊技：碎玉]</color>可以保留<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>的段数；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：冰花",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591010, Prop:1001}",
+              "param": {
+                "1591010": {
+                  "main": 5370,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 5370,
+                  "damage_percentage_growth": 490,
+                  "stun_ratio": 4220,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3831,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3832
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591010, Prop:1002}",
+              "param": {
+                "1591010": {
+                  "main": 4220,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 5370,
+                  "damage_percentage_growth": 490,
+                  "stun_ratio": 4220,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3831,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3832
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：乱琼",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591011, Prop:1001}",
+              "param": {
+                "1591011": {
+                  "main": 43880,
+                  "growth": 3990,
+                  "format": "%",
+                  "damage_percentage": 43880,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 27430,
+                  "stun_ratio_growth": 1250,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1038125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40196,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591011, Prop:1002}",
+              "param": {
+                "1591011": {
+                  "main": 27430,
+                  "growth": 1250,
+                  "format": "%",
+                  "damage_percentage": 43880,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 27430,
+                  "stun_ratio_growth": 1250,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1038125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40196,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：碎玉",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591012, Prop:1001}",
+              "param": {
+                "1591012": {
+                  "main": 104780,
+                  "growth": 9530,
+                  "format": "%",
+                  "damage_percentage": 104780,
+                  "damage_percentage_growth": 9530,
+                  "stun_ratio": 36260,
+                  "stun_ratio_growth": 1650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1339800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 36901,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591012, Prop:1002}",
+              "param": {
+                "1591012": {
+                  "main": 36260,
+                  "growth": 1650,
+                  "format": "%",
+                  "damage_percentage": 104780,
+                  "damage_percentage_growth": 9530,
+                  "stun_ratio": 36260,
+                  "stun_ratio_growth": 1650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1339800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 36901,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "50",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：冰凌卷地",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n对前方敌人发动强力穿刺，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式发动时，获得<color=#FFFFFF>[砥砺]</color>，使后续<color=#FFFFFF>[普通攻击：敛枪式]</color>造成的伤害提升20%，持续50秒；\n当本招式第一次命中处于失衡状态下的精英或首领级敌人时，会记录并重置当前<color=#FFFFFF>[普通攻击：敛枪式]</color>段数，同时进入<Term:1000028></Term>状态，\n<Term:1000028></Term>状态下，<Term:1000030></Term>持续时间不会减少，长按 <IconMap:Icon_Normal> 可连续释放<color=#FFFFFF>[普通攻击：敛枪式]</color>第一段至第三段；发动<color=#FFFFFF>[普通攻击：敛枪式]</color>第三段后结束<Term:1000028></Term>状态，并将<color=#FFFFFF>[普通攻击：敛枪式]</color>段数恢复；\n从失衡状态恢复前<Term:1000028></Term>状态对同一目标最多触发一次。\n招式视为<Term:1000029></Term>；\n<Term:1000028></Term>状态期间<color=#FFFFFF>[普通攻击：敛枪式]</color>命中失衡状态下的敌人不会开启连携窗口；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：霜天",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n凝聚极寒之力对前方发动毁灭性的连续突进，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式视为<Term:1000029></Term>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：冰凌卷地",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591015, Prop:1001}",
+              "param": {
+                "1591015": {
+                  "main": 94370,
+                  "growth": 8580,
+                  "format": "%",
+                  "damage_percentage": 94370,
+                  "damage_percentage_growth": 8580,
+                  "stun_ratio": 13760,
+                  "stun_ratio_growth": 630,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2172775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32453,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591015, Prop:1002}",
+              "param": {
+                "1591015": {
+                  "main": 13760,
+                  "growth": 630,
+                  "format": "%",
+                  "damage_percentage": 94370,
+                  "damage_percentage_growth": 8580,
+                  "stun_ratio": 13760,
+                  "stun_ratio_growth": 630,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2172775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32453,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：霜天",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591016, Prop:1001}",
+              "param": {
+                "1591016": {
+                  "main": 218980,
+                  "growth": 19910,
+                  "format": "%",
+                  "damage_percentage": 218980,
+                  "damage_percentage_growth": 19910,
+                  "stun_ratio": 26580,
+                  "stun_ratio_growth": 1210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 24163,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 74164
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591016, Prop:1002}",
+              "param": {
+                "1591016": {
+                  "main": 26580,
+                  "growth": 1210,
+                  "format": "%",
+                  "damage_percentage": 218980,
+                  "damage_percentage_growth": 19910,
+                  "stun_ratio": 26580,
+                  "stun_ratio_growth": 1210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 24163,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 74164
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：巡戍铁卫",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n向前方凝冰突进，造成<color=#98EFF0>冰属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：凛然不侵",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：冰饕",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n挥动长枪上挑后重击下砸，造成大量<color=#98EFF0>冰属性伤害</color>；\n招式视为<Term:1000029></Term>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：巡戍铁卫",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591017, Prop:1001}",
+              "param": {
+                "1591017": {
+                  "main": 3970,
+                  "growth": 370,
+                  "format": "%",
+                  "damage_percentage": 3970,
+                  "damage_percentage_growth": 370,
+                  "stun_ratio": 3120,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 10200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 78100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2831,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2832
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591017, Prop:1002}",
+              "param": {
+                "1591017": {
+                  "main": 3120,
+                  "growth": 150,
+                  "format": "%",
+                  "damage_percentage": 3970,
+                  "damage_percentage_growth": 370,
+                  "stun_ratio": 3120,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 10200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 78100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2831,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2832
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：凛然不侵",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1591018, Prop:1002}",
+              "param": {
+                "1591018": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1591019, Prop:1002}",
+              "param": {
+                "1591019": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1591020, Prop:1002}",
+              "param": {
+                "1591020": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：冰饕",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1591021, Prop:1001}",
+              "param": {
+                "1591021": {
+                  "main": 51490,
+                  "growth": 4690,
+                  "format": "%",
+                  "damage_percentage": 51490,
+                  "damage_percentage_growth": 4690,
+                  "stun_ratio": 35380,
+                  "stun_ratio_growth": 1610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1138225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34467,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18330
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1591021, Prop:1002}",
+              "param": {
+                "1591021": {
+                  "main": 35380,
+                  "growth": 1610,
+                  "format": "%",
+                  "damage_percentage": 51490,
+                  "damage_percentage_growth": 4690,
+                  "stun_ratio": 35380,
+                  "stun_ratio_growth": 1610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1138225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34467,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18330
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100112": 2
+        },
+        "2": {
+          "10": 3000,
+          "100112": 3
+        },
+        "3": {
+          "10": 6000,
+          "100122": 2
+        },
+        "4": {
+          "10": 9000,
+          "100122": 3
+        },
+        "5": {
+          "10": 12000,
+          "100122": 4
+        },
+        "6": {
+          "10": 18000,
+          "100122": 6
+        },
+        "7": {
+          "10": 45000,
+          "100132": 5
+        },
+        "8": {
+          "10": 67500,
+          "100132": 8
+        },
+        "9": {
+          "10": 90000,
+          "100132": 10
+        },
+        "10": {
+          "10": 112500,
+          "100132": 12
+        },
+        "11": {
+          "10": 135000,
+          "100132": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1591001,
+      "avatar_id": 1591,
+      "first_priority": [
+        5,
+        0
+      ],
+      "second_priority": [
+        1,
+        3
+      ],
+      "third_priority": [
+        2,
+        6
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1591001": {
+      "name": "普通攻击：凛冽枪尖",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591002": {
+      "name": "敛枪式",
+      "desc": "<IconMap:Icon_Normal>（进入或刷新[巡空枪势]状态）（长按）",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591003": {
+      "name": "特殊技：冰花",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591004": {
+      "name": "强化特殊技：乱琼",
+      "desc": "<IconMap:Icon_SpecialReady>（未进入[巡空枪势]状态）",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591005": {
+      "name": "强化特殊技：碎玉",
+      "desc": "<IconMap:Icon_SpecialReady>（[巡空枪势]状态下）",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591006": {
+      "name": "冲刺攻击：逐风",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591007": {
+      "name": "闪避反击：回马枪",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591008": {
+      "name": "连携技：冰凌卷地",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591009": {
+      "name": "终结技：霜天",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591010": {
+      "name": "快速支援：巡戍铁卫",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1591011": {
+      "name": "招架支援：凛然不侵",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1591012": {
+      "name": "支援突击：冰饕",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 202,
+      "hit_type": 103,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1591501": {
+        "level": 1,
+        "id": 1591501,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>33%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591502": {
+        "level": 2,
+        "id": 1591502,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>39%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591503": {
+        "level": 3,
+        "id": 1591503,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>44%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591504": {
+        "level": 4,
+        "id": 1591504,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>50%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591505": {
+        "level": 5,
+        "id": 1591505,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>55%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591506": {
+        "level": 6,
+        "id": 1591506,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>61%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1591507": {
+        "level": 7,
+        "id": 1591507,
+        "name": [
+          "核心被动：天空骑士",
+          "额外能力：天际联军"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：凛冽枪尖]</color>第四段、<color=#FFFFFF>[强化特殊技：乱琼]</color>、<color=#FFFFFF>[强化特殊技：碎玉]</color>、<color=#FFFFFF>[支援突击：冰饕]</color>、<color=#FFFFFF>[连携技：冰凌卷地]</color>、<color=#FFFFFF>[终结技：霜天]</color>与<color=#FFFFFF>[闪避反击：回马枪]</color>视为<Term:1000029></Term>；\n希格莉德的任意<Term:1000029></Term>命中敌人时，若当前未处于<Term:1000030></Term>状态，则进入<Term:1000030></Term>状态，获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n处于<Term:1000030></Term>状态下，希格莉德发动任意<Term:1000029></Term>命中敌人时，可刷新<Term:1000030></Term>状态，并获得1次<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会，最多储存1次；\n触发或刷新<Term:1000030></Term>时，其持续时间随<color=#FFFFFF>[普通攻击：敛枪式]</color>段数提升而缩短：一/二/三段时，持续时间分别为<color=#FFFFFF>8</color>/<color=#FFFFFF>7</color>/<color=#FFFFFF>6</color>秒；\n<Term:1000030></Term>状态结束时，<color=#FFFFFF>[普通攻击：敛枪式]</color>段数降低一段；\n激活或刷新<Term:1000030></Term>状态时，希格莉德的暴击率提升<color=#2BAD00>66%</color>，持续<color=#FFFFFF>8</color>秒；重复触发时持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒；\n处于<Term:1000030></Term>状态下，希格莉德攻击命中处于失衡状态下的敌人时，对目标造成伤害的失衡易伤倍率提升20%。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n希格莉德的攻击力提升120点，该效果随角色等级提升，每级增加12点，最多提升840点；\n攻击命中处于<color=#FFFFFF>[浸染]</color>状态下的敌人时，自身造成的伤害提升<color=#FFFFFF>15%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110512": 2
+      },
+      "3": {
+        "10": 28000,
+        "110512": 4
+      },
+      "4": {
+        "10": 60000,
+        "110007": 2,
+        "110512": 9
+      },
+      "5": {
+        "10": 100000,
+        "110007": 3,
+        "110512": 15
+      },
+      "6": {
+        "10": 200000,
+        "110007": 4,
+        "110512": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "很久很久以前",
+      "desc": "发动<color=#FFFFFF>[普通攻击：敛枪式]</color>第三段时，获得<color=#FFFFFF>[巡空枪势]</color>和一次发动<color=#FFFFFF>[普通攻击：敛枪式]</color>的机会；<color=#FFFFFF>[普通攻击：敛枪式]</color>发动机会溢出时，下一次<color=#FFFFFF>[普通攻击：敛枪式]</color>的最后一击额外造成<color=#FFFFFF>100%</color>攻击力的<color=#98EFF0>冰属性伤害</color>；希格莉德自身攻击力提升<color=#FFFFFF>25%</color>。",
+      "desc2": "很久很久以前，挽昼大人捧起了天空岛的第一抔泥土…\n停停停，关于挽昼女士筑成罗斯凯利法第一座岛屿的故事，孩子们都已经听得耳朵起茧了。\n今天我们要讲的是关于挽昼女士身旁那位战士的故事，她身着月夜般皎洁的银白铠甲，就像童话故事中远古的骑士一样…"
+    },
+    "2": {
+      "level": 2,
+      "name": "传说的第一幕",
+      "desc": "<color=#FFFFFF>[出枪式]</color>和<color=#FFFFFF>[普通攻击：敛枪式]</color>造成伤害的穿透率提升<color=#FFFFFF>24%</color>；<color=#FFFFFF>[巡空枪势]</color>效果的持续时间延长2秒；希格莉德的喧响值获取效率提升10%。",
+      "desc2": "她是罗斯凯利法的第一名士兵、第一柄长枪，她坚守在反击空洞的第一道阵线、第一次冲锋。\n她是追随挽昼女士的第一支羽翼，也亲手筑起了罗斯凯利法的第一堵城墙。\n她是罗斯凯利法第一柄折断的刀兵，她的姓氏是德拉叙尔。\n她的孩子们和她的传说一样，于罗斯凯利法的夜空之中永燃不熄。"
+    },
+    "3": {
+      "level": 3,
+      "name": "奇迹守护者",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "罗斯凯利法是天空的奇迹，而守护奇迹之人的头衔，绝不独属于少数人。\n但总要有人成为守护者们的领袖——这本是林德薇恩大人的职责，但生性天真烂漫的她，实在难以成为一名威风的将军。\n还好她有一位英姿绝逸的副官，准确地说，是一位又一位。"
+    },
+    "4": {
+      "level": 4,
+      "name": "英雄养成中",
+      "desc": "每次获得<color=#FFFFFF>[巡空枪势]</color>时，自身造成的伤害提升<color=#FFFFFF>18%</color>，持续<color=#FFFFFF>8</color>秒，重复触发时可使持续时间延长<color=#FFFFFF>8</color>秒，最多不超过<color=#FFFFFF>40</color>秒。",
+      "desc2": "士兵和民众们总忍不住将新任的总务次官与上一任暗暗对比——这怪不得他们，毕竟在林德薇恩·挽昼大人的口中，每一位德拉叙尔的家主都是那样传奇的人物。\n但也正因如此，大家总期待着年轻的德拉叙尔要更胜于上一位，如此才不负传奇守护者家族的声名。\n于是林德薇恩也不断为希格莉德编织着新的、更具颠覆性的传说。"
+    },
+    "5": {
+      "level": 5,
+      "name": "苍穹誓约",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "如今的挽昼女士仅凭虚狩的名望便能一呼百应，但任何声名卓著的领袖，背后都曾空无一人。\n而要追随那位年轻的领袖踏足天空，建成不可能建成的奇迹之城，要么拥有莽汉般的勇气，要么具备痴人般的天真。\n而当每一位德拉叙尔再次念诵那份征服天空的誓言，这两种品质都再一次煜煜生辉。"
+    },
+    "6": {
+      "level": 6,
+      "name": "天空的骑士",
+      "desc": "<color=#FFFFFF>[普通攻击：敛枪式]</color>第一/二/三段的最后一击命中敌人时，额外造成<color=#FFFFFF>80%</color>/<color=#FFFFFF>90%</color>/<color=#FFFFFF>100%</color>攻击力的<color=#98EFF0>冰属性伤害</color>；招式<color=#FFFFFF>[连携技：冰凌卷地]</color>命中失衡状态下的敌人时，自身进入<color=#FFFFFF>[破阵]</color>状态不再有次数限制；在<color=#FFFFFF>[破阵]</color>状态下，希格莉德会更快地发动<color=#FFFFFF>[普通攻击：敛枪式]</color>。",
+      "desc2": "在亘古的传说中，曾有湖中的骑士留名。\n在遥远未来的歌谣中，也必将有凛冽的长枪划破时空的天际。\n「直到这柄长枪折断，天空的奇迹也绝不会陷落。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33300,
+    "slot2": 31100,
+    "slot_sub": 31400,
+    "part_sub_list": [
+      21103,
+      20103,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33300,
+          31100
+        ],
+        "part_sub_list": [
+          21103
+        ]
+      },
+      {
+        "suit_list": [
+          33300,
+          32700
+        ],
+        "part_sub_list": [
+          23103,
+          31703
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part5": {
+      "prop": 23103,
+      "name": "穿透率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png"
+    },
+    "part6": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": {},
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Sigrid"
+}

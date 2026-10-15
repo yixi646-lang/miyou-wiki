@@ -1,0 +1,172 @@
+{
+  "fetchedAt": "2026-10-02T17:22:02.733Z",
+  "repositories": {
+    "theBowja/genshin-db-dist": {
+      "commit": "371c228cabc9e182995919e595d67409823a0bbe",
+      "date": "2026-09-21T20:49:38Z",
+      "url": "https://github.com/theBowja/genshin-db-dist/tree/371c228cabc9e182995919e595d67409823a0bbe"
+    },
+    "Mar-7th/StarRailRes": {
+      "commit": "dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487",
+      "date": "2026-09-29T14:21:41Z",
+      "url": "https://github.com/Mar-7th/StarRailRes/tree/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487"
+    },
+    "EnkaNetwork/API-docs": {
+      "commit": "19eb305c51e9371270d8b67a462c501a5320ee83",
+      "date": "2026-09-30T12:34:13Z",
+      "url": "https://github.com/EnkaNetwork/API-docs/tree/19eb305c51e9371270d8b67a462c501a5320ee83"
+    }
+  },
+  "files": [
+    {
+      "game": "genshin",
+      "name": "constellations",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-constellations.min.json.gzip",
+      "bytes": 68917
+    },
+    {
+      "game": "genshin",
+      "name": "weapons",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-weapons.min.json.gzip",
+      "bytes": 365087
+    },
+    {
+      "game": "genshin",
+      "name": "artifacts",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-artifacts.min.json.gzip",
+      "bytes": 182184
+    },
+    {
+      "game": "genshin",
+      "name": "talents",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-talents.min.json.gzip",
+      "bytes": 257504
+    },
+    {
+      "game": "starrail",
+      "name": "characters",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/characters.json",
+      "bytes": 105211
+    },
+    {
+      "game": "genshin",
+      "name": "materials",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-materials.min.json.gzip",
+      "bytes": 200476
+    },
+    {
+      "game": "starrail",
+      "name": "character_promotions",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/character_promotions.json",
+      "bytes": 385010
+    },
+    {
+      "game": "starrail",
+      "name": "character_ranks",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/character_ranks.json",
+      "bytes": 279492
+    },
+    {
+      "game": "starrail",
+      "name": "character_skills",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/character_skills.json",
+      "bytes": 803123
+    },
+    {
+      "game": "starrail",
+      "name": "character_skill_trees",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/character_skill_trees.json",
+      "bytes": 2515969
+    },
+    {
+      "game": "starrail",
+      "name": "light_cones",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/light_cones.json",
+      "bytes": 127767
+    },
+    {
+      "game": "starrail",
+      "name": "light_cone_ranks",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/light_cone_ranks.json",
+      "bytes": 147644
+    },
+    {
+      "game": "genshin",
+      "name": "characters",
+      "url": "https://raw.githubusercontent.com/theBowja/genshin-db-dist/371c228cabc9e182995919e595d67409823a0bbe/data/gzips/chinesesimplified-characters.min.json.gzip",
+      "bytes": 83201
+    },
+    {
+      "game": "starrail",
+      "name": "light_cone_promotions",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/light_cone_promotions.json",
+      "bytes": 411065
+    },
+    {
+      "game": "starrail",
+      "name": "elements",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/elements.json",
+      "bytes": 2223
+    },
+    {
+      "game": "starrail",
+      "name": "relics",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/relics.json",
+      "bytes": 217867
+    },
+    {
+      "game": "starrail",
+      "name": "relic_sets",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/relic_sets.json",
+      "bytes": 27105
+    },
+    {
+      "game": "starrail",
+      "name": "paths",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/paths.json",
+      "bytes": 3066
+    },
+    {
+      "game": "starrail",
+      "name": "properties",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/properties.json",
+      "bytes": 15901
+    },
+    {
+      "game": "starrail",
+      "name": "items",
+      "url": "https://raw.githubusercontent.com/Mar-7th/StarRailRes/dbe8cdfcfb0bf657b9fe1cf92d5537f118ccb487/index_new/cn/items.json",
+      "bytes": 992554
+    },
+    {
+      "game": "zenless",
+      "name": "weapons",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/19eb305c51e9371270d8b67a462c501a5320ee83/store/zzz/weapons.json",
+      "bytes": 38182
+    },
+    {
+      "game": "zenless",
+      "name": "avatars",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/19eb305c51e9371270d8b67a462c501a5320ee83/store/zzz/avatars.json",
+      "bytes": 147325
+    },
+    {
+      "game": "zenless",
+      "name": "equipments",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/19eb305c51e9371270d8b67a462c501a5320ee83/store/zzz/equipments.json",
+      "bytes": 50833
+    },
+    {
+      "game": "zenless",
+      "name": "property",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/19eb305c51e9371270d8b67a462c501a5320ee83/store/zzz/property.json",
+      "bytes": 19799
+    },
+    {
+      "game": "zenless",
+      "name": "locs",
+      "url": "https://raw.githubusercontent.com/EnkaNetwork/API-docs/19eb305c51e9371270d8b67a462c501a5320ee83/store/zzz/locs.json",
+      "bytes": 302486
+    }
+  ]
+}

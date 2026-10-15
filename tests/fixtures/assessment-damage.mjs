@@ -1,0 +1,11 @@
+import {SLOTS} from '../../modules/character-assessment/core/model.mjs';
+
+// 独立合成装备，避免将账号资料写入测试文件。
+export function damageFixture(key){
+ const skirk=key==='Skirk',members=skirk?['Skirk','Escoffier','Furina','Vodyanitsa']:['Neuvillette','Furina','Xilonen','KaedeharaKazuha'];
+ const weapons=skirk?['MistsplitterReforged','FavoniusLance','FavoniusSword','ThrillingTalesOfDragonSlayers']:['SacrificialJade','FavoniusSword','FavoniusSword','FavoniusSword'];
+ const sets=skirk?['FinaleOfTheDeepGalleries','NoblesseOblige','GoldenTroupe','TenacityOfTheMillelith']:['MarechausseeHunter','GoldenTroupe','ScrollOfTheHeroOfCinderCity','ViridescentVenerer'];
+ const good={format:'GOOD',version:3,characters:members.map(key=>({key,level:90,ascension:6,constellation:0,talent:{auto:10,skill:10,burst:10}})),weapons:members.map((location,i)=>({key:weapons[i],location,level:90,ascension:6,refinement:1})),artifacts:members.flatMap((location,i)=>SLOTS.map((slot,j)=>({id:location+'-'+slot,location,setKey:j===4?'WanderersTroupe':sets[i],rarity:5,level:20,slotKey:slot,mainStatKey:({flower:'hp',plume:'atk',sands:i===0&&skirk?'atk_':'hp_',goblet:i===0?(skirk?'cryo_dmg_':'hydro_dmg_'):'hp_',circlet:'critDMG_'})[slot],substats:[{key:'critRate_',value:7.8},{key:'enerRech_',value:5.2}]})))};
+ const scenario={enemyLevel:100,resistance:10,active:key,members:members.slice(1),conditional:skirk?{Skirk:{burstSerpentOver:'12',burstVoidAbsorb:'3',a4DeathStacks:'3'},MistsplitterReforged:{MistsplittersEmblem:'3'},FinaleOfTheDeepGalleries:{'0EnergyNoNormal':'on'}}:{Neuvillette:{a1Stacks:'3',a4Hp:'50'},SacrificialJade:{offField:'on'},MarechausseeHunter:{set4:'3'}},characters:skirk?{Escoffier:{conditional:{Escoffier:{a4SkillBurstHit:'on'}}},Furina:{conditional:{Furina:{skillHpConsumeStacks:'4',burstFanfare:'300'},GoldenTroupe:{set4:'on'}}},Vodyanitsa:{conditional:{Vodyanitsa:{a4LeadVocal:'on',a4Chorus:'on'},TenacityOfTheMillelith:{skill:'cast'},ThrillingTalesOfDragonSlayers:{Heritage:'on'}}}}:{Furina:{conditional:{Furina:{skillHpConsumeStacks:'4',burstFanfare:'300'},GoldenTroupe:{set4:'on'}}},Xilonen:{conditional:{Xilonen:{sourceActive:'on'},ScrollOfTheHeroOfCinderCity:{react_hydro:'hydro',nightsoul_hydro:'hydro'}}},KaedeharaKazuha:{conditional:{KaedeharaKazuha:{swirlhydro:'hydro'},ViridescentVenerer:{swirlhydro:'hydro'}}}}};
+ return{good,key,scenario};
+}

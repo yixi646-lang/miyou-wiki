@@ -1,0 +1,26 @@
+/* 只调整养成计算器，两栏与材料列由实际可用宽度计算。 */
+.planner-root .planner-layout{grid-template-columns:var(--plan-width,420px) minmax(0,1fr);gap:22px}
+.planner-root .planner-layout[data-stacked=true]{grid-template-columns:minmax(0,1fr)}
+.planner-root .planner-plans{container-type:normal}
+.planner-root .goal-list{grid-template-columns:repeat(var(--goal-columns,1),var(--goal-card-width,420px))!important;gap:12px}
+.planner-root .goal-list .goal-card{width:100%;min-width:0}
+.planner-root .planner-plan-title{align-items:center;gap:8px;flex-wrap:wrap}
+.planner-root .plan-density{gap:6px}
+.planner-root .plan-density button{font-size:11px;padding:5px 7px}
+.planner-root .planner-totals{position:static;padding:19px;min-width:0}
+.planner-root .material-total-columns{display:grid;grid-template-columns:repeat(var(--material-columns,1),var(--material-card-width,360px));gap:12px 16px;align-items:start}
+.planner-root .material-total-group{min-width:0;margin-top:0;break-inside:avoid}
+.planner-root .goal-quick-remove{margin-left:auto;flex:none;display:grid;place-items:center;width:25px;height:25px;padding:0;font-size:20px;color:#8b9bb1;background:#f5f7fb}
+.planner-root .goal-quick-remove:hover{color:#b35353;background:#fff0f0}
+.planner-root .goal-card .goal-state{margin-left:auto}
+.planner-root .goal-toolbar{flex-wrap:wrap}
+.planner-root .bulk-settings{width:100%;box-sizing:border-box}
+.planner-root .plan-column-options{display:inline-flex;align-items:center;gap:4px;font-size:12px;color:#8a9bb1}
+.planner-root .plan-column-options button.active{color:var(--accent);background:var(--accent-soft);border-color:#dfe7ff}
+.planner-root .totals-options{display:grid;grid-template-columns:max-content minmax(0,1fr);align-items:start;gap:10px 16px;margin:0 0 18px}
+.planner-root .totals-options .missing-toggle{margin:0;line-height:1.6}
+.planner-root .totals-note{margin:0;text-align:right;font-size:11px;line-height:1.6;color:#93a2b7;min-width:0;overflow-wrap:anywhere}
+@media(max-width:650px){
+ .planner-root .planner-layout{gap:15px}
+ .planner-root .planner-totals{padding:19px}
+}

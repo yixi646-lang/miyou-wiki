@@ -1,0 +1,916 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "阵营",
+        "key": "阵营",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "不老者的仙舟": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "不老者的仙舟",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%8D%E8%80%81%E8%80%85%E7%9A%84%E4%BB%99%E8%88%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "云无留迹的过客": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "云无留迹的过客",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BA%91%E6%97%A0%E7%95%99%E8%BF%B9%E7%9A%84%E8%BF%87%E5%AE%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "停转的萨尔索图": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "停转的萨尔索图",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%81%9C%E8%BD%AC%E7%9A%84%E8%90%A8%E5%B0%94%E7%B4%A2%E5%9B%BE",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "再创天地的救世主": {
+        "printouts": {
+          "实装版本": [
+            "3.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "再创天地的救世主",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%86%8D%E5%88%9B%E5%A4%A9%E5%9C%B0%E7%9A%84%E6%95%91%E4%B8%96%E4%B8%BB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "净庭教宗的圣骑士": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "净庭教宗的圣骑士",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%87%80%E5%BA%AD%E6%95%99%E5%AE%97%E7%9A%84%E5%9C%A3%E9%AA%91%E5%A3%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "凯歌祝捷的英豪": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "凯歌祝捷的英豪",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%87%AF%E6%AD%8C%E7%A5%9D%E6%8D%B7%E7%9A%84%E8%8B%B1%E8%B1%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "出云显世与高天神国": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "出云显世与高天神国",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%87%BA%E4%BA%91%E6%98%BE%E4%B8%96%E4%B8%8E%E9%AB%98%E5%A4%A9%E7%A5%9E%E5%9B%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "劫火莲灯铸炼宫": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "劫火莲灯铸炼宫",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8A%AB%E7%81%AB%E8%8E%B2%E7%81%AF%E9%93%B8%E7%82%BC%E5%AE%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千星荟萃之城": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "千星荟萃之城",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%83%E6%98%9F%E8%8D%9F%E8%90%83%E4%B9%8B%E5%9F%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "叩问天工的名冶": {
+        "printouts": {
+          "实装版本": [
+            "4.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "叩问天工的名冶",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8F%A9%E9%97%AE%E5%A4%A9%E5%B7%A5%E7%9A%84%E5%90%8D%E5%86%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "哀歌覆国的诗人": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "哀歌覆国的诗人",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%93%80%E6%AD%8C%E8%A6%86%E5%9B%BD%E7%9A%84%E8%AF%97%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "坠星启航地": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "坠星启航地",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%9D%A0%E6%98%9F%E5%90%AF%E8%88%AA%E5%9C%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "天国@直播间": {
+        "printouts": {
+          "实装版本": [
+            "3.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "天国@直播间",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A9%E5%9B%BD@%E7%9B%B4%E6%92%AD%E9%97%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "太空封印站": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "太空封印站",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%AA%E7%A9%BA%E5%B0%81%E5%8D%B0%E7%AB%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "奇想蕉乐园": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "奇想蕉乐园",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A5%87%E6%83%B3%E8%95%89%E4%B9%90%E5%9B%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "奔狼的都蓝王朝": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "奔狼的都蓝王朝",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A5%94%E7%8B%BC%E7%9A%84%E9%83%BD%E8%93%9D%E7%8E%8B%E6%9C%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "妖精织梦的乐园": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "妖精织梦的乐园",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A6%96%E7%B2%BE%E7%BB%87%E6%A2%A6%E7%9A%84%E4%B9%90%E5%9B%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "宝命长存的莳者": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "宝命长存的莳者",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AE%9D%E5%91%BD%E9%95%BF%E5%AD%98%E7%9A%84%E8%8E%B3%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "密林卧雪的猎人": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "密林卧雪的猎人",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AF%86%E6%9E%97%E5%8D%A7%E9%9B%AA%E7%9A%84%E7%8C%8E%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寰宇生研院": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "寰宇生研院",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AF%B0%E5%AE%87%E7%94%9F%E7%A0%94%E9%99%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "幽锁深牢的系囚": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "幽锁深牢的系囚",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B9%BD%E9%94%81%E6%B7%B1%E7%89%A2%E7%9A%84%E7%B3%BB%E5%9B%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "应天涉远的卜者": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "应天涉远的卜者",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BA%94%E5%A4%A9%E6%B6%89%E8%BF%9C%E7%9A%84%E5%8D%9C%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "恶海逐波的船长": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "恶海逐波的船长",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%81%B6%E6%B5%B7%E9%80%90%E6%B3%A2%E7%9A%84%E8%88%B9%E9%95%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "戍卫风雪的铁卫": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "戍卫风雪的铁卫",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%88%8D%E5%8D%AB%E9%A3%8E%E9%9B%AA%E7%9A%84%E9%93%81%E5%8D%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "戏梦点星的伶人": {
+        "printouts": {
+          "实装版本": [
+            "4.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "戏梦点星的伶人",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%88%8F%E6%A2%A6%E7%82%B9%E6%98%9F%E7%9A%84%E4%BC%B6%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "折断的龙骨": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "折断的龙骨",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%8A%98%E6%96%AD%E7%9A%84%E9%BE%99%E9%AA%A8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "无主荒星茨冈尼亚": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "无主荒星茨冈尼亚",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%97%A0%E4%B8%BB%E8%8D%92%E6%98%9F%E8%8C%A8%E5%86%88%E5%B0%BC%E4%BA%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星体差分机": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "星体差分机",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E4%BD%93%E5%B7%AE%E5%88%86%E6%9C%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星如我见的领航员": {
+        "printouts": {
+          "实装版本": [
+            "4.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "星如我见的领航员",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E5%A6%82%E6%88%91%E8%A7%81%E7%9A%84%E9%A2%86%E8%88%AA%E5%91%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "晨昏交界的翔鹰": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "晨昏交界的翔鹰",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%99%A8%E6%98%8F%E4%BA%A4%E7%95%8C%E7%9A%84%E7%BF%94%E9%B9%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "机心戏梦的钟表匠": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "机心戏梦的钟表匠",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9C%BA%E5%BF%83%E6%88%8F%E6%A2%A6%E7%9A%84%E9%92%9F%E8%A1%A8%E5%8C%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "梦想之地匹诺康尼": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "梦想之地匹诺康尼",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A2%A6%E6%83%B3%E4%B9%8B%E5%9C%B0%E5%8C%B9%E8%AF%BA%E5%BA%B7%E5%B0%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "死水深潜的先驱": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "死水深潜的先驱",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AD%BB%E6%B0%B4%E6%B7%B1%E6%BD%9C%E7%9A%84%E5%85%88%E9%A9%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "毁烬焚骨的大公": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "毁烬焚骨的大公",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AF%81%E7%83%AC%E7%84%9A%E9%AA%A8%E7%9A%84%E5%A4%A7%E5%85%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "永恒之地翁法罗斯": {
+        "printouts": {
+          "实装版本": [
+            "3.7"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "永恒之地翁法罗斯",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B0%B8%E6%81%92%E4%B9%8B%E5%9C%B0%E7%BF%81%E6%B3%95%E7%BD%97%E6%96%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "沉欢醉饮的海隅": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "沉欢醉饮的海隅",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B2%89%E6%AC%A2%E9%86%89%E9%A5%AE%E7%9A%84%E6%B5%B7%E9%9A%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "沉陆海域露莎卡": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "沉陆海域露莎卡",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B2%89%E9%99%86%E6%B5%B7%E5%9F%9F%E9%9C%B2%E8%8E%8E%E5%8D%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "泛银河商业公司": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "泛银河商业公司",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B3%9B%E9%93%B6%E6%B2%B3%E5%95%86%E4%B8%9A%E5%85%AC%E5%8F%B8",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流星追迹的怪盗": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "流星追迹的怪盗",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%81%E6%98%9F%E8%BF%BD%E8%BF%B9%E7%9A%84%E6%80%AA%E7%9B%97",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "渊思寂虑的巨树": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "渊思寂虑的巨树",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B8%8A%E6%80%9D%E5%AF%82%E8%99%91%E7%9A%84%E5%B7%A8%E6%A0%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "激奏雷电的乐队": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "激奏雷电的乐队",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%BF%80%E5%A5%8F%E9%9B%B7%E7%94%B5%E7%9A%84%E4%B9%90%E9%98%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "烈阳惊雷的女武神": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "烈阳惊雷的女武神",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%83%88%E9%98%B3%E6%83%8A%E9%9B%B7%E7%9A%84%E5%A5%B3%E6%AD%A6%E7%A5%9E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "熔岩锻铸的火匠": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "熔岩锻铸的火匠",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%86%94%E5%B2%A9%E9%94%BB%E9%93%B8%E7%9A%84%E7%81%AB%E5%8C%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "生命的翁瓦克": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "生命的翁瓦克",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%94%9F%E5%91%BD%E7%9A%84%E7%BF%81%E7%93%A6%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "盗匪荒漠的废土客": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "盗匪荒漠的废土客",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9B%97%E5%8C%AA%E8%8D%92%E6%BC%A0%E7%9A%84%E5%BA%9F%E5%9C%9F%E5%AE%A2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "盗贼公国塔利亚": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "盗贼公国塔利亚",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9B%97%E8%B4%BC%E5%85%AC%E5%9B%BD%E5%A1%94%E5%88%A9%E4%BA%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "筑城者的贝洛伯格": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "筑城者的贝洛伯格",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%AD%91%E5%9F%8E%E8%80%85%E7%9A%84%E8%B4%9D%E6%B4%9B%E4%BC%AF%E6%A0%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "繁星璀璨的天才": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "繁星璀璨的天才",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B9%81%E6%98%9F%E7%92%80%E7%92%A8%E7%9A%84%E5%A4%A9%E6%89%8D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "繁星竞技场": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "繁星竞技场",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B9%81%E6%98%9F%E7%AB%9E%E6%8A%80%E5%9C%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "自匿星芒的隐士": {
+        "printouts": {
+          "实装版本": [
+            "3.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "自匿星芒的隐士",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%87%AA%E5%8C%BF%E6%98%9F%E8%8A%92%E7%9A%84%E9%9A%90%E5%A3%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "苍穹战线格拉默": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "苍穹战线格拉默",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8B%8D%E7%A9%B9%E6%88%98%E7%BA%BF%E6%A0%BC%E6%8B%89%E9%BB%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "荡除蠹灾的铁骑": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "荡除蠹灾的铁骑",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8D%A1%E9%99%A4%E8%A0%B9%E7%81%BE%E7%9A%84%E9%93%81%E9%AA%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "街头出身的拳王": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "街头出身的拳王",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%A1%97%E5%A4%B4%E5%87%BA%E8%BA%AB%E7%9A%84%E6%8B%B3%E7%8E%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "识海迷坠的学者": {
+        "printouts": {
+          "实装版本": [
+            "2.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "识海迷坠的学者",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%AF%86%E6%B5%B7%E8%BF%B7%E5%9D%A0%E7%9A%84%E5%AD%A6%E8%80%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "谧宁拾骨地": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "谧宁拾骨地",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B0%A7%E5%AE%81%E6%8B%BE%E9%AA%A8%E5%9C%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "贪噬禁果的异端": {
+        "printouts": {
+          "实装版本": [
+            "4.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "贪噬禁果的异端",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B4%AA%E5%99%AC%E7%A6%81%E6%9E%9C%E7%9A%84%E5%BC%82%E7%AB%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "重循苦旅的司铎": {
+        "printouts": {
+          "实装版本": [
+            "2.6"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "重循苦旅的司铎",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%87%8D%E5%BE%AA%E8%8B%A6%E6%97%85%E7%9A%84%E5%8F%B8%E9%93%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "野穗伴行的快枪手": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "野穗伴行的快枪手",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%87%8E%E7%A9%97%E4%BC%B4%E8%A1%8C%E7%9A%84%E5%BF%AB%E6%9E%AA%E6%89%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "闪耀功勋的魔法少女": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "闪耀功勋的魔法少女",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%97%AA%E8%80%80%E5%8A%9F%E5%8B%8B%E7%9A%84%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "零号关卡朋克洛德": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "零号关卡朋克洛德",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9B%B6%E5%8F%B7%E5%85%B3%E5%8D%A1%E6%9C%8B%E5%85%8B%E6%B4%9B%E5%BE%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风举云飞的勇烈": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "风举云飞的勇烈",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%8E%E4%B8%BE%E4%BA%91%E9%A3%9E%E7%9A%84%E5%8B%87%E7%83%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "骇域漫游的信使": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [],
+          "阵营": []
+        },
+        "fulltext": "骇域漫游的信使",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%AA%87%E5%9F%9F%E6%BC%AB%E6%B8%B8%E7%9A%84%E4%BF%A1%E4%BD%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "b64b508a73d88641572624ad048b7929",
+      "count": 62,
+      "offset": 0,
+      "source": "",
+      "time": "0.018798"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 5915,
+        "ns": 0,
+        "title": "Ballad in Goblets/2020-09-28",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Wish\n|name              = Ballad in Goblets 2020-09-28\n|image             = Ballad in Goblets 2020-09-28.png\n|type              = Character Event\n|duration          = event\n|time_start        = 2020-09-28 10:00:00\n|time_start_offset = GMT+8\n|time_end          = 2020-10-18 17:59:59\n|link              = https://x.com/GenshinImpact/status/1309704246971990017\n|succeeding        = Sparkling Steps/2020-10-20\n|alongside         = Epitome Invocation/2020-09-28\n|next              = Ballad in Goblets/2021-03-17\n}}\n{{Description|Dear Travelers:<br>The event wish \"Ballad in Goblets\" is about to begin! Win new characters, grab new weapons, and assemble your dream team!<ref>Twitter: [https://x.com/GenshinImpact/status/1309704246971990017 Event Announcement]</ref>}}\n'''Ballad in Goblets''' is a [[Character Event Wish]] in [[Version 1.0]].\n\n==Wish Details==\n===Duration===\n* 2020-09-28 10:00:00 UTC+8 &ndash; 2020-10-18 17:59:59\n\n===Summary===\n* During this event wish, the 5-star character \"Windborne Bard\" [[Venti]] ({{Anemo}}) as well as 4-star characters \"Shining Idol\" [[Barbara]] ({{Hydro}}), \"Prinzessin der Verurteilung!\" [[Fischl]] ({{Electro}}), and \"Exquisite Delicacy\" [[Xiangling]] ({{Pyro}}) will get a huge drop-rate boost!!\n* For information about rates, see [[Wish]]es.\n\n===Item Pool===\n{{Wish Pool\n|character_5_F = Venti\n|character_4_F = Barbara; Fischl; Xiangling\n|character_5   = Diluc; Jean; Keqing; Mona; Qiqi\n|character_4   = Beidou; Bennett; Chongyun; Ningguang; Noelle; Razor; Sucrose; Xingqiu\n|weapon_4      = Dragon's Bane; Eye of Perception; Favonius Codex; Favonius Greatsword; Favonius Lance; Favonius Sword; Favonius Warbow; Lion's Roar; Rainslasher; Rust; Sacrificial Bow; Sacrificial Fragments; Sacrificial Greatsword; Sacrificial Sword; The Bell; The Flute; The Stringless; The Widsith\n|weapon_3      = Black Tassel; Bloodtainted Greatsword; Cool Steel; Debate Club; Emerald Orb; Ferrous Shadow; Harbinger of Dawn; Magic Guide; Raven Bow; Sharpshooter's Oath; Skyrider Sword; Slingshot; Thrilling Tales of Dragon Slayers\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==References==\n{{Reflist}}\n\n[[de:Balladen in Bechern (28. 9. 2020)]]\n[[es:Oda del cáliz]]\n[[fr:Ballade en pintes/28.09.2020]]\n[[it:In alto i calici/2020-09-28]]\n[[ja:杯に注がれた詩/1.0]]\n[[pt-br:Poemas em Taças/28-09-2020]]\n[[ru:Стихи из винного кубка/2020-09-28]]\n[[th:ถ้วยแห่งบทกวี/2020-09-28]]\n[[tr:Kadehlerdeki Şiir/2020-09-28]]\n[[vi:Bài Thơ Cốc Thánh/2020-09-28]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 491689,
+        "ns": 0,
+        "title": "Epitome Invocation/2026-09-23",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Wish\n|name              = Epitome Invocation 2026-09-23\n|image             = Epitome Invocation 2026-09-23.png\n|type              = Weapon Event\n|duration          = event\n|time_start        = 2026-09-23 11:00:00\n|time_start_offset = GMT+8\n|time_end          = 2026-10-13 17:59:59\n|link              = https://genshin.hoyoverse.com/en/news/detail/166228\n|preceding         = Epitome Invocation/2026-09-01\n|alongside         = When Warm Winds Cavort/2026-09-23\n|alongside2        = Surging Ballad/2026-09-23\n|succeeding        = <!--Epitome Invocation/-->\n}}\n'''Epitome Invocation''' is a [[Weapon Event Wish]] in [[Version 7.1]].\n\n==Wish Details==\n===Duration===\n* 2026-09-23 11:00:00 UTC+8 &mdash; 2026-10-13 17:59:59\n\n===Summary===\n* During the event wish, the event-exclusive 5-star weapons {{Wish Item|Beyond the Chrysalis; Hymn of the Maelstrom}} will receive a huge drop-rate boost!\n* During this event wish, the event-exclusive 4-star weapons {{Wish Item|New Bough; Winter's Heavy Heart; Breezeborne Refrain}} as well as the 4-star weapons {{Wish Item|Favonius Greatsword; Dragon's Bane}} will receive a huge drop-rate boost!\n* During the event wish, use [[Epitomized Path]] to chart a course towards a promotional 5-star weapon, such as {{Wish Item|Beyond the Chrysalis}} or {{Wish Item|Hymn of the Maelstrom}}. For more information on Epitomized Path, go to the Wish screen and select Details in the bottom-left corner.\n* Of the above weapons, the event-exclusive weapons will not be available in the standard wish \"[[Wanderlust Invocation]].\"\n* For information about rates, see [[Wish]]es.\n\n==Item Pool==\n{{Wish Pool\n|weapon_5_F    = Beyond the Chrysalis; Hymn of the Maelstrom\n|weapon_4_F    = New Bough; Winter's Heavy Heart; Breezeborne Refrain; Favonius Greatsword; Dragon's Bane\n|character_4   = Aino; Alyosha; Barbara; Beidou; Bennett; Candace; Charlotte; Chevreuse; Chongyun; Collei; Dahlia; Diona; Dori; Faruzan; Fischl; Freminet; Gaming; Gorou; Iansan; Ifa; Illuga; Kachina; Kaveh; Kirara; Kujou Sara; Kuki Shinobu; Lan Yan; Layla; Lynette; Mika; Ningguang; Noelle; Ororon; Prune; Razor; Rosaria; Sayu; Sethos; Shikanoin Heizou; Sucrose; Thoma; Xiangling; Xingqiu; Xinyan; Yanfei; Yaoyao; Yun Jin\n|weapon_5      = Amos' Bow; Aquila Favonia; Lost Prayer to the Sacred Winds; Primordial Jade Winged-Spear; Skyward Atlas; Skyward Blade; Skyward Harp; Skyward Pride; Skyward Spine; Wolf's Gravestone\n|weapon_4      = Eye of Perception; Favonius Codex; Favonius Lance; Favonius Sword; Favonius Warbow; Lion's Roar; Rainslasher; Rust; Sacrificial Bow; Sacrificial Fragments; Sacrificial Greatsword; Sacrificial Sword; The Bell; The Flute; The Stringless; The Widsith\n|weapon_3      = Black Tassel; Bloodtainted Greatsword; Cool Steel; Debate Club; Emerald Orb; Ferrous Shadow; Harbinger of Dawn; Magic Guide; Raven Bow; Sharpshooter's Oath; Skyrider Sword; Slingshot; Thrilling Tales of Dragon Slayers\n}}\n\n==Change History==\n{{Change History|7.1}}\n\n[[fr:Incarnation divine/23.09.2026]]\n[[pt-br:Encarnação Divina/23-09-2026]]\n[[vi:Thân Hình Thần Đúc/2026-09-23]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

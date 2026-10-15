@@ -1,0 +1,1964 @@
+{
+  "id": 1121,
+  "icon": "IconRole16",
+  "name": "本",
+  "code_name": "Ben",
+  "rarity": 3,
+  "weapon_type": {
+    "5": "防护"
+  },
+  "element_type": {
+    "201": "火属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "3": "白祇重工"
+  },
+  "gender": 1,
+  "partner_info": {
+    "birthday": "12/23",
+    "full_name": "本·比格",
+    "gender": "男",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle16.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0016.png",
+    "impression_f": "第一次看到他的时候确实吓了一跳…\n不过没想到本意外的是个软乎乎毛茸茸，性格温和的好熊呢！",
+    "impression_m": "以貌取人是很不好的行为。\n虽说如此，但是本好像也经常被要求摆出一副很凶的姿态，用来对敌方进行威慑…似乎效果还挺好的。",
+    "impressions": [
+      "对本的印象：\n · 在意的东西：发票，安全帽，鱼子酱。讨厌的东西：发票，按键小过头的计算器，鱼。",
+      " · 「毛发养护」是第二重要的日常任务，第一名是「账单核算」。",
+      " · 万兽之王的身躯，操着万兽之王的老妈的心。"
+    ],
+    "profile_desc": "本，白祇重工的人（熊）力财务兼资产管理负责人，珂蕾妲的亲信之一。\n「我喜欢算术，但这也不妨碍我可以一巴掌拍碎歹徒。」\n魁梧健壮的熊希人。\n看起来凶狠，实际上出乎意料的心思细腻，对数字相关问题有着天生的敏感性。\n原本是白祇重工的一线机械操作工，被珂蕾妲慧眼识英提拔为干部，负责公司的财务工作。\n因为感激珂蕾妲对自己的信任，本对她非常忠诚。\n喜欢的食物是黑鱼子酱，但是不喜欢鱼。\n\n曾观测到这位壮硕的身影坐在小小的办公椅上，戴着小小的眼镜，用粗大的手指边按计算器边核对白祇重工资产信息的画面。\n提问：用绳网上的话来说，这就是所谓的「反差萌」吗？",
+    "role_icon": "IconRole/UnPacker/IconRole16",
+    "stature": "192",
+    "unlock_condition": [
+      "获得代理人",
+      "完成委托「安比的困扰」",
+      "完成主线委托第二章"
+    ],
+    "trust_lv": {
+      "1": "本，白祇重工的人（熊）力财务兼资产管理负责人，珂蕾妲的亲信之一。\n「我喜欢算术，但这也不妨碍我可以一巴掌拍碎歹徒。」\n魁梧健壮的熊希人。\n看起来凶狠，实际上出乎意料的心思细腻，对数字相关问题有着天生的敏感性。\n原本是白祇重工的一线机械操作工，被珂蕾妲慧眼识英提拔为干部，负责公司的财务工作。\n因为感激珂蕾妲对自己的信任，本对她非常忠诚。\n喜欢的食物是黑鱼子酱，但是不喜欢鱼。\n\n曾观测到这位壮硕的身影坐在小小的办公椅上，戴着小小的眼镜，用粗大的手指边按计算器边核对白祇重工资产信息的画面。\n提问：用绳网上的话来说，这就是所谓的「反差萌」吗？",
+      "2": "",
+      "3": "根据相关数据推测，本现有的服装风格是为了更好地服务于白祇重工，并非出自自身喜好。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3111210": {
+      "name": "本·兽王毛茸茸",
+      "desc": "卸下震慑外敌的姿态，兽王也会为毛发护理和账单核算犯难。",
+      "obtain_desc": "",
+      "image": "IconRole16"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 94,
+    "attack_growth": 53574,
+    "avatar_piece_id": 5121,
+    "break_stun": 95,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 58,
+    "defence_growth": 78989,
+    "element_abnormal_power": 86,
+    "element_mystery": 90,
+    "endurance": 0,
+    "hp_growth": 935856,
+    "hp_max": 690,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Ben",
+      "Punch",
+      "Fire",
+      "Male",
+      "Camp3",
+      "Size3",
+      "AidTypeParry",
+      "Ben",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100215": 4
+      }
+    },
+    "2": {
+      "hp_max": 473,
+      "attack": 34,
+      "defence": 40,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100225": 12
+      }
+    },
+    "3": {
+      "hp_max": 947,
+      "attack": 67,
+      "defence": 80,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100225": 20
+      }
+    },
+    "4": {
+      "hp_max": 1420,
+      "attack": 101,
+      "defence": 120,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100235": 10
+      }
+    },
+    "5": {
+      "hp_max": 1893,
+      "attack": 134,
+      "defence": 160,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100235": 20
+      }
+    },
+    "6": {
+      "hp_max": 2366,
+      "attack": 168,
+      "defence": 200,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：对账",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多三段的打击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：对账",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1121001, Prop:1001}",
+              "param": {
+                "1121001": {
+                  "main": 6590,
+                  "growth": 600,
+                  "format": "%",
+                  "damage_percentage": 6590,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 4710,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 16940,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 129525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4706
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1121002, Prop:1001}",
+              "param": {
+                "1121002": {
+                  "main": 18900,
+                  "growth": 1720,
+                  "format": "%",
+                  "damage_percentage": 18900,
+                  "damage_percentage_growth": 1720,
+                  "stun_ratio": 15690,
+                  "stun_ratio_growth": 720,
+                  "sp_recovery": 56460,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 431475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15681
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1121003, Prop:1001}",
+              "param": {
+                "1121003": {
+                  "main": 34830,
+                  "growth": 3170,
+                  "format": "%",
+                  "damage_percentage": 34830,
+                  "damage_percentage_growth": 3170,
+                  "stun_ratio": 26010,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 93630,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 715275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26008
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1121001, Prop:1002}",
+              "param": {
+                "1121001": {
+                  "main": 4710,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 6590,
+                  "damage_percentage_growth": 600,
+                  "stun_ratio": 4710,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 16940,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 129525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4706
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1121002, Prop:1002}",
+              "param": {
+                "1121002": {
+                  "main": 15690,
+                  "growth": 720,
+                  "format": "%",
+                  "damage_percentage": 18900,
+                  "damage_percentage_growth": 1720,
+                  "stun_ratio": 15690,
+                  "stun_ratio_growth": 720,
+                  "sp_recovery": 56460,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 431475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15681
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1121003, Prop:1002}",
+              "param": {
+                "1121003": {
+                  "main": 26010,
+                  "growth": 1190,
+                  "format": "%",
+                  "damage_percentage": 34830,
+                  "damage_percentage_growth": 3170,
+                  "stun_ratio": 26010,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 93630,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 715275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26008
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：发票漏洞",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：前来报销",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行打击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：清算",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：前来报销",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121012, Prop:1001}",
+              "param": {
+                "1121012": {
+                  "main": 13840,
+                  "growth": 1260,
+                  "format": "%",
+                  "damage_percentage": 13840,
+                  "damage_percentage_growth": 1260,
+                  "stun_ratio": 6920,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 24910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 190300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6917
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121012, Prop:1002}",
+              "param": {
+                "1121012": {
+                  "main": 6920,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 13840,
+                  "damage_percentage_growth": 1260,
+                  "stun_ratio": 6920,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 24910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 190300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6917
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：清算",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121013, Prop:1001}",
+              "param": {
+                "1121013": {
+                  "main": 22570,
+                  "growth": 2060,
+                  "format": "%",
+                  "damage_percentage": 22570,
+                  "damage_percentage_growth": 2060,
+                  "stun_ratio": 19670,
+                  "stun_ratio_growth": 900,
+                  "sp_recovery": 34810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 24667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121013, Prop:1002}",
+              "param": {
+                "1121013": {
+                  "main": 19670,
+                  "growth": 900,
+                  "format": "%",
+                  "damage_percentage": 22570,
+                  "damage_percentage_growth": 2060,
+                  "stun_ratio": 19670,
+                  "stun_ratio_growth": 900,
+                  "sp_recovery": 34810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 24667
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：拳债统计",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n架起武器格挡敌人的攻击，随后对前方进行打击，造成<color=#F0D12B>物理伤害</color>，若在格挡期间成功格挡敌人的攻击，将提升招式的威力，发动格挡反击，造成大量<color=#F0D12B>物理伤害</color>；\n长按 <IconMap:Icon_Special> 能够维持格挡；\n维持格挡时获得护盾，护盾值随时间衰减；\n退出格挡后移除护盾，护盾值随时间回复；\n护盾值最高不超过本生命值上限的16%；\n格挡发动时拥有无敌效果；\n打击发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：到期还拳",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n架起武器格挡敌人的攻击，随后对前方进行打击，造成<color=#FF5521>火属性伤害</color>，若在格挡期间成功格挡敌人的攻击，将提升招式的威力，发动格挡反击，造成大量<color=#FF5521>火属性伤害</color>；\n长按 <IconMap:Icon_SpecialReady> 能够维持格挡；\n维持格挡时获得护盾，护盾值随时间衰减；\n退出格挡后移除护盾，护盾值随时间回复；\n护盾值最高不超过本生命值上限的16%；\n招式发动时，回复护盾至最大值；\n招式发动后，再次点按 <IconMap:Icon_SpecialReady> ，能够向前方追加强力打击，造成大量<color=#FF5521>火属性伤害</color>；\n格挡发动时拥有无敌效果；\n打击发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：拳债统计",
+          "param": [
+            {
+              "name": "主动攻击伤害倍率",
+              "desc": "{Skill:1121005, Prop:1001}",
+              "param": {
+                "1121005": {
+                  "main": 4170,
+                  "growth": 380,
+                  "format": "%",
+                  "damage_percentage": 4170,
+                  "damage_percentage_growth": 380,
+                  "stun_ratio": 4170,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 114675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4166
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡反击伤害倍率",
+              "desc": "{Skill:1121006, Prop:1001}",
+              "param": {
+                "1121006": {
+                  "main": 23340,
+                  "growth": 2130,
+                  "format": "%",
+                  "damage_percentage": 23340,
+                  "damage_percentage_growth": 2130,
+                  "stun_ratio": 22340,
+                  "stun_ratio_growth": 1020,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 229350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "主动攻击失衡倍率",
+              "desc": "{Skill:1121005, Prop:1002}",
+              "param": {
+                "1121005": {
+                  "main": 4170,
+                  "growth": 190,
+                  "format": "%",
+                  "damage_percentage": 4170,
+                  "damage_percentage_growth": 380,
+                  "stun_ratio": 4170,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 114675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4166
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡反击失衡倍率",
+              "desc": "{Skill:1121006, Prop:1002}",
+              "param": {
+                "1121006": {
+                  "main": 22340,
+                  "growth": 1020,
+                  "format": "%",
+                  "damage_percentage": 23340,
+                  "damage_percentage_growth": 2130,
+                  "stun_ratio": 22340,
+                  "stun_ratio_growth": 1020,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 229350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8331
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：到期还拳",
+          "param": [
+            {
+              "name": "主动攻击伤害倍率",
+              "desc": "{Skill:1121008, Prop:1001}",
+              "param": {
+                "1121008": {
+                  "main": 43850,
+                  "growth": 3990,
+                  "format": "%",
+                  "damage_percentage": 43850,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 24710,
+                  "stun_ratio_growth": 1130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 942700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27099,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10352
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "追加攻击伤害倍率",
+              "desc": "{Skill:1121009, Prop:1001}",
+              "param": {
+                "1121009": {
+                  "main": 43850,
+                  "growth": 3990,
+                  "format": "%",
+                  "damage_percentage": 43850,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 24710,
+                  "stun_ratio_growth": 1130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 942700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27099,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10352
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡反击伤害倍率",
+              "desc": "{Skill:1121010, Prop:1001}",
+              "param": {
+                "1121010": {
+                  "main": 50050,
+                  "growth": 4550,
+                  "format": "%",
+                  "damage_percentage": 50050,
+                  "damage_percentage_growth": 4550,
+                  "stun_ratio": 36760,
+                  "stun_ratio_growth": 1680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1125300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33071,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14776
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡追击伤害倍率",
+              "desc": "{Skill:1121011, Prop:1001}",
+              "param": {
+                "1121011": {
+                  "main": 55120,
+                  "growth": 5020,
+                  "format": "%",
+                  "damage_percentage": 55120,
+                  "damage_percentage_growth": 5020,
+                  "stun_ratio": 36760,
+                  "stun_ratio_growth": 1680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1125300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33071,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14776
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "主动攻击失衡倍率",
+              "desc": "{Skill:1121008, Prop:1002}",
+              "param": {
+                "1121008": {
+                  "main": 24710,
+                  "growth": 1130,
+                  "format": "%",
+                  "damage_percentage": 43850,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 24710,
+                  "stun_ratio_growth": 1130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 942700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27099,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10352
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "追加攻击失衡倍率",
+              "desc": "{Skill:1121009, Prop:1002}",
+              "param": {
+                "1121009": {
+                  "main": 24710,
+                  "growth": 1130,
+                  "format": "%",
+                  "damage_percentage": 43850,
+                  "damage_percentage_growth": 3990,
+                  "stun_ratio": 24710,
+                  "stun_ratio_growth": 1130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 942700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27099,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 10352
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡反击失衡倍率",
+              "desc": "{Skill:1121010, Prop:1002}",
+              "param": {
+                "1121010": {
+                  "main": 36760,
+                  "growth": 1680,
+                  "format": "%",
+                  "damage_percentage": 50050,
+                  "damage_percentage_growth": 4550,
+                  "stun_ratio": 36760,
+                  "stun_ratio_growth": 1680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1125300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33071,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14776
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡追击失衡倍率",
+              "desc": "{Skill:1121011, Prop:1002}",
+              "param": {
+                "1121011": {
+                  "main": 36760,
+                  "growth": 1680,
+                  "format": "%",
+                  "damage_percentage": 55120,
+                  "damage_percentage_growth": 5020,
+                  "stun_ratio": 36760,
+                  "stun_ratio_growth": 1680,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1125300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33071,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14776
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "格挡能量消耗",
+              "desc": "30点",
+              "potential": []
+            },
+            {
+              "name": "追击能量消耗",
+              "desc": "30点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：盖章，结算",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n对前方大范围敌人发动强力打击，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：拳债，全面清偿",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n对前方大范围敌人发动强力打击，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动时，额外回复3点支援点数；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：盖章，结算",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121014, Prop:1001}",
+              "param": {
+                "1121014": {
+                  "main": 62730,
+                  "growth": 5710,
+                  "format": "%",
+                  "damage_percentage": 62730,
+                  "damage_percentage_growth": 5710,
+                  "stun_ratio": 32830,
+                  "stun_ratio_growth": 1500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2456575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 42779,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22830
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121014, Prop:1002}",
+              "param": {
+                "1121014": {
+                  "main": 32830,
+                  "growth": 1500,
+                  "format": "%",
+                  "damage_percentage": 62730,
+                  "damage_percentage_growth": 5710,
+                  "stun_ratio": 32830,
+                  "stun_ratio_growth": 1500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2456575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 42779,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22830
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：拳债，全面清偿",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121015, Prop:1001}",
+              "param": {
+                "1121015": {
+                  "main": 164300,
+                  "growth": 14940,
+                  "format": "%",
+                  "damage_percentage": 164300,
+                  "damage_percentage_growth": 14940,
+                  "stun_ratio": 11000,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11000,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 61000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121015, Prop:1002}",
+              "param": {
+                "1121015": {
+                  "main": 11000,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 164300,
+                  "damage_percentage_growth": 14940,
+                  "stun_ratio": 11000,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11000,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 61000
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：联合追债",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：分摊风险",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n具有较为优秀的招架性能，承受高强度攻击时<color=#FFFFFF>[支援点数]</color>的消耗量降低；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：违约惩罚",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动突进打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：联合追债",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121016, Prop:1001}",
+              "param": {
+                "1121016": {
+                  "main": 9670,
+                  "growth": 880,
+                  "format": "%",
+                  "damage_percentage": 9670,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 9670,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 34810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121016, Prop:1002}",
+              "param": {
+                "1121016": {
+                  "main": 9670,
+                  "growth": 440,
+                  "format": "%",
+                  "damage_percentage": 9670,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 9670,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 34810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 265925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：分摊风险",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1121017, Prop:1002}",
+              "param": {
+                "1121017": {
+                  "main": 22510,
+                  "growth": 1030,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 22510,
+                  "stun_ratio_growth": 1030,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 35004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1121018, Prop:1002}",
+              "param": {
+                "1121018": {
+                  "main": 26840,
+                  "growth": 1220,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 26840,
+                  "stun_ratio_growth": 1220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 38334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1121019, Prop:1002}",
+              "param": {
+                "1121019": {
+                  "main": 10840,
+                  "growth": 500,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 10840,
+                  "stun_ratio_growth": 500,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8334
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：违约惩罚",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1121020, Prop:1001}",
+              "param": {
+                "1121020": {
+                  "main": 32590,
+                  "growth": 2970,
+                  "format": "%",
+                  "damage_percentage": 32590,
+                  "damage_percentage_growth": 2970,
+                  "stun_ratio": 28280,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1014750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30426,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1121020, Prop:1002}",
+              "param": {
+                "1121020": {
+                  "main": 28280,
+                  "growth": 1290,
+                  "format": "%",
+                  "damage_percentage": 32590,
+                  "damage_percentage_growth": 2970,
+                  "stun_ratio": 28280,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1014750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30426,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15337
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1121001,
+      "avatar_id": 1121,
+      "first_priority": [
+        5,
+        1
+      ],
+      "second_priority": [
+        3
+      ],
+      "third_priority": [
+        6,
+        0,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 1121002,
+      "avatar_id": 1121,
+      "first_priority": [
+        5,
+        1,
+        0
+      ],
+      "second_priority": [
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1121001": {
+      "name": "普通攻击：对账",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121002": {
+      "name": "特殊技：拳债统计",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121003": {
+      "name": "强化特殊技：到期还拳",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121004": {
+      "name": "冲刺攻击：前来报销",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121005": {
+      "name": "闪避反击：清算",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121006": {
+      "name": "连携技：盖章，结算",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121007": {
+      "name": "终结技：拳债，全面清偿",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121008": {
+      "name": "快速支援：联合追债",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1121009": {
+      "name": "招架支援：分摊风险",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1121010": {
+      "name": "支援突击：违约惩罚",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1121501": {
+        "level": 1,
+        "id": 1121501,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>40%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>15%</color>防御力+<color=#2BAD00>100</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 4000
+          }
+        },
+        "potential": []
+      },
+      "1121502": {
+        "level": 2,
+        "id": 1121502,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>46%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>17.5%</color>防御力+<color=#2BAD00>220</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 4600
+          }
+        },
+        "potential": []
+      },
+      "1121503": {
+        "level": 3,
+        "id": 1121503,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>52%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>20%</color>防御力+<color=#2BAD00>330</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 5200
+          }
+        },
+        "potential": []
+      },
+      "1121504": {
+        "level": 4,
+        "id": 1121504,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>60%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>22.5%</color>防御力+<color=#2BAD00>460</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 6000
+          }
+        },
+        "potential": []
+      },
+      "1121505": {
+        "level": 5,
+        "id": 1121505,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>66%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>25%</color>防御力+<color=#2BAD00>500</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 6600
+          }
+        },
+        "potential": []
+      },
+      "1121506": {
+        "level": 6,
+        "id": 1121506,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>72%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>27.5%</color>防御力+<color=#2BAD00>525</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 7200
+          }
+        },
+        "potential": []
+      },
+      "1121507": {
+        "level": 7,
+        "id": 1121507,
+        "name": [
+          "核心被动：守卫",
+          "额外能力：协议合同"
+        ],
+        "desc": [
+          "本的初始攻击力随初始防御力提升，提升效果等同于自身初始防御力的<color=#2BAD00>80%</color>；\n在<color=#FFFFFF>[强化特殊技]</color>中追加强力打击时，为全队角色提供等同于自身<color=#2BAD00>30%</color>防御力+<color=#2BAD00>550</color>点护盾，持续30秒。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n拥有<color=#FFFFFF>[核心被动：守卫]</color>施加的护盾时，角色的暴击率提升16%。"
+        ],
+        "extra_property": {
+          "131": {
+            "target": 121,
+            "value": 8000
+          }
+        },
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110504": 2
+      },
+      "3": {
+        "10": 28000,
+        "110504": 4
+      },
+      "4": {
+        "10": 60000,
+        "110002": 2,
+        "110504": 9
+      },
+      "5": {
+        "10": 100000,
+        "110002": 3,
+        "110504": 15
+      },
+      "6": {
+        "10": 200000,
+        "110002": 4,
+        "110504": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "反作用力",
+      "desc": "发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>，成功格挡敌人的攻击时，攻击者造成的伤害降低30%，持续15秒。",
+      "desc2": "「力的作用是相互的，为什么还要正面撞过来？」\n「看来你没有好好计算过」"
+    },
+    "2": {
+      "level": 2,
+      "name": "以守为攻",
+      "desc": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>中，成功触发格挡反击时，额外造成本300%防御力的伤害。",
+      "desc2": "不像其他熊希人，战斗时的本非常有耐心。\n因为他相信，只要做好防护，一定能等到敌人露出破绽的时刻。"
+    },
+    "3": {
+      "level": 3,
+      "name": "精打细算",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "担当财务负责人必须学会精打细算，用一切可用的资源强化大家和自己。"
+    },
+    "4": {
+      "level": 4,
+      "name": "灵活应变",
+      "desc": "在<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>中，通过无敌效果成功格挡攻击时 ，后继反击造成的伤害提升30%。",
+      "desc2": "出于会计的职业本能，\n本总是会根据形式，动态调整自己的对策。\n无论是账目还是对敌，务必以最小成本达到最佳效果。"
+    },
+    "5": {
+      "level": 5,
+      "name": "巨细靡遗",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "本敏锐的眼光不会放弃任何报表上的错误，同样也不会放过自己战斗方式上的失误，在纠错中逐渐变强。"
+    },
+    "6": {
+      "level": 6,
+      "name": "野性斗志",
+      "desc": "在<color=#FFFFFF>[强化特殊技]</color>中发动攻击或追加强力打击后，<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[冲刺攻击]</color>、<color=#FFFFFF>[闪避反击]</color>造成的失衡值提升20%，持续12秒。",
+      "desc2": "熊希人与犬希人不同，\n并不能用食物安抚他们躁动的情绪。\n当他们发脾气时，你唯一能做的就是跑快一点，跑远一点…\n——下架书籍《做个好邻居！与希人相处的100个小窍门》"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33700,
+    "slot2": 31900,
+    "slot_sub": 31500,
+    "part_sub_list": [
+      13102,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33700,
+          31900
+        ],
+        "part_sub_list": [
+          13102
+        ]
+      },
+      {
+        "suit_list": [
+          31500,
+          31600
+        ],
+        "part_sub_list": [
+          13102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          13102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 13102,
+      "name": "防御力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconDef.png"
+    },
+    "part5": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part6": {
+      "prop": 31603,
+      "name": "火属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_Fire>火属性，防护辅助",
+    "为全队角色提供护盾防御反击"
+  ],
+  "potential": [],
+  "potential_detail": {}
+}

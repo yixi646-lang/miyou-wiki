@@ -1,0 +1,2529 @@
+{
+  "id": 1441,
+  "icon": "IconRole51",
+  "name": "真斗",
+  "code_name": "Manato",
+  "rarity": 3,
+  "weapon_type": {
+    "6": "命破"
+  },
+  "element_type": {
+    "201": "火属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "101": "斩击"
+  },
+  "camp": {
+    "11": "怪啖屋"
+  },
+  "gender": 1,
+  "partner_info": {
+    "birthday": "1/5",
+    "full_name": "狛野真斗",
+    "gender": "男",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle51.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0051.png",
+    "impression_f": "真斗竟然能够记住所有在路上和他打招呼的街坊们的名字与习惯…实在是太了不起了！",
+    "impression_m": "总觉得和真斗一起行动的时候，所谓怪谈的可怕程度也会大幅下降呢…",
+    "impressions": [
+      "对狛野真斗的印象：\n · 可靠的「阿哥」也会有让弟弟妹妹操心的一面呢…",
+      " · 晒太阳的话，原来有那么多合适的地方！",
+      " · 味蕾能清楚感受到的、由衷的幸福！"
+    ],
+    "profile_desc": "狛野真斗，怪啖屋成员之一，同好会里最为可靠的「执行人」。他在旧都陷落里失去了家人，独自在卫非地长大时，意外地收养了一对流落在街头的孩子，阿青与阿月。在那之后，他们成为了相依为命的家人，尽管这是一个稍显年轻的家庭，但对于真斗而言，他很希望能照顾好这个新家庭的所有人。\n真斗目前就读于市内一所企业校内，也是企业校传闻里可怕的「校霸」。其中的原因大概只是因为长相很凶狠，但实际上，真斗远比外表看起来更加温和宽厚。\n起先，真斗确实想做些什么来改变他人对于「校霸」的误解，但因为种种原因，他的努力没能取得明显的成效。但真斗的乐观精神让他很快意识到了「校霸」的身份并非只有坏处，他能利用这个身份躲过不必要的社交活动，享受不被陌生人打扰的生活，甚至能作为「校霸」打听某些学校里的怪谈消息，保护真正遭到霸凌的同学们。\n但就学习成绩而言，他确实很符合企业校「校霸」的身份。",
+    "role_icon": "IconRole/UnPacker/IconRole51",
+    "stature": "198",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第四章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "狛野真斗，怪啖屋成员之一，同好会里最为可靠的「执行人」。他在旧都陷落里失去了家人，独自在卫非地长大时，意外地收养了一对流落在街头的孩子，阿青与阿月。在那之后，他们成为了相依为命的家人，尽管这是一个稍显年轻的家庭，但对于真斗而言，他很希望能照顾好这个新家庭的所有人。\n真斗目前就读于市内一所企业校内，也是企业校传闻里可怕的「校霸」。其中的原因大概只是因为长相很凶狠，但实际上，真斗远比外表看起来更加温和宽厚。\n起先，真斗确实想做些什么来改变他人对于「校霸」的误解，但因为种种原因，他的努力没能取得明显的成效。但真斗的乐观精神让他很快意识到了「校霸」的身份并非只有坏处，他能利用这个身份躲过不必要的社交活动，享受不被陌生人打扰的生活，甚至能作为「校霸」打听某些学校里的怪谈消息，保护真正遭到霸凌的同学们。\n但就学习成绩而言，他确实很符合企业校「校霸」的身份。",
+      "2": "",
+      "3": "\n过分的率真与亲和力偶尔也会给真斗带来一些意料之外的「麻烦」。当他出现在菜市场或者其他街坊众多的地方，他总能引起不少人的注意。热情的店主、摊贩，路过的邻居朋友们，总是乐于将自己手头上能找到的最好的东西当做礼物塞到真斗的怀里，嘱咐他各种各样琐碎而温馨的小事。\n\n真斗在父母去世后很快学会了照顾自己，他掌握了出色的厨艺，甚至能缝补好阿青与阿月在玩闹时无意中弄破的衣服。\n\n在企业校的实习里，真斗也受到了热烈的欢迎。在这种环境下，他难以控制力量的问题反倒成了矿场工人们最好的助力。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3114410": {
+      "name": "狛野真斗·赤心荒魂",
+      "desc": "泅珑围地区非官方调解人的常用装束，足以震慑宵小之徒。\n不过，偶尔也会吸引一些飘忽的目光。",
+      "obtain_desc": "",
+      "image": "IconRole51"
+    },
+    "3114411": {
+      "name": "狛野真斗·白心旧影",
+      "desc": "幼年的真斗与自己立下孤独的盟誓——于是，溺想中诞生了一只苍青的茕影。\n模仿他的装扮，能使原本就出众的威慑力更添一筹。",
+      "obtain_desc": "",
+      "image": "IconRole51_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 109,
+    "attack_growth": 63934,
+    "avatar_piece_id": 5441,
+    "break_stun": 95,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 36,
+    "defence_growth": 48400,
+    "element_abnormal_power": 87,
+    "element_mystery": 90,
+    "endurance": 0,
+    "hp_growth": 842857,
+    "hp_max": 621,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 0,
+    "sp_recover": 0,
+    "stun": 0,
+    "tags": [
+      "Norano",
+      "Cut",
+      "Fire",
+      "Male",
+      "Camp11",
+      "Size3",
+      "AidTypeParry",
+      "Norano",
+      "EtherEyesSize2"
+    ],
+    "rp_max": 120,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100216": 4
+      }
+    },
+    "2": {
+      "hp_max": 426,
+      "attack": 39,
+      "defence": 24,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100226": 12
+      }
+    },
+    "3": {
+      "hp_max": 852,
+      "attack": 78,
+      "defence": 49,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100226": 20
+      }
+    },
+    "4": {
+      "hp_max": 1279,
+      "attack": 116,
+      "defence": 73,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100236": 10
+      }
+    },
+    "5": {
+      "hp_max": 1705,
+      "attack": 155,
+      "defence": 98,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100236": 20
+      }
+    },
+    "6": {
+      "hp_max": 2131,
+      "attack": 194,
+      "defence": 122,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 600
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 600
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1200
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1200
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1800
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "11102": {
+          "prop": 11102,
+          "name": "生命值",
+          "format": "{0:0.#%}",
+          "value": 1800
+        },
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：炽风斩",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多三段的斩击，造成<color=#F0D12B>物理伤害</color>；\n在每一段攻击的发动阶段，点按 <IconMap:Icon_Special> 将触发[烬风]，使此次攻击造成更高<color=#FF5521>火属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：炽风·胧切",
+          "desc": "在[熔锋]状态下点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的斩击，造成<color=#FF5521>火属性伤害</color>；\n招式发动时，如果真斗的生命值在30%以上，则消耗3.5%最大生命值。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：炽风斩",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1441001, Prop:1001}",
+              "param": {
+                "1441001": {
+                  "main": 2870,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 2870,
+                  "damage_percentage_growth": 270,
+                  "stun_ratio": 2690,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 73975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 8060,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2687
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1441002, Prop:1001}+{Skill:1441003, Prop:1001}",
+              "param": {
+                "1441002": {
+                  "main": 3820,
+                  "growth": 350,
+                  "format": "%",
+                  "damage_percentage": 3820,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 3620,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 99550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 10860,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3618
+                },
+                "1441003": {
+                  "main": 4450,
+                  "growth": 410,
+                  "format": "%",
+                  "damage_percentage": 4450,
+                  "damage_percentage_growth": 410,
+                  "stun_ratio": 4310,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 118525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 12910,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4302
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1441004, Prop:1001}+{Skill:1441005, Prop:1001}",
+              "param": {
+                "1441004": {
+                  "main": 6000,
+                  "growth": 550,
+                  "format": "%",
+                  "damage_percentage": 6000,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 5900,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5891
+                },
+                "1441005": {
+                  "main": 7460,
+                  "growth": 680,
+                  "format": "%",
+                  "damage_percentage": 7460,
+                  "damage_percentage_growth": 680,
+                  "stun_ratio": 7430,
+                  "stun_ratio_growth": 340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 204325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 22270,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7424
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段伤害倍率（触发烬风）",
+              "desc": "{Skill:1441001, Prop:1001}+{Skill:1441006, Prop:1001}",
+              "param": {
+                "1441001": {
+                  "main": 2870,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 2870,
+                  "damage_percentage_growth": 270,
+                  "stun_ratio": 2690,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 73975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 8060,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2687
+                },
+                "1441006": {
+                  "main": 3440,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 3440,
+                  "damage_percentage_growth": 320,
+                  "stun_ratio": 3050,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 83875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3581,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 9140,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3045
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率（触发烬风）",
+              "desc": "{Skill:1441002, Prop:1001}+{Skill:1441007, Prop:1001}",
+              "param": {
+                "1441002": {
+                  "main": 3820,
+                  "growth": 350,
+                  "format": "%",
+                  "damage_percentage": 3820,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 3620,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 99550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 10860,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3618
+                },
+                "1441007": {
+                  "main": 5730,
+                  "growth": 530,
+                  "format": "%",
+                  "damage_percentage": 5730,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 5510,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 151525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5501,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 16510,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5502
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率（触发烬风）",
+              "desc": "{Skill:1441004, Prop:1001}+{Skill:1441008, Prop:1001}",
+              "param": {
+                "1441004": {
+                  "main": 6000,
+                  "growth": 550,
+                  "format": "%",
+                  "damage_percentage": 6000,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 5900,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5891
+                },
+                "1441008": {
+                  "main": 8330,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 8330,
+                  "damage_percentage_growth": 760,
+                  "stun_ratio": 8260,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 227150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7165,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 24770,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8257
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1441001, Prop:1002}",
+              "param": {
+                "1441001": {
+                  "main": 2690,
+                  "growth": 130,
+                  "format": "%",
+                  "damage_percentage": 2870,
+                  "damage_percentage_growth": 270,
+                  "stun_ratio": 2690,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 73975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 8060,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2687
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1441002, Prop:1002}+{Skill:1441003, Prop:1002}",
+              "param": {
+                "1441002": {
+                  "main": 3620,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 3820,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 3620,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 99550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 10860,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3618
+                },
+                "1441003": {
+                  "main": 4310,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 4450,
+                  "damage_percentage_growth": 410,
+                  "stun_ratio": 4310,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 118525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 12910,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4302
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1441004, Prop:1002}+{Skill:1441005, Prop:1002}",
+              "param": {
+                "1441004": {
+                  "main": 5900,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 6000,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 5900,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5891
+                },
+                "1441005": {
+                  "main": 7430,
+                  "growth": 340,
+                  "format": "%",
+                  "damage_percentage": 7460,
+                  "damage_percentage_growth": 680,
+                  "stun_ratio": 7430,
+                  "stun_ratio_growth": 340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 204325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 22270,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7424
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率（触发烬风）",
+              "desc": "{Skill:1441001, Prop:1002}+{Skill:1441006, Prop:1002}",
+              "param": {
+                "1441001": {
+                  "main": 2690,
+                  "growth": 130,
+                  "format": "%",
+                  "damage_percentage": 2870,
+                  "damage_percentage_growth": 270,
+                  "stun_ratio": 2690,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 73975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 8060,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2687
+                },
+                "1441006": {
+                  "main": 3050,
+                  "growth": 140,
+                  "format": "%",
+                  "damage_percentage": 3440,
+                  "damage_percentage_growth": 320,
+                  "stun_ratio": 3050,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 83875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3581,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 9140,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3045
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率（触发烬风）",
+              "desc": "{Skill:1441002, Prop:1002}+{Skill:1441007, Prop:1002}",
+              "param": {
+                "1441002": {
+                  "main": 3620,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 3820,
+                  "damage_percentage_growth": 350,
+                  "stun_ratio": 3620,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 99550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 10860,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3618
+                },
+                "1441007": {
+                  "main": 5510,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 5730,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 5510,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 151525,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5501,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 16510,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5502
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率（触发烬风）",
+              "desc": "{Skill:1441004, Prop:1002}+{Skill:1441008, Prop:1002}",
+              "param": {
+                "1441004": {
+                  "main": 5900,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 6000,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 5900,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 162250,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17680,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5891
+                },
+                "1441008": {
+                  "main": 8260,
+                  "growth": 380,
+                  "format": "%",
+                  "damage_percentage": 8330,
+                  "damage_percentage_growth": 760,
+                  "stun_ratio": 8260,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 227150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7165,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 24770,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8257
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：炽风·胧切",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1441009, Prop:1001}",
+              "param": {
+                "1441009": {
+                  "main": 5310,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 5310,
+                  "damage_percentage_growth": 490,
+                  "stun_ratio": 3880,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3875,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11630,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3876
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1441010, Prop:1001}",
+              "param": {
+                "1441010": {
+                  "main": 11120,
+                  "growth": 1020,
+                  "format": "%",
+                  "damage_percentage": 11120,
+                  "damage_percentage_growth": 1020,
+                  "stun_ratio": 8740,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 240350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8736,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 26210,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8737
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1441011, Prop:1001}",
+              "param": {
+                "1441011": {
+                  "main": 15450,
+                  "growth": 1410,
+                  "format": "%",
+                  "damage_percentage": 15450,
+                  "damage_percentage_growth": 1410,
+                  "stun_ratio": 14160,
+                  "stun_ratio_growth": 650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 389400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14153,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 42470,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14154
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1441012, Prop:1001}",
+              "param": {
+                "1441012": {
+                  "main": 23780,
+                  "growth": 2170,
+                  "format": "%",
+                  "damage_percentage": 23780,
+                  "damage_percentage_growth": 2170,
+                  "stun_ratio": 21750,
+                  "stun_ratio_growth": 990,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 598125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21742,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 65230,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21743
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1441009, Prop:1002}",
+              "param": {
+                "1441009": {
+                  "main": 3880,
+                  "growth": 180,
+                  "format": "%",
+                  "damage_percentage": 5310,
+                  "damage_percentage_growth": 490,
+                  "stun_ratio": 3880,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3875,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11630,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3876
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1441010, Prop:1002}",
+              "param": {
+                "1441010": {
+                  "main": 8740,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 11120,
+                  "damage_percentage_growth": 1020,
+                  "stun_ratio": 8740,
+                  "stun_ratio_growth": 400,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 240350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8736,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 26210,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8737
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1441011, Prop:1002}",
+              "param": {
+                "1441011": {
+                  "main": 14160,
+                  "growth": 650,
+                  "format": "%",
+                  "damage_percentage": 15450,
+                  "damage_percentage_growth": 1410,
+                  "stun_ratio": 14160,
+                  "stun_ratio_growth": 650,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 389400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14153,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 42470,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14154
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1441012, Prop:1002}",
+              "param": {
+                "1441012": {
+                  "main": 21750,
+                  "growth": 990,
+                  "format": "%",
+                  "damage_percentage": 23780,
+                  "damage_percentage_growth": 2170,
+                  "stun_ratio": 21750,
+                  "stun_ratio_growth": 990,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 598125,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21742,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 65230,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21743
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：曜刃",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：曜刃·残心",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行肩撞攻击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：曜刃·掠阵",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动斩击和拳击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：曜刃·残心",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441016, Prop:1001}",
+              "param": {
+                "1441016": {
+                  "main": 5870,
+                  "growth": 540,
+                  "format": "%",
+                  "damage_percentage": 5870,
+                  "damage_percentage_growth": 540,
+                  "stun_ratio": 3670,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 100925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441016, Prop:1002}",
+              "param": {
+                "1441016": {
+                  "main": 3670,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 5870,
+                  "damage_percentage_growth": 540,
+                  "stun_ratio": 3670,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 100925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 11000,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3667
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：曜刃·掠阵",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441017, Prop:1001}",
+              "param": {
+                "1441017": {
+                  "main": 19800,
+                  "growth": 1800,
+                  "format": "%",
+                  "damage_percentage": 19800,
+                  "damage_percentage_growth": 1800,
+                  "stun_ratio": 21340,
+                  "stun_ratio_growth": 970,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 311850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11336,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 34020,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441017, Prop:1002}",
+              "param": {
+                "1441017": {
+                  "main": 21340,
+                  "growth": 970,
+                  "format": "%",
+                  "damage_percentage": 19800,
+                  "damage_percentage_growth": 1800,
+                  "stun_ratio": 21340,
+                  "stun_ratio_growth": 970,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 311850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 11336,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 34020,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26337
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：归烬",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方斩击敌人，造成<color=#FF5521>火属性伤害</color>；\n如果招式发动期间受到敌人攻击，在发动斩击时回复20%已损失生命值，<color=#FFFFFF>[特殊技：归烬]</color>和<color=#FFFFFF>[特殊技：归烬·舍身]</color>的生命回复效果每20秒最多触发一次；\n如果招式发动期间受到敌人攻击，强化此次斩击；\n招式发动期间受到伤害降低40%；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：归烬·舍身",
+          "desc": "长按 <IconMap:Icon_Special> 发动：\n进入蓄力状态，最多消耗10%最大生命值并回复100点<color=#FFFFFF>[炽心]</color>，最多消耗生命值至最大生命值的30%；\n松开按键时，发动<color=#FFFFFF>[特殊技：归烬]</color>，如果招式发动期间受到敌人攻击，在发动斩击时回复20%已损失生命值，<color=#FFFFFF>[特殊技：归烬]</color>和<color=#FFFFFF>[特殊技：归烬·舍身]</color>的生命回复效果每20秒最多触发一次；\n如果招式发动期间受到敌人攻击或者蓄力达到一定时长，强化此次斩击；\n招式发动期间受到伤害降低40%；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：归烬·天坠",
+          "desc": "在[熔锋]状态下，闪能足够时，点按  <IconMap:Icon_SpecialReady_Rp> 发动：\n跳起并发动向前方敌人发动下落斩击，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动时，回复33%最大生命值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：归烬",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441013, Prop:1001}",
+              "param": {
+                "1441013": {
+                  "main": 5070,
+                  "growth": 470,
+                  "format": "%",
+                  "damage_percentage": 5070,
+                  "damage_percentage_growth": 470,
+                  "stun_ratio": 4760,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 130900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4752,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4753
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441013, Prop:1002}",
+              "param": {
+                "1441013": {
+                  "main": 4760,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 5070,
+                  "damage_percentage_growth": 470,
+                  "stun_ratio": 4760,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 130900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4752,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4753
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "伤害倍率（蓄力或格挡成功）",
+              "desc": "{Skill:1441014, Prop:1001}",
+              "param": {
+                "1441014": {
+                  "main": 13070,
+                  "growth": 1190,
+                  "format": "%",
+                  "damage_percentage": 13070,
+                  "damage_percentage_growth": 1190,
+                  "stun_ratio": 12260,
+                  "stun_ratio_growth": 560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 337150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12252,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12253
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率（蓄力或格挡成功）",
+              "desc": "{Skill:1441014, Prop:1002}",
+              "param": {
+                "1441014": {
+                  "main": 12260,
+                  "growth": 560,
+                  "format": "%",
+                  "damage_percentage": 13070,
+                  "damage_percentage_growth": 1190,
+                  "stun_ratio": 12260,
+                  "stun_ratio_growth": 560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 337150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12252,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12253
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：归烬·天坠",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441015, Prop:1001}",
+              "param": {
+                "1441015": {
+                  "main": 65260,
+                  "growth": 5940,
+                  "format": "%",
+                  "damage_percentage": 65260,
+                  "damage_percentage_growth": 5940,
+                  "stun_ratio": 66220,
+                  "stun_ratio_growth": 3010,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2665300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 73891,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20167
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441015, Prop:1002}",
+              "param": {
+                "1441015": {
+                  "main": 66220,
+                  "growth": 3010,
+                  "format": "%",
+                  "damage_percentage": 65260,
+                  "damage_percentage_growth": 5940,
+                  "stun_ratio": 66220,
+                  "stun_ratio_growth": 3010,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2665300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 73891,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20167
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "闪能消耗",
+              "desc": "80点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：极炽炎爆",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n丢出手中的剑，随后冲向敌人引发爆炸，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：无想荒魂",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n跳起并发动向前方敌人发动下落斩击，随后引发爆炸，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：极炽炎爆",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441018, Prop:1001}",
+              "param": {
+                "1441018": {
+                  "main": 48330,
+                  "growth": 4400,
+                  "format": "%",
+                  "damage_percentage": 48330,
+                  "damage_percentage_growth": 4400,
+                  "stun_ratio": 20510,
+                  "stun_ratio_growth": 940,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2392775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40450,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20501
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441018, Prop:1002}",
+              "param": {
+                "1441018": {
+                  "main": 20510,
+                  "growth": 940,
+                  "format": "%",
+                  "damage_percentage": 48330,
+                  "damage_percentage_growth": 4400,
+                  "stun_ratio": 20510,
+                  "stun_ratio_growth": 940,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2392775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 40450,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20501
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：无想荒魂",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441019, Prop:1001}",
+              "param": {
+                "1441019": {
+                  "main": 156230,
+                  "growth": 14210,
+                  "format": "%",
+                  "damage_percentage": 156230,
+                  "damage_percentage_growth": 14210,
+                  "stun_ratio": 34840,
+                  "stun_ratio_growth": 1590,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 84834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441019, Prop:1002}",
+              "param": {
+                "1441019": {
+                  "main": 34840,
+                  "growth": 1590,
+                  "format": "%",
+                  "damage_percentage": 156230,
+                  "damage_percentage_growth": 14210,
+                  "stun_ratio": 34840,
+                  "stun_ratio_growth": 1590,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 84834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：孤影·归阵",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动斩击和拳击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：孤影·岳峙",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值，并造成<color=#FF5521>火属性伤害</color>；\n招式发动时，回复75点<color=#FFFFFF>[炽心]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：孤影·断獠",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动多段斩击，造成<color=#FF5521>火属性伤害</color>；\n连点时，可以连续斩击敌人，最多额外连续斩击7次；\n连续斩击时，如果真斗的生命值在30%以上，则消耗2%最大生命值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：孤影·归阵",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441020, Prop:1001}",
+              "param": {
+                "1441020": {
+                  "main": 9070,
+                  "growth": 830,
+                  "format": "%",
+                  "damage_percentage": 9070,
+                  "damage_percentage_growth": 830,
+                  "stun_ratio": 5670,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17010,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5669
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441020, Prop:1002}",
+              "param": {
+                "1441020": {
+                  "main": 5670,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 9070,
+                  "damage_percentage_growth": 830,
+                  "stun_ratio": 5670,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 17010,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5669
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：孤影·岳峙",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441026, Prop:1001}",
+              "param": {
+                "1441026": {
+                  "main": 4000,
+                  "growth": 370,
+                  "format": "%",
+                  "damage_percentage": 4000,
+                  "damage_percentage_growth": 370,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1441021, Prop:1002}",
+              "param": {
+                "1441021": {
+                  "main": 24670,
+                  "growth": 1130,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 24670,
+                  "stun_ratio_growth": 1130,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1441022, Prop:1002}",
+              "param": {
+                "1441022": {
+                  "main": 31170,
+                  "growth": 1420,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 31170,
+                  "stun_ratio_growth": 1420,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1441023, Prop:1002}",
+              "param": {
+                "1441023": {
+                  "main": 15170,
+                  "growth": 690,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 15170,
+                  "stun_ratio_growth": 690,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：孤影·断獠",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1441024, Prop:1001}",
+              "param": {
+                "1441024": {
+                  "main": 16670,
+                  "growth": 1520,
+                  "format": "%",
+                  "damage_percentage": 16670,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 27090,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 573100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 46880,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1441024, Prop:1002}",
+              "param": {
+                "1441024": {
+                  "main": 27090,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 16670,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 27090,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 573100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 46880,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连打最大伤害倍率",
+              "desc": "{Skill:1441024, Prop:1001}+{Skill:1441025, Prop:1001}",
+              "param": {
+                "1441024": {
+                  "main": 16670,
+                  "growth": 1520,
+                  "format": "%",
+                  "damage_percentage": 16670,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 27090,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 573100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 46880,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                },
+                "1441025": {
+                  "main": 40340,
+                  "growth": 3670,
+                  "format": "%",
+                  "damage_percentage": 40340,
+                  "damage_percentage_growth": 3670,
+                  "stun_ratio": 21000,
+                  "stun_ratio_growth": 960,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21000,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 78630,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连打最大失衡倍率",
+              "desc": "{Skill:1441024, Prop:1002}+{Skill:1441025, Prop:1002}",
+              "param": {
+                "1441024": {
+                  "main": 27090,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 16670,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 27090,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 573100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 46880,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                },
+                "1441025": {
+                  "main": 21000,
+                  "growth": 960,
+                  "format": "%",
+                  "damage_percentage": 40340,
+                  "damage_percentage_growth": 3670,
+                  "stun_ratio": 21000,
+                  "stun_ratio_growth": 960,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 577500,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21000,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 78630,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21000
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1441001,
+      "avatar_id": 1441,
+      "first_priority": [
+        5,
+        0,
+        6
+      ],
+      "second_priority": [
+        1,
+        3
+      ],
+      "third_priority": [
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1441001": {
+      "name": "普通攻击：炽风斩",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441002": {
+      "name": "普通攻击：炽风·胧切",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（[熔锋]状态下）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441003": {
+      "name": "特殊技：归烬",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441004": {
+      "name": "特殊技：归烬·舍身",
+      "desc": "<IconMap:Icon_Special>（长按）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441005": {
+      "name": "强化特殊技：归烬·天坠",
+      "desc": "<IconMap:Icon_SpecialReady_Rp>（[熔锋]状态下）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441006": {
+      "name": "闪避：曜刃",
+      "desc": "<IconMap:Icon_Evade>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441007": {
+      "name": "冲刺攻击：曜刃·残心",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1441008": {
+      "name": "闪避反击：曜刃·掠阵",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1441009": {
+      "name": "连携技：极炽炎爆",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441010": {
+      "name": "终结技：无想荒魂",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441011": {
+      "name": "快速支援：孤影·归阵",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441012": {
+      "name": "招架支援：孤影·岳峙",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1441013": {
+      "name": "支援突击：孤影·断獠",
+      "desc": "<IconMap:Icon_Normal>（可连点）（发动招架支援后）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1441501": {
+        "level": 1,
+        "id": 1441501,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>25%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>10%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441502": {
+        "level": 2,
+        "id": 1441502,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>29.2%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>11.7%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441503": {
+        "level": 3,
+        "id": 1441503,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>33.3%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>13.3%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441504": {
+        "level": 4,
+        "id": 1441504,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>37.5%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>15%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441505": {
+        "level": 5,
+        "id": 1441505,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>41.7%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>16.7%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441506": {
+        "level": 6,
+        "id": 1441506,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>45.8%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>18.3%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      },
+      "1441507": {
+        "level": 7,
+        "id": 1441507,
+        "name": [
+          "核心被动：熔锋之势",
+          "额外能力：复燃之心"
+        ],
+        "desc": [
+          "真斗会额外根据自身最大生命值提高贯穿力，每1点最大生命值将提高0.1点贯穿力；\n真斗发动招式造成的<color=#FF5521>火属性伤害</color>均为贯穿伤害，无视敌人防御，使用贯穿力作为招式伤害倍率；\n真斗发动<color=#FFFFFF>[特殊技：归烬·舍身]</color>或<color=#FFFFFF>[招架支援]</color>时，会累积<color=#FFFFFF>[炽心]</color>，最多累积100点；当<color=#FFFFFF>[炽心]</color>累积至75点时，真斗将进入<color=#FFFFFF>[熔锋]</color>状态，<color=#FFFFFF>[熔锋]</color>状态下，真斗每秒消耗3.3点<color=#FFFFFF>[炽心]</color>，<color=#FFFFFF>[炽心]</color>耗尽时，退出<color=#FFFFFF>[熔锋]</color>状态；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的<color=#FFFFFF>[普通攻击]</color>获得强化，并可以发动<color=#FFFFFF>[强化特殊技：归烬·天坠]</color>；\n真斗在<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击中消耗生命值时，使此次攻击的暴击伤害提升<color=#2BAD00>50%</color>，闪能回复效率提升100%；\n<color=#FFFFFF>[熔锋]</color>状态下，真斗的暴击率提升10%，<color=#FF5521>火属性伤害</color>提升<color=#2BAD00>20%</color>。",
+          "队伍中存在<color=#FFFFFF>[支援]</color>或<color=#FFFFFF>[击破]</color>角色时触发：\n真斗发动终结技时，获得8层[残焰]，发动连携技时，获得4层[残焰]，持续60秒，最多叠加20层，重复触发时刷新持续时间；真斗发动<color=#FFFFFF>[普通攻击：炽风·胧切]</color>或<color=#FFFFFF>[支援突击]</color>的连续斩击时，如果生命值低于100%最大生命值，则消耗一层[残焰]，回复2%最大生命值。"
+        ],
+        "extra_property": {
+          "111": {
+            "target": 123,
+            "value": 1000
+          },
+          "121": {
+            "target": 123,
+            "value": 3000
+          }
+        },
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110512": 2
+      },
+      "3": {
+        "10": 28000,
+        "110512": 4
+      },
+      "4": {
+        "10": 60000,
+        "110007": 2,
+        "110512": 9
+      },
+      "5": {
+        "10": 100000,
+        "110007": 3,
+        "110512": 15
+      },
+      "6": {
+        "10": 200000,
+        "110007": 4,
+        "110512": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "流浪生存法则",
+      "desc": "真斗的生命值降低时，累积已损失生命值，每有相当于最大生命值1%的已损失生命值使<color=#FFFFFF>[支援突击]</color>和<color=#FFFFFF>[普通攻击]</color>造成的<color=#FF5521>火属性伤害</color>提升0.4%，最多提升20%。",
+      "desc2": "不幸的孩子都是相似的。\n曾经亲切的呼唤、温暖的灯光、欢快的约定…未经告别就猝然沉没；因为无形无状，所以再尖锐的獠牙也无法咬紧、再锋利的指甲也无法攥住。\n「我什么都能吃，又不太怕冷——如果说有什么『活下来的秘诀』，也许就是这些。」"
+    },
+    "2": {
+      "level": 2,
+      "name": "昼夜、厨房与爱",
+      "desc": "<color=#FFFFFF>[熔锋]</color>状态下，真斗无视目标8%<color=#FF5521>火属性伤害抗性</color>；<color=#FFFFFF>[特殊技：归烬]</color>或<color=#FFFFFF>[特殊技：归烬·舍身]</color>发动期间受到敌人攻击后，点按 <IconMap:Icon_Normal> 可以发动<color=#FFFFFF>[支援突击]</color>。",
+      "desc2": "和谐的家庭关系也许就是这样——真斗、阿青和阿月，每个人都觉得自己是「被捡回家」的幸运儿。\n如果说还有什么值得争吵的事情，也许只剩下「最后一筷子青菜到底该谁吃」。\n「真的不好吃吗？那我下次再去饮茶仙问问，是不是有哪一步搞错了…」\n「…商业机密？！可是上次…我只是站着，那个厨师就全告诉我了。」"
+    },
+    "3": {
+      "level": 3,
+      "name": "踏入怪谈世界",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "在论坛站稳脚跟的第一步，是起一个朗朗上口的昵称——所有人都觉得自己并不擅长此道，但对于偶尔要留校补考文学课的犬希人来说，这尤其困难。\n「…你不是已经知道了吗。就是那个、那个…咳，『泅珑de孤鬼』。」\n「——你明明就听清楚了！」\n「可恶。总有一天，我要改成『再提曾用名就空洞见』。」"
+    },
+    "4": {
+      "level": 4,
+      "name": "幼年的誓言",
+      "desc": "最大生命值提升8%；<color=#FFFFFF>[特殊技：归烬]</color>和<color=#FFFFFF>[特殊技：归烬·舍身]</color>发动期间，真斗受到致命伤害时不会在招式发动期间战败退场，生命值最多降低至1，10秒内最多触发一次。",
+      "desc2": "把自己想象成一头目光冷冽的孤狼，也许是每位青少年都会做的事…更何况，真斗在这件事上更具优势。\n如果不是溺想者的出现，他本可以和别人一样假装无事发生。\n「都说了，那只是我八岁时候的想法——」\n「『朋友』就是这样吗…你们确实没把我当作脆弱的人，但也没把我当作人。」"
+    },
+    "5": {
+      "level": 5,
+      "name": "孤影归群",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "事实上，即使有外形上的天然隔阂，真斗依然很受大家的欢迎。\n有人与他结成了友谊、有人想要寻求他的庇护，还有人…想找他帮忙打广告。\n「抱歉，我可能不是很适合为你的店铺做宣传。」\n「可我没有做什么『卧推』。除非你指的是…被以骸按在地上的时候，用胳膊推起重剑、抵挡它们乱挠的爪子？」"
+    },
+    "6": {
+      "level": 6,
+      "name": "越过昔年梦",
+      "desc": "<color=#FFFFFF>[特殊技：归烬]</color>命中处于失衡状态下的敌人时，真斗回复75点[炽心]，获得4层[残焰]，点按 <IconMap:Icon_Normal> 可以发动<color=#FFFFFF>[支援突击]</color>，获得[残焰]的效果在20秒内最多触发一次；<color=#FFFFFF>[支援突击]</color>命中敌人时，造成的<color=#FF5521>火属性伤害</color>提升3%，持续8秒，最多叠加5层，重复触发刷新持续时间。",
+      "desc2": "越过昔年的孤勇之梦，真斗拥抱了珍视的朋友们。\n\n但他偶尔还是会因为「朋友」而受挫，比如…在卫非地特色老火靓汤店。\n「我说要为你们『殿后』，不是这种——在喝椰子鸡汤的时候殿后。」\n「可是，喝蝎子汤的时候，怎么又轮到我冲锋了？」\n…最后还是冲锋了。"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33100,
+    "slot2": 31000,
+    "slot_sub": 32700,
+    "part_sub_list": [
+      20103,
+      21103,
+      11102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33100,
+          32700
+        ],
+        "part_sub_list": [
+          20103,
+          21103
+        ]
+      },
+      {
+        "suit_list": [
+          33100,
+          31000
+        ],
+        "part_sub_list": [
+          31603,
+          11102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          11102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part6": {
+      "prop": 31603,
+      "name": "火属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
+    },
+    "part_sub": {
+      "prop": 11102,
+      "name": "生命值",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconHpMax.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>火属性，烧血站场输出",
+    "消耗生命值换取火属性伤害"
+  ],
+  "potential": [],
+  "potential_detail": {}
+}

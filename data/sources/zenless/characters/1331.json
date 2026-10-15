@@ -1,0 +1,1970 @@
+{
+  "id": 1331,
+  "icon": "IconRole41",
+  "name": "薇薇安",
+  "code_name": "Vivian",
+  "rarity": 4,
+  "weapon_type": {
+    "3": "异常"
+  },
+  "element_type": {
+    "205": "以太"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "101": "斩击"
+  },
+  "camp": {
+    "9": "反舌鸟"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "4/10",
+    "full_name": "薇薇安·班希",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle41.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0041.png",
+    "impression_f": "薇薇安认识的朋友好多，打过工的地方也好多…这和她给人的第一印象完全不同呢！",
+    "impression_m": "在知道她是丝琪的前辈时，很多疑问其实已经有答案了…",
+    "impressions": [
+      "对薇薇安的印象：\n · 她所处之处，荒谬当道，但爱拯救之。",
+      " · 大多人都活在阴沟中，但她仍愿仰望星空。",
+      " · 她会给你一个从未有过信仰的人的忠诚。"
+    ],
+    "profile_desc": "薇薇安是反舌鸟的成员之一，擅长收集各类情报，且拥有多工种技能，包括但不限于烹饪，调饮，翻译，艺术品仿制，电子产品维修…\n但据闻，早年间她居无定所，四处漂泊，且被视为「带来灾难的人」，是「不幸」的化身。\n她似乎可以通过眼泪预知是否会发生不幸，但此能力并未得到科学证据的佐证。\n她是「法厄同」的忠实追随者，自从「法厄同」账号不再在绳网活跃后，她曾试图多方探听您的下落，并且高强度在绳网搜索关于您的蛛丝马迹，但并未有收获，当然，主人，这多亏我为您的网络安全保驾护航。\n提议：在未明确其寻找您的真实目的前，不要轻易暴露「法厄同」身份。\n如若您已经不小心暴露请记得锁好房门，并穿好睡衣再入睡，根据其过往个人博客发文来看，她很有可能会用过于热情且猛烈的方式，向您表达敬仰之情。",
+    "role_icon": "IconRole/UnPacker/IconRole41",
+    "stature": "162",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线：「悠然插曲·游方闲客」（主线第一季·尾音·下完成后开启）",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "薇薇安是反舌鸟的成员之一，擅长收集各类情报，且拥有多工种技能，包括但不限于烹饪，调饮，翻译，艺术品仿制，电子产品维修…\n但据闻，早年间她居无定所，四处漂泊，且被视为「带来灾难的人」，是「不幸」的化身。\n她似乎可以通过眼泪预知是否会发生不幸，但此能力并未得到科学证据的佐证。\n她是「法厄同」的忠实追随者，自从「法厄同」账号不再在绳网活跃后，她曾试图多方探听您的下落，并且高强度在绳网搜索关于您的蛛丝马迹，但并未有收获，当然，主人，这多亏我为您的网络安全保驾护航。\n提议：在未明确其寻找您的真实目的前，不要轻易暴露「法厄同」身份。\n如若您已经不小心暴露请记得锁好房门，并穿好睡衣再入睡，根据其过往个人博客发文来看，她很有可能会用过于热情且猛烈的方式，向您表达敬仰之情。",
+      "2": "",
+      "3": "薇薇安年幼时曾被称颂会内名为兰登的人收养，并结识了幼年好友蒂娜。\n兰登所做的恶事曝光后，蒂娜依旧维护其父兰登，薇薇安逃出称颂会，与之分道扬镳。\n薇薇安曾一度自暴自弃，在人生最低谷时，您曾回复过她一条留言，让她又有了重新萌生努力生活的希望。\n为尊重薇薇安本人意愿，我无法告知您，具体是哪一则留言。\n或许，我无法完全理解人类的情感，但我很肯定，您确实曾为她带去了希望和慰藉。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3113310": {
+      "name": "薇薇安·堇色蹁跹",
+      "desc": "保持优雅，薇薇安小姐，从伞尖直到裙摆。保持勇气，薇薇安小姐，无论昨夜的孑然独行或今天的与我同在。",
+      "obtain_desc": "",
+      "image": "IconRole41"
+    },
+    "3113311": {
+      "name": "薇薇安·鸢花池畔",
+      "desc": "飞鸟坠入星河，鸢尾绽放池畔。这烂漫的月夜即使短暂，也请在我绽放的时分，让我看到你眼睛里的流连期盼。",
+      "obtain_desc": "",
+      "image": "IconRole41_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 127,
+    "attack_growth": 76728,
+    "avatar_piece_id": 5331,
+    "break_stun": 86,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66203,
+    "element_abnormal_power": 108,
+    "element_mystery": 118,
+    "endurance": 0,
+    "hp_growth": 837238,
+    "hp_max": 617,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Vivian",
+      "Cut",
+      "Ether",
+      "Female",
+      "Camp9",
+      "Size2",
+      "AidTypeParry",
+      "Vivian",
+      "EtherEyesSize2"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100213": 4
+      }
+    },
+    "2": {
+      "hp_max": 423,
+      "attack": 45,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100223": 12
+      }
+    },
+    "3": {
+      "hp_max": 847,
+      "attack": 90,
+      "defence": 67,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100223": 20
+      }
+    },
+    "4": {
+      "hp_max": 1270,
+      "attack": 136,
+      "defence": 100,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100233": 10
+      }
+    },
+    "5": {
+      "hp_max": 1694,
+      "attack": 181,
+      "defence": 134,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100233": 20
+      }
+    },
+    "6": {
+      "hp_max": 2117,
+      "attack": 226,
+      "defence": 167,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：翎羽拂击",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FE437E>以太伤害</color>；\n发动第四段攻击后进入<color=#FFFFFF>[淑女礼仪]</color>状态；\n拥有<color=#FFFFFF>[飞羽]</color>时，在第四段攻击过程中保持按住 <IconMap:Icon_Normal> 可进入<color=#FFFFFF>[裙裾浮游]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：淑女礼仪·舞步",
+          "desc": "<color=#FFFFFF>[淑女礼仪]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前突进攻击，造成<color=#FE437E>以太伤害</color>，并在命中目标时回复1点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n若突进期间触发极限闪避，会额外回复1点<color=#FFFFFF>[飞羽]</color>；\n招式发动后若拥有<color=#FFFFFF>[飞羽]</color>，会进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 取消。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：裙裾浮游·悬落",
+          "desc": "<color=#FFFFFF>[裙裾浮游]</color>状态下，点按 <IconMap:Icon_Normal> 发动：\n向前方发动范围攻击，造成<color=#FE437E>以太伤害</color>；\n招式发动后消耗全部<color=#FFFFFF>[飞羽]</color>，每消耗1点<color=#FFFFFF>[飞羽]</color>，都会获得1点<color=#FFFFFF>[护羽]</color>；\n招式发动期间拥有无敌效果；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下切换角色时，薇薇安会自动发动<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>；\n在<color=#FFFFFF>[裙裾浮游]</color>状态下点按 <IconMap:Icon_Evade> 可以退出<color=#FFFFFF>[裙裾浮游]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落羽生花",
+          "desc": "队伍中任意角色发动<color=#FFFFFF>[强化特殊技]</color>命中目标后，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，造成<color=#FE437E>以太伤害</color>，同一招式最多触发一次，这一效果可以在薇薇安处于后场时触发；\n<color=#FFFFFF>[护羽]</color>最多持有5点。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：翎羽拂击",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1331001, Prop:1001}",
+              "param": {
+                "1331001": {
+                  "main": 3410,
+                  "growth": 310,
+                  "format": "%",
+                  "damage_percentage": 3410,
+                  "damage_percentage_growth": 310,
+                  "stun_ratio": 4240,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 13870,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3851
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1331002, Prop:1001}",
+              "param": {
+                "1331002": {
+                  "main": 2420,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 2420,
+                  "damage_percentage_growth": 220,
+                  "stun_ratio": 2810,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 9200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 70400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2555
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1331003, Prop:1001}",
+              "param": {
+                "1331003": {
+                  "main": 7690,
+                  "growth": 700,
+                  "format": "%",
+                  "damage_percentage": 7690,
+                  "damage_percentage_growth": 700,
+                  "stun_ratio": 8180,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 26750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 204600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7431
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1331004, Prop:1001}",
+              "param": {
+                "1331004": {
+                  "main": 12840,
+                  "growth": 1170,
+                  "format": "%",
+                  "damage_percentage": 12840,
+                  "damage_percentage_growth": 1170,
+                  "stun_ratio": 12720,
+                  "stun_ratio_growth": 580,
+                  "sp_recovery": 41600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 317900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8661,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11555
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1331001, Prop:1002}",
+              "param": {
+                "1331001": {
+                  "main": 4240,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 3410,
+                  "damage_percentage_growth": 310,
+                  "stun_ratio": 4240,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 13870,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 106150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3851
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1331002, Prop:1002}",
+              "param": {
+                "1331002": {
+                  "main": 2810,
+                  "growth": 130,
+                  "format": "%",
+                  "damage_percentage": 2420,
+                  "damage_percentage_growth": 220,
+                  "stun_ratio": 2810,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 9200,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 70400,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2555
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1331003, Prop:1002}",
+              "param": {
+                "1331003": {
+                  "main": 8180,
+                  "growth": 380,
+                  "format": "%",
+                  "damage_percentage": 7690,
+                  "damage_percentage_growth": 700,
+                  "stun_ratio": 8180,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 26750,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 204600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7431
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1331004, Prop:1002}",
+              "param": {
+                "1331004": {
+                  "main": 12720,
+                  "growth": 580,
+                  "format": "%",
+                  "damage_percentage": 12840,
+                  "damage_percentage_growth": 1170,
+                  "stun_ratio": 12720,
+                  "stun_ratio_growth": 580,
+                  "sp_recovery": 41600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 317900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 8661,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11555
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：淑女礼仪·舞步",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331005, Prop:1001}",
+              "param": {
+                "1331005": {
+                  "main": 4780,
+                  "growth": 440,
+                  "format": "%",
+                  "damage_percentage": 4780,
+                  "damage_percentage_growth": 440,
+                  "stun_ratio": 3720,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 12150,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 92950,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3375
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331005, Prop:1002}",
+              "param": {
+                "1331005": {
+                  "main": 3720,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 4780,
+                  "damage_percentage_growth": 440,
+                  "stun_ratio": 3720,
+                  "stun_ratio_growth": 170,
+                  "sp_recovery": 12150,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 92950,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3375,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3375
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：裙裾浮游·悬落",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331006, Prop:1001}",
+              "param": {
+                "1331006": {
+                  "main": 8020,
+                  "growth": 730,
+                  "format": "%",
+                  "damage_percentage": 8020,
+                  "damage_percentage_growth": 730,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5665,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5666
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331006, Prop:1002}",
+              "param": {
+                "1331006": {
+                  "main": 6240,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 8020,
+                  "damage_percentage_growth": 730,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 20400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5665,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5666
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落羽生花",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331008, Prop:1001}",
+              "param": {
+                "1331008": {
+                  "main": 22000,
+                  "growth": 2000,
+                  "format": "%",
+                  "damage_percentage": 22000,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12600,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331008, Prop:1002}",
+              "param": {
+                "1331008": {
+                  "main": 0,
+                  "growth": 0,
+                  "format": "%",
+                  "damage_percentage": 22000,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12600,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：流光",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：银刺舞曲",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行突刺，造成<color=#F0D12B>物理伤害</color>；",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：羽刃反振",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[淑女礼仪]</color>状态；\n拥有<color=#FFFFFF>[飞羽]</color>时，在招式发动过程中保持按住 <IconMap:Icon_Normal> 可进入<color=#FFFFFF>[裙裾浮游]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "闪避：淑女滑步",
+          "desc": "<color=#FFFFFF>[淑女礼仪]</color>状态下即将受到攻击时，会进行自动闪避，期间拥有无敌效果，但不会触发<color=#FFFFFF>[极限闪避]</color>；\n每次进入<color=#FFFFFF>[淑女礼仪]</color>状态仅能触发一次。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：银刺舞曲",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331011, Prop:1001}",
+              "param": {
+                "1331011": {
+                  "main": 4960,
+                  "growth": 460,
+                  "format": "%",
+                  "damage_percentage": 4960,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 2480,
+                  "stun_ratio_growth": 120,
+                  "sp_recovery": 8110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 62150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2251
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331011, Prop:1002}",
+              "param": {
+                "1331011": {
+                  "main": 2480,
+                  "growth": 120,
+                  "format": "%",
+                  "damage_percentage": 4960,
+                  "damage_percentage_growth": 460,
+                  "stun_ratio": 2480,
+                  "stun_ratio_growth": 120,
+                  "sp_recovery": 8110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 62150,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2251
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：羽刃反振",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331012, Prop:1001}",
+              "param": {
+                "1331012": {
+                  "main": 23640,
+                  "growth": 2150,
+                  "format": "%",
+                  "damage_percentage": 23640,
+                  "damage_percentage_growth": 2150,
+                  "stun_ratio": 20730,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 31820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 243100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7069,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23837
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331012, Prop:1002}",
+              "param": {
+                "1331012": {
+                  "main": 20730,
+                  "growth": 950,
+                  "format": "%",
+                  "damage_percentage": 23640,
+                  "damage_percentage_growth": 2150,
+                  "stun_ratio": 20730,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 31820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 243100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7069,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 23837
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：银羽咏叹",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n快速向前方进行攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FE437E>以太伤害</color>；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：堇花悼亡",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n向前方发动强力攻击，造成大量<color=#FE437E>以太伤害</color>，并回复3点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 进入<color=#FFFFFF>[淑女礼仪]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：银羽咏叹",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331009, Prop:1001}",
+              "param": {
+                "1331009": {
+                  "main": 5690,
+                  "growth": 520,
+                  "format": "%",
+                  "damage_percentage": 5690,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 5690,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 142175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4134,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5169
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331009, Prop:1002}",
+              "param": {
+                "1331009": {
+                  "main": 5690,
+                  "growth": 260,
+                  "format": "%",
+                  "damage_percentage": 5690,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 5690,
+                  "stun_ratio_growth": 260,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 142175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4134,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5169
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：堇花悼亡",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331010, Prop:1001}",
+              "param": {
+                "1331010": {
+                  "main": 59260,
+                  "growth": 5390,
+                  "format": "%",
+                  "damage_percentage": 59260,
+                  "damage_percentage_growth": 5390,
+                  "stun_ratio": 48480,
+                  "stun_ratio_growth": 2210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1751200,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 35256,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331010, Prop:1002}",
+              "param": {
+                "1331010": {
+                  "main": 48480,
+                  "growth": 2210,
+                  "format": "%",
+                  "damage_percentage": 59260,
+                  "damage_percentage_growth": 5390,
+                  "stun_ratio": 48480,
+                  "stun_ratio_growth": 2210,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1751200,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 35256,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：星羽和声",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n对前方大范围敌人发动强力攻击，造成大量<color=#FE437E>以太伤害</color>，并回复2点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 取消。",
+          "potential": []
+        },
+        {
+          "name": "终结技：飞鸟鸣颂",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n对前方大范围敌人发动强力攻击，造成大量<color=#FE437E>以太伤害</color>，并回复5点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 取消。",
+          "potential": []
+        },
+        {
+          "name": "连携技：星羽和声",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331013, Prop:1001}",
+              "param": {
+                "1331013": {
+                  "main": 65890,
+                  "growth": 5990,
+                  "format": "%",
+                  "damage_percentage": 65890,
+                  "damage_percentage_growth": 5990,
+                  "stun_ratio": 22000,
+                  "stun_ratio_growth": 1000,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2378750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31957,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331013, Prop:1002}",
+              "param": {
+                "1331013": {
+                  "main": 22000,
+                  "growth": 1000,
+                  "format": "%",
+                  "damage_percentage": 65890,
+                  "damage_percentage_growth": 5990,
+                  "stun_ratio": 22000,
+                  "stun_ratio_growth": 1000,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2378750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31957,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19997
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：飞鸟鸣颂",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331014, Prop:1001}",
+              "param": {
+                "1331014": {
+                  "main": 168680,
+                  "growth": 15340,
+                  "format": "%",
+                  "damage_percentage": 168680,
+                  "damage_percentage_growth": 15340,
+                  "stun_ratio": 24940,
+                  "stun_ratio_growth": 1140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 80856,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 72671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331014, Prop:1002}",
+              "param": {
+                "1331014": {
+                  "main": 24940,
+                  "growth": 1140,
+                  "format": "%",
+                  "damage_percentage": 168680,
+                  "damage_percentage_growth": 15340,
+                  "stun_ratio": 24940,
+                  "stun_ratio_growth": 1140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 80856,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 72671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：凛羽之护",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FE437E>以太伤害</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[淑女礼仪]</color>状态；\n拥有<color=#FFFFFF>[飞羽]</color>时，在招式发动过程中保持按住 <IconMap:Icon_Normal> 可进入<color=#FFFFFF>[裙裾浮游]</color>状态。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：银伞列阵",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：裁决羽刃",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动攻击，造成<color=#FE437E>以太伤害</color>，并回复2点<color=#FFFFFF>[飞羽]</color>；\n招式发动期间拥有无敌效果；\n招式发动后进入<color=#FFFFFF>[裙裾浮游]</color>状态，可以通过招式发动时保持长按 <IconMap:Icon_Evade> 取消。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：凛羽之护",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331015, Prop:1001}",
+              "param": {
+                "1331015": {
+                  "main": 9730,
+                  "growth": 890,
+                  "format": "%",
+                  "damage_percentage": 9730,
+                  "damage_percentage_growth": 890,
+                  "stun_ratio": 4870,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3534,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4419
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331015, Prop:1002}",
+              "param": {
+                "1331015": {
+                  "main": 4870,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 9730,
+                  "damage_percentage_growth": 890,
+                  "stun_ratio": 4870,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3534,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4419
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：银伞列阵",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1331016, Prop:1002}",
+              "param": {
+                "1331016": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1331017, Prop:1002}",
+              "param": {
+                "1331017": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1331018, Prop:1002}",
+              "param": {
+                "1331018": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：裁决羽刃",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1331019, Prop:1001}",
+              "param": {
+                "1331019": {
+                  "main": 37390,
+                  "growth": 3400,
+                  "format": "%",
+                  "damage_percentage": 37390,
+                  "damage_percentage_growth": 3400,
+                  "stun_ratio": 32530,
+                  "stun_ratio_growth": 1480,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1056000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 23656,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1331019, Prop:1002}",
+              "param": {
+                "1331019": {
+                  "main": 32530,
+                  "growth": 1480,
+                  "format": "%",
+                  "damage_percentage": 37390,
+                  "damage_percentage_growth": 3400,
+                  "stun_ratio": 32530,
+                  "stun_ratio_growth": 1480,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1056000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 23656,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16337
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100115": 2
+        },
+        "2": {
+          "10": 3000,
+          "100115": 3
+        },
+        "3": {
+          "10": 6000,
+          "100125": 2
+        },
+        "4": {
+          "10": 9000,
+          "100125": 3
+        },
+        "5": {
+          "10": 12000,
+          "100125": 4
+        },
+        "6": {
+          "10": 18000,
+          "100125": 6
+        },
+        "7": {
+          "10": 45000,
+          "100135": 5
+        },
+        "8": {
+          "10": 67500,
+          "100135": 8
+        },
+        "9": {
+          "10": 90000,
+          "100135": 10
+        },
+        "10": {
+          "10": 112500,
+          "100135": 12
+        },
+        "11": {
+          "10": 135000,
+          "100135": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1331001,
+      "avatar_id": 1331,
+      "first_priority": [
+        5,
+        0
+      ],
+      "second_priority": [
+        1,
+        3,
+        6
+      ],
+      "third_priority": [
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1331001": {
+      "name": "普通攻击：翎羽拂击（一、二、三段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331002": {
+      "name": "普通攻击：翎羽拂击（第四段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331003": {
+      "name": "普通攻击：淑女礼仪 · 舞步",
+      "desc": "<IconMap:Icon_Normal>（[淑女礼仪]状态下）",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331004": {
+      "name": "普通攻击：裙裾浮游 · 悬落",
+      "desc": "<IconMap:Icon_Normal>（[裙裾浮游]状态下）",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331005": {
+      "name": "特殊技：银羽咏叹",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331006": {
+      "name": "强化特殊技：堇花悼亡",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331007": {
+      "name": "冲刺攻击：银刺舞曲",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331008": {
+      "name": "闪避反击：羽刃反振",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331009": {
+      "name": "连携技：星羽和声",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331010": {
+      "name": "终结技：飞鸟鸣颂",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331011": {
+      "name": "快速支援：凛羽之护",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331012": {
+      "name": "招架支援：银伞列阵",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1331013": {
+      "name": "支援突击：裁决羽刃",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 205,
+      "hit_type": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1331501": {
+        "level": 1,
+        "id": 1331501,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.07%</color>/<color=#2EB6FF>1.6%</color>/<color=#FF5521>4%</color>/<color=#F0D12B>0.37%</color>/<color=#98EFF0>0.54%</color>/<color=#A6C5FD>0.16%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331502": {
+        "level": 2,
+        "id": 1331502,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>3.59%</color>/<color=#2EB6FF>1.86%</color>/<color=#FF5521>4.66%</color>/<color=#F0D12B>0.44%</color>/<color=#98EFF0>0.63%</color>/<color=#A6C5FD>0.18%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331503": {
+        "level": 3,
+        "id": 1331503,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.11%</color>/<color=#2EB6FF>2.12%</color>/<color=#FF5521>5.32%</color>/<color=#F0D12B>0.51%</color>/<color=#98EFF0>0.72%</color>/<color=#A6C5FD>0.21%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331504": {
+        "level": 4,
+        "id": 1331504,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>4.63%</color>/<color=#2EB6FF>2.38%</color>/<color=#FF5521>5.98%</color>/<color=#F0D12B>0.58%</color>/<color=#98EFF0>0.81%</color>/<color=#A6C5FD>0.24%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331505": {
+        "level": 5,
+        "id": 1331505,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.15%</color>/<color=#2EB6FF>2.64%</color>/<color=#FF5521>6.64%</color>/<color=#F0D12B>0.65%</color>/<color=#98EFF0>0.9%</color>/<color=#A6C5FD>0.26%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331506": {
+        "level": 6,
+        "id": 1331506,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>5.65%</color>/<color=#2EB6FF>2.9%</color>/<color=#FF5521>7.3%</color>/<color=#F0D12B>0.7%</color>/<color=#98EFF0>0.99%</color>/<color=#A6C5FD>0.29%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1331507": {
+        "level": 7,
+        "id": 1331507,
+        "name": [
+          "核心被动：命运悲歌",
+          "额外能力：预言之泪"
+        ],
+        "desc": [
+          "<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次属性异常伤害，相对于原属性异常伤害的比例为每10点异常精通<color=#FE437E>6.15%</color>/<color=#2EB6FF>3.2%</color>/<color=#FF5521>8%</color>/<color=#F0D12B>0.75%</color>/<color=#98EFF0>1.08%</color>/<color=#A6C5FD>0.32%</color>；\n<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>或<color=#FFFFFF>[普通攻击：落羽生花]</color>命中处于任意属性异常状态的目标时，使目标陷入<color=#FFFFFF>[薇薇安的预言]</color>，每0.55秒受到薇薇安55%攻击力的<color=#FE437E>以太伤害</color>，该伤害可以触发属性异常效果的额外伤害；当目标不再处于属性异常状态时，<color=#FFFFFF>[薇薇安的预言]</color>结束；\n进入战场时，薇薇安获得2点<color=#FFFFFF>[飞羽]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身属性相同的角色时触发：\n队伍中其他角色对敌人施加属性异常效果时，薇薇安会消耗1点<color=#FFFFFF>[护羽]</color>并对目标发动一次<color=#FFFFFF>[普通攻击：落羽生花]</color>，0.5秒内至多触发一次；\n全队角色造成的<color=#FE437E>[侵蚀]</color>伤害和<color=#FE437E>[侵蚀]</color>状态被结算的<color=#FFFFFF>[紊乱]</color>伤害提升<color=#2BAD00>12%</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110508": 2
+      },
+      "3": {
+        "10": 28000,
+        "110508": 4
+      },
+      "4": {
+        "10": 60000,
+        "110005": 2,
+        "110508": 9
+      },
+      "5": {
+        "10": 100000,
+        "110005": 3,
+        "110508": 15
+      },
+      "6": {
+        "10": 200000,
+        "110005": 4,
+        "110508": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "《在春天走进果园》",
+      "desc": "累计消耗4点<color=#FFFFFF>[护羽]</color>时回复1点<color=#FFFFFF>[飞羽]</color>；处于<color=#FFFFFF>[薇薇安的预言]</color>下的目标受到的所有属性异常伤害和<color=#FFFFFF>[紊乱]</color>伤害提升16%。",
+      "desc2": "「每个清晨都是与你的初遇，每个夜晚都是重逢。」\n她曾窥得命运无常，无法改变的结局总是被泪水侵染。\n但因你的出现，她不愿再成为那预言灾厄的飞鸟，她愿让自己消失在火里，沉眠于光中，用自己的一切改变关于你的结局。\n所以，请不要关上窗，飞鸟会为你衔来爱意，衔走死亡。"
+    },
+    "2": {
+      "level": 2,
+      "name": "《暴风雨夜，暴风雨夜》",
+      "desc": "薇薇安的<color=#FE437E>以太异常积蓄效率</color>提升25%；<color=#FFFFFF>[异放]</color>从精通中获得的收益提升至原本的130%，且无视目标15%全属性伤害抗性。",
+      "desc2": "「假如我不曾见过太阳 我本可以忍受黑暗。」\n救赎者这个词汇太过沉重，好心人这个词又稍显轻率。\n所以，不如说，你曾是她的撑船人。\n在那场名为恶意与自我懊悔的暴风雨中，你是一束光，引她渡过洪流。\n于是那之后，她无法再忍受诅咒与噩梦，她走向追寻你的旅程。"
+    },
+    "3": {
+      "level": 3,
+      "name": "《另一个，同一个》",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「我们用黄昏丈量彼此的阴影，发现完全重叠。」\n在你不知道的无数个黄昏里，她曾与你看着同一个太阳西沉，将一片海煮沸至瑰丽暖色。\n在无数分岔的路径中，她坚定地选择了走到你身边的方向。\n而今天，她终于与你影子相叠。\n而今天，夕阳依旧。"
+    },
+    "4": {
+      "level": 4,
+      "name": "《苇间风》",
+      "desc": "<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>和<color=#FFFFFF>[普通攻击：落羽生花]</color>命中时必定暴击，并使薇薇安的攻击力提升12%，持续12秒，重复触发时刷新持续时间；进入战场时，薇薇安立即获得5点<color=#FFFFFF>[护羽]</color>。",
+      "desc2": "「将我的真心，如月光铺满你脚下的路。」\n在追赶你的路上，她已自成穹顶。\n她没有如此博爱，拥有的也并不算多。\n但为你，只为你，她可倾泻月光，覆盖黑暗，修补裂痕。\n你是她唯一的慷慨，是她最大的勇气。"
+    },
+    "5": {
+      "level": 5,
+      "name": "《十四行诗》",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「能否将你比作夏日？」\n她如飞鸟，带着悸动与期盼从深秋启航，羽翼掠过冬雪，在春日里采衔一枝花，就这么撞入夏日炙阳中。\n只因你的眼中藏着千万个太阳，让她永爱烈阳，不惧寒霜侵袭。"
+    },
+    "6": {
+      "level": 6,
+      "name": "《薇薇安》",
+      "desc": "薇薇安造成的<color=#FE437E>以太伤害</color>提升40%；<color=#FFFFFF>[普通攻击：淑女礼仪·舞步]</color>突进期间触发极限闪避、发动<color=#FFFFFF>[强化特殊技：堇花悼亡]</color>时，均额外回复1点<color=#FFFFFF>[飞羽]</color>；发动<color=#FFFFFF>[普通攻击：裙裾浮游·悬落]</color>时会消耗全部<color=#FFFFFF>[护羽]</color>，下落攻击的范围大幅增加，并在命中时触发一次特殊的<color=#FFFFFF>[异放]</color>，额外消耗的<color=#FFFFFF>[护羽]</color>会提高此次<color=#FFFFFF>[异放]</color>结算的额外异常伤害的比例，最多消耗5点<color=#FFFFFF>[护羽]</color>，使伤害比例提高至原本的5倍。",
+      "desc2": "「薇薇安是一首只送给你的情诗。」\n「我们拥有世界上所有的时间。」\n「所以，请允许我把余生写成你的注脚。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33000,
+    "slot2": 31300,
+    "slot_sub": 31600,
+    "part_sub_list": [
+      31203,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33000,
+          31300
+        ],
+        "part_sub_list": [
+          31203
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          31903
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          31402
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 31203,
+      "name": "异常精通",
+      "format": "{0:0}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
+    },
+    "part5": {
+      "prop": 31903,
+      "name": "以太伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconDungeonBuffEther.png"
+    },
+    "part6": {
+      "prop": 31402,
+      "name": "异常掌控",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementAbnormalPower.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_DungeonBuffEther>以太属性，异常后台输出",
+    "触发[异放]造成额外异常伤害",
+    "后台攻击并快速累积异常积蓄值"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Vivian"
+}

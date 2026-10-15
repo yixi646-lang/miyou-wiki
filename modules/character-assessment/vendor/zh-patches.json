@@ -1,0 +1,60 @@
+{
+  "char_Vesna": {
+    "skillArmedCond": "处于巡风列装模式",
+    "a1StacksCond": "整肃层数",
+    "spiritMult_": "灵剑伤害倍率",
+    "transposeDmg": "翔风剑·变移伤害",
+    "transposeSwordDmg": "翔风剑·变移灵剑伤害",
+    "transposeSwordStellarswirlDmg": "翔风剑·变移灵剑星扩散伤害"
+  },
+  "char_Vodyanitsa": {
+    "skillSongCond": "处于遥久之歌状态",
+    "a1Cond": "创造或引爆流荡风旋后",
+    "a4LeadVocalCond": "消耗一层领唱",
+    "a4ChorusCond": "消耗一层重唱",
+    "a4VortexCond": "存在流荡风旋或处于引爆后的5秒内（领唱/重唱增益星扩散）",
+    "c1Cond": "触发遥久之歌治疗后",
+    "c2Cond": "黑与白的双音状态",
+    "c2VoiceCond": "唤春角笛命中敌人后",
+    "c2VortexCond": "唤春角笛命中，且存在流荡风旋或处于引爆后的5秒内",
+    "c4HealMult_": "遥久之歌治疗倍率",
+    "c4AboveCond_one": "受治疗角色生命值不低于40%（{{count}}层）",
+    "c4AboveCond_other": "受治疗角色生命值不低于40%（{{count}}层）"
+  },
+  "weapon_BeyondTheChrysalis": {
+    "devotionCond": "处于忠忱之风效果",
+    "defianceCond": "处于叛弃之风效果"
+  },
+  "weapon_BreezeborneRefrain": {"viperCond": "处于蛇信的死毒效果"},
+  "weapon_NewBough": {"stacksCond": "蓊郁层数"},
+  "sheet": {
+    "elementalReaction": {
+      "superconductOrStellarconduct": "触发超导或星超导反应，或造成星超导反应伤害后",
+      "stellarswirl": "触发星扩散反应后",
+      "stellarglimmer": "触发星烁反应后",
+      "stellar": {
+        "radiance": "辉映状态",
+        "gainRadianceSc": "角色获得辉映·星超导状态",
+        "gainRadianceSs": "角色获得辉映·星扩散状态",
+        "triggerOrHit": "角色触发星烁反应或造成星烁反应伤害"
+      },
+      "team": {"stellarswirl": "队伍中角色触发星扩散反应后"},
+      "polestar": {
+        "inside": "角色处于极星辉域内",
+        "oppInside": "敌人处于极星辉域内",
+        "cond": "极星辉域释放的元素能量层数"
+      }
+    }
+  },
+  "char_Traveler": {
+    "resonance": {
+      "anemo": "已与风元素共鸣",
+      "geo": "已与岩元素共鸣",
+      "electro": "已与雷元素共鸣",
+      "dendro": "已与草元素共鸣",
+      "hydro": "已与水元素共鸣",
+      "pyro": "已与火元素共鸣",
+      "cryo": "已与冰元素共鸣"
+    }
+  }
+}

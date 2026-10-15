@@ -1,0 +1,47 @@
+import test from'node:test';
+import assert from'node:assert/strict';
+import{spawn}from'node:child_process';
+import http from'node:http';
+import{randomUUID}from'node:crypto';
+import{fileURLToPath}from'node:url';
+import{join}from'node:path';
+import {readFile} from 'node:fs/promises';
+import {gunzipSync} from 'node:zlib';
+import {createTestWorkspace,cleanupTestWorkspace,stopTestProcess} from '../scripts/test-resources.mjs';
+import {parseBackupFile} from '../shared/backup-file.mjs';
+import {openLibrary} from '../lib/database.mjs';
+const root=fileURLToPath(new URL('../',import.meta.url)),base='http://127.0.0.1:4179';
+test('本地接口编辑、收藏、增量导入与服务重启后持久保存',{timeout:40000},async()=>{
+  const directory=await createTestWorkspace('api');let child;
+  const start=async()=>{child=spawn(process.execPath,['--disable-warning=ExperimentalWarning','server.mjs','--port=4179'],{cwd:root,env:{...process.env,WIKI_DB_PATH:join(directory,'wiki.sqlite'),WIKI_BACKUP_DIR:join(directory,'backups')},windowsHide:true,stdio:'ignore'});for(let i=0;i<100;i++){try{if((await fetch(base+'/api/health')).ok)return;}catch{}await new Promise(r=>setTimeout(r,100));}throw new Error('验证用服务未启动');};
+  const stop=async()=>stopTestProcess(child);
+  try{await start();let bootstrap=await(await fetch(base+'/api/bootstrap')).json();let token=bootstrap.token;
+    const request=async(path,method,body,headers={})=>{const response=await fetch(base+'/api/'+path,{method,headers:{'Content-Type':'application/json','X-Wiki-Token':token,...headers},body:body===undefined?undefined:JSON.stringify(body)});return{status:response.status,data:await response.json()};};
+    assert.equal((await fetch(base+'/data/library/wiki.sqlite')).status,404);
+    const wrongHostStatus=await new Promise((resolve,reject)=>{http.get(base+'/api/health',{headers:{Host:'example.com'}},response=>{response.resume();resolve(response.statusCode);}).on('error',reject);});
+    assert.equal(wrongHostStatus,403);
+    assert.equal((await request('entries','POST',{},{'X-Wiki-Token':''})).status,403);
+    assert.equal((await request('entries','POST',{},{Origin:'https://example.com'})).status,403);
+    const created=await request('entries','POST',{name:'持久化验证条目',game:'genshin',category:'characters',releaseVersion:'4.2',releaseDate:'2023-11-08',details:{summary:'初始'}});assert.equal(created.status,201);
+    const id=created.data.id;const edit={...created.data,name:'已保存的编辑',details:{summary:'重启后应保留'}};
+    assert.equal((await request('entries/'+id,'PATCH',{entry:edit,revision:created.data.revision})).status,200);
+    assert.equal((await request('entries/'+id,'PATCH',{entry:edit,revision:created.data.revision})).status,409);
+    assert.equal((await request('favorites/'+id,'POST',{favorite:true})).status,200);
+    const extra={...edit,id:'genshin-characters-test-'+randomUUID().slice(0,8),name:'导入新增'};
+    const payload={entries:[{...edit,name:'禁止覆盖的内容'},extra]};
+    const preview=await request('import/preview','POST',payload);assert.equal(preview.data.additions.length,1);assert.equal(preview.data.conflicts.length,1);
+    const imported=await request('import','POST',payload);assert.equal(imported.data.added,1);assert.equal(imported.data.skipped,1);
+    assert.equal((await request('entries/'+id,'GET')).data.name,'已保存的编辑');
+    await stop();await start();bootstrap=await(await fetch(base+'/api/bootstrap')).json();token=bootstrap.token;
+    assert(bootstrap.favorites.includes(id));const persisted=await request('entries/'+id,'GET');assert.equal(persisted.data.details.summary,'重启后应保留');assert.equal(persisted.data.releaseDate,'2023-11-08');assert.equal((await request('entries/'+extra.id,'GET')).data.name,'导入新增');
+    const exported=await request('export','GET');assert(exported.data.favorites.includes(id));assert.equal(exported.data.schemaVersion,1);
+    const plan={goals:[],inventory:{'genshin-materials-202':7},savedAt:'2026-10-03T00:00:00.000Z'};
+    assert.equal((await request('growth/genshin/plan','POST',plan)).status,200);
+    const saved=await request('backup','POST');assert.equal(saved.status,201);assert(saved.data.filename.endsWith('.json.gz'));
+    const compressed=await readFile(join(directory,'backups',saved.data.filename));
+    const backup=await parseBackupFile(new File([compressed],saved.data.filename));
+    assert.deepEqual(await parseBackupFile(new File([gunzipSync(compressed)],'legacy.json')),backup);
+    assert(backup.favorites.includes(id));assert.equal(backup.growthPlans.genshin.inventory['genshin-materials-202'],7);
+    const restored=openLibrary(':memory:');try{restored.importAdditions(backup);assert.equal(restored.get(id).details.summary,'重启后应保留');assert(restored.favorites().includes(id));assert.equal(restored.export().growthPlans.genshin.inventory['genshin-materials-202'],7);}finally{restored.close();}
+  }finally{await stop();await cleanupTestWorkspace(directory);}
+});

@@ -1,0 +1,195 @@
+{
+  "fetchedAt": "2026-10-02T21:13:41.907Z",
+  "records": [
+    {
+      "title": "Version/1.0",
+      "pageId": 2341,
+      "revisionId": 466414,
+      "revisionAt": "2026-09-07T07:53:49Z",
+      "date": "2023-04-26",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F1.0",
+      "official": null
+    },
+    {
+      "title": "Version/1.2",
+      "pageId": 11308,
+      "revisionId": 470853,
+      "revisionAt": "2026-09-26T16:28:30Z",
+      "date": "2023-07-19",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F1.2",
+      "official": "https://hsr.hoyoverse.com/en-us/news/112340"
+    },
+    {
+      "title": "Version/1.5",
+      "pageId": 19871,
+      "revisionId": 466419,
+      "revisionAt": "2026-09-07T08:07:32Z",
+      "date": "2023-11-15",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F1.5",
+      "official": "https://hsr.hoyoverse.com/en/news/113631"
+    },
+    {
+      "title": "Version/2.0",
+      "pageId": 22157,
+      "revisionId": 466421,
+      "revisionAt": "2026-09-07T08:08:49Z",
+      "date": "2024-02-06",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F2.0",
+      "official": "https://hsr.hoyoverse.com/en-us/news/122291"
+    },
+    {
+      "title": "Version/2.1",
+      "pageId": 24421,
+      "revisionId": 466422,
+      "revisionAt": "2026-09-07T08:09:30Z",
+      "date": "2024-03-27",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F2.1",
+      "official": null
+    },
+    {
+      "title": "Version/2.3",
+      "pageId": 41981,
+      "revisionId": 466424,
+      "revisionAt": "2026-09-07T08:11:26Z",
+      "date": "2024-06-19",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F2.3",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/2.5",
+      "pageId": 61879,
+      "revisionId": 466426,
+      "revisionAt": "2026-09-07T08:12:35Z",
+      "date": "2024-09-10",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F2.5",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/2.6",
+      "pageId": 68668,
+      "revisionId": 466427,
+      "revisionAt": "2026-09-07T08:13:09Z",
+      "date": "2024-10-23",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F2.6",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.0",
+      "pageId": 81999,
+      "revisionId": 466429,
+      "revisionAt": "2026-09-07T08:14:37Z",
+      "date": "2025-01-15",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.0",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.1",
+      "pageId": 88600,
+      "revisionId": 466430,
+      "revisionAt": "2026-09-07T08:15:32Z",
+      "date": "2025-02-26",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.1",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.3",
+      "pageId": 101382,
+      "revisionId": 470302,
+      "revisionAt": "2026-09-21T15:02:48Z",
+      "date": "2025-05-21",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.3",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.4",
+      "pageId": 105796,
+      "revisionId": 466433,
+      "revisionAt": "2026-09-07T08:20:52Z",
+      "date": "2025-07-02",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.4",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.6",
+      "pageId": 123313,
+      "revisionId": 466435,
+      "revisionAt": "2026-09-07T08:48:26Z",
+      "date": "2025-09-24",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.6",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/3.7",
+      "pageId": 129007,
+      "revisionId": 466436,
+      "revisionAt": "2026-09-07T08:48:58Z",
+      "date": "2025-11-05",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F3.7",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/4.0",
+      "pageId": 135662,
+      "revisionId": 466438,
+      "revisionAt": "2026-09-07T08:51:52Z",
+      "date": "2026-02-13",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F4.0",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/4.1",
+      "pageId": 139813,
+      "revisionId": 466439,
+      "revisionAt": "2026-09-07T08:52:17Z",
+      "date": "2026-03-25",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F4.1",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/4.3",
+      "pageId": 157783,
+      "revisionId": 466441,
+      "revisionAt": "2026-09-07T08:53:29Z",
+      "date": "2026-06-01",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F4.3",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/4.4",
+      "pageId": 161506,
+      "revisionId": 470154,
+      "revisionAt": "2026-09-20T12:30:42Z",
+      "date": "2026-07-15",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F4.4",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    },
+    {
+      "title": "Version/4.6",
+      "pageId": 168615,
+      "revisionId": 472212,
+      "revisionAt": "2026-09-28T21:00:52Z",
+      "date": "2026-09-28",
+      "id": null,
+      "url": "https://honkai-star-rail.fandom.com/wiki/Version%2F4.6",
+      "official": "https://hsr.hoyoverse.com/en/news/"
+    }
+  ]
+}

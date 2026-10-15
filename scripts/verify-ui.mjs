@@ -1,0 +1,84 @@
+// 独立临时浏览器仅用于本地页面验证，不读取用户浏览器配置。
+import{spawn}from'node:child_process';
+import{mkdir,writeFile}from'node:fs/promises';
+import{join}from'node:path';
+import{fileURLToPath}from'node:url';
+import assert from'node:assert/strict';
+import {createTestWorkspace,cleanupTestWorkspace,stopTestProcess} from './test-resources.mjs';
+const root=fileURLToPath(new URL('../',import.meta.url)),port=9341;
+const profile=await createTestWorkspace('ui-check'),preview=join(root,'previews');await mkdir(preview,{recursive:true});
+const child=spawn('C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe',['--headless=new','--disable-gpu','--no-sandbox','--disable-gpu-sandbox','--no-first-run','--no-default-browser-check','--disable-extensions','--hide-scrollbars',`--user-data-dir=${profile}`,`--remote-debugging-port=${port}`,'about:blank'],{windowsHide:true,stdio:'ignore'});
+const delay=ms=>new Promise(resolve=>setTimeout(resolve,ms));let ws;
+try{
+  let targets;for(let i=0;i<50;i++){try{targets=await(await fetch(`http://127.0.0.1:${port}/json/list`)).json();if(targets.some(t=>t.type==='page'))break;}catch{}await delay(100);}
+  if(!targets)throw new Error('验证浏览器未启动');const target=targets.find(t=>t.type==='page');
+  ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((resolve,reject)=>{ws.addEventListener('open',resolve,{once:true});ws.addEventListener('error',reject,{once:true});});
+  let counter=0;const pending=new Map();ws.addEventListener('message',event=>{const msg=JSON.parse(event.data);const p=pending.get(msg.id);if(p){pending.delete(msg.id);clearTimeout(p.timer);msg.error?p.reject(new Error(msg.error.message)):p.resolve(msg.result);}});
+  const send=(method,params={})=>new Promise((resolve,reject)=>{const id=++counter;const timer=setTimeout(()=>{pending.delete(id);reject(new Error('浏览器响应超时：'+method));},12000);pending.set(id,{resolve,reject,timer});ws.send(JSON.stringify({id,method,params}));});
+  const evaluate=async expression=>{const r=await send('Runtime.evaluate',{expression,returnByValue:true,awaitPromise:true});if(r.exceptionDetails)throw new Error(JSON.stringify(r.exceptionDetails));return r.result.value;};
+  const until=async expression=>{for(let i=0;i<80;i++){if(await evaluate(expression))return;await delay(100);}throw new Error('页面未出现预期内容：'+expression);};
+  const navigate=async path=>{await send('Page.navigate',{url:'http://127.0.0.1:4173'+path});await delay(120);await until("document.readyState==='complete' && (document.querySelectorAll('.entry-card').length>0 || document.querySelector('.article') || document.querySelector('.manage-card'))");};
+  const screenshot=async name=>{await delay(350);const data=await send('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});await writeFile(join(preview,name),Buffer.from(data.data,'base64'));};
+  await send('Page.enable');await send('Runtime.enable');await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1050,deviceScaleFactor:1,mobile:false});
+  await navigate('/?game=genshin');
+  const change=async(selector,value)=>selector==='#game-select'?evaluate(`document.querySelector('[data-action=game][data-game="${value}"]').click()`):evaluate(`var control=document.querySelector(${JSON.stringify(selector)});control.value=${JSON.stringify(value)};control.dispatchEvent(new Event('change',{bubbles:true}));`);
+  // 当前游戏、分类导航与三种侧栏状态，刷新后保持选择。
+  assert.equal(await evaluate("document.querySelector('.game-switch button.active').dataset.game"),'genshin');
+  assert.equal(await evaluate("document.querySelectorAll('#category-nav a').length"),7);
+  assert(await evaluate("[...document.querySelectorAll('#category-nav a')].every(a=>a.href.includes('game=genshin'))"));
+  for(let i=0;i<3&&await evaluate("document.documentElement.dataset.sidebar!=='wide'");i++)await evaluate("document.querySelector('#sidebar-toggle').click()");
+  assert.equal(await evaluate("Math.round(document.querySelector('.main').getBoundingClientRect().left)"),228);
+  await evaluate("document.querySelector('#sidebar-toggle').click()");assert.equal(await evaluate("Math.round(document.querySelector('.main').getBoundingClientRect().left)"),72);
+  await evaluate("document.querySelector('#sidebar-toggle').click()");assert.equal(await evaluate("Math.round(document.querySelector('.main').getBoundingClientRect().left)"),0);
+  await navigate('/?game=genshin');assert.equal(await evaluate("document.documentElement.dataset.sidebar"),'hidden');await evaluate("document.querySelector('#sidebar-toggle').click()");
+  await change('#page-size','50');assert.equal(await evaluate("document.querySelectorAll('.characters>.entry-card').length"),50);
+  await evaluate("document.querySelector('[data-action=page][data-page=\"2\"]').click()");assert(await evaluate("location.search.includes('page=2')"));
+  await change('#page-size','100');assert.equal(await evaluate("document.querySelectorAll('.characters>.entry-card').length"),100);assert.equal(await evaluate("location.search.includes('page=2')"),false);
+  await change('#page-size','all');const charCount=await evaluate("Number(document.querySelector('.result-meta b').textContent)");assert.equal(await evaluate("document.querySelectorAll('.characters>.entry-card').length"),charCount);
+  await navigate('/?game=genshin');assert.equal(await evaluate("document.querySelector('#page-size').value"),'all');
+  await change('#game-select','starrail');assert.equal(await evaluate("document.querySelector('#page-size').value"),'20');assert(await evaluate("[...document.querySelectorAll('#content a[href*=\"entry=\"]')].every(a=>new URL(a.href).searchParams.get('game')==='starrail')"));
+  await change('#game-select','genshin');assert.equal(await evaluate("document.querySelector('#page-size').value"),'all');await change('#page-size','20');
+  assert.equal(await evaluate("document.querySelector('[data-key=game]')===null"),true);
+  assert.equal(await evaluate("document.querySelector('#sort').value"),'release');
+  await evaluate("document.querySelector('[data-action=facet][data-key=element][data-value=水]').click()");
+  assert.equal(await evaluate("document.querySelectorAll('[data-key=element][aria-pressed=true]').length"),1);
+  assert(await evaluate("[...document.querySelectorAll('.entry-card .type')].every(e=>e.textContent==='水')"));
+  await evaluate("document.querySelector('[data-action=facet][data-key=rarity][data-value=\"5\"]').click()");
+  assert(await evaluate("[...document.querySelectorAll('.entry-card .entry-star')].every(e=>e.textContent==='★★★★★')"));
+  await screenshot('genshin-filtered.png');
+  const listHref=await evaluate('location.href');await evaluate("document.querySelector('.entry-card').click()");await until("document.querySelector('.article')!==null");
+  assert(await evaluate("document.querySelector('.release-strip').textContent.includes('实装版本') && document.querySelector('.release-strip').textContent.includes('实装日期')"));
+  assert.equal(await evaluate("document.querySelector('.article').textContent.includes('装备搭配')"),false);
+  await evaluate("document.querySelector('[data-action=back]').click()");await until("document.querySelector('.entry-card')!==null");assert.equal(await evaluate('location.href'),listHref);
+  await navigate('/?game=genshin&entry=genshin-characters-10000089');await until("[...document.images].filter(i=>i.closest('.article-head')).every(i=>i.complete)");await screenshot('character-detail.png');
+  assert(await evaluate("document.querySelector('.skill-stats')!==null"));
+  const beforeSkill=await evaluate("document.querySelector('.skill-stats').textContent");
+  await evaluate("var s=document.querySelector('.skill-level-select');s.value='0';s.dispatchEvent(new Event('change',{bubbles:true}))");
+  assert.notEqual(await evaluate("document.querySelector('.skill-stats').textContent"),beforeSkill);
+  await evaluate("document.querySelector('[data-action=edit]').click()");await until("document.querySelector('#editor-dialog').open");assert(await evaluate("document.querySelector('[name=releaseDate]')!==null"));await evaluate("document.querySelector('[data-action=close-editor]').click()");
+  await navigate('/?game=genshin&entry=genshin-weapons-11513');assert(await evaluate("document.querySelector('#signature')?.textContent.includes('芙宁娜')"));
+  await navigate('/?game=genshin&entry=genshin-weapons-11101');assert.equal(await evaluate("document.querySelector('#signature')===null"),true);
+  await navigate('/?game=genshin&category=weapons');
+  assert(await evaluate("document.querySelector('.weapon-stats').textContent.includes('基础攻击力')"));
+  assert(await evaluate("document.querySelector('.card-acquisition').textContent.includes('获取渠道')"));
+  assert.equal(await evaluate("document.querySelector('.weapon-passive').open"),false);
+  const weaponUrl=await evaluate('location.href');await evaluate("document.querySelector('.weapon-passive summary').click()");assert.equal(await evaluate("document.querySelector('.weapon-passive').open"),true);
+  const passive=await evaluate("document.querySelector('.list-selected-effect').textContent");await change('.list-effect-rank','4');assert.notEqual(await evaluate("document.querySelector('.list-selected-effect').textContent"),passive);assert.equal(await evaluate('location.href'),weaponUrl);
+  await screenshot('weapon-list.png');
+  for(const game of ['genshin','starrail','zenless']){
+    await navigate('/?game='+game+'&category=sets');assert(await evaluate("document.querySelectorAll('.set-effect').length>=2"));assert(await evaluate("[...document.querySelectorAll('.set-effects')].every(e=>!e.closest('details')&&e.getBoundingClientRect().height>0)"));
+    const match=await evaluate("(async()=>{const c=document.querySelector('.equipment-card');const e=await(await fetch('/api/entries/'+c.dataset.entryId)).json();return JSON.stringify([...c.querySelectorAll('.set-effect p')].map(p=>p.textContent))===JSON.stringify(e.details.effects.map(e=>e.description));})()");assert.equal(match,true);
+  }
+  await screenshot('set-list.png');
+  await navigate('/?game=genshin&entry=genshin-characters-10000089');assert(await evaluate("document.querySelector('#acquisition').textContent.includes('角色活动祈愿')"));
+  await evaluate("document.querySelector('#banner-history a').click()");await until("document.querySelector('.banner-card')!==null");assert(await evaluate("[...document.querySelectorAll('.banner-card')].every(c=>c.textContent.includes('芙宁娜'))"));
+  await navigate('/?game=zenless&category=banners');assert.equal(await evaluate("Number(document.querySelector('.result-meta b').textContent)"),139);assert(await evaluate("document.querySelector('[data-key=releaseVersion]')!==null"));
+  await screenshot('banner-history.png');await evaluate("document.querySelector('.banner-card-head a').click()");await until("document.querySelector('#banner-pool')!==null");assert(await evaluate("document.querySelector('#banner-period').textContent.includes('2026')"));
+  await navigate('/?game=zenless&category=weapons&q=喵运当头');assert(await evaluate("document.querySelector('.weapon-stats').textContent.includes('基础防御力')"));assert(await evaluate("document.querySelector('.weapon-stats').textContent.includes('40%')"));
+  await navigate('/?game=starrail');assert(await evaluate("document.querySelector('[data-key=type]')!==null"));
+  await navigate('/?game=zenless');assert(await evaluate("document.querySelector('[data-key=region]')!==null"));
+  await send('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});await screenshot('mobile-catalog.png');assert(await evaluate('document.documentElement.scrollWidth<=window.innerWidth'));
+  await evaluate("document.querySelector('#mobile-menu').click()");assert(await evaluate("document.querySelector('#sidebar').classList.contains('mobile-open')"));await evaluate("document.querySelector('#sidebar-shade').click()");
+  await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1050,deviceScaleFactor:1,mobile:false});await navigate('/');await screenshot('overview.png');await navigate('/?screen=manage');await screenshot('library-management.png');
+  console.log('界面检查通过：单游戏分类导航、侧栏三种状态与记忆、20/50/100/全部分页、分页偏好按游戏分类保存、版本排序、筛选、套装完整效果、武器被动展开与等级切换、获取渠道、历史卡池关联、详情返回、移动端布局。');
+}finally{if(ws)ws.close();await stopTestProcess(child);await cleanupTestWorkspace(profile);}

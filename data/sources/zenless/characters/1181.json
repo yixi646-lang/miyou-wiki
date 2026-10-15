@@ -1,0 +1,2262 @@
+{
+  "id": 1181,
+  "icon": "IconRole20",
+  "name": "格莉丝",
+  "code_name": "Grace",
+  "rarity": 4,
+  "weapon_type": {
+    "3": "异常"
+  },
+  "element_type": {
+    "203": "电属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "103": "穿透"
+  },
+  "camp": {
+    "3": "白祇重工"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "04/14",
+    "full_name": "格莉丝·霍华德",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle20.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0020.png",
+    "impression_f": "总觉得格莉丝对着机械说话的语气，很像人类对着猫猫或者其他可爱小动物说话的感觉…是我的错觉吗？",
+    "impression_m": "是你对猫猫说话的感觉吧。\n比起这个，Fairy竟然已经开始思考「我是谁」这样的哲学问题了吗…",
+    "impressions": [
+      "对格莉丝的印象：\n · 格莉丝的作息说实话有点恐怖",
+      " · 对可爱的机械，格莉丝永远充满热爱",
+      " · 如何制作一只格莉丝：80%「疯狂科学家」作风，10%似水柔情，10%…商业机密"
+    ],
+    "profile_desc": "格莉丝，白祇重工的技术专家，是将空洞内重工机械技术专利发展完善的核心人才。\n醉心于齿轮、金属和电线，是当之无愧的「机械宅」。看到感兴趣的机械设备后会两眼放光，迫不及待想要拆卸研究：\n「这冷峻硬朗的线条，真美啊…看得让人心痒痒的~」\n\n在面对机械时，格莉丝总是会表现出超凡的耐心，把这些精密的金属构成物当做自己的孩子般宠爱。\n据相关信息判断，格莉丝是唯一敢喊珂蕾妲「小不点」却不会被她锤胫骨的人。\n提问：在格莉丝的认知范围内，我是否也算是机械？但我目前并没有实体，因此也不存在齿轮，金属或电线之类的部件。",
+    "role_icon": "IconRole/UnPacker/IconRole20",
+    "stature": "170",
+    "unlock_condition": [
+      "获得代理人",
+      "完成委托「安比的困扰」",
+      "完成代理人秘闻「钢铁的女巫」"
+    ],
+    "trust_lv": {
+      "1": "格莉丝，白祇重工的技术专家，是将空洞内重工机械技术专利发展完善的核心人才。\n醉心于齿轮、金属和电线，是当之无愧的「机械宅」。看到感兴趣的机械设备后会两眼放光，迫不及待想要拆卸研究：\n「这冷峻硬朗的线条，真美啊…看得让人心痒痒的~」\n\n在面对机械时，格莉丝总是会表现出超凡的耐心，把这些精密的金属构成物当做自己的孩子般宠爱。\n据相关信息判断，格莉丝是唯一敢喊珂蕾妲「小不点」却不会被她锤胫骨的人。\n提问：在格莉丝的认知范围内，我是否也算是机械？但我目前并没有实体，因此也不存在齿轮，金属或电线之类的部件。",
+      "2": "",
+      "3": "格莉丝的父母均为空洞相关的科研工作人员，在一次危险的空洞考察活动中双双失踪，不久被判定为死亡。独自一人的格莉丝被父母生前的友人霍尔斯，即白祇重工的前任社长，珂蕾妲的父亲所收养。因此格莉丝与珂蕾妲存在非血缘意义上的「姐妹」关系。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3111810": {
+      "name": "格莉丝·钢铁的女巫",
+      "desc": "简洁干练的工作服。最让天才机械师满意的是外侧大大小小的口袋，足够装下各种型号的螺丝、齿轮甚至扳手。",
+      "obtain_desc": "",
+      "image": "IconRole20"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 119,
+    "attack_growth": 71181,
+    "avatar_piece_id": 5181,
+    "break_stun": 83,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 48,
+    "defence_growth": 65524,
+    "element_abnormal_power": 115,
+    "element_mystery": 116,
+    "endurance": 0,
+    "hp_growth": 816391,
+    "hp_max": 602,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Lisa",
+      "Pierce",
+      "Electric",
+      "Female",
+      "Camp3",
+      "Size3",
+      "AidTypeEvade",
+      "Lisa",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100213": 4
+      }
+    },
+    "2": {
+      "hp_max": 413,
+      "attack": 42,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100223": 12
+      }
+    },
+    "3": {
+      "hp_max": 826,
+      "attack": 85,
+      "defence": 66,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100223": 20
+      }
+    },
+    "4": {
+      "hp_max": 1239,
+      "attack": 127,
+      "defence": 99,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100233": 10
+      }
+    },
+    "5": {
+      "hp_max": 1651,
+      "attack": 170,
+      "defence": 133,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100233": 20
+      }
+    },
+    "6": {
+      "hp_max": 2064,
+      "attack": 212,
+      "defence": 166,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "31401": {
+          "prop": 31401,
+          "name": "异常掌控",
+          "format": "{0:0.#}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：高压射钉",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，造成<color=#F0D12B>物理伤害</color>和<color=#2EB6FF>电属性伤害</color>；\n在<color=#FFFFFF>[普通攻击]</color>期间向侧方拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以发动垫步射击，调整身位并造成<color=#F0D12B>物理伤害</color>；\n格莉丝在<color=#FFFFFF>[普通攻击]</color>期间发动<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[强化特殊技]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[冲刺攻击]</color>、<color=#FFFFFF>[闪避反击]</color>时，不会打断<color=#FFFFFF>[普通攻击]</color>的连击段数。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "普通攻击：高压射钉",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，造成<color=#F0D12B>物理伤害</color>和<color=#2EB6FF>电属性伤害</color>；\n在<color=#FFFFFF>[普通攻击]</color>期间向侧方拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以发动垫步射击，调整身位并造成<color=#F0D12B>物理伤害</color>，在<color=#FFFFFF>[普通攻击]</color>第一/第二段后发动时，继续点按 <IconMap:Icon_Normal> 会从<color=#FFFFFF>[普通攻击]</color>第三/第四段连击继续；\n格莉丝在<color=#FFFFFF>[普通攻击]</color>期间发动<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[强化特殊技]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[冲刺攻击]</color>、<color=#FFFFFF>[闪避反击]</color>时，不会打断<color=#FFFFFF>[普通攻击]</color>的连击段数。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "普通攻击：高压射钉",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1181001, Prop:1001}",
+              "param": {
+                "1181001": {
+                  "main": 5510,
+                  "growth": 510,
+                  "format": "%",
+                  "damage_percentage": 5510,
+                  "damage_percentage_growth": 510,
+                  "stun_ratio": 1800,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6150,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 47025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1708
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1181002, Prop:1001}",
+              "param": {
+                "1181002": {
+                  "main": 5970,
+                  "growth": 550,
+                  "format": "%",
+                  "damage_percentage": 5970,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 3470,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11890,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 91025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3302
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1181003, Prop:1001}",
+              "param": {
+                "1181003": {
+                  "main": 12480,
+                  "growth": 1140,
+                  "format": "%",
+                  "damage_percentage": 12480,
+                  "damage_percentage_growth": 1140,
+                  "stun_ratio": 7160,
+                  "stun_ratio_growth": 330,
+                  "sp_recovery": 24540,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 187550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6460,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6817
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1181004, Prop:1001}",
+              "param": {
+                "1181004": {
+                  "main": 18630,
+                  "growth": 1700,
+                  "format": "%",
+                  "damage_percentage": 18630,
+                  "damage_percentage_growth": 1700,
+                  "stun_ratio": 10720,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 40810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 311850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11335
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "垫步射击伤害倍率",
+              "desc": "{Skill:1181015, Prop:1001}",
+              "param": {
+                "1181015": {
+                  "main": 4030,
+                  "growth": 370,
+                  "format": "%",
+                  "damage_percentage": 4030,
+                  "damage_percentage_growth": 370,
+                  "stun_ratio": 4030,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 105600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1181001, Prop:1002}",
+              "param": {
+                "1181001": {
+                  "main": 1800,
+                  "growth": 90,
+                  "format": "%",
+                  "damage_percentage": 5510,
+                  "damage_percentage_growth": 510,
+                  "stun_ratio": 1800,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6150,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 47025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1708
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1181002, Prop:1002}",
+              "param": {
+                "1181002": {
+                  "main": 3470,
+                  "growth": 160,
+                  "format": "%",
+                  "damage_percentage": 5970,
+                  "damage_percentage_growth": 550,
+                  "stun_ratio": 3470,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11890,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 91025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3302
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1181003, Prop:1002}",
+              "param": {
+                "1181003": {
+                  "main": 7160,
+                  "growth": 330,
+                  "format": "%",
+                  "damage_percentage": 12480,
+                  "damage_percentage_growth": 1140,
+                  "stun_ratio": 7160,
+                  "stun_ratio_growth": 330,
+                  "sp_recovery": 24540,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 187550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6460,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6817
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1181004, Prop:1002}",
+              "param": {
+                "1181004": {
+                  "main": 10720,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 18630,
+                  "damage_percentage_growth": 1700,
+                  "stun_ratio": 10720,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 40810,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 311850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11335
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "垫步射击失衡倍率",
+              "desc": "{Skill:1181015, Prop:1002}",
+              "param": {
+                "1181015": {
+                  "main": 4030,
+                  "growth": 190,
+                  "format": "%",
+                  "damage_percentage": 4030,
+                  "damage_percentage_growth": 370,
+                  "stun_ratio": 4030,
+                  "stun_ratio_growth": 190,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 105600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：安全条款",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：突击检查",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方滑铲扫射，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：违章处罚",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对敌人投掷一颗手雷，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "闪避反击：违章处罚",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对敌人投掷一颗手雷，造成<color=#2EB6FF>电属性伤害</color>，随后自动发动<color=#FFFFFF>[普通攻击]</color>第四段；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "冲刺攻击：突击检查",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181007, Prop:1001}",
+              "param": {
+                "1181007": {
+                  "main": 3330,
+                  "growth": 310,
+                  "format": "%",
+                  "damage_percentage": 3330,
+                  "damage_percentage_growth": 310,
+                  "stun_ratio": 1670,
+                  "stun_ratio_growth": 80,
+                  "sp_recovery": 5710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 43725,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1586
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181007, Prop:1002}",
+              "param": {
+                "1181007": {
+                  "main": 1670,
+                  "growth": 80,
+                  "format": "%",
+                  "damage_percentage": 3330,
+                  "damage_percentage_growth": 310,
+                  "stun_ratio": 1670,
+                  "stun_ratio_growth": 80,
+                  "sp_recovery": 5710,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 43725,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1586
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：违章处罚",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181008, Prop:1001}",
+              "param": {
+                "1181008": {
+                  "main": 16420,
+                  "growth": 1500,
+                  "format": "%",
+                  "damage_percentage": 16420,
+                  "damage_percentage_growth": 1500,
+                  "stun_ratio": 15050,
+                  "stun_ratio_growth": 690,
+                  "sp_recovery": 15600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181008, Prop:1002}",
+              "param": {
+                "1181008": {
+                  "main": 15050,
+                  "growth": 690,
+                  "format": "%",
+                  "damage_percentage": 16420,
+                  "damage_percentage_growth": 1500,
+                  "stun_ratio": 15050,
+                  "stun_ratio_growth": 690,
+                  "sp_recovery": 15600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 19334
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：工程清障",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方投掷一颗手雷，造成<color=#2EB6FF>电属性伤害</color>；\n发动招式时，可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，向对应方向调整身位；\n招式发动期间抗打断等级提升。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "特殊技：工程清障",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方投掷一颗手雷，造成<color=#2EB6FF>电属性伤害</color>；\n发动招式时，可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，向对应方向调整身位；\n消耗<color=#FFFFFF>[电能]</color>发动时可以闪避敌人的攻击；\n招式发动期间抗打断等级提升。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "强化特殊技：超规工程清障",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n腾空跃起，并向前方投掷两颗手雷，造成大量<color=#2EB6FF>电属性伤害</color>；\n发动招式时，可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，向对应方向调整身位；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "强化特殊技：超规工程清障",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n腾空跃起，并向前方投掷两颗手雷，造成大量<color=#2EB6FF>电属性伤害</color>；\n发动招式时，可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，向对应方向调整身位；\n若<color=#FFFFFF>[电能]</color>层数到达上限，会额外投掷一枚[涡流集束手雷]，在爆炸位置生成电磁场，持续牵引敌人，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "[脉冲]",
+          "desc": "发动[终结技]时，获得25层<color=#FFFFFF>[脉冲]</color>（上限25层），获得<color=#FFFFFF>[电能]</color>时会消耗一层<color=#FFFFFF>[脉冲]</color>；\n消耗<color=#FFFFFF>[脉冲]</color>获得8层<color=#FFFFFF>[电能]</color>时，下次投掷手雷时会额外丢出一枚脉冲手雷，并在命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次原属性异常<color=#FE437E>560%</color>/<color=#2EB6FF>280%</color>/<color=#FF5521>700%</color>/<color=#F0D12B>50%</color>/<color=#98EFF0>70%</color>/<color=#A6C5FD>28%</color>的伤害；\n[脉冲]状态下解锁<color=#FFFFFF>[特殊技：工程清障·循环]</color>。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "特殊技：工程清障·循环",
+          "desc": "[脉冲]状态下长按 <IconMap:Icon_Special> 发动：\n招式期间持续向前方投掷手雷，造成<color=#2EB6FF>电属性伤害</color>，每次投掷手雷获得一层<color=#FFFFFF>[电能]</color>；\n发动招式时，可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，向对应方向调整身位，并可以闪避敌人的攻击；\n招式发动期间抗打断等级提升。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "特殊技：工程清障",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181005, Prop:1001}",
+              "param": {
+                "1181005": {
+                  "main": 4210,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 4210,
+                  "damage_percentage_growth": 390,
+                  "stun_ratio": 4210,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2002
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181005, Prop:1002}",
+              "param": {
+                "1181005": {
+                  "main": 4210,
+                  "growth": 200,
+                  "format": "%",
+                  "damage_percentage": 4210,
+                  "damage_percentage_growth": 390,
+                  "stun_ratio": 4210,
+                  "stun_ratio_growth": 200,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 110275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2002
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：超规工程清障",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181006, Prop:1001}*2",
+              "param": {
+                "1181006": {
+                  "main": 16690,
+                  "growth": 1520,
+                  "format": "%",
+                  "damage_percentage": 16690,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 13420,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 523050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14334,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3417
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181006, Prop:1002}*2",
+              "param": {
+                "1181006": {
+                  "main": 13420,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 16690,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 13420,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 523050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 14334,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3417
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "40点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "涡流集束手雷基础倍率",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181020, Prop:1001}",
+              "param": {
+                "1181020": {
+                  "main": 8750,
+                  "growth": 800,
+                  "format": "%",
+                  "damage_percentage": 8750,
+                  "damage_percentage_growth": 800,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": [
+                118100,
+                118101,
+                118102,
+                118103,
+                118104,
+                118105
+              ]
+            }
+          ],
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "特殊技：工程清障·循环",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181018, Prop:1001}/29",
+              "param": {
+                "1181018": {
+                  "main": 56340,
+                  "growth": 5130,
+                  "format": "%",
+                  "damage_percentage": 56340,
+                  "damage_percentage_growth": 5130,
+                  "stun_ratio": 51280,
+                  "stun_ratio_growth": 2340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1343100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 48833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 48834
+                }
+              },
+              "potential": [
+                118100,
+                118101,
+                118102,
+                118103,
+                118104,
+                118105
+              ]
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181018, Prop:1002}/29",
+              "param": {
+                "1181018": {
+                  "main": 51280,
+                  "growth": 2340,
+                  "format": "%",
+                  "damage_percentage": 56340,
+                  "damage_percentage_growth": 5130,
+                  "stun_ratio": 51280,
+                  "stun_ratio_growth": 2340,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1343100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 48833,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 48834
+                }
+              },
+              "potential": [
+                118100,
+                118101,
+                118102,
+                118103,
+                118104,
+                118105
+              ]
+            }
+          ],
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "脉冲手雷倍率",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181019, Prop:1001}",
+              "param": {
+                "1181019": {
+                  "main": 4200,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 4200,
+                  "damage_percentage_growth": 390,
+                  "stun_ratio": 0,
+                  "stun_ratio_growth": 0,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": [
+                118100,
+                118101,
+                118102,
+                118103,
+                118104,
+                118105
+              ]
+            }
+          ],
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：协作施工",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n向空中抛出三颗手雷，随后扫射将其引爆，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：工程爆破请勿接近",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n丢出一枚特制的手雷，其在空中爆炸后会分裂成四颗更小的手雷，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "终结技：工程爆破请勿接近",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n丢出一枚特制的手雷，其在空中爆炸后会分裂成四颗更小的手雷，造成大量<color=#2EB6FF>电属性伤害</color>；\n获得8层<color=#FFFFFF>[电能]</color>和25层<color=#FFFFFF>[脉冲]</color>（上限25层）；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            118100,
+            118101,
+            118102,
+            118103,
+            118104,
+            118105
+          ]
+        },
+        {
+          "name": "连携技：协作施工",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181009, Prop:1001}",
+              "param": {
+                "1181009": {
+                  "main": 57130,
+                  "growth": 5200,
+                  "format": "%",
+                  "damage_percentage": 57130,
+                  "damage_percentage_growth": 5200,
+                  "stun_ratio": 15230,
+                  "stun_ratio_growth": 700,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2227775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34450,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14501
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181009, Prop:1002}",
+              "param": {
+                "1181009": {
+                  "main": 15230,
+                  "growth": 700,
+                  "format": "%",
+                  "damage_percentage": 57130,
+                  "damage_percentage_growth": 5200,
+                  "stun_ratio": 15230,
+                  "stun_ratio_growth": 700,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2227775,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34450,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14501
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：工程爆破请勿接近",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181010, Prop:1001}",
+              "param": {
+                "1181010": {
+                  "main": 147880,
+                  "growth": 13450,
+                  "format": "%",
+                  "damage_percentage": 147880,
+                  "damage_percentage_growth": 13450,
+                  "stun_ratio": 13310,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 89570,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 62670
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181010, Prop:1002}",
+              "param": {
+                "1181010": {
+                  "main": 13310,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 147880,
+                  "damage_percentage_growth": 13450,
+                  "stun_ratio": 13310,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 89570,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 62670
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：事故解决方案",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对敌人投掷一颗手雷，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "回避支援：快速风险响应",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n回避敌人的攻击，并触发<color=#FFFFFF>[极限视域]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：反击电针",
+          "desc": "发动<color=#FFFFFF>[回避支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动回旋扫射并投掷手雷，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：事故解决方案",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181011, Prop:1001}",
+              "param": {
+                "1181011": {
+                  "main": 4550,
+                  "growth": 420,
+                  "format": "%",
+                  "damage_percentage": 4550,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 4550,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 15600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2167
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181011, Prop:1002}",
+              "param": {
+                "1181011": {
+                  "main": 4550,
+                  "growth": 210,
+                  "format": "%",
+                  "damage_percentage": 4550,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 4550,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 15600,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4333,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2167
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：反击电针",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1181012, Prop:1001}",
+              "param": {
+                "1181012": {
+                  "main": 35930,
+                  "growth": 3270,
+                  "format": "%",
+                  "damage_percentage": 35930,
+                  "damage_percentage_growth": 3270,
+                  "stun_ratio": 31280,
+                  "stun_ratio_growth": 1430,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1062875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16504
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1181012, Prop:1002}",
+              "param": {
+                "1181012": {
+                  "main": 31280,
+                  "growth": 1430,
+                  "format": "%",
+                  "damage_percentage": 35930,
+                  "damage_percentage_growth": 3270,
+                  "stun_ratio": 31280,
+                  "stun_ratio_growth": 1430,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1062875,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16504
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1181001,
+      "avatar_id": 1181,
+      "first_priority": [
+        5,
+        1,
+        0
+      ],
+      "second_priority": [
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1181001": {
+      "name": "普通攻击：高压射钉",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1181002": {
+      "name": "特殊技：工程清障",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181003": {
+      "name": "强化特殊技：超规工程清障",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181004": {
+      "name": "冲刺攻击：突击检查",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1181005": {
+      "name": "闪避反击：违章处罚",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181006": {
+      "name": "连携技：协作施工",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181007": {
+      "name": "终结技：工程爆破请勿接近",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181008": {
+      "name": "快速支援：事故解决方案",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1181009": {
+      "name": "回避支援：快速风险响应",
+      "desc": "<IconMap:Icon_Switch>（触发回避支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1181010": {
+      "name": "支援突击：反击电针",
+      "desc": "<IconMap:Icon_Normal>（发动回避支援后）",
+      "element_type": 203,
+      "hit_type": 103,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1181501": {
+        "level": 1,
+        "id": 1181501,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>65%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181502": {
+        "level": 2,
+        "id": 1181502,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>75.8%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181503": {
+        "level": 3,
+        "id": 1181503,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>86.6%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181504": {
+        "level": 4,
+        "id": 1181504,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>97.5%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181505": {
+        "level": 5,
+        "id": 1181505,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>108.3%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181506": {
+        "level": 6,
+        "id": 1181506,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>119.1%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181507": {
+        "level": 7,
+        "id": 1181507,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>130%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          0
+        ]
+      },
+      "1181508": {
+        "level": 1,
+        "id": 1181508,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>65%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181509": {
+        "level": 2,
+        "id": 1181509,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>75.8%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181510": {
+        "level": 3,
+        "id": 1181510,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>86.6%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181511": {
+        "level": 4,
+        "id": 1181511,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>97.5%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181512": {
+        "level": 5,
+        "id": 1181512,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>108.3%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181513": {
+        "level": 6,
+        "id": 1181513,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>119.1%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      },
+      "1181514": {
+        "level": 7,
+        "id": 1181514,
+        "name": [
+          "核心被动：预驱动撞针",
+          "额外能力：技术支持班组"
+        ],
+        "desc": [
+          "格莉丝<color=#FFFFFF>[普通攻击]</color>或<color=#FFFFFF>[冲刺攻击]</color>命中敌人并造成<color=#F0D12B>物理伤害</color>时，获得一层<color=#FFFFFF>[电能]</color>（上限8层）；<color=#FFFFFF>[电能]</color>层数到达上限后，发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，会消耗所有<color=#FFFFFF>[电能]</color>，使招式累积的<color=#2EB6FF>电属性异常积蓄值</color>提升<color=#2BAD00>130%</color>。",
+          "队伍中存在与自身属性或阵营相同的角色或其他<color=#FFFFFF>[异常]</color>角色时触发：\n格莉丝<color=#FFFFFF>[强化特殊技]</color>命中敌人时，目标下次被施加<color=#2EB6FF>[感电]</color>效果时，受到的<color=#2EB6FF>[感电]</color>伤害提升18%，最多叠加2层，同一招式内每个敌人最多触发一次效果，<color=#2EB6FF>[感电]</color>状态结束时效果重置。"
+        ],
+        "extra_property": {},
+        "potential": [
+          118100,
+          118101,
+          118102,
+          118103,
+          118104,
+          118105
+        ]
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110505": 2
+      },
+      "3": {
+        "10": 28000,
+        "110505": 4
+      },
+      "4": {
+        "10": 60000,
+        "110002": 2,
+        "110505": 9
+      },
+      "5": {
+        "10": 100000,
+        "110002": 3,
+        "110505": 15
+      },
+      "6": {
+        "10": 200000,
+        "110002": 4,
+        "110505": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "再充能弹膛",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>第四段每次命中敌人时，全队角色回复0.25点能量；\n同一招式内，该效果最多为全队回复2点能量。",
+      "desc2": "效率是工程学的生命。在格莉丝的枪膛里，回响着工程学的心跳声。"
+    },
+    "2": {
+      "level": 2,
+      "name": "电致击穿",
+      "desc": "在<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[强化特殊技]</color>等招式中投掷手雷命中敌人时，目标的<color=#2EB6FF>电属性伤害抗性</color>降低8.5%，<color=#2EB6FF>电属性异常积蓄抗性</color>降低8.5%，持续8秒。",
+      "desc2": "「解剖」复杂的机械结构是格莉丝最大的爱好，即使是在战斗之中。\n被解剖者会作何感想呢？当它们每一方寸的破绽都如此赤裸。"
+    },
+    "3": {
+      "level": 3,
+      "name": "首席机械师",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "格莉丝亲自参与编写了《白祇重工安全施工指南》，\n并且成为了违反「禁止在施工场地携带危险爆炸物」条例次数最多的员工。"
+    },
+    "4": {
+      "level": 4,
+      "name": "爆破电容",
+      "desc": "发动<color=#FFFFFF>[强化特殊技]</color>时，格莉丝获得6层充能（上限6层）；<color=#FFFFFF>[普通攻击：高压射钉]</color>或<color=#FFFFFF>[冲刺攻击：突击检查]</color>命中敌人时，消耗1层充能，使当前招式的能量获得效率提升20%。",
+      "desc2": "安东怀疑，在被格莉丝称为「电脉冲回收模块」的元件里，其实有一只以太仓鼠在不分昼夜地鼠力发电。\n「能在我兄弟上也整一个吗？」"
+    },
+    "5": {
+      "level": 5,
+      "name": "「冰冷铁魔女」",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「冰冷铁魔女」能够驯服任何机械造物，至少起这个名字的匿名粉丝是这么认为的。"
+    },
+    "6": {
+      "level": 6,
+      "name": "起爆扳机",
+      "desc": "消耗所有<color=#FFFFFF>[电能]</color>发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，能够强化招式效果，额外投掷一颗手雷，并使每颗手雷造成的伤害提升至原本的200%。",
+      "desc2": "白祇重工旗下员工的平均血液温度是九十八摄氏度，格莉丝总是被当作沸腾前的降温阀。\n当格莉丝放弃了克制，大家就知道，是时候把耳朵捂上了。"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 31300,
+    "slot2": 32400,
+    "slot_sub": 33000,
+    "part_sub_list": [
+      12102,
+      31203
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          31300,
+          32400
+        ],
+        "part_sub_list": [
+          31203
+        ]
+      },
+      {
+        "suit_list": [
+          32400,
+          31300
+        ],
+        "part_sub_list": [
+          31803,
+          12102,
+          23103
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          31402
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 31203,
+      "name": "异常精通",
+      "format": "{0:0}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
+    },
+    "part5": {
+      "prop": 31803,
+      "name": "电属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png"
+    },
+    "part6": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part_sub": {
+      "prop": 23103,
+      "name": "穿透率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconPenRatio.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>电属性，异常输出",
+    "大招后可高效触发[异放]伤害",
+    "可在一定范围内聚集敌人"
+  ],
+  "potential": [
+    118100,
+    118101,
+    118102,
+    118103,
+    118104,
+    118105
+  ],
+  "potential_detail": {
+    "118100": {
+      "id": 118100,
+      "name": "",
+      "desc": "",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 I",
+      "level": 1,
+      "ability_list": [
+        11181401
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    },
+    "118101": {
+      "id": 118101,
+      "name": "潜能觉醒：超频工程引擎",
+      "desc": "消耗<color=#FFFFFF>[电能]</color>时获得<color=#FFFFFF>[电能强化]</color>状态，造成的<color=#2EB6FF>电属性伤害</color>提升<color=#2BAD00>10%</color>，持续25秒，重复触发时刷新持续时间。",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 II",
+      "level": 2,
+      "ability_list": [
+        11181401,
+        11181501
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    },
+    "118102": {
+      "id": 118102,
+      "name": "潜能觉醒：超频工程引擎",
+      "desc": "消耗<color=#FFFFFF>[电能]</color>时获得<color=#FFFFFF>[电能强化]</color>状态，造成的<color=#2EB6FF>电属性伤害</color>提升<color=#2BAD00>15%</color>，持续25秒，重复触发时刷新持续时间。",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 III",
+      "level": 3,
+      "ability_list": [
+        11181401,
+        11181502
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    },
+    "118103": {
+      "id": 118103,
+      "name": "潜能觉醒：超频工程引擎",
+      "desc": "消耗<color=#FFFFFF>[电能]</color>时获得<color=#FFFFFF>[电能强化]</color>状态，造成的<color=#2EB6FF>电属性伤害</color>提升<color=#2BAD00>20%</color>，持续25秒，重复触发时刷新持续时间。",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 IV",
+      "level": 4,
+      "ability_list": [
+        11181401,
+        11181503
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    },
+    "118104": {
+      "id": 118104,
+      "name": "潜能觉醒：超频工程引擎",
+      "desc": "消耗<color=#FFFFFF>[电能]</color>时获得<color=#FFFFFF>[电能强化]</color>状态，造成的<color=#2EB6FF>电属性伤害</color>提升<color=#2BAD00>25%</color>，持续25秒，重复触发时刷新持续时间。",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 V",
+      "level": 5,
+      "ability_list": [
+        11181401,
+        11181504
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    },
+    "118105": {
+      "id": 118105,
+      "name": "潜能觉醒：超频工程引擎",
+      "desc": "消耗<color=#FFFFFF>[电能]</color>时获得<color=#FFFFFF>[电能强化]</color>状态，造成的<color=#2EB6FF>电属性伤害</color>提升<color=#2BAD00>30%</color>，持续25秒，重复触发时刷新持续时间。",
+      "image": "Grace",
+      "level_show_name": "钢械交响曲 VI",
+      "level": 6,
+      "ability_list": [
+        11181401,
+        11181505
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20118,
+          "number": 1
+        }
+      ]
+    }
+  }
+}

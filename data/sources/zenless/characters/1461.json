@@ -1,0 +1,2142 @@
+{
+  "id": 1461,
+  "icon": "IconRole48",
+  "name": "「席德」",
+  "code_name": "Seed",
+  "rarity": 4,
+  "weapon_type": {
+    "1": "强攻"
+  },
+  "element_type": {
+    "203": "电属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "101": "斩击",
+    "102": "打击"
+  },
+  "camp": {
+    "5": "新艾利都防卫军"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "11/22",
+    "full_name": "「席德」",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle48.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0048.png",
+    "impression_f": "「席德」打电玩超级厉害，喜欢的音乐类型和我相近，也很不爱运动，驾驶舱就是她的卧室…和我确实很有「同类」的感觉呢。还有一点相同的，我们都知道自己很可爱~",
+    "impression_m": "虽然大部分时候都能勉强跟上她的电波思维，但还是大意不得。上回她说滑板车故障了，我说我可以处理，结果她让我背着她充当一整天她的代步工具！还好我跑得比她快…",
+    "impressions": [
+      "对「席德」的印象：\n · 既是爱花、亲近邦布、摆平困境的天使，又是吃花、玩弄邦布、制造意外的恶魔。",
+      " · 既是在驾驶舱里蜷缩着的娇小机械天才，又是在战场上轰鸣着的庞大机甲继承者。",
+      " · 既是颗蕴含着心跳的种子，又是朵满溢着爱意的新花。"
+    ],
+    "profile_desc": "「席德」，新艾利都防卫军·黑曜石营·奥波勒斯小队的火炮手。本名芙罗拉，「席德」这一代号继承自其监护人、防卫军战斗用智能构造体「席德」，后者则已将代号变更为「老席德」。\n\n根据多方证言，「席德」是「老席德」于旧都陷落时，从零号空洞内营救出的、身份不明的孤儿，「老席德」收养了她并在防卫军宿舍内独自将其抚养成人。\n\n距今数年前，「老席德」通过申请成功编入奥波勒斯小队，随后不久便因逻辑核心的不可逆损坏而死亡，「席德」也因此接替他成为奥波勒斯小队的成员。当前我们所能听到的「老席德」语音，均为其自带的系统预载语音。\n\n在机械改造与研究方面，「席德」具有远超常人的天赋，可以设计并制造出许多常人无法想象的发明；同时，她具备超高的以太适性，并能以驾驶、远程操作、加装战斗模组等方式将「老席德」的战斗力发挥至极致。\n\n因此尽管体能训练严重不达标、身份来历全是谜团，军方还是默许了接收她作为一名精英军人服役。\n\n日常中的「席德」行为模式异于常人，她以「老席德」的驾驶舱为休憩的固定地点，喜好钻进狭窄的地方，极度反感与同伴以外的人进行接触交谈，且言行的逻辑跳跃性极强，具有很高的沟通难度。\n\n幸运的是，主人，不知为何，她对您和助手二号表现出异常的亲近，您既省了取得她信任与喜欢的冗长流程，也不用担心她不时表现出的危险破坏性会波及到您。可喜可贺。\n\n提议：多以花朵、机器人等该代理人最喜欢的事物作为沟通话题，用平常心看待其对话中无法理解逻辑或含义的部分，可以有效拉近您与她的关系。",
+    "role_icon": "IconRole/UnPacker/IconRole48",
+    "stature": "153/240（机甲）",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第三章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "「席德」，新艾利都防卫军·黑曜石营·奥波勒斯小队的火炮手。本名芙罗拉，「席德」这一代号继承自其监护人、防卫军战斗用智能构造体「席德」，后者则已将代号变更为「老席德」。\n\n根据多方证言，「席德」是「老席德」于旧都陷落时，从零号空洞内营救出的、身份不明的孤儿，「老席德」收养了她并在防卫军宿舍内独自将其抚养成人。\n\n距今数年前，「老席德」通过申请成功编入奥波勒斯小队，随后不久便因逻辑核心的不可逆损坏而死亡，「席德」也因此接替他成为奥波勒斯小队的成员。当前我们所能听到的「老席德」语音，均为其自带的系统预载语音。\n\n在机械改造与研究方面，「席德」具有远超常人的天赋，可以设计并制造出许多常人无法想象的发明；同时，她具备超高的以太适性，并能以驾驶、远程操作、加装战斗模组等方式将「老席德」的战斗力发挥至极致。\n\n因此尽管体能训练严重不达标、身份来历全是谜团，军方还是默许了接收她作为一名精英军人服役。\n\n日常中的「席德」行为模式异于常人，她以「老席德」的驾驶舱为休憩的固定地点，喜好钻进狭窄的地方，极度反感与同伴以外的人进行接触交谈，且言行的逻辑跳跃性极强，具有很高的沟通难度。\n\n幸运的是，主人，不知为何，她对您和助手二号表现出异常的亲近，您既省了取得她信任与喜欢的冗长流程，也不用担心她不时表现出的危险破坏性会波及到您。可喜可贺。\n\n提议：多以花朵、机器人等该代理人最喜欢的事物作为沟通话题，用平常心看待其对话中无法理解逻辑或含义的部分，可以有效拉近您与她的关系。",
+      "2": "",
+      "3": "「席德」自幼便存在某些诡异甚至危险的异能力表现，具体现象为：可以操纵、瘫痪甚至引爆一定范围内的机械造物；此能力仅在其陷入严重的情绪不稳定状态时会出现，其外在表现为双眼部位闪烁红光。\n\n正是由于此能力的存在，令初次发现她的「老席德」的自警系统将其自动识别为高危对象，并间接造成了「老席德」逻辑核心的不可逆损毁。\n\n同时，「席德」被「老席德」从零号空洞带出时，便已经存在人格层面上的缺陷，因不明原因，她缺失了对生命的理解、感知与共情力。\n\n在被收养的几年间，「老席德」一直致力于培养其完整的人格，他去世后该接力棒由奥波勒斯小队的众人接过，时至今日，「席德」的人格缺陷已得到显著的改善。\n\n主人，根据您与「席德」之前于零号空洞的探索记录，可知「席德」的真实身份与您类似，都是来自赫利俄斯机关的学徒。\n\n推定她在赫利俄斯机关期间，所隶属的研究项目与您不同，很可能是某个与机械研究相关的项目，上述「席德」的异能力与人格缺陷，都是该项目的遗留结果；由于代理人遗失与赫利俄斯机关以及旧都陷落相关的记忆，目前尚无法解析出更进一步的信息。\n\n此外，主人，她有时候会微笑着一直注视着我，推定可能有将我拆解以满足好奇心的冲动，十分瘆人。严正要求对我的人身安全施加多重保护，以免您痛失一名可爱的得力助手。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3114610": {
+      "name": "「席德」·繁花",
+      "desc": "一隅灿烂花海，一滴微咸泪水，一轮生命之圆，少女与构造体完成了关于心的证明。无须回头，她已绽成一片繁花。",
+      "obtain_desc": "",
+      "image": "IconRole48"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 134,
+    "attack_growth": 81654,
+    "avatar_piece_id": 5461,
+    "break_stun": 93,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66882,
+    "element_abnormal_power": 94,
+    "element_mystery": 93,
+    "endurance": 0,
+    "hp_growth": 837238,
+    "hp_max": 617,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Seed",
+      "Cut",
+      "Punch",
+      "Electric",
+      "Female",
+      "Camp5",
+      "Size3",
+      "AidTypeParry",
+      "Seed",
+      "EtherEyesSize3"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100211": 4
+      }
+    },
+    "2": {
+      "hp_max": 423,
+      "attack": 48,
+      "defence": 34,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100221": 12
+      }
+    },
+    "3": {
+      "hp_max": 847,
+      "attack": 95,
+      "defence": 68,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100221": 20
+      }
+    },
+    "4": {
+      "hp_max": 1270,
+      "attack": 143,
+      "defence": 101,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100231": 10
+      }
+    },
+    "5": {
+      "hp_max": 1694,
+      "attack": 191,
+      "defence": 135,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100231": 20
+      }
+    },
+    "6": {
+      "hp_max": 2117,
+      "attack": 239,
+      "defence": 169,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 1920
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 1920
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 2880
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "21101": {
+          "prop": 21101,
+          "name": "暴击伤害",
+          "format": "{0:0.#%}",
+          "value": 2880
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：霜蕊轮舞",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的攻击，前两段造成<color=#F0D12B>物理伤害</color>，第三第四段造成<color=#2EB6FF>电属性伤害</color>；\n第三段后撤动作至第四段攻击发动前受到攻击，可触发自动闪避。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落华·重戮",
+          "desc": "<color=#FFFFFF>[普通攻击]</color>第四段、<color=#FFFFFF>[闪避反击]</color>、<color=#FFFFFF>[快速支援]</color>、<color=#FFFFFF>[支援突击]</color>后，可通过长按或点按 <IconMap:Icon_Normal>  发动：\n召唤机甲，进行蓄力冲拳攻击，造成大量<color=#2EB6FF>电属性伤害</color>；\n<color=#FFFFFF>[钢能]</color>值达到120点时，可获得一次快速释放<color=#FFFFFF>[普通攻击：落华·重戮]</color>的机会，长按 <IconMap:Icon_Normal> 直接发动；<color=#FFFFFF>[钢能]</color>值不足120点或通过上述方式发动一次<color=#FFFFFF>[普通攻击：落华·重戮]</color>后，该效果移除；\n命中敌人时不累积<color=#FFFFFF>[钢能]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落华·崩坠",
+          "desc": "「席德」拥有<color=#FFFFFF>[钢能]</color>值，自身招式命中敌人可累积<color=#FFFFFF>[钢能]</color>；\n<color=#FFFFFF>[钢能]</color>最大150点，初始拥有60点<color=#FFFFFF>[钢能]</color>，达到120点时，在<color=#FFFFFF>[普通攻击：落华·重戮]</color>或<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>发动后，可点按或长按 <IconMap:Icon_Normal>  消耗60点<color=#FFFFFF>[钢能]</color>释放<color=#FFFFFF>[普通攻击：落华·崩坠一式]</color>，并自动消耗60点<color=#FFFFFF>[钢能]</color>衔接发动<color=#FFFFFF>[普通攻击：落华·崩坠二式]</color>；\n操控机甲，扫射并释放强力跳砸，造成大量<color=#2EB6FF>电属性伤害</color>；\n命中敌人时不累积<color=#FFFFFF>[钢能]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：霜蕊轮舞",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1461001, Prop:1001}",
+              "param": {
+                "1461001": {
+                  "main": 4650,
+                  "growth": 430,
+                  "format": "%",
+                  "damage_percentage": 4650,
+                  "damage_percentage_growth": 430,
+                  "stun_ratio": 2940,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    29334,
+                    6670,
+                    73425
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1461002, Prop:1001}",
+              "param": {
+                "1461002": {
+                  "main": 12410,
+                  "growth": 1130,
+                  "format": "%",
+                  "damage_percentage": 12410,
+                  "damage_percentage_growth": 1130,
+                  "stun_ratio": 8290,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    82867,
+                    18840,
+                    207350
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7534
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1461003, Prop:1001}",
+              "param": {
+                "1461003": {
+                  "main": 7180,
+                  "growth": 660,
+                  "format": "%",
+                  "damage_percentage": 7180,
+                  "damage_percentage_growth": 660,
+                  "stun_ratio": 4460,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 10140,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 111650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4053,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    44585
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4054
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1461004, Prop:1001}",
+              "param": {
+                "1461004": {
+                  "main": 35860,
+                  "growth": 3260,
+                  "format": "%",
+                  "damage_percentage": 35860,
+                  "damage_percentage_growth": 3260,
+                  "stun_ratio": 22650,
+                  "stun_ratio_growth": 1030,
+                  "sp_recovery": 51460,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 566225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20583,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    226419
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20584
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1461001, Prop:1002}",
+              "param": {
+                "1461001": {
+                  "main": 2940,
+                  "growth": 140,
+                  "format": "%",
+                  "damage_percentage": 4650,
+                  "damage_percentage_growth": 430,
+                  "stun_ratio": 2940,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    29334,
+                    6670,
+                    73425
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1461002, Prop:1002}",
+              "param": {
+                "1461002": {
+                  "main": 8290,
+                  "growth": 380,
+                  "format": "%",
+                  "damage_percentage": 12410,
+                  "damage_percentage_growth": 1130,
+                  "stun_ratio": 8290,
+                  "stun_ratio_growth": 380,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    82867,
+                    18840,
+                    207350
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7534
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1461003, Prop:1002}",
+              "param": {
+                "1461003": {
+                  "main": 4460,
+                  "growth": 210,
+                  "format": "%",
+                  "damage_percentage": 7180,
+                  "damage_percentage_growth": 660,
+                  "stun_ratio": 4460,
+                  "stun_ratio_growth": 210,
+                  "sp_recovery": 10140,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 111650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4053,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    44585
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4054
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1461004, Prop:1002}",
+              "param": {
+                "1461004": {
+                  "main": 22650,
+                  "growth": 1030,
+                  "format": "%",
+                  "damage_percentage": 35860,
+                  "damage_percentage_growth": 3260,
+                  "stun_ratio": 22650,
+                  "stun_ratio_growth": 1030,
+                  "sp_recovery": 51460,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 566225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 20583,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    226419
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20584
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落华·重戮",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461006, Prop:1001}",
+              "param": {
+                "1461006": {
+                  "main": 16660,
+                  "growth": 1520,
+                  "format": "%",
+                  "damage_percentage": 16660,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 14480,
+                  "stun_ratio_growth": 660,
+                  "sp_recovery": 32910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 362175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13163,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13164
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461006, Prop:1002}",
+              "param": {
+                "1461006": {
+                  "main": 14480,
+                  "growth": 660,
+                  "format": "%",
+                  "damage_percentage": 16660,
+                  "damage_percentage_growth": 1520,
+                  "stun_ratio": 14480,
+                  "stun_ratio_growth": 660,
+                  "sp_recovery": 32910,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 362175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13163,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13164
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落华·崩坠一式",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461007, Prop:1001}",
+              "param": {
+                "1461007": {
+                  "main": 52830,
+                  "growth": 4810,
+                  "format": "%",
+                  "damage_percentage": 52830,
+                  "damage_percentage_growth": 4810,
+                  "stun_ratio": 6790,
+                  "stun_ratio_growth": 310,
+                  "sp_recovery": 15430,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 169675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6169,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461007, Prop:1002}",
+              "param": {
+                "1461007": {
+                  "main": 6790,
+                  "growth": 310,
+                  "format": "%",
+                  "damage_percentage": 52830,
+                  "damage_percentage_growth": 4810,
+                  "stun_ratio": 6790,
+                  "stun_ratio_growth": 310,
+                  "sp_recovery": 15430,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 169675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6169,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6170
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：落华·崩坠二式",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461008, Prop:1001}",
+              "param": {
+                "1461008": {
+                  "main": 98940,
+                  "growth": 9000,
+                  "format": "%",
+                  "damage_percentage": 98940,
+                  "damage_percentage_growth": 9000,
+                  "stun_ratio": 16880,
+                  "stun_ratio_growth": 770,
+                  "sp_recovery": 38350,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 421850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15336,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15337
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461008, Prop:1002}",
+              "param": {
+                "1461008": {
+                  "main": 16880,
+                  "growth": 770,
+                  "format": "%",
+                  "damage_percentage": 98940,
+                  "damage_percentage_growth": 9000,
+                  "stun_ratio": 16880,
+                  "stun_ratio_growth": 770,
+                  "sp_recovery": 38350,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 421850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15336,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15337
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：踏瓣花游",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：磁陨轮舞",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方扔出钢轮，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：裂萼纷华",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动连续的激光打击，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：磁陨轮舞",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461012, Prop:1001}",
+              "param": {
+                "1461012": {
+                  "main": 6420,
+                  "growth": 590,
+                  "format": "%",
+                  "damage_percentage": 6420,
+                  "damage_percentage_growth": 590,
+                  "stun_ratio": 3210,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    32084,
+                    7300,
+                    80300
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2917
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461012, Prop:1002}",
+              "param": {
+                "1461012": {
+                  "main": 3210,
+                  "growth": 150,
+                  "format": "%",
+                  "damage_percentage": 6420,
+                  "damage_percentage_growth": 590,
+                  "stun_ratio": 3210,
+                  "stun_ratio_growth": 150,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    32084,
+                    7300,
+                    80300
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2917
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：裂萼纷华",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461013, Prop:1001}",
+              "param": {
+                "1461013": {
+                  "main": 32010,
+                  "growth": 2910,
+                  "format": "%",
+                  "damage_percentage": 32010,
+                  "damage_percentage_growth": 2910,
+                  "stun_ratio": 25490,
+                  "stun_ratio_growth": 1160,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13169,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    244870,
+                    32930,
+                    362175
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 28170
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461013, Prop:1002}",
+              "param": {
+                "1461013": {
+                  "main": 25490,
+                  "growth": 1160,
+                  "format": "%",
+                  "damage_percentage": 32010,
+                  "damage_percentage_growth": 2910,
+                  "stun_ratio": 25490,
+                  "stun_ratio_growth": 1160,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13169,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    244870,
+                    32930,
+                    362175
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 28170
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：苍霜零落",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n扔出钢轮，划出曲线轨迹造成<color=#2EB6FF>电属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：铁萼雨幕",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n进入飞行模式，可进行四向移动，连续发射弹幕对敌人造成大量<color=#2EB6FF>电属性伤害</color>；\n长按 <IconMap:Icon_SpecialReady> 可以延长弹幕发射时间并持续消耗能量；\n飞行期间，松开 <IconMap:Icon_SpecialReady> 可发动<color=#FFFFFF>[强化特殊技：铁萼雨幕·离]</color>；\n一次飞行消耗60点能量时，自动发动<color=#FFFFFF>[普通攻击：落华·重戮]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：铁萼雨幕·离",
+          "desc": "<color=#FFFFFF>[强化特殊技：铁萼雨幕]</color>发动期间，松开 <IconMap:Icon_SpecialReady> 发动：\n释放快速的炮击，造成<color=#2EB6FF>电属性伤害</color>；\n命中敌人时不累积<color=#FFFFFF>[钢能]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：苍霜零落",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461005, Prop:1001}",
+              "param": {
+                "1461005": {
+                  "main": 4770,
+                  "growth": 440,
+                  "format": "%",
+                  "damage_percentage": 4770,
+                  "damage_percentage_growth": 440,
+                  "stun_ratio": 4770,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4334,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    47685,
+                    0,
+                    119350
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4335
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461005, Prop:1002}",
+              "param": {
+                "1461005": {
+                  "main": 4770,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 4770,
+                  "damage_percentage_growth": 440,
+                  "stun_ratio": 4770,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4334,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    47685,
+                    0,
+                    119350
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4335
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：铁萼雨幕",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461009, Prop:1001}",
+              "param": {
+                "1461009": {
+                  "main": 68340,
+                  "growth": 6220,
+                  "format": "%",
+                  "damage_percentage": 68340,
+                  "damage_percentage_growth": 6220,
+                  "stun_ratio": 58680,
+                  "stun_ratio_growth": 2670,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1950025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 57735,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    296964
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461009, Prop:1002}",
+              "param": {
+                "1461009": {
+                  "main": 58680,
+                  "growth": 2670,
+                  "format": "%",
+                  "damage_percentage": 68340,
+                  "damage_percentage_growth": 6220,
+                  "stun_ratio": 58680,
+                  "stun_ratio_growth": 2670,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1950025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 57735,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    296964
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "初始消耗",
+              "desc": "10点",
+              "potential": []
+            },
+            {
+              "name": "发射弹幕消耗",
+              "desc": "5点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：铁萼雨幕·离",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461022, Prop:1001}",
+              "param": {
+                "1461022": {
+                  "main": 1840,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 1840,
+                  "damage_percentage_growth": 170,
+                  "stun_ratio": 920,
+                  "stun_ratio_growth": 50,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 23100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 833,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461022, Prop:1002}",
+              "param": {
+                "1461022": {
+                  "main": 920,
+                  "growth": 50,
+                  "format": "%",
+                  "damage_percentage": 1840,
+                  "damage_percentage_growth": 170,
+                  "stun_ratio": 920,
+                  "stun_ratio_growth": 50,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 23100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 833,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：落霰风暴",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n召唤机甲，护住自身后，向前方发射炮击与大量导弹，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：机芯花园·绽放！",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n亲自驾驭机甲，倾泻出大量导弹与流星般的致命光弹，并释放强力跳砸，造成大量<color=#2EB6FF>电属性伤害</color>；\n招式发动后，累积60点<color=#FFFFFF>[钢能]</color>；\n命中敌人时不累积<color=#FFFFFF>[钢能]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：落霰风暴",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461014, Prop:1001}",
+              "param": {
+                "1461014": {
+                  "main": 73420,
+                  "growth": 6680,
+                  "format": "%",
+                  "damage_percentage": 73420,
+                  "damage_percentage_growth": 6680,
+                  "stun_ratio": 29530,
+                  "stun_ratio_growth": 1350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2566850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 46786,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    295204
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26837
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461014, Prop:1002}",
+              "param": {
+                "1461014": {
+                  "main": 29530,
+                  "growth": 1350,
+                  "format": "%",
+                  "damage_percentage": 73420,
+                  "damage_percentage_growth": 6680,
+                  "stun_ratio": 29530,
+                  "stun_ratio_growth": 1350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2566850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 46786,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    295204
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 26837
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：机芯花园·绽放！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461015, Prop:1001}",
+              "param": {
+                "1461015": {
+                  "main": 324970,
+                  "growth": 29550,
+                  "format": "%",
+                  "damage_percentage": 324970,
+                  "damage_percentage_growth": 29550,
+                  "stun_ratio": 59590,
+                  "stun_ratio_growth": 2710,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 54170,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 104171
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461015, Prop:1002}",
+              "param": {
+                "1461015": {
+                  "main": 59590,
+                  "growth": 2710,
+                  "format": "%",
+                  "damage_percentage": 324970,
+                  "damage_percentage_growth": 29550,
+                  "stun_ratio": 59590,
+                  "stun_ratio_growth": 2710,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 54170,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 104171
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：花雨齐射",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动连续的激光打击，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：雏华屏障",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：绯芯爆裂",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动连续浮游炮攻击，造成<color=#2EB6FF>电属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：花雨齐射",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461016, Prop:1001}",
+              "param": {
+                "1461016": {
+                  "main": 15400,
+                  "growth": 1400,
+                  "format": "%",
+                  "damage_percentage": 15400,
+                  "damage_percentage_growth": 1400,
+                  "stun_ratio": 7700,
+                  "stun_ratio_growth": 350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7000,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    77000,
+                    17500,
+                    192500
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7000
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461016, Prop:1002}",
+              "param": {
+                "1461016": {
+                  "main": 7700,
+                  "growth": 350,
+                  "format": "%",
+                  "damage_percentage": 15400,
+                  "damage_percentage_growth": 1400,
+                  "stun_ratio": 7700,
+                  "stun_ratio_growth": 350,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7000,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    77000,
+                    17500,
+                    192500
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7000
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：雏华屏障",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1461017, Prop:1002}",
+              "param": {
+                "1461017": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1461018, Prop:1002}",
+              "param": {
+                "1461018": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1461019, Prop:1002}",
+              "param": {
+                "1461019": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    0
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：绯芯爆裂",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1461020, Prop:1001}",
+              "param": {
+                "1461020": {
+                  "main": 45600,
+                  "growth": 4150,
+                  "format": "%",
+                  "damage_percentage": 45600,
+                  "damage_percentage_growth": 4150,
+                  "stun_ratio": 40160,
+                  "stun_ratio_growth": 1830,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 38976,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    238371,
+                    0,
+                    1276000
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21671
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1461020, Prop:1002}",
+              "param": {
+                "1461020": {
+                  "main": 40160,
+                  "growth": 1830,
+                  "format": "%",
+                  "damage_percentage": 45600,
+                  "damage_percentage_growth": 4150,
+                  "stun_ratio": 40160,
+                  "stun_ratio_growth": 1830,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 38976,
+                  "sp_consume": 0,
+                  "attack_data": [
+                    238371,
+                    0,
+                    1276000
+                  ],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21671
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100113": 2
+        },
+        "2": {
+          "10": 3000,
+          "100113": 3
+        },
+        "3": {
+          "10": 6000,
+          "100123": 2
+        },
+        "4": {
+          "10": 9000,
+          "100123": 3
+        },
+        "5": {
+          "10": 12000,
+          "100123": 4
+        },
+        "6": {
+          "10": 18000,
+          "100123": 6
+        },
+        "7": {
+          "10": 45000,
+          "100133": 5
+        },
+        "8": {
+          "10": 67500,
+          "100133": 8
+        },
+        "9": {
+          "10": 90000,
+          "100133": 10
+        },
+        "10": {
+          "10": 112500,
+          "100133": 12
+        },
+        "11": {
+          "10": 135000,
+          "100133": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1461001,
+      "avatar_id": 1461,
+      "first_priority": [
+        5,
+        0
+      ],
+      "second_priority": [
+        1,
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1416001": {
+      "name": "普通攻击：霜蕊轮舞（一、二段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1416002": {
+      "name": "普通攻击：霜蕊轮舞（三、四段）",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1416003": {
+      "name": "普通攻击：落华·重戮",
+      "desc": "<IconMap:Icon_Normal>（发动[普通攻击：霜蕊轮舞]四段、[闪避反击：裂萼纷华]、[快速支援：花雨齐射]、[支援突击：绯芯爆裂]时）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416004": {
+      "name": "普通攻击：落华·崩坠",
+      "desc": "<IconMap:Icon_Normal>（钢能达到阈值且发动[普通攻击：落华·重戮]后）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416005": {
+      "name": "特殊技：苍霜零落",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416006": {
+      "name": "强化特殊技：铁萼雨幕",
+      "desc": "<IconMap:Icon_SpecialReady>（可长按）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416007": {
+      "name": "强化特殊技：铁萼雨幕·离",
+      "desc": "<IconMap:Icon_SpecialReady>（消耗不满60能量时松手）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1416008": {
+      "name": "闪避：踏瓣花游",
+      "desc": "<IconMap:Icon_Evade>",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1416009": {
+      "name": "冲刺攻击：磁陨轮舞",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416010": {
+      "name": "闪避反击：裂萼纷华",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416011": {
+      "name": "连携技：落霰风暴",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416012": {
+      "name": "终结技：机芯花园·绽放！",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416013": {
+      "name": "快速支援：花雨齐射",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 203,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1416014": {
+      "name": "招架支援：雏华屏障",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1416015": {
+      "name": "支援突击：绯芯爆裂",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 203,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1461501": {
+        "level": 1,
+        "id": 1461501,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>100点</color>攻击力和<color=#2BAD00>15%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>100点</color>攻击力和<color=#2BAD00>15%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>12.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461502": {
+        "level": 2,
+        "id": 1461502,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>225点</color>攻击力和<color=#2BAD00>17.5%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>225点</color>攻击力和<color=#2BAD00>17.5%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>14.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461503": {
+        "level": 3,
+        "id": 1461503,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>350点</color>攻击力和<color=#2BAD00>20%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>350点</color>攻击力和<color=#2BAD00>20%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>16.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461504": {
+        "level": 4,
+        "id": 1461504,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>475点</color>攻击力和<color=#2BAD00>22.5%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>475点</color>攻击力和<color=#2BAD00>22.5%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>18.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461505": {
+        "level": 5,
+        "id": 1461505,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>600点</color>攻击力和<color=#2BAD00>25%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>600点</color>攻击力和<color=#2BAD00>25%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>20.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461506": {
+        "level": 6,
+        "id": 1461506,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>725点</color>攻击力和<color=#2BAD00>27.5%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>725点</color>攻击力和<color=#2BAD00>27.5%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>22.5%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1461507": {
+        "level": 7,
+        "id": 1461507,
+        "name": [
+          "核心被动：花链协议",
+          "额外能力：奇兵轰临"
+        ],
+        "desc": [
+          "「席德」将初始攻击力最高的<color=#FFFFFF>[强攻]</color>队友视为<color=#FFFFFF>[正兵]</color>；\n<color=#FFFFFF>[正兵]</color>释放<color=#FFFFFF>[强化特殊技]</color>时，使「席德」获得<color=#FFFFFF>[强袭]</color>状态，提升「席德」<color=#2BAD00>1000点</color>攻击力和<color=#2BAD00>30%</color>暴击伤害，「席德」释放<color=#FFFFFF>[强化特殊技]</color>时，使<color=#FFFFFF>[正兵]</color>获得<color=#FFFFFF>[明攻]</color>状态，提升<color=#FFFFFF>[正兵]</color><color=#2BAD00>1000点</color>攻击力和<color=#2BAD00>30%</color>暴击伤害；\n<color=#FFFFFF>[明攻]</color><color=#FFFFFF>[强袭]</color>同时存在时，「席德」与<color=#FFFFFF>[正兵]</color>同时获得<color=#FFFFFF>[围杀]</color>状态，造成的伤害提升<color=#2BAD00>25%</color>；\n<color=#FFFFFF>[强袭]</color>，<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>的增益效果可在角色为当前操作中角色时生效，角色切换为非当前操作角色时，增益效果依然生效，直到角色退场或增益效果维持3秒后，增益效果失效，角色切换为当前操作角色时，重新使增益效果生效；\n进入战场时若存在<color=#FFFFFF>[正兵]</color>，「席德」立刻获得<color=#FFFFFF>[强袭]</color>与<color=#FFFFFF>[围杀]</color>状态，<color=#FFFFFF>[正兵]</color>立刻获得<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[围杀]</color>状态；\n<color=#FFFFFF>[明攻]</color>与<color=#FFFFFF>[强袭]</color>状态持续40秒，重复获得刷新持续时间；\n<color=#FFFFFF>[正兵]</color>作为操作中角色消耗能量时或「席德」消耗能量时，每消耗1点能量，可为「席德」回复0.5点<color=#FFFFFF>[钢能]</color>。",
+          "队伍中存在其他<color=#FFFFFF>[强攻]</color>角色时触发：\n「席德」作为操作中角色造成伤害时，为<color=#FFFFFF>[正兵]</color>回复2点能量，1秒内最多触发一次；\n「席德」<color=#FFFFFF>[普通攻击：落华·重戮]</color>，<color=#FFFFFF>[普通攻击：落华·崩坠]</color>与<color=#FFFFFF>[终结技：机芯花园·绽放！]</color>造成的伤害提升30%，且无视敌人25%<color=#2EB6FF>电属性伤害抗性</color>。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110509": 2
+      },
+      "3": {
+        "10": 28000,
+        "110509": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110509": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110509": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110509": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "「冻眠期」",
+      "desc": "「席德」<color=#FFFFFF>[钢能]</color>达到100点时，即可发动<color=#FFFFFF>[普通攻击：落华·崩坠]</color>且总计消耗的<color=#FFFFFF>[钢能]</color>降低至100点；获得一次快速释放<color=#FFFFFF>[普通攻击：落华·重戮]</color>机会所需的<color=#FFFFFF>[钢能]</color>降低至100点；进入战场/发动<color=#FFFFFF>[终结技]</color>时，额外累积40/20点<color=#FFFFFF>[钢能]</color>；<color=#FFFFFF>[普通攻击：落华·崩坠]</color>造成的暴击伤害提升30%。",
+      "desc2": "这儿是一处与外界隔绝的，肃穆而神秘的建筑。\n洁白的她属于这里。她瑟缩着，小心翼翼地朝着铁丝网外探出头。外面的世界是什么样的呢？\n她的好奇心漫过无菌的房间，越过崩裂的高楼，躲开天空中粉色的巨花。\n流呀流……\n「看起来很像一个破壳的臭鸡蛋呢～」\n「但我想在这儿待一会儿…」"
+    },
+    "2": {
+      "level": 2,
+      "name": "「汲光法」",
+      "desc": "代理人<color=#FFFFFF>[围杀]</color>状态的增益效果生效时，该代理人造成的伤害无视20%防御力；发动<color=#FFFFFF>[强化特殊技：铁萼雨幕]</color>时，在累计消耗60点能量后，可继续消耗能量延长招式，直到松开按键或累计消耗120点能量；<color=#FFFFFF>[强化特殊技：铁萼雨幕]</color>每消耗5点能量会使本次衔接的<color=#FFFFFF>[普通攻击：落华·重戮]</color>造成的伤害提升5%。",
+      "desc2": "这儿是一片钢筋错落的、连绵的废墟。\n莫名的、无法表达的情绪梗住了喉头，口舌却无法发声…\n视线悄悄模糊，某种古怪的液体顺着脸颊流了下来。\n揉揉眼眶，眨眨眼睛…\n那刺眼的、笨拙地凑近过来的，究竟是什么呢？\n「不要害怕…我来…救你了…」\n「你有…名字吗？我的代号是…『席德』。」"
+    },
+    "3": {
+      "level": 3,
+      "name": "「抽芽说」",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "这儿是一所军营里再普通不过的休息间。\n她们向她打着招呼，尝试着打开她的心扉。\n怯生生的红头发少女，大呼小叫的奇怪枪管，戴着眼罩的金毛狗狗…\n大个子机器人告诉她，她们都是她的朋友。\n「什么是朋友？」\n「朋友啊…是一回头就能看见的人。」"
+    },
+    "4": {
+      "level": 4,
+      "name": "「芳香调」",
+      "desc": "「席德」<color=#FFFFFF>[围杀]</color>状态的增益效果生效时，喧响值获取效率提升10%，<color=#FFFFFF>[终结技]</color>造成的伤害提升20%。",
+      "desc2": "这儿是一处盛大的、人头攒动的广场。\n比所有人都要高的台子上，有人叽里咕噜地说着什么。\n有声音喊了她的名字，很多人簇拥了过来，茫然的花儿被移植到了舞台，甚至还没洗去发梢上的硝烟。\n黑匣子闪烁着比星星更亮的光，一枚小小的金属贴片被别在了同样手足无措的老朋友与小朋友身上。\n这份表彰也意味着，从这一刻起，她成为了「『席德』」，一直陪伴着她的机器人成为了「老『席德』」。\n「我做的很好吗？」\n「当然，你是我们的骄傲…这个代号就是证明，『席德』。」"
+    },
+    "5": {
+      "level": 5,
+      "name": "「绽蕊时」",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "这儿是一所几乎无人知晓的、狭小的安全屋。\n零碎的、杂乱无章的东西填满了整个空间。箱子、沙发、相框、一盆又一盆的花朵，红的，黄的，粉的，站得笔直的，蓬松的，耷拉脑袋的。\n闭上眼睛，捂紧嘴巴，一定会忍住的——她保证。\n「再给它们一点时间，好吗？」\n「它们会长得很好的…就像你一样。」"
+    },
+    "6": {
+      "level": 6,
+      "name": "「有心论」",
+      "desc": "「席德」的暴击伤害提升50%；\n发动<color=#FFFFFF>[普通攻击：落华·重戮]</color>时，额外发射3道激光，每道激光造成165%攻击力的伤害，3秒内最多触发一次。",
+      "desc2": "这儿是一片鲜花漫野的、灿烂的花海。\n她记起了这里最开始的样子，光秃秃，连一棵小草也没有。\n是谁做的坏事呢？是谁把荒芜的、阴郁的零号空洞变成了这样呢？是谁在苍白的土壤里种出了一颗茁壮的心呢？\n「原来你走了这么大的一个圈呢…」\n「下次再见，『老席德』。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33300,
+    "slot2": 31000,
+    "slot_sub": 31400,
+    "part_sub_list": [
+      20103,
+      21103,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33300,
+          31000
+        ],
+        "part_sub_list": [
+          20103,
+          21103
+        ]
+      },
+      {
+        "suit_list": [
+          33300,
+          32700
+        ],
+        "part_sub_list": [
+          31803,
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 21103,
+      "name": "暴击伤害",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCritDam.png"
+    },
+    "part6": {
+      "prop": 31803,
+      "name": "电属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconThunder.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Thunder>电属性，站场输出",
+    "强攻队友可帮助回复自身核心资源",
+    "为一位强攻队友提供多种增益"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpine_Seed"
+}

@@ -1,0 +1,49 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "ns": 0,
+        "title": "W-Engine Level",
+        "missing": true
+      },
+      {
+        "ns": 0,
+        "title": "Agent Level",
+        "missing": true
+      },
+      {
+        "pageid": 2603,
+        "ns": 0,
+        "title": "W-Engine Power Supply",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Item Infobox\n|id          = 301002\n|title       = W-Engine Power Supply\n|image       = Item W-Engine Power Supply.png\n|type        = W-Engine EXP Material\n|category    = Material\n|rarity      = B\n|effect      = Provides 600 EXP for a W-Engine.\n|description = A high-performance power supply capable of converting power. It can adapt to various W-Engine models and provide an accurate power supply based on real-time power consumption.\n|source1     = [[Combat Simulation]]: [[W-Engine Specialization]]\n|source2     = [[Event]] Reward\n}}\n{{Description|A high-performance power supply capable of converting power. It can adapt to various W-Engine models and provide an accurate power supply based on real-time power consumption.}}\n'''W-Engine Power Supply''' is an Enhancement Material for [[W-Engine]]s that provides 600 [[W-Engine EXP Material#EXP Table|W-Engine EXP]].\n\nIt can be obtained through [[Combat Simulation]]: [[W-Engine Specialization]].\n\n==Other Languages==\n{{Other Languages\n|en       = W-Engine Power Supply\n|zhs      = 变频音擎电源\n|zhs_rm   = \n|zht      = 變頻音擎電源\n|zht_rm   = \n|ja       = 周波数変換型音動機電源\n|ja_rm    = \n|ko       = 변조 W-엔진 전원\n|es       = Fuente de alimentación\n|fr       = Alim de moteur-ampli\n|ru       = Источник питания амплификатора\n|th       = W-Engine Power Supply\n|vi       = Nguồn W-Engine Biến Tần\n|de       = W-Motor-Stromversorgung\n|id       = W-Engine Power Supply\n|pt       = Fonte de Energia de Motor-W\n}}\n\n==Change History==\n{{Change History|1.0}}\n\n==Navigation==\n{{Upgrade Item Navbox|W-Engine Materials}}\n\n[[vi:Nguồn W-Engine Biến Tần]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 26318,
+        "ns": 0,
+        "title": "Investigator Log",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "#REDIRECT [[Agent EXP Material]]\n\n[[Category:Redirect Pages]]"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

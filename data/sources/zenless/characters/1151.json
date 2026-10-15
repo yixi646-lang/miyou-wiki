@@ -1,0 +1,2189 @@
+{
+  "id": 1151,
+  "icon": "IconRole27",
+  "name": "露西",
+  "code_name": "Lucy",
+  "rarity": 3,
+  "weapon_type": {
+    "4": "支援"
+  },
+  "element_type": {
+    "201": "火属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "4": "卡吕冬之子"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "8/14",
+    "full_name": "露西亚娜·德·蒙特夫",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle27.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0027.png",
+    "impression_f": "露西的敲敲头像超美的！这就是她之前当大小姐时候的样子吗！",
+    "impression_m": "之前似乎听凯撒说过，露西用这个头像是因为谈生意的时候有奇效…",
+    "impressions": [
+      "对露西的印象：\n · 绝对不能小看露西的胜负心",
+      " · 露西和家人的纠葛真是耐人寻味",
+      " · 为了外环的星空…与薯片自由！"
+    ],
+    "profile_desc": "露西，目前主要负责卡吕冬之子的对外商务和野猪管理工作。\n因为全名过长，且不想再和家族扯上关系，她在外环会统一称呼自己为露西。\n身边的三只小猪分别叫做阿草，阿木和阿砖，对露西忠心耿耿。\n虽然露西平时会将脏话和敬语结合使用，但在她的举手投足之间隐约能窥见良好教育的痕迹。\n\n露西的家族非常富裕。她从小在优越的环境里长大，似乎世界上的一切都唾手可得——除了自由。\n在检测出良好的以太适体质后，露西一心想要成为空洞调查员，却遭到了家族的强烈反对。在经历斥责辱骂，关禁闭和冷暴力之后，露西决定离家出走，追寻自由。\n「本小姐才不会回去！一旦被家里人找到…那就再也没有什么星辰大海，只能继承家业了！」\n\n露西拥有强烈的胜负欲，最喜欢赢，最讨厌输。\n目前让她输最惨的人是凯撒，因此露西隔三差五就会找凯撒进行一番对决，屡败屡战，屡战屡败。",
+    "role_icon": "IconRole/UnPacker/IconRole27",
+    "stature": "152",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线：「悠然插曲·意外的新顾客」（主线第四章完成后开启）后解锁",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "露西，目前主要负责卡吕冬之子的对外商务和野猪管理工作。\n因为全名过长，且不想再和家族扯上关系，她在外环会统一称呼自己为露西。\n身边的三只小猪分别叫做阿草，阿木和阿砖，对露西忠心耿耿。\n虽然露西平时会将脏话和敬语结合使用，但在她的举手投足之间隐约能窥见良好教育的痕迹。\n\n露西的家族非常富裕。她从小在优越的环境里长大，似乎世界上的一切都唾手可得——除了自由。\n在检测出良好的以太适体质后，露西一心想要成为空洞调查员，却遭到了家族的强烈反对。在经历斥责辱骂，关禁闭和冷暴力之后，露西决定离家出走，追寻自由。\n「本小姐才不会回去！一旦被家里人找到…那就再也没有什么星辰大海，只能继承家业了！」\n\n露西拥有强烈的胜负欲，最喜欢赢，最讨厌输。\n目前让她输最惨的人是凯撒，因此露西隔三差五就会找凯撒进行一番对决，屡败屡战，屡战屡败。",
+      "2": "",
+      "3": "露西加入卡吕冬之子的契机非常具有戏剧性。\n为了逃离家族，她买通了「绑匪」，亲手为自己策划了一起绑架案，却阴差阳错被卡吕冬之子搅乱了一切——凯撒打趴了所有「绑匪」，救下了这位「受害者」。\n据相关人员称，凯撒最终驾驶机车逆着光破门而入的模样，给露西留下了深刻的印象。\n「那一刻，我看见了『自由』。」\n从那之后，露西便赖上了凯撒，一心想要加入卡吕冬之子。\n",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3111510": {
+      "name": "露西·铁腕淑女",
+      "desc": "在机车族中略显考究的服饰，据说在对外交涉时大有用处。\n出逃的公主在外环找到了自由，它闪烁在夜的星光中，燃烧在余晖的尽头，也静静伏在脚边的沙粒间。",
+      "obtain_desc": "",
+      "image": "IconRole27"
+    },
+    "3111511": {
+      "name": "露西·公主假日",
+      "desc": "球棍在沙滩排球中显然并无用武之地，但可以确保无人打扰荒原千金的假日好时光。阿草阿木阿砖，进入度假作战模式！",
+      "obtain_desc": "",
+      "image": "IconRole27_01"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 95,
+    "attack_growth": 54230,
+    "avatar_piece_id": 5151,
+    "break_stun": 86,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 49,
+    "defence_growth": 66882,
+    "element_abnormal_power": 94,
+    "element_mystery": 93,
+    "endurance": 0,
+    "hp_growth": 875757,
+    "hp_max": 645,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Lucy",
+      "Punch",
+      "Fire",
+      "Female",
+      "Camp4",
+      "Size1",
+      "AidTypeParry",
+      "Lucy",
+      "EtherEyesSize1"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100214": 4
+      }
+    },
+    "2": {
+      "hp_max": 443,
+      "attack": 34,
+      "defence": 34,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100224": 12
+      }
+    },
+    "3": {
+      "hp_max": 886,
+      "attack": 68,
+      "defence": 68,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100224": 20
+      }
+    },
+    "4": {
+      "hp_max": 1329,
+      "attack": 102,
+      "defence": 101,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100234": 10
+      }
+    },
+    "5": {
+      "hp_max": 1772,
+      "attack": 135,
+      "defence": 135,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100234": 20
+      }
+    },
+    "6": {
+      "hp_max": 2214,
+      "attack": 169,
+      "defence": 169,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：淑女的球棍",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的打击，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n当露西发动<color=#FFFFFF>[普通攻击]</color>第四段时，场上的亲卫队小猪会一起发动<color=#FFFFFF>[亲卫队小猪：回旋挥击！]</color>。",
+          "potential": []
+        },
+        {
+          "name": "亲卫队小猪：抄家伙！",
+          "desc": "战斗中，亲卫队小猪会随机使用棒球棍、拳套、弹弓，自动对敌人发动攻击， 造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "亲卫队小猪：回旋挥击！",
+          "desc": "当露西发动<color=#FFFFFF>[普通攻击]</color>第四段，或自身获得<color=#FFFFFF>[加油！]</color>状态时，亲卫队小猪会挥舞棒球棍持续转圈，对周围敌人造成<color=#F0D12B>物理伤害</color>。若无法立即发动，亲卫队小猪会记住所需发动次数。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：淑女的球棍",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1151001, Prop:1001}",
+              "param": {
+                "1151001": {
+                  "main": 5660,
+                  "growth": 520,
+                  "format": "%",
+                  "damage_percentage": 5660,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 2830,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 10190,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 77825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2830
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1151002, Prop:1001}",
+              "param": {
+                "1151002": {
+                  "main": 7780,
+                  "growth": 710,
+                  "format": "%",
+                  "damage_percentage": 7780,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 6500,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 23400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 178750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6498
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1151004, Prop:1001}",
+              "param": {
+                "1151004": {
+                  "main": 18890,
+                  "growth": 1720,
+                  "format": "%",
+                  "damage_percentage": 18890,
+                  "damage_percentage_growth": 1720,
+                  "stun_ratio": 15740,
+                  "stun_ratio_growth": 720,
+                  "sp_recovery": 56660,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 432850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13401,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15738
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段（派生）伤害倍率",
+              "desc": "{Skill:1151003, Prop:1001}",
+              "param": {
+                "1151003": {
+                  "main": 21150,
+                  "growth": 1930,
+                  "format": "%",
+                  "damage_percentage": 21150,
+                  "damage_percentage_growth": 1930,
+                  "stun_ratio": 16230,
+                  "stun_ratio_growth": 740,
+                  "sp_recovery": 58420,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 446325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16227
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1151005, Prop:1001}",
+              "param": {
+                "1151005": {
+                  "main": 27260,
+                  "growth": 2480,
+                  "format": "%",
+                  "damage_percentage": 27260,
+                  "damage_percentage_growth": 2480,
+                  "stun_ratio": 20800,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 74880,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 572000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18625,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20799
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1151001, Prop:1002}",
+              "param": {
+                "1151001": {
+                  "main": 2830,
+                  "growth": 130,
+                  "format": "%",
+                  "damage_percentage": 5660,
+                  "damage_percentage_growth": 520,
+                  "stun_ratio": 2830,
+                  "stun_ratio_growth": 130,
+                  "sp_recovery": 10190,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 77825,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2830
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1151002, Prop:1002}",
+              "param": {
+                "1151002": {
+                  "main": 6500,
+                  "growth": 300,
+                  "format": "%",
+                  "damage_percentage": 7780,
+                  "damage_percentage_growth": 710,
+                  "stun_ratio": 6500,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 23400,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 178750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6498
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1151004, Prop:1002}",
+              "param": {
+                "1151004": {
+                  "main": 15740,
+                  "growth": 720,
+                  "format": "%",
+                  "damage_percentage": 18890,
+                  "damage_percentage_growth": 1720,
+                  "stun_ratio": 15740,
+                  "stun_ratio_growth": 720,
+                  "sp_recovery": 56660,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 432850,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 13401,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 15738
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段（派生）失衡倍率",
+              "desc": "{Skill:1151003, Prop:1002}",
+              "param": {
+                "1151003": {
+                  "main": 16230,
+                  "growth": 740,
+                  "format": "%",
+                  "damage_percentage": 21150,
+                  "damage_percentage_growth": 1930,
+                  "stun_ratio": 16230,
+                  "stun_ratio_growth": 740,
+                  "sp_recovery": 58420,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 446325,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16227
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1151005, Prop:1002}",
+              "param": {
+                "1151005": {
+                  "main": 20800,
+                  "growth": 950,
+                  "format": "%",
+                  "damage_percentage": 27260,
+                  "damage_percentage_growth": 2480,
+                  "stun_ratio": 20800,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 74880,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 572000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18625,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20799
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "亲卫队小猪：抄家伙！",
+          "param": [
+            {
+              "name": "棒球棍伤害倍率",
+              "desc": "{Skill:1151023, Prop:1001}",
+              "param": {
+                "1151023": {
+                  "main": 9250,
+                  "growth": 850,
+                  "format": "%",
+                  "damage_percentage": 9250,
+                  "damage_percentage_growth": 850,
+                  "stun_ratio": 1550,
+                  "stun_ratio_growth": 80,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "拳套伤害倍率",
+              "desc": "{Skill:1151024, Prop:1001}",
+              "param": {
+                "1151024": {
+                  "main": 12750,
+                  "growth": 1160,
+                  "format": "%",
+                  "damage_percentage": 12750,
+                  "damage_percentage_growth": 1160,
+                  "stun_ratio": 2130,
+                  "stun_ratio_growth": 100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "弹弓伤害倍率",
+              "desc": "{Skill:1151025, Prop:1001}",
+              "param": {
+                "1151025": {
+                  "main": 17500,
+                  "growth": 1600,
+                  "format": "%",
+                  "damage_percentage": 17500,
+                  "damage_percentage_growth": 1600,
+                  "stun_ratio": 2920,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "棒球棍失衡倍率",
+              "desc": "{Skill:1151023, Prop:1002}",
+              "param": {
+                "1151023": {
+                  "main": 1550,
+                  "growth": 80,
+                  "format": "%",
+                  "damage_percentage": 9250,
+                  "damage_percentage_growth": 850,
+                  "stun_ratio": 1550,
+                  "stun_ratio_growth": 80,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "拳套失衡倍率",
+              "desc": "{Skill:1151024, Prop:1002}",
+              "param": {
+                "1151024": {
+                  "main": 2130,
+                  "growth": 100,
+                  "format": "%",
+                  "damage_percentage": 12750,
+                  "damage_percentage_growth": 1160,
+                  "stun_ratio": 2130,
+                  "stun_ratio_growth": 100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "弹弓失衡倍率",
+              "desc": "{Skill:1151025, Prop:1002}",
+              "param": {
+                "1151025": {
+                  "main": 2920,
+                  "growth": 140,
+                  "format": "%",
+                  "damage_percentage": 17500,
+                  "damage_percentage_growth": 1600,
+                  "stun_ratio": 2920,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "亲卫队小猪：回旋挥击！",
+          "param": [
+            {
+              "name": "回旋挥击伤害倍率",
+              "desc": "{Skill:1151026, Prop:1001}",
+              "param": {
+                "1151026": {
+                  "main": 25000,
+                  "growth": 2280,
+                  "format": "%",
+                  "damage_percentage": 25000,
+                  "damage_percentage_growth": 2280,
+                  "stun_ratio": 2000,
+                  "stun_ratio_growth": 100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "回旋挥击失衡倍率",
+              "desc": "{Skill:1151026, Prop:1002}",
+              "param": {
+                "1151026": {
+                  "main": 2000,
+                  "growth": 100,
+                  "format": "%",
+                  "damage_percentage": 25000,
+                  "damage_percentage_growth": 2280,
+                  "stun_ratio": 2000,
+                  "stun_ratio_growth": 100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：坏球！",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：豪勇猪突！",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前方进行快速打击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：獠牙折转！",
+          "desc": "极限闪避时，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：豪勇猪突！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1151014, Prop:1001}",
+              "param": {
+                "1151014": {
+                  "main": 7840,
+                  "growth": 720,
+                  "format": "%",
+                  "damage_percentage": 7840,
+                  "damage_percentage_growth": 720,
+                  "stun_ratio": 3920,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 14110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 107800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3919
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1151014, Prop:1002}",
+              "param": {
+                "1151014": {
+                  "main": 3920,
+                  "growth": 180,
+                  "format": "%",
+                  "damage_percentage": 7840,
+                  "damage_percentage_growth": 720,
+                  "stun_ratio": 3920,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 14110,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 107800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3919
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：獠牙折转！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1151015, Prop:1001}",
+              "param": {
+                "1151015": {
+                  "main": 30800,
+                  "growth": 2800,
+                  "format": "%",
+                  "damage_percentage": 30800,
+                  "damage_percentage_growth": 2800,
+                  "stun_ratio": 26000,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1151015, Prop:1002}",
+              "param": {
+                "1151015": {
+                  "main": 26000,
+                  "growth": 1190,
+                  "format": "%",
+                  "damage_percentage": 30800,
+                  "damage_percentage_growth": 2800,
+                  "stun_ratio": 26000,
+                  "stun_ratio_growth": 1190,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 30997
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：安打！",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n将亲卫队小猪召回并击出<color=#FFFFFF>[平直球]</color>，亲卫队小猪命中敌人或墙壁时引发爆炸，造成<color=#FF5521>火属性伤害</color>。\n长按 <IconMap:Icon_Special> 发动：\n将亲卫队小猪召回并击出<color=#FFFFFF>[高飞球]</color>，亲卫队小猪从空中落地时引发爆炸，造成<color=#FF5521>火属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：全垒打！",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n将亲卫队小猪召回并击出<color=#FFFFFF>[平直球]</color>，亲卫队小猪命中敌人或墙壁时引发爆炸，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。\n能量足够时，长按 <IconMap:Icon_SpecialReady> 发动：\n将亲卫队小猪召回并击出<color=#FFFFFF>[高飞球]</color>，亲卫队小猪从空中落地时引发爆炸，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "加油！",
+          "desc": "发动<color=#FFFFFF>[强化特殊技]</color>后，亲卫队小猪引发爆炸时，将为全队角色、邦布和亲卫队小猪施加<color=#FFFFFF>[加油！]</color>状态。<color=#FFFFFF>[加油！]</color>状态下，友方单位的攻击力提升，提升数值等同于露西<color=#2BAD00>{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%</color>初始攻击力+<color=#2BAD00>{CAL:40+AvatarSkillLevel(1)*4,1,2}</color>点，最高不超过600点。击出<color=#FFFFFF>[平直球]</color>时，<color=#FFFFFF>[加油！]</color>状态持续10秒，击出<color=#FFFFFF>[高飞球]</color>时，<color=#FFFFFF>[加油！]</color>状态持续15秒，重复触发时刷新持续时间。",
+          "potential": []
+        },
+        {
+          "name": "加油！",
+          "param": [
+            {
+              "name": "攻击力提升",
+              "desc": "露西攻击力{CAL:13+AvatarSkillLevel(1)*0.8,1,2}%+{CAL:40+AvatarSkillLevel(1)*4,1,2}",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "特殊技：安打！",
+          "param": [
+            {
+              "name": "平直球伤害倍率",
+              "desc": "{Skill:1151008, Prop:1001}",
+              "param": {
+                "1151008": {
+                  "main": 6170,
+                  "growth": 570,
+                  "format": "%",
+                  "damage_percentage": 6170,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6170,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 169675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6165,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6166
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "高飞球伤害倍率",
+              "desc": "{Skill:1151009, Prop:1001}",
+              "param": {
+                "1151009": {
+                  "main": 6920,
+                  "growth": 630,
+                  "format": "%",
+                  "damage_percentage": 6920,
+                  "damage_percentage_growth": 630,
+                  "stun_ratio": 6920,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 190300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6915,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6915
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "平直球失衡倍率",
+              "desc": "{Skill:1151008, Prop:1002}",
+              "param": {
+                "1151008": {
+                  "main": 6170,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 6170,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6170,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 169675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6165,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6166
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "高飞球失衡倍率",
+              "desc": "{Skill:1151009, Prop:1002}",
+              "param": {
+                "1151009": {
+                  "main": 6920,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 6920,
+                  "damage_percentage_growth": 630,
+                  "stun_ratio": 6920,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 190300,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6915,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6915
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：全垒打！",
+          "param": [
+            {
+              "name": "平直球伤害倍率",
+              "desc": "{Skill:1151012, Prop:1001}",
+              "param": {
+                "1151012": {
+                  "main": 50840,
+                  "growth": 4630,
+                  "format": "%",
+                  "damage_percentage": 50840,
+                  "damage_percentage_growth": 4630,
+                  "stun_ratio": 36460,
+                  "stun_ratio_growth": 1660,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1661550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33541,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12501
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "高飞球伤害倍率",
+              "desc": "{Skill:1151013, Prop:1001}",
+              "param": {
+                "1151013": {
+                  "main": 53640,
+                  "growth": 4880,
+                  "format": "%",
+                  "damage_percentage": 53640,
+                  "damage_percentage_growth": 4880,
+                  "stun_ratio": 38960,
+                  "stun_ratio_growth": 1780,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1744050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34241,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14500
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "平直球失衡倍率",
+              "desc": "{Skill:1151012, Prop:1002}",
+              "param": {
+                "1151012": {
+                  "main": 36460,
+                  "growth": 1660,
+                  "format": "%",
+                  "damage_percentage": 50840,
+                  "damage_percentage_growth": 4630,
+                  "stun_ratio": 36460,
+                  "stun_ratio_growth": 1660,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1661550,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 33541,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12501
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "高飞球失衡倍率",
+              "desc": "{Skill:1151013, Prop:1002}",
+              "param": {
+                "1151013": {
+                  "main": 38960,
+                  "growth": 1780,
+                  "format": "%",
+                  "damage_percentage": 53640,
+                  "damage_percentage_growth": 4880,
+                  "stun_ratio": 38960,
+                  "stun_ratio_growth": 1780,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1744050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34241,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 14500
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：大满贯！",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n露西起跳将场上亲卫队小猪打出，对前方大范围敌人造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "终结技：再见全垒打！",
+          "desc": "喧响等级达到[极]时，点按 <IconMap:Icon_UltimateReady> 发动：\n将所有亲卫队小猪依次打出，对前方大范围敌人造成大量<color=#FF5521>火属性伤害</color>；\n招式发动时，队伍中其他角色回复10点能量，下一名换入前场的角色额外回复20点能量；\n招式发动期间拥有无敌效果；\n招式命中敌人时，将触发<color=#FFFFFF>[快速支援]</color>。",
+          "potential": []
+        },
+        {
+          "name": "连携技：大满贯！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{{Skill:1151016, Prop:1001}/3}*3",
+              "param": {
+                "1151016": {
+                  "main": 49240,
+                  "growth": 4480,
+                  "format": "%",
+                  "damage_percentage": 49240,
+                  "damage_percentage_growth": 4480,
+                  "stun_ratio": 9340,
+                  "stun_ratio_growth": 430,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2085600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 29280,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{{Skill:1151016, Prop:1002}/3}*3",
+              "param": {
+                "1151016": {
+                  "main": 9340,
+                  "growth": 430,
+                  "format": "%",
+                  "damage_percentage": 49240,
+                  "damage_percentage_growth": 4480,
+                  "stun_ratio": 9340,
+                  "stun_ratio_growth": 430,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2085600,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 29280,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9331
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：再见全垒打！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{{Skill:1151017, Prop:1001}/3}*3",
+              "param": {
+                "1151017": {
+                  "main": 171860,
+                  "growth": 15630,
+                  "format": "%",
+                  "damage_percentage": 171860,
+                  "damage_percentage_growth": 15630,
+                  "stun_ratio": 28350,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31500,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 81500
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{{Skill:1151017, Prop:1002}/3}*3",
+              "param": {
+                "1151017": {
+                  "main": 28350,
+                  "growth": 1290,
+                  "format": "%",
+                  "damage_percentage": 171860,
+                  "damage_percentage_growth": 15630,
+                  "stun_ratio": 28350,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 31500,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 81500
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：触身球！",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：安全上垒！",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：触垒得分！",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动打击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：触身球！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1151018, Prop:1001}",
+              "param": {
+                "1151018": {
+                  "main": 16000,
+                  "growth": 1460,
+                  "format": "%",
+                  "damage_percentage": 16000,
+                  "damage_percentage_growth": 1460,
+                  "stun_ratio": 16000,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7999
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1151018, Prop:1002}",
+              "param": {
+                "1151018": {
+                  "main": 16000,
+                  "growth": 730,
+                  "format": "%",
+                  "damage_percentage": 16000,
+                  "damage_percentage_growth": 1460,
+                  "stun_ratio": 16000,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 57590,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 440000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 15996,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 7999
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：安全上垒！",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1151019, Prop:1002}",
+              "param": {
+                "1151019": {
+                  "main": 20770,
+                  "growth": 950,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 20770,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 33664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1151020, Prop:1002}",
+              "param": {
+                "1151020": {
+                  "main": 22940,
+                  "growth": 1050,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 22940,
+                  "stun_ratio_growth": 1050,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 35334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1151021, Prop:1002}",
+              "param": {
+                "1151021": {
+                  "main": 6940,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 6940,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5334
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：触垒得分！",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1151022, Prop:1001}",
+              "param": {
+                "1151022": {
+                  "main": 34910,
+                  "growth": 3180,
+                  "format": "%",
+                  "damage_percentage": 34910,
+                  "damage_percentage_growth": 3180,
+                  "stun_ratio": 30430,
+                  "stun_ratio_growth": 1390,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1083225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32667,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1151022, Prop:1002}",
+              "param": {
+                "1151022": {
+                  "main": 30430,
+                  "growth": 1390,
+                  "format": "%",
+                  "damage_percentage": 34910,
+                  "damage_percentage_growth": 3180,
+                  "stun_ratio": 30430,
+                  "stun_ratio_growth": 1390,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1083225,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 32667,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16997
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1151001,
+      "avatar_id": 1151,
+      "first_priority": [
+        1
+      ],
+      "second_priority": [
+        5,
+        0,
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": 1151002,
+      "avatar_id": 1151,
+      "first_priority": [
+        1,
+        3
+      ],
+      "second_priority": [
+        5,
+        0
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1151001": {
+      "name": "普通攻击：淑女的球棍",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151002": {
+      "name": "特殊技：安打！（平直球）",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151003": {
+      "name": "特殊技：安打！（高飞球）",
+      "desc": "<IconMap:Icon_Special>（长按）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151004": {
+      "name": "强化特殊技：全垒打！（平直球）",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151005": {
+      "name": "强化特殊技：全垒打！（高飞球）",
+      "desc": "<IconMap:Icon_SpecialReady>（长按）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151006": {
+      "name": "冲刺攻击：豪勇猪突！",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151007": {
+      "name": "闪避反击：獠牙折转！",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151008": {
+      "name": "连携技：大满贯！",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151009": {
+      "name": "终结技：再见全垒打！",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151010": {
+      "name": "快速支援：触身球！",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1151011": {
+      "name": "招架支援：安全上垒！",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1151012": {
+      "name": "支援突击：触垒得分！",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1151501": {
+        "level": 1,
+        "id": 1151501,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>140%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151502": {
+        "level": 2,
+        "id": 1151502,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>150%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151503": {
+        "level": 3,
+        "id": 1151503,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>160%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151504": {
+        "level": 4,
+        "id": 1151504,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>170%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151505": {
+        "level": 5,
+        "id": 1151505,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>180%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151506": {
+        "level": 6,
+        "id": 1151506,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>190%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1151507": {
+        "level": 7,
+        "id": 1151507,
+        "name": [
+          "核心被动：赤鬣亲卫队",
+          "额外能力：击「球」准备！"
+        ],
+        "desc": [
+          "当露西发动<color=#FFFFFF>[特殊技]</color>或<color=#FFFFFF>[强化特殊技]</color>时，亲卫队小猪会加入战斗并呼叫出另外两只亲卫队小猪；亲卫队小猪可以继承露西的攻击力、冲击力和异常精通；<color=#FFFFFF>[加油！]</color>对亲卫队小猪的增益效果提升至原本的<color=#2BAD00>200%</color>，并使亲卫队小猪的攻击频率提升。",
+          "队伍中存在与自身属性或阵营相同的角色或<color=#FFFFFF>[命破]</color>角色时触发：\n亲卫队小猪可以继承露西的暴击率和暴击伤害。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110504": 2
+      },
+      "3": {
+        "10": 28000,
+        "110504": 4
+      },
+      "4": {
+        "10": 60000,
+        "110001": 2,
+        "110504": 9
+      },
+      "5": {
+        "10": 100000,
+        "110001": 3,
+        "110504": 15
+      },
+      "6": {
+        "10": 200000,
+        "110001": 4,
+        "110504": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "队形操练中",
+      "desc": "亲卫队小猪发动<color=#FFFFFF>[亲卫队小猪：回旋挥击！]</color>时，为露西回复2点能量，15秒内最多触发一次，每只亲卫队小猪单独结算冷却时间。",
+      "desc2": "「阿草，向右看齐！…那是左边，笨蛋！！！」\n一声令下，两种方向，三阵惨呼，四面哀嚎。"
+    },
+    "2": {
+      "level": 2,
+      "name": "小猪大队长",
+      "desc": "露西发动<color=#FFFFFF>[连携技]</color>或<color=#FFFFFF>[终结技]</color>时，将为全队角色、邦布和亲卫队小猪施加<color=#FFFFFF>[加油！]</color>状态，持续10秒。",
+      "desc2": "「毋庸置疑，露西队长是卡吕冬野猪希人最棒的领导者！」\n这是阿木在「卡吕冬之子年度工作报告」中的结语。"
+    },
+    "3": {
+      "level": 3,
+      "name": "铁腕监护人",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「要是露西队长在打飞我们的时候下手轻点就更好了。」\n这是阿木没敢说出来的后半句心里话。"
+    },
+    "4": {
+      "level": 4,
+      "name": "无规则球赛",
+      "desc": "处于<color=#FFFFFF>[加油！]</color>状态下的友方单位，暴击伤害额外提升10%。",
+      "desc2": "规则和裁判的肋骨，总有一样要被打破。"
+    },
+    "5": {
+      "level": 5,
+      "name": "荒原贵公主",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "对球棍下惨叫的对手用敬语，\n向匍匐在脚边的敌人说抱歉，\n这就是千金的完美礼仪。"
+    },
+    "6": {
+      "level": 6,
+      "name": "獠牙堪烈火",
+      "desc": "处于<color=#FFFFFF>[加油！]</color>状态下的队友<color=#FFFFFF>[强化特殊技]</color>命中敌人时，一只亲卫队小猪会从空中落地引发爆炸，造成等同于亲卫队小猪300%攻击力的<color=#FF5521>火属性伤害</color>，并使全队角色、邦布和亲卫队小猪的<color=#FFFFFF>[加油！]</color>状态的持续时间提升5秒；持续时间最多提升3次，上限30秒，重新获得<color=#FFFFFF>[加油！]</color>状态时刷新可提升次数；亲卫队小猪落地引发爆炸后，将会发动一次<color=#FFFFFF>[亲卫队小猪：回旋挥击！]</color>。",
+      "desc2": "被称为「赤鬣亲卫队」的小猪希人们总是冲锋在战斗的最前线！\n虽然说不清从球棒起飞的那一刹那，心绪是万念俱灰还是心甘情愿。\n勇敢小猪，身先士卒！"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33400,
+    "slot2": 32800,
+    "slot_sub": 31400,
+    "part_sub_list": [
+      12102,
+      12103
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          31600,
+          31400
+        ],
+        "part_sub_list": [
+          12102,
+          20103
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102,
+          30502
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part5": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part6": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part_sub": {
+      "prop": 31603,
+      "name": "火属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
+    }
+  },
+  "strategy": [
+    "04",
+    "<IconMap:Icon_GeneralBuff_Fire>火属性，泛用型支援",
+    "召唤亲卫队小猪共同作战"
+  ],
+  "potential": [],
+  "potential_detail": {}
+}

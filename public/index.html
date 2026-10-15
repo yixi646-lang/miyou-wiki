@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="原神、崩坏：星穹铁道、绝区零的本地角色与装备资料百科。">
+  <meta name="theme-color" content="#456ee9">
+  <title>Wiki · 本地游戏百科</title>
+  <link rel="icon" href="/favicon.ico?v=20261015-flat" type="image/x-icon">
+  <link rel="stylesheet" href="/base.css">
+  <link rel="stylesheet" href="/app.css">
+  <link rel="stylesheet" href="/finish.css">
+  <link rel="stylesheet" href="/enhancements.css">
+  <link rel="stylesheet" href="/catalog-appearance.css">
+  <link rel="stylesheet" href="/detail-layout.css">
+  <link rel="stylesheet" href="/visual-assets.css">
+  <link rel="stylesheet" href="/home-layout.css">
+  <link rel="stylesheet" href="/version-archives.css">
+  <link rel="stylesheet" href="/navigation-layout.css">
+  <link rel="stylesheet" href="/unified-search.css">
+  <link rel="stylesheet" href="/banner-history.css">
+  <script type="module" src="/boot.mjs"></script>
+</head>
+<body>
+  <button class="sidebar-shade" id="sidebar-shade" aria-label="关闭导航" hidden></button>
+  <button type="button" class="sidebar-edge" id="sidebar-edge" aria-label="从左侧呼出导航" aria-controls="sidebar" aria-expanded="false" hidden></button>
+  <aside class="sidebar" id="sidebar">
+    <div class="sidebar-heading"><a class="brand" href="/" aria-label="Wiki 首页"><img class="brand-icon" src="/favicon.ico?v=20261015-flat" width="44" height="44" alt=""><span class="brand-name">Wiki</span></a><div class="sidebar-controls"><button type="button" class="sidebar-width-toggle" id="sidebar-width-toggle" aria-label="缩窄边栏" title="缩窄边栏" aria-controls="sidebar">‹</button></div></div>
+    <div class="side-label">我的百科</div>
+    <nav class="side-nav" aria-label="主要导航">
+      <a class="nav" href="/?screen=favorites" id="favorites-nav" title="当前游戏的收藏"><svg class="icon"><use href="/icons.svg#i-pin"/></svg><span class="nav-text">我的收藏</span><span class="nav-count" id="favorite-count">0</span></a>
+    </nav>
+    <div class="side-label" id="category-nav-label">游戏资料库</div>
+    <nav class="side-nav" id="category-nav" aria-label="当前游戏分类"></nav>
+    <div class="side-label">资料管理</div>
+    <nav class="side-nav" aria-label="资料管理"><a class="nav" href="/?screen=manage" id="manage-nav" title="资料与备份"><svg class="icon"><use href="/icons.svg#i-layer"/></svg><span class="nav-text">资料与备份</span></a></nav>
+    <div class="side-spacer"></div>
+    <div class="local-card"><strong>本地资料库</strong><p id="local-count">正在读取本地资料…</p></div>
+    <div class="sidebar-foot">资料与图片保存在本机</div>
+  </aside>
+  <div class="main">
+    <header class="topbar">
+      <a class="home-brand" href="/" aria-label="Wiki 首页"><img class="brand-icon" src="/favicon.ico?v=20261015-flat" width="44" height="44" alt=""><span class="brand-name">Wiki</span></a>
+      <button class="mobile-menu" id="mobile-menu" aria-label="展开导航" aria-expanded="false"><svg class="icon"><use href="/icons.svg#i-menu"/></svg></button>
+      <button class="sidebar-toggle" id="sidebar-toggle" aria-label="关闭边栏" title="关闭边栏" aria-controls="sidebar"><svg class="icon"><use href="/icons.svg#i-menu"/></svg></button>
+      <nav class="game-switch" aria-label="切换游戏"><button data-action="game" data-game="genshin">原神</button><button data-action="game" data-game="starrail">星穹铁道</button><button data-action="game" data-game="zenless">绝区零</button></nav>
+      <div class="breadcrumb" id="breadcrumb">资料库 <span>/&nbsp; 百科总览</span></div>
+      <div class="search"><svg class="icon"><use href="/icons.svg#i-search"/></svg><input id="search" type="search" placeholder="搜索名称、别名或资料…" aria-label="搜索"><span class="search-scopes" aria-label="搜索范围"><button type="button" data-search-scope="current" aria-pressed="true">当前游戏</button><button type="button" data-search-scope="all" aria-pressed="false">全部游戏</button></span><kbd>Ctrl K</kbd></div>
+      <span class="prototype-badge" id="wiki-release">Wiki 1.0.0</span>
+    </header>
+    <main class="content" id="content" aria-live="polite"><div class="loading"><span class="loading-mark">✦</span><p>正在读取本地资料…</p></div></main>
+  </div>
+  <div class="toast" id="toast" role="status" hidden></div>
+  <dialog id="editor-dialog" class="editor-dialog" aria-labelledby="editor-title"></dialog>
+  <input type="file" id="import-file" accept="application/json,application/gzip,.json,.gz" hidden>
+</body>
+</html>

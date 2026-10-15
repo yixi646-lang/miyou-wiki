@@ -1,0 +1,2071 @@
+{
+  "id": 1391,
+  "icon": "IconRole43",
+  "name": "橘福福",
+  "code_name": "Ju Fufu",
+  "rarity": 4,
+  "weapon_type": {
+    "2": "击破"
+  },
+  "element_type": {
+    "201": "火属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "102": "打击"
+  },
+  "camp": {
+    "10": "云岿山"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "1/6",
+    "full_name": "橘福福",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle43.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0043.png",
+    "impression_f": "「神通广大大师姐，仗义行侠好威风！」——福福师姐私下也有得意洋洋的一面，可爱！嗯…总觉得哥哥也干过这种事？",
+    "impression_m": "我才没干过那种事——虽然还是有些不习惯个子小小的福福一口一个「小师弟」地叫我，但不管是在行动中还是在生活里，福福都真的很有大师姐的才华和风范——下次不小心让她看到我们的备注如何？福福一定会一边脸红怕羞一边心里得意吧？",
+    "impressions": [
+      "对橘福福的印象：\n · 云岿山的小老虎，最善降妖除魔，心系惩奸除恶。",
+      " · 随便观的小师父，神通果然广大，做派务必威风。",
+      " · 法厄同的大师姐，捣蛋了给你撑腰，闯祸了替你求情。"
+    ],
+    "profile_desc": "橘福福，新艾利都少见的虎希人，个子和年纪小小却是随便观的大师姐，最早拜入仪玄门下的弟子之一。\n\n「什么事情都能办妥」、「甚至能让师父乖乖听话」、「指导课业最为耐心细致」、「团建餐厅的选择总是很有品味」。\n——云岿山修者考评档案，弟子互评页\n\n「师父交代的差事总是出纰漏」、「不管说话还是打架都没有气势」、「不会跟反派放狠话」、「诸位师弟师妹都比我更成器」。\n——云岿山修者考评档案，弟子自评页\n\n「神通广大大师姐，仗义行侠好威风——路过寝舍的时候，我听她自己这么念叨的。不过，我很赞同。」\n——云岿山修者考评档案，师父评价页\n\n另外：建议您建议云岿山加强网络安全建设工作，减少弟子隐私泄露风险。",
+    "role_icon": "IconRole/UnPacker/IconRole43",
+    "stature": "142",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线委托第二季第一章",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "橘福福，新艾利都少见的虎希人，个子和年纪小小却是随便观的大师姐，最早拜入仪玄门下的弟子之一。\n\n「什么事情都能办妥」、「甚至能让师父乖乖听话」、「指导课业最为耐心细致」、「团建餐厅的选择总是很有品味」。\n——云岿山修者考评档案，弟子互评页\n\n「师父交代的差事总是出纰漏」、「不管说话还是打架都没有气势」、「不会跟反派放狠话」、「诸位师弟师妹都比我更成器」。\n——云岿山修者考评档案，弟子自评页\n\n「神通广大大师姐，仗义行侠好威风——路过寝舍的时候，我听她自己这么念叨的。不过，我很赞同。」\n——云岿山修者考评档案，师父评价页\n\n另外：建议您建议云岿山加强网络安全建设工作，减少弟子隐私泄露风险。",
+      "2": "",
+      "3": "虎希人，曾群聚在远离新艾利都城区的山林中定居的希人种族，据我以雅努斯区数个街区监控记录为样本进行的推算，目前于新艾利都范围内活动的虎希人市民不超过二十位。\n\n旧都陷落事件中，零号空洞的次生空洞灾害亦在虎希人聚居地爆发。据档案记载，突然形成并吞没了聚居地的空洞中出现了复数头恶名以骸，98%登记在册的虎希人市民在此次空洞灾害中丧生，幸存者多为老病幼弱者——若非所属云岿山的修者小队在半小时内抵达聚居地开展救灾工作，「橘福福」的名字大概并不会出现在您的代理人档案中。\n\n结合修者组织云岿山档案所记录之日期，可以推测橘福福在旧都陷落时期即已拜入现任云岿山领袖仪玄门下。",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3113910": {
+      "name": "橘福福·山中萌虎",
+      "desc": "身着修者衣装，大师姐的威风似乎被尽数敛去，但心有橘猫…咳咳，心有猛虎，侠气自生啊。",
+      "obtain_desc": "",
+      "image": "IconRole43"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 110,
+    "attack_growth": 65027,
+    "avatar_piece_id": 5391,
+    "break_stun": 118,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 48,
+    "defence_growth": 65185,
+    "element_abnormal_power": 93,
+    "element_mystery": 96,
+    "endurance": 0,
+    "hp_growth": 900269,
+    "hp_max": 663,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Jufufu",
+      "Punch",
+      "Fire",
+      "Female",
+      "Camp10",
+      "Size1",
+      "AidTypeParry",
+      "Jufufu",
+      "EtherEyesSize1"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100212": 4
+      }
+    },
+    "2": {
+      "hp_max": 455,
+      "attack": 39,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100222": 12
+      }
+    },
+    "3": {
+      "hp_max": 911,
+      "attack": 79,
+      "defence": 66,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100222": 20
+      }
+    },
+    "4": {
+      "hp_max": 1366,
+      "attack": 118,
+      "defence": 99,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100232": 10
+      }
+    },
+    "5": {
+      "hp_max": 1821,
+      "attack": 157,
+      "defence": 132,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100232": 20
+      }
+    },
+    "6": {
+      "hp_max": 2276,
+      "attack": 197,
+      "defence": 165,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 480
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 960
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "20101": {
+          "prop": 20101,
+          "name": "暴击率",
+          "format": "{0:0.#%}",
+          "value": 1440
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：恶虎七式·燎身爪",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多四段的斩击，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n第三段攻击期间，连续点按 <IconMap:Icon_Normal> 可以维持连击，持续打击敌人；\n第三段攻击期间，长按或停顿后点按 <IconMap:Icon_Normal> ，将衔接第四段攻击；\n第三段攻击期间抗打断等级提升，受到伤害降低40%。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：「虎威」",
+          "desc": "战斗中，「虎威」会自动对敌人发动攻击， 造成<color=#FF5521>火属性伤害</color>；\n命中敌人时，获得20点<color=#FFFFFF>[威风]</color>，招式内最多触发一次；<color=#FFFFFF>[威风]</color>上限为200点。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：恶虎七式·燎身爪",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1391001, Prop:1001}",
+              "param": {
+                "1391001": {
+                  "main": 4250,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 4250,
+                  "damage_percentage_growth": 390,
+                  "stun_ratio": 4850,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15870,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4407
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1391002, Prop:1001}",
+              "param": {
+                "1391002": {
+                  "main": 4520,
+                  "growth": 420,
+                  "format": "%",
+                  "damage_percentage": 4520,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 3910,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 12790,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 97900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3552
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1391003, Prop:1001}",
+              "param": {
+                "1391003": {
+                  "main": 3150,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 3150,
+                  "damage_percentage_growth": 290,
+                  "stun_ratio": 4850,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15860,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4404,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4405
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1391004, Prop:1001}",
+              "param": {
+                "1391004": {
+                  "main": 21840,
+                  "growth": 1990,
+                  "format": "%",
+                  "damage_percentage": 21840,
+                  "damage_percentage_growth": 1990,
+                  "stun_ratio": 13390,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 43820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 334950,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12171,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12172
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1391001, Prop:1002}",
+              "param": {
+                "1391001": {
+                  "main": 4850,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 4250,
+                  "damage_percentage_growth": 390,
+                  "stun_ratio": 4850,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15870,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4407
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1391002, Prop:1002}",
+              "param": {
+                "1391002": {
+                  "main": 3910,
+                  "growth": 180,
+                  "format": "%",
+                  "damage_percentage": 4520,
+                  "damage_percentage_growth": 420,
+                  "stun_ratio": 3910,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 12790,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 97900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3552
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1391003, Prop:1002}",
+              "param": {
+                "1391003": {
+                  "main": 4850,
+                  "growth": 230,
+                  "format": "%",
+                  "damage_percentage": 3150,
+                  "damage_percentage_growth": 290,
+                  "stun_ratio": 4850,
+                  "stun_ratio_growth": 230,
+                  "sp_recovery": 15860,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 121275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4404,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4405
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1391004, Prop:1002}",
+              "param": {
+                "1391004": {
+                  "main": 13390,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 21840,
+                  "damage_percentage_growth": 1990,
+                  "stun_ratio": 13390,
+                  "stun_ratio_growth": 610,
+                  "sp_recovery": 43820,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 334950,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 12171,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 12172
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：「虎威」",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391005, Prop:1001}",
+              "param": {
+                "1391005": {
+                  "main": 9240,
+                  "growth": 840,
+                  "format": "%",
+                  "damage_percentage": 9240,
+                  "damage_percentage_growth": 840,
+                  "stun_ratio": 6930,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391005, Prop:1002}",
+              "param": {
+                "1391005": {
+                  "main": 6930,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 9240,
+                  "damage_percentage_growth": 840,
+                  "stun_ratio": 6930,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：恶虎七式·风从虎",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·虎奔",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n向前发动快速斩击，造成<color=#F0D12B>物理伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·山君鼎戏",
+          "desc": "<color=#FFFFFF>[冲刺攻击：恶虎七式·虎奔]</color>发动后，长按 <IconMap:Icon_Normal> 发动：\n进入高速旋转状态，该状态下可以拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}进行移动，接触敌人时造成<color=#F0D12B>物理伤害</color>；\n橘福福通过其他招式获得<color=#FFFFFF>[威势]</color>后，会在高速旋转状态下带有火焰；接触敌人时消耗1点<color=#FFFFFF>[威势]</color>，改为造成<color=#FF5521>火属性伤害</color>并获得25点<color=#FFFFFF>[威风]</color>，<color=#FFFFFF>[威势]</color>上限为15点；\n橘福福消耗<color=#FFFFFF>[威势]</color>造成<color=#FF5521>火属性伤害</color>时，若<color=#FFFFFF>[威风]</color>高于100点，会自动消耗100点<color=#FFFFFF>[威风]</color>发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；\n松开 <IconMap:Icon_Normal> 可退出旋转状态，并丢出<color=#FFFFFF>「虎威」</color>攻击敌人，造成<color=#FF5521>火属性伤害</color>；切换至其他角色时，橘福福会继续处于旋转状态，尝试撞击最近的敌人；\n橘福福为当前操作中角色时，招式发动期间受到伤害降低40%，抗打断等级提升，不为当前操作中角色时，获得无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：恶虎七式·离火回峰",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动多次斩击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·虎奔",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391008, Prop:1001}",
+              "param": {
+                "1391008": {
+                  "main": 3680,
+                  "growth": 340,
+                  "format": "%",
+                  "damage_percentage": 3680,
+                  "damage_percentage_growth": 340,
+                  "stun_ratio": 1840,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1669
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391008, Prop:1002}",
+              "param": {
+                "1391008": {
+                  "main": 1840,
+                  "growth": 90,
+                  "format": "%",
+                  "damage_percentage": 3680,
+                  "damage_percentage_growth": 340,
+                  "stun_ratio": 1840,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1669
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·山君鼎戏",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391009, Prop:1001}",
+              "param": {
+                "1391009": {
+                  "main": 1840,
+                  "growth": 170,
+                  "format": "%",
+                  "damage_percentage": 1840,
+                  "damage_percentage_growth": 170,
+                  "stun_ratio": 1840,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391009, Prop:1002}",
+              "param": {
+                "1391009": {
+                  "main": 1840,
+                  "growth": 90,
+                  "format": "%",
+                  "damage_percentage": 1840,
+                  "damage_percentage_growth": 170,
+                  "stun_ratio": 1840,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6010,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 45925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·山君鼎戏·威势",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391010, Prop:1001}",
+              "param": {
+                "1391010": {
+                  "main": 1920,
+                  "growth": 180,
+                  "format": "%",
+                  "damage_percentage": 1920,
+                  "damage_percentage_growth": 180,
+                  "stun_ratio": 870,
+                  "stun_ratio_growth": 40,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391010, Prop:1002}",
+              "param": {
+                "1391010": {
+                  "main": 870,
+                  "growth": 40,
+                  "format": "%",
+                  "damage_percentage": 1920,
+                  "damage_percentage_growth": 180,
+                  "stun_ratio": 870,
+                  "stun_ratio_growth": 40,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：恶虎七式·山君鼎戏·「虎威」",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391022, Prop:1001}",
+              "param": {
+                "1391022": {
+                  "main": 9240,
+                  "growth": 840,
+                  "format": "%",
+                  "damage_percentage": 9240,
+                  "damage_percentage_growth": 840,
+                  "stun_ratio": 6930,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391022, Prop:1002}",
+              "param": {
+                "1391022": {
+                  "main": 6930,
+                  "growth": 320,
+                  "format": "%",
+                  "damage_percentage": 9240,
+                  "damage_percentage_growth": 840,
+                  "stun_ratio": 6930,
+                  "stun_ratio_growth": 320,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：恶虎七式·离火回峰",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391011, Prop:1001}",
+              "param": {
+                "1391011": {
+                  "main": 20780,
+                  "growth": 1890,
+                  "format": "%",
+                  "damage_percentage": 20780,
+                  "damage_percentage_growth": 1890,
+                  "stun_ratio": 18530,
+                  "stun_ratio_growth": 850,
+                  "sp_recovery": 24620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 188100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6836,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21837
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391011, Prop:1002}",
+              "param": {
+                "1391011": {
+                  "main": 18530,
+                  "growth": 850,
+                  "format": "%",
+                  "damage_percentage": 20780,
+                  "damage_percentage_growth": 1890,
+                  "stun_ratio": 18530,
+                  "stun_ratio_growth": 850,
+                  "sp_recovery": 24620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 188100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6836,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21837
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：恶虎七式·下山虎",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方进行旋转斩击后发动下落斩击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：恶虎七式改·下山猛虎",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n挥舞<color=#FFFFFF>「虎威」</color>向前方进行强力打击，造成大量<color=#FF5521>火属性伤害</color>；\n发动时获得3点<color=#FFFFFF>[威势]</color>和80点<color=#FFFFFF>[威风]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "特殊技：恶虎七式·下山虎",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391006, Prop:1001}",
+              "param": {
+                "1391006": {
+                  "main": 6610,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 6610,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 6610,
+                  "stun_ratio_growth": 310,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6002
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391006, Prop:1002}",
+              "param": {
+                "1391006": {
+                  "main": 6610,
+                  "growth": 310,
+                  "format": "%",
+                  "damage_percentage": 6610,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 6610,
+                  "stun_ratio_growth": 310,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 165275,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6001,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 6002
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：恶虎七式改·下山猛虎",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391007, Prop:1001}",
+              "param": {
+                "1391007": {
+                  "main": 52650,
+                  "growth": 4790,
+                  "format": "%",
+                  "damage_percentage": 52650,
+                  "damage_percentage_growth": 4790,
+                  "stun_ratio": 34410,
+                  "stun_ratio_growth": 1570,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1819675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 51212,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391007, Prop:1002}",
+              "param": {
+                "1391007": {
+                  "main": 34410,
+                  "growth": 1570,
+                  "format": "%",
+                  "damage_percentage": 52650,
+                  "damage_percentage_growth": 4790,
+                  "stun_ratio": 34410,
+                  "stun_ratio_growth": 1570,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1819675,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 51212,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16331
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "能量消耗",
+              "desc": "60点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：虎釜崩",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n挥舞「虎威」对前方小范围敌人进行强力打击，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：虎釜震煞",
+          "desc": "拥有至少100点<color=#FFFFFF>[威风]</color>时，触发<color=#FFFFFF>[连携技]</color>后自动发动：\n消耗100点<color=#FFFFFF>[威风]</color>，打开「虎威」对前方小范围敌人发射火焰和爆米花打击敌人，造成大量<color=#FF5521>火属性伤害</color>；\n拥有<color=#FFFFFF>[威势]</color>且不为操作中角色时，招式结束会进入高速旋转状态；\n招式为<color=#FFFFFF>[追加攻击]</color>，发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "终结技：恶虎七式·猛虎炸开花",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n使用「虎威」进行两次下落攻击，造成大量<color=#FF5521>火属性伤害</color>；\n发动时获得6点<color=#FFFFFF>[威势]</color>和100点<color=#FFFFFF>[威风]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：虎釜崩",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391012, Prop:1001}",
+              "param": {
+                "1391012": {
+                  "main": 66810,
+                  "growth": 6080,
+                  "format": "%",
+                  "damage_percentage": 66810,
+                  "damage_percentage_growth": 6080,
+                  "stun_ratio": 16050,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1487475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30808,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391012, Prop:1002}",
+              "param": {
+                "1391012": {
+                  "main": 16050,
+                  "growth": 730,
+                  "format": "%",
+                  "damage_percentage": 66810,
+                  "damage_percentage_growth": 6080,
+                  "stun_ratio": 16050,
+                  "stun_ratio_growth": 730,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1487475,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 30808,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 20834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "连携技：虎釜震煞",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391013, Prop:1001}",
+              "param": {
+                "1391013": {
+                  "main": 35450,
+                  "growth": 3230,
+                  "format": "%",
+                  "damage_percentage": 35450,
+                  "damage_percentage_growth": 3230,
+                  "stun_ratio": 22160,
+                  "stun_ratio_growth": 1010,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 454025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6041,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391013, Prop:1002}",
+              "param": {
+                "1391013": {
+                  "main": 22160,
+                  "growth": 1010,
+                  "format": "%",
+                  "damage_percentage": 35450,
+                  "damage_percentage_growth": 3230,
+                  "stun_ratio": 22160,
+                  "stun_ratio_growth": 1010,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 454025,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 6041,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 0
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：恶虎七式·猛虎炸开花",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391014, Prop:1001}",
+              "param": {
+                "1391014": {
+                  "main": 166380,
+                  "growth": 15130,
+                  "format": "%",
+                  "damage_percentage": 166380,
+                  "damage_percentage_growth": 15130,
+                  "stun_ratio": 109070,
+                  "stun_ratio_growth": 4960,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 71004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391014, Prop:1002}",
+              "param": {
+                "1391014": {
+                  "main": 109070,
+                  "growth": 4960,
+                  "format": "%",
+                  "damage_percentage": 166380,
+                  "damage_percentage_growth": 15130,
+                  "stun_ratio": 109070,
+                  "stun_ratio_growth": 4960,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 21003,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 71004
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：怒决蹯",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动斩击，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "招架支援：岿然虎踞",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：彪形焰颌",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动斩击后，使用<color=#FFFFFF>「虎威」</color>追加一次下落攻击，造成<color=#FF5521>火属性伤害</color>；\n发动时获得1点<color=#FFFFFF>[威势]</color>，10秒内最多获得1次；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：怒决蹯",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391015, Prop:1001}",
+              "param": {
+                "1391015": {
+                  "main": 7530,
+                  "growth": 690,
+                  "format": "%",
+                  "damage_percentage": 7530,
+                  "damage_percentage_growth": 690,
+                  "stun_ratio": 3770,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 12310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 94050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3418,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3419
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391015, Prop:1002}",
+              "param": {
+                "1391015": {
+                  "main": 3770,
+                  "growth": 180,
+                  "format": "%",
+                  "damage_percentage": 7530,
+                  "damage_percentage_growth": 690,
+                  "stun_ratio": 3770,
+                  "stun_ratio_growth": 180,
+                  "sp_recovery": 12310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 94050,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3418,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3419
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：岿然虎踞",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1391016, Prop:1002}",
+              "param": {
+                "1391016": {
+                  "main": 20130,
+                  "growth": 920,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 20130,
+                  "stun_ratio_growth": 920,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1391017, Prop:1002}",
+              "param": {
+                "1391017": {
+                  "main": 27280,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27280,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1391018, Prop:1002}",
+              "param": {
+                "1391018": {
+                  "main": 13680,
+                  "growth": 630,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 13680,
+                  "stun_ratio_growth": 630,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：彪形焰颌",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1391019, Prop:1001}",
+              "param": {
+                "1391019": {
+                  "main": 40720,
+                  "growth": 3710,
+                  "format": "%",
+                  "damage_percentage": 40720,
+                  "damage_percentage_growth": 3710,
+                  "stun_ratio": 25630,
+                  "stun_ratio_growth": 1170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1145100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34697,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18501
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1391019, Prop:1002}",
+              "param": {
+                "1391019": {
+                  "main": 25630,
+                  "growth": 1170,
+                  "format": "%",
+                  "damage_percentage": 40720,
+                  "damage_percentage_growth": 3710,
+                  "stun_ratio": 25630,
+                  "stun_ratio_growth": 1170,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1145100,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 34697,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18501
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1391001,
+      "avatar_id": 1391,
+      "first_priority": [
+        5,
+        3
+      ],
+      "second_priority": [
+        1,
+        6
+      ],
+      "third_priority": [
+        0,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1391001": {
+      "name": "普通攻击：恶虎七式·燎身爪（一、二、三段）",
+      "desc": "<IconMap:Icon_Normal>;<IconMap:Icon_Normal>;<IconMap:Icon_Normal>（连续点按时重复）",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391002": {
+      "name": "普通攻击：恶虎七式·燎身爪（第四段）",
+      "desc": "<IconMap:Icon_Normal>（第三段后，长按或延迟点按）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391003": {
+      "name": "特殊技：恶虎七式·下山虎",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391004": {
+      "name": "强化特殊技：恶虎七式改·下山猛虎",
+      "desc": "<IconMap:Icon_SpecialReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1391005": {
+      "name": "冲刺攻击：恶虎七式·虎奔",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391006": {
+      "name": "冲刺攻击：恶虎七式·山君鼎戏",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>（长按）",
+      "element_type": 200,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391007": {
+      "name": "闪避反击：恶虎七式·离火回峰",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391008": {
+      "name": "连携技：虎釜崩",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1391009": {
+      "name": "终结技：恶虎七式·猛虎炸开花",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 201,
+      "hit_type": 102,
+      "potential": []
+    },
+    "1391010": {
+      "name": "快速支援：怒决蹯",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391011": {
+      "name": "招架支援：岿然虎踞",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    },
+    "1391012": {
+      "name": "支援突击：彪形焰颌",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 201,
+      "hit_type": 101,
+      "potential": []
+    }
+  },
+  "passive": {
+    "level": {
+      "1391501": {
+        "level": 1,
+        "id": 1391501,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>10%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>10%/20%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>25点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391502": {
+        "level": 2,
+        "id": 1391502,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>11.7%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>11.7%/23.3%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>29.2点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391503": {
+        "level": 3,
+        "id": 1391503,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>13.3%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>13.3%/26.7%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>33.3点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391504": {
+        "level": 4,
+        "id": 1391504,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>15%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>15%/30%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>37.5点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391505": {
+        "level": 5,
+        "id": 1391505,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>16.7%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>16.7%/33.3%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>41.7点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391506": {
+        "level": 6,
+        "id": 1391506,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>18.3%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>18.3%/36.7%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>45.8点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1391507": {
+        "level": 7,
+        "id": 1391507,
+        "name": [
+          "核心被动：虎虎生威",
+          "额外能力：八面威风"
+        ],
+        "desc": [
+          "橘福福未使用「虎威」时，「虎威」会自动攻击敌人，并在命中敌人时获得<color=#FFFFFF>[威风]</color>；\n「虎威」命中敌人时，若拥有至少100点<color=#FFFFFF>[威风]</color>且橘福福不为当前操作中角色，橘福福会围绕目标敌人，发动<color=#FFFFFF>[连携技：虎釜震煞]</color>；发动时，全队角色获得<color=#FFFFFF>[虎啸]</color>效果：暴击伤害提升<color=#2BAD00>20%</color>，橘福福的初始攻击力大于等于2800点时，每超过100点攻击力会使暴击伤害额外提升5%，最多额外提升30%；\n<color=#FFFFFF>[虎啸]</color>状态下，角色的<color=#FFFFFF>[连携技]</color>/<color=#FFFFFF>[终结技]</color>造成的伤害提升<color=#2BAD00>20%/40%</color>；\n<color=#FFFFFF>[虎啸]</color>状态持续30秒，重复触发时刷新持续时间，橘福福处于<color=#FFFFFF>[虎啸]</color>效果中，冲击力提升<color=#2BAD00>50点</color>。",
+          "队伍中存在<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色时触发：\n队伍中所有角色的喧响值上限提升1000点，<color=#FFFFFF>[强攻]</color>或<color=#FFFFFF>[命破]</color>角色发动<color=#FFFFFF>[终结技]</color>时，该角色获得300点喧响值。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110510": 2
+      },
+      "3": {
+        "10": 28000,
+        "110510": 4
+      },
+      "4": {
+        "10": 60000,
+        "110006": 2,
+        "110510": 9
+      },
+      "5": {
+        "10": 100000,
+        "110006": 3,
+        "110510": 15
+      },
+      "6": {
+        "10": 200000,
+        "110006": 4,
+        "110510": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "超级可怕小老虎",
+      "desc": "进入战场时，橘福福的暴击率提升12%，立即获得100点<color=#FFFFFF>[威风]</color>；橘福福的<color=#FFFFFF>[连携技]</color>命中敌人时，目标处于失衡状态下时，失衡易伤倍率提升35%，持续30秒。",
+      "desc2": "「告别与死生的课题，对孩子来说太难懂，对大人来说太沉重，对长者来说太残酷。」\n「但我不害怕——我是不会害怕的虎希人，早早地知晓这一课。」\n「我是超级可怕的大老虎，可爱小动物们请不要直视我的目光！」"
+    },
+    "2": {
+      "level": 2,
+      "name": "神通广大青溟客",
+      "desc": "处于<color=#FFFFFF>[虎啸]</color>状态下角色的暴击伤害额外提升22%；任意角色发动<color=#FFFFFF>[终结技]</color>时，橘福福回复3点<color=#FFFFFF>[威势]</color>。",
+      "desc2": "「师父教我的术法真是神奇，虽然比不过那些童话和传说。」\n「如果我厉害一点——再厉害一点，是不是可以将那些命定的过往全都重来过，就像童话和传说。」\n「我一开始确实也摸不着头脑，但其实把握了关窍就很简单啦。我来教你吧，{F#小师妹}{M#小师弟}！」"
+    },
+    "3": {
+      "level": 3,
+      "name": "仗义行侠少年郎",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「那一刻的善，那一刻的恶，或许都是一念之差。一念之差留下好多遗憾好多如果——还有好多牺牲与爱。」\n「我不聪明，大道理我不懂得许多，只好去做我觉得正确的选择。」\n「有福福大侠的地方，就有公义！」"
+    },
+    "4": {
+      "level": 4,
+      "name": "降妖伏魔虎修者",
+      "desc": "橘福福处于<color=#FFFFFF>[虎啸]</color>状态下时，自身的暴击伤害提升35%。",
+      "desc2": "「以骸好可怕，强盗好可怕，空洞好可怕，没有星星的黑夜好可怕——可我是云岿山绝顶厉害的修者，我不可以退缩，不可以再看到我的故事发生。」\n「那堪黯晦绝此景，不忍山与月与云。」\n「我是云岿山绝顶厉害的修者！魑魅魍魉速速伏诛！」"
+    },
+    "5": {
+      "level": 5,
+      "name": "神威盖世大师姐",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「诸位安心——大师姐来了！」\n「小时候的那个我没有等到一直在等待的英雄，我不会让你等——我会成为你的英雄。」\n「福福可欺而师弟师妹不可欺！我去跟他拼了！嗷——！」"
+    },
+    "6": {
+      "level": 6,
+      "name": "知我心中虎啸声",
+      "desc": "橘福福的<color=#FFFFFF>[连携技]</color>造成的伤害提升30%；橘福福在高速旋转状态下时，消耗<color=#FFFFFF>[威势]</color>命中敌人时，会发射3个爆米花，每个爆米花造成福福攻击力160%的伤害，且造成的伤害视为<color=#FFFFFF>[连携技]</color>伤害。",
+      "desc2": "「威风摇落山上月，气宇踏平洞中窟——师姐这句诗写得如何？有没有把师姐威风八面的气概写出来？」\n「侠名不重要，遗憾不重要，泪水不重要，总有一天会到来的离别也没关系。」\n「只要有你还记得，我曾勇敢咆哮过。」"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 33200,
+    "slot2": 31000,
+    "slot_sub": 31200,
+    "part_sub_list": [
+      20103,
+      12102,
+      21103
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          33200,
+          32800
+        ],
+        "part_sub_list": [
+          12102,
+          20103
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          12102,
+          12202
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 20103,
+      "name": "暴击率",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconCrit.png"
+    },
+    "part5": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    },
+    "part6": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part_sub": {
+      "prop": 12202,
+      "name": "冲击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconBreakStun.png"
+    }
+  },
+  "strategy": [
+    "07",
+    "<IconMap:Icon_GeneralBuff_Fire>火属性，后台击破",
+    "提升全队角色暴伤与喧响值上限",
+    "为强攻&命破代理人额外回复喧响值"
+  ],
+  "potential": [],
+  "potential_detail": {},
+  "live2_d": "UISpineJufufu"
+}

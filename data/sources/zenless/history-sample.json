@@ -1,0 +1,39 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 51980,
+        "ns": 0,
+        "title": "Wrathborn Duo/2026-05-27",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Signal Search Infobox\n|name              = Wrathborn Duo 2026-05-27\n|image             = Wrathborn Duo 2026-05-27.png\n|type              = Exclusive Channel\n|duration          = event\n|time_known        = yes\n|time_start        = 2026-05-27 12:00:00\n|time_end          = 2026-06-16 14:59:59\n|preceding         = Cold Rain Wanes in the Night/2026-05-06\n|preceding2        = Wandering Night Lantern/2026-05-06\n|alongside         = Starlight, Shine Bright!/2026-05-27\n|alongside2        = Bellicose Blaze/2026-05-27\n|alongside3        = Starlight Rider Faceplate/2026-05-27\n|succeeding        = Graceful Gale/2026-06-17\n|succeeding2       = Light Upon Fingertips/2026-06-17\n|link              = https://www.hoyolab.com/article/45197151\n}}\n{{Lead/Signal Search|Wrathborn Duo/2026-05-27}}\n\n==Signal Search Details==\n===Duration===\n* 2026/05/27 12:00:00 &ndash; 2026/06/16 14:59:59 (server time)\n\n===Summary===\n* During this event Signal Search, the Agent {{Intro/Agent/Full|Orphie Magnusson & Magus}} as well as {{Intro/Agent/Full|Komano Manato}} and {{Intro/Agent/Full|Pan Yinhu}} will get a limited-time rate up!\n* For information about rates, see [[Signal Search]]es.\n\n===Item Pool===\n{{Signal Search Pool\n|agent_S_F    = Orphie Magnusson and Magus\n|agent_A_F    = Komano Manato;Pan Yinhu\n|agent_S      = Alexandrina Sebastiane;Grace Howard;Koleda Belobog;Nekomiya Mana;Soldier 11;Von Lycaon\n|agent_A      = Anby Demara;Anton Ivanov;Ben Bigger;Billy Kid;Corin Wickes;Luciana de Montefio;Nicole Demara;Piper Wheel;Pulchra Fellini;Seth Lowell;Soukaku\n|w-engine_A   = Bashful Demon; Big Cylinder; Box Cutter; Bunny Band; Demara Battery Mark II; Drill Rig - Red Axis; Grill O'Wisp; Housekeeper; Kaboom the Cannon; Original Transmorpher; Peacekeeper - Specialized; Precious Fossilized Core; Puzzle Sphere; Rainforest Gourmet; Roaring Ride; Slice of Time; Starlight Engine Replica; Starlight Engine; Steam Oven; Street Superstar; The Vault; Tremor Trigram Vessel; Weeping Gemini\n|w-engine_B   = (Identity) Base;(Identity) Inflection;(Lunar) Decrescent;(Lunar) Noviluna;(Lunar) Pleniluna;(Magnetic Storm) Alpha;(Magnetic Storm) Bravo;(Magnetic Storm) Charlie;(Reverb) Mark I;(Reverb) Mark II;(Reverb) Mark III;(Vortex) Arrow;(Vortex) Hatchet;(Vortex) Revolver;(Cinder) Cobalt\n}}\n\n==Change History==\n{{Change History|2.8}}\n\n[[vi:Hai Bờ Nghiệt Hỏa/27-05-2026]]"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "pageid": 55172,
+        "ns": 0,
+        "title": "'Till the Ends of the Sky/2026-08-19",
+        "revisions": [
+          {
+            "slots": {
+              "main": {
+                "contentmodel": "wikitext",
+                "contentformat": "text/x-wiki",
+                "content": "{{Signal Search Infobox\n|name              = 'Till the Ends of the Sky 2026-08-19\n|image             = 'Till the Ends of the Sky 2026-08-19.png\n|type              = Exclusive Channel\n|duration          = event\n|time_known        = yes\n|time_start        = 2026-08-19 12:00:00\n|time_end          = 2026-09-08 14:59:59\n|preceding         = Neon Angel/2026-07-29\n|preceding2        = \n|alongside         = Exclusive Rescreening/2026-08-19\n|alongside2        = Knight's Extolment/2026-08-19\n|alongside3        = W-Engine Reverberation/2026-08-19\n|succeeding        = Bloodmoon Rising/2026-09-09\n|succeeding2       = Axiom of Captivation/2026-09-09\n|link              = https://www.hoyolab.com/article/46329735\n}}\n{{Lead/Signal Search|'Till the Ends of the Sky/2026-08-19}}\n\n==Signal Search Details==\n===Duration===\n* 2026/08/19 12:00 (server time) &ndash; 2026/09/08 14:59 (server time)\n\n===Summary===\n* During this event Signal Search, the limited S-Rank Agent {{Intro/Agent/Full|Sigrid de L'Azur}} and default A-Rank Agents {{Intro/Agent/Full|Soukaku}} & {{Intro/Agent/Full|Luciana de Montefio}} have significantly boosted reception rates!\n* For information about rates, see [[Signal Search]]es.\n\n===Item Pool===\n{{Signal Search Pool\n|agent_S_F    = Sigrid de L'Azur\n|agent_A_F    = Soukaku; Luciana de Montefio\n|agent_S      = Alexandrina Sebastiane;Grace Howard;Koleda Belobog;Nekomiya Mana;Soldier 11;Von Lycaon;Caesar King;Zhu Yuan; Tsukishiro Yanagi\n|agent_A      = Anby Demara;Anton Ivanov;Ben Bigger;Billy Kid;Corin Wickes;Komano Manato;Nicole Demara;Pan Yinhu;Piper Wheel;Pulchra Fellini;Seth Lowell\n|w-engine_A   = Bashful Demon; Big Cylinder; Box Cutter; Bunny Band; Demara Battery Mark II; Drill Rig - Red Axis; Grill O'Wisp; Housekeeper; Kaboom the Cannon; Original Transmorpher; Peacekeeper - Specialized; Precious Fossilized Core; Puzzle Sphere; Rainforest Gourmet; Roaring Ride; Slice of Time; Starlight Engine Replica; Starlight Engine; Steam Oven; Street Superstar; The Vault; Tremor Trigram Vessel; Weeping Gemini\n|w-engine_B   = (Identity) Base;(Identity) Inflection;(Lunar) Decrescent;(Lunar) Noviluna;(Lunar) Pleniluna;(Magnetic Storm) Alpha;(Magnetic Storm) Bravo;(Magnetic Storm) Charlie;(Reverb) Mark I;(Reverb) Mark II;(Reverb) Mark III;(Vortex) Arrow;(Vortex) Hatchet;(Vortex) Revolver;(Cinder) Cobalt\n}}\n\n==Change History==\n{{Change History|3.1}}"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

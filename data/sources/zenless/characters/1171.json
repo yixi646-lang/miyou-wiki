@@ -1,0 +1,2461 @@
+{
+  "id": 1171,
+  "icon": "IconRole32",
+  "name": "柏妮思",
+  "code_name": "Burnice",
+  "rarity": 4,
+  "weapon_type": {
+    "3": "异常"
+  },
+  "element_type": {
+    "201": "火属性"
+  },
+  "special_element_type": {},
+  "hit_type": {
+    "103": "穿透"
+  },
+  "camp": {
+    "4": "卡吕冬之子"
+  },
+  "gender": 2,
+  "partner_info": {
+    "birthday": "5/23",
+    "full_name": "柏妮思·怀特",
+    "gender": "女",
+    "icon_path": "UI/Sprite/A1DynamicLoad/IconRoleCircle/UnPacker/IconRoleCircle32.png",
+    "inter_knot_icon": "UI/Sprite/A1DynamicLoad/InterKnot/UnPacker/IconInterknotAvatar/IconInterKnotRole0032.png",
+    "impression_f": "柏妮思调制的饮品真的很好喝诶，难怪她在外环也很有名！",
+    "impression_m": "嗯，只要我们不勇敢尝试她专门给大钢牙调配的饮品就行。",
+    "impressions": [
+      "对柏妮思的印象：\n · 柏妮思热情地关心她的同伴，有人会认为这热情有些过火",
+      " · 她竟然能和狗狗打成一片…为什么好像并不令人意外？",
+      " · 柏妮思偶尔会闯祸，好在她总有办法解决，似乎宇宙意志总站在她这边"
+    ],
+    "profile_desc": "柏妮思，卡吕冬之子的燃油饮调配师。\n同时也是个无可救药的燃油宅，卡吕冬之子所有机械设备所使用的燃油都由柏妮思包揽。\n她对燃油似乎拥有超乎一切的热情。\n\n柏妮思性格极度外向开朗，自来熟，神经大条。\n她对身边的人有强烈的情绪感染力，积极乐观的精神状态能充分感染身边的每一个人。\n「喜欢我调的饮料？谢谢你，大钢牙也很喜欢~那家伙一顿能吃两百升呢！」\n「想尝尝它的特供燃油吗？很火热的哦~」",
+    "role_icon": "IconRole/UnPacker/IconRole32",
+    "stature": "160",
+    "unlock_condition": [
+      "获得代理人",
+      "完成主线：「悠然插曲·意外的新顾客」（主线第四章完成后开启）后解锁",
+      "完成委托「安比的困扰」"
+    ],
+    "trust_lv": {
+      "1": "柏妮思，卡吕冬之子的燃油饮调配师。\n同时也是个无可救药的燃油宅，卡吕冬之子所有机械设备所使用的燃油都由柏妮思包揽。\n她对燃油似乎拥有超乎一切的热情。\n\n柏妮思性格极度外向开朗，自来熟，神经大条。\n她对身边的人有强烈的情绪感染力，积极乐观的精神状态能充分感染身边的每一个人。\n「喜欢我调的饮料？谢谢你，大钢牙也很喜欢~那家伙一顿能吃两百升呢！」\n「想尝尝它的特供燃油吗？很火热的哦~」",
+      "2": "",
+      "3": "「火焰能带来温暖，但也可能造成灼伤。对于这样的人，善用可以取暖，恶用的话…算了，反正凯撒那个笨蛋根本想不出恶用的方式。」\n——by某位不愿意透露姓名的大小姐",
+      "4": ""
+    }
+  },
+  "skin": {
+    "3111710": {
+      "name": "柏妮思·纵燃欢宴",
+      "desc": "比燃油饮更热烈的装束。如果在外环误入一场派对，那十有八九会撞见柏妮思，请对她递出的特调保持谨慎…\n什么，已经开喝了？那么——3，2，1，燃烧吧！",
+      "obtain_desc": "",
+      "image": "IconRole32"
+    }
+  },
+  "stats": {
+    "armor": 0,
+    "armor_growth": 0,
+    "attack": 124,
+    "attack_growth": 74992,
+    "avatar_piece_id": 5171,
+    "break_stun": 83,
+    "crit": 500,
+    "crit_damage": 5000,
+    "crit_dmg_res": 0,
+    "crit_res": 0,
+    "defence": 48,
+    "defence_growth": 65524,
+    "element_abnormal_power": 118,
+    "element_mystery": 120,
+    "endurance": 0,
+    "hp_growth": 803931,
+    "hp_max": 592,
+    "pen_delta": 0,
+    "pen_rate": 0,
+    "rbl": 1,
+    "rbl_correction_factor": 10000,
+    "rbl_probability": 0,
+    "shield": 0,
+    "shield_growth": 0,
+    "sp_bar_point": 120,
+    "sp_recover": 120,
+    "stun": 0,
+    "tags": [
+      "Burnice",
+      "Pierce",
+      "Fire",
+      "Female",
+      "Camp4",
+      "Size2",
+      "AidTypeParry",
+      "Burnice",
+      "EtherEyesSize2"
+    ],
+    "rp_max": 0,
+    "rp_recover": 0,
+    "ep_max": 0,
+    "ep_recover": 0,
+    "sharp_critical_damage": 0
+  },
+  "level": {
+    "1": {
+      "hp_max": 0,
+      "attack": 0,
+      "defence": 0,
+      "level_max": 10,
+      "level_min": 0,
+      "materials": {
+        "10": 24000,
+        "100213": 4
+      }
+    },
+    "2": {
+      "hp_max": 407,
+      "attack": 44,
+      "defence": 33,
+      "level_max": 20,
+      "level_min": 10,
+      "materials": {
+        "10": 56000,
+        "100223": 12
+      }
+    },
+    "3": {
+      "hp_max": 813,
+      "attack": 89,
+      "defence": 66,
+      "level_max": 30,
+      "level_min": 20,
+      "materials": {
+        "10": 120000,
+        "100223": 20
+      }
+    },
+    "4": {
+      "hp_max": 1220,
+      "attack": 133,
+      "defence": 99,
+      "level_max": 40,
+      "level_min": 30,
+      "materials": {
+        "10": 200000,
+        "100233": 10
+      }
+    },
+    "5": {
+      "hp_max": 1626,
+      "attack": 177,
+      "defence": 133,
+      "level_max": 50,
+      "level_min": 40,
+      "materials": {
+        "10": 400000,
+        "100233": 20
+      }
+    },
+    "6": {
+      "hp_max": 2033,
+      "attack": 222,
+      "defence": 166,
+      "level_max": 60,
+      "level_min": 50,
+      "materials": {}
+    }
+  },
+  "extra_level": {
+    "1": {
+      "max_level": 15,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 0
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "2": {
+      "max_level": 25,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 12
+        }
+      }
+    },
+    "3": {
+      "max_level": 35,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 25
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "4": {
+      "max_level": 45,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 24
+        }
+      }
+    },
+    "5": {
+      "max_level": 55,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 50
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    },
+    "6": {
+      "max_level": 60,
+      "extra": {
+        "12101": {
+          "prop": 12101,
+          "name": "基础攻击力",
+          "format": "{0:0.#}",
+          "value": 75
+        },
+        "30501": {
+          "prop": 30501,
+          "name": "基础能量自动回复",
+          "format": "{0:0.##}",
+          "value": 36
+        }
+      }
+    }
+  },
+  "level_exp": [
+    50,
+    150,
+    250,
+    400,
+    600,
+    800,
+    1000,
+    1250,
+    1500,
+    1800,
+    1935,
+    2065,
+    2200,
+    2335,
+    2465,
+    2600,
+    2735,
+    2865,
+    3000,
+    4680,
+    4975,
+    5265,
+    5560,
+    5855,
+    6145,
+    6440,
+    6735,
+    7025,
+    7320,
+    10800,
+    11400,
+    12000,
+    12600,
+    13200,
+    13800,
+    14400,
+    15000,
+    15600,
+    16200,
+    17100,
+    18300,
+    19500,
+    20700,
+    21900,
+    23100,
+    24300,
+    25500,
+    26700,
+    27900,
+    34200,
+    36600,
+    39000,
+    41400,
+    43800,
+    46200,
+    48600,
+    51000,
+    53400,
+    55800,
+    0
+  ],
+  "skill": {
+    "basic": {
+      "description": [
+        {
+          "name": "普通攻击：炽焰直调式",
+          "desc": "点按 <IconMap:Icon_Normal> 发动：\n向前方进行至多五段的攻击，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "普通攻击：炽焰搅拌式",
+          "desc": "<color=#FFFFFF>[燃油特调]</color>状态下，长按 <IconMap:Icon_Normal> 发动：\n持续回旋并向周身喷射火焰，随后发动终结一击，造成<color=#FF5521>火属性伤害</color>，保持长按可以延长喷射的持续时间；\n招式发动时，将会消耗20点<color=#FFFFFF>[燃点]</color>；\n招式发动期间抗打断等级提升；\n终结一击发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "普通攻击：炽焰搅拌式",
+          "desc": "<color=#FFFFFF>[燃油特调]</color>状态下，长按 <IconMap:Icon_Normal> 发动：\n持续回旋并向周身喷射火焰，随后发动终结一击，额外触发一次不消耗<color=#FFFFFF>[燃点]</color>的<color=#FFFFFF>[余烬]</color>，造成<color=#FF5521>火属性伤害</color>，保持长按可以延长喷射的持续时间；\n招式造成的伤害同时视为<color=#FFFFFF>[支援攻击]</color>伤害；\n招式发动时，将会消耗20点<color=#FFFFFF>[燃点]</color>；\n招式发动期间抗打断等级提升；\n终结一击发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        },
+        {
+          "name": "普通攻击：炽焰直调式",
+          "param": [
+            {
+              "name": "一段伤害倍率",
+              "desc": "{Skill:1171001, Prop:1001}",
+              "param": {
+                "1171001": {
+                  "main": 4480,
+                  "growth": 410,
+                  "format": "%",
+                  "damage_percentage": 4480,
+                  "damage_percentage_growth": 410,
+                  "stun_ratio": 1870,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 46750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1694,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1695
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段伤害倍率",
+              "desc": "{Skill:1171002, Prop:1001}",
+              "param": {
+                "1171002": {
+                  "main": 4350,
+                  "growth": 400,
+                  "format": "%",
+                  "damage_percentage": 4350,
+                  "damage_percentage_growth": 400,
+                  "stun_ratio": 3080,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 10070,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 77000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2795
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段伤害倍率",
+              "desc": "{Skill:1171003, Prop:1001}",
+              "param": {
+                "1171003": {
+                  "main": 7170,
+                  "growth": 660,
+                  "format": "%",
+                  "damage_percentage": 7170,
+                  "damage_percentage_growth": 660,
+                  "stun_ratio": 4780,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 15620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4337,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4338
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段伤害倍率",
+              "desc": "{Skill:1171004, Prop:1001}",
+              "param": {
+                "1171004": {
+                  "main": 6660,
+                  "growth": 610,
+                  "format": "%",
+                  "damage_percentage": 6660,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 3040,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 9920,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 75900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2754,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2755
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段伤害倍率",
+              "desc": "{Skill:1171005, Prop:1001}",
+              "param": {
+                "1171005": {
+                  "main": 9630,
+                  "growth": 880,
+                  "format": "%",
+                  "damage_percentage": 9630,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 5200,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 16990,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 129800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4719,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4720
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "一段失衡倍率",
+              "desc": "{Skill:1171001, Prop:1002}",
+              "param": {
+                "1171001": {
+                  "main": 1870,
+                  "growth": 90,
+                  "format": "%",
+                  "damage_percentage": 4480,
+                  "damage_percentage_growth": 410,
+                  "stun_ratio": 1870,
+                  "stun_ratio_growth": 90,
+                  "sp_recovery": 6100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 46750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 1694,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 1695
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "二段失衡倍率",
+              "desc": "{Skill:1171002, Prop:1002}",
+              "param": {
+                "1171002": {
+                  "main": 3080,
+                  "growth": 140,
+                  "format": "%",
+                  "damage_percentage": 4350,
+                  "damage_percentage_growth": 400,
+                  "stun_ratio": 3080,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 10070,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 77000,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2795
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "三段失衡倍率",
+              "desc": "{Skill:1171003, Prop:1002}",
+              "param": {
+                "1171003": {
+                  "main": 4780,
+                  "growth": 220,
+                  "format": "%",
+                  "damage_percentage": 7170,
+                  "damage_percentage_growth": 660,
+                  "stun_ratio": 4780,
+                  "stun_ratio_growth": 220,
+                  "sp_recovery": 15620,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 119350,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4337,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4338
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "四段失衡倍率",
+              "desc": "{Skill:1171004, Prop:1002}",
+              "param": {
+                "1171004": {
+                  "main": 3040,
+                  "growth": 140,
+                  "format": "%",
+                  "damage_percentage": 6660,
+                  "damage_percentage_growth": 610,
+                  "stun_ratio": 3040,
+                  "stun_ratio_growth": 140,
+                  "sp_recovery": 9920,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 75900,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 2754,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 2755
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "五段失衡倍率",
+              "desc": "{Skill:1171005, Prop:1002}",
+              "param": {
+                "1171005": {
+                  "main": 5200,
+                  "growth": 240,
+                  "format": "%",
+                  "damage_percentage": 9630,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 5200,
+                  "stun_ratio_growth": 240,
+                  "sp_recovery": 16990,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 129800,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 4719,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 4720
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "普通攻击：炽焰搅拌式",
+          "param": [
+            {
+              "name": "持续喷射伤害倍率",
+              "desc": "{Skill:1171006, Prop:1001}",
+              "param": {
+                "1171006": {
+                  "main": 12540,
+                  "growth": 1140,
+                  "format": "%",
+                  "damage_percentage": 12540,
+                  "damage_percentage_growth": 1140,
+                  "stun_ratio": 9650,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 15780,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 241175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9598,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8766
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "终结一击伤害倍率",
+              "desc": "{Skill:1171007, Prop:1001}",
+              "param": {
+                "1171007": {
+                  "main": 23280,
+                  "growth": 2120,
+                  "format": "%",
+                  "damage_percentage": 23280,
+                  "damage_percentage_growth": 2120,
+                  "stun_ratio": 17910,
+                  "stun_ratio_growth": 820,
+                  "sp_recovery": 29310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 447700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17111,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16279
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "持续喷射失衡倍率",
+              "desc": "{Skill:1171006, Prop:1002}",
+              "param": {
+                "1171006": {
+                  "main": 9650,
+                  "growth": 440,
+                  "format": "%",
+                  "damage_percentage": 12540,
+                  "damage_percentage_growth": 1140,
+                  "stun_ratio": 9650,
+                  "stun_ratio_growth": 440,
+                  "sp_recovery": 15780,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 241175,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9598,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 8766
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "终结一击失衡倍率",
+              "desc": "{Skill:1171007, Prop:1002}",
+              "param": {
+                "1171007": {
+                  "main": 17910,
+                  "growth": 820,
+                  "format": "%",
+                  "damage_percentage": 23280,
+                  "damage_percentage_growth": 2120,
+                  "stun_ratio": 17910,
+                  "stun_ratio_growth": 820,
+                  "sp_recovery": 29310,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 447700,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 17111,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 16279
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "dodge": {
+      "description": [
+        {
+          "name": "闪避：焰影疾行",
+          "desc": "点按 <IconMap:Icon_Evade> 发动：\n快速的冲刺闪避；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：危险发酵式",
+          "desc": "闪避时，点按 <IconMap:Icon_Normal> 发动：\n挥舞喷射器向前方进行突进攻击，造成<color=#FF5521>火属性伤害</color>。",
+          "potential": []
+        },
+        {
+          "name": "闪避反击：摇荡闪",
+          "desc": "触发<color=#FFFFFF>[极限闪避]</color>后，点按 <IconMap:Icon_Normal> 发动：\n对前方敌人发动连续攻击并喷射火焰，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "冲刺攻击：危险发酵式",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171014, Prop:1001}",
+              "param": {
+                "1171014": {
+                  "main": 6790,
+                  "growth": 620,
+                  "format": "%",
+                  "damage_percentage": 6790,
+                  "damage_percentage_growth": 620,
+                  "stun_ratio": 3400,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 84975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3083,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3084
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171014, Prop:1002}",
+              "param": {
+                "1171014": {
+                  "main": 3400,
+                  "growth": 160,
+                  "format": "%",
+                  "damage_percentage": 6790,
+                  "damage_percentage_growth": 620,
+                  "stun_ratio": 3400,
+                  "stun_ratio_growth": 160,
+                  "sp_recovery": 11100,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 84975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 3083,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3084
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "闪避反击：摇荡闪",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171015, Prop:1001}",
+              "param": {
+                "1171015": {
+                  "main": 21970,
+                  "growth": 2000,
+                  "format": "%",
+                  "damage_percentage": 21970,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 19440,
+                  "stun_ratio_growth": 890,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171015, Prop:1002}",
+              "param": {
+                "1171015": {
+                  "main": 19440,
+                  "growth": 890,
+                  "format": "%",
+                  "damage_percentage": 21970,
+                  "damage_percentage_growth": 2000,
+                  "stun_ratio": 19440,
+                  "stun_ratio_growth": 890,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22667
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "special": {
+      "description": [
+        {
+          "name": "特殊技：灼热熟成法",
+          "desc": "点按 <IconMap:Icon_Special> 发动：\n向前方发动一次火焰冲击，造成<color=#FF5521>火属性伤害</color>；\n长按 <IconMap:Icon_Special> 可以进行蓄力，提升招式的威力；\n招式发动期间抗打断等级提升。",
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n使用单手喷射器持续喷射火焰，随后向前方直线范围发动一次火焰冲击，造成大量<color=#FF5521>火属性伤害</color>，保持长按可以持续消耗能量并延长喷射的持续时间；\n持续喷射期间拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以发动侧身闪避，向对应方向调整身位；\n持续喷射期间抗打断等级提升，受到的伤害降低40%；\n侧身闪避和火焰冲击发动期间拥有无敌效果。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法",
+          "desc": "能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n使用单手喷射器持续喷射火焰，随后向前方直线范围发动一次火焰冲击，造成大量<color=#FF5521>火属性伤害</color>，保持长按可以持续消耗能量并延长喷射的持续时间；\n持续喷射期间拖曳{LAYOUT_CONSOLECONTROLLER#操作杆}{LAYOUT_FALLBACK#摇杆}，可以发动侧身闪避，向对应方向调整身位；\n持续喷射期间抗打断等级提升，受到的伤害降低60%；\n侧身闪避和火焰冲击发动期间拥有无敌效果。",
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法·双份",
+          "desc": "<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>发动期间，能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n使用双手喷射器持续喷射火焰，随后向前方直线范围发动一次强力的火焰冲击，造成大量<color=#FF5521>火属性伤害</color>，保持长按可以持续消耗能量并延长喷射的持续时间；\n喷射发动瞬间和火焰冲击发动期间拥有无敌效果；\n持续喷射期间抗打断等级提升，受到的伤害降低40%。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法·双份",
+          "desc": "<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>发动期间，能量足够时，点按 <IconMap:Icon_SpecialReady> 发动：\n使用双手喷射器持续喷射火焰，随后向前方直线范围发动一次强力的火焰冲击，造成大量<color=#FF5521>火属性伤害</color>，保持长按可以持续消耗能量并延长喷射的持续时间；\n喷射发动瞬间和火焰冲击发动期间拥有无敌效果；\n持续喷射期间抗打断等级提升，受到的伤害降低60%。",
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        },
+        {
+          "name": "强化特殊技：灼热抛接法",
+          "desc": "拥有<color=#FFFFFF>[流火]</color>时，换入前场时发动：\n队友触发12次<color=#FFFFFF>[余烬]</color>后，柏妮思获得一点<color=#FFFFFF>[流火]</color>，拥有<color=#FFFFFF>[流火]</color>时，柏妮思下一次换入前场时消耗一点<color=#FFFFFF>[流火]</color>自动发动该招式，该次入场视作以[快速支援]入场，<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>触发的<color=#FFFFFF>[余烬]</color>命中敌人时增加2次计数，拥有<color=#FFFFFF>[流火]</color>时不再增加计数，消耗<color=#FFFFFF>[流火]</color>时清空计数；\n快速突进并越过敌人，向敌人发动一次火焰冲击，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n招式重击命中处于<color=#FE437E>以太异常状态</color>、<color=#2EB6FF>电属性异常状态</color>、<color=#FF5521>火属性异常状态</color>、<color=#F0D12B>物理属性异常状态</color>、<color=#98EFF0>冰属性异常状态</color>、<color=#A6C5FD>风属性异常状态</color>的目标时，触发一次<color=#FFFFFF>[异放]</color>：额外结算一次原属性异常<color=#FE437E>480%</color>/<color=#2EB6FF>240%</color>/<color=#FF5521>600%</color>/<color=#F0D12B>40%</color>/<color=#98EFF0>60%</color>/<color=#A6C5FD>24%</color>的伤害；\n[额外能力：星火燎原]的<color=#FF5521>火属性异常积蓄值</color>提升效果对该招式生效；\n招式发动期间拥有无敌效果；\n招式发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        },
+        {
+          "name": "特殊技：灼热熟成法",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171008, Prop:1001}",
+              "param": {
+                "1171008": {
+                  "main": 5780,
+                  "growth": 530,
+                  "format": "%",
+                  "damage_percentage": 5780,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 5780,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 144650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5251,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5252
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力伤害倍率",
+              "desc": "{Skill:1171009, Prop:1001}",
+              "param": {
+                "1171009": {
+                  "main": 6240,
+                  "growth": 570,
+                  "format": "%",
+                  "damage_percentage": 6240,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5669
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171008, Prop:1002}",
+              "param": {
+                "1171008": {
+                  "main": 5780,
+                  "growth": 270,
+                  "format": "%",
+                  "damage_percentage": 5780,
+                  "damage_percentage_growth": 530,
+                  "stun_ratio": 5780,
+                  "stun_ratio_growth": 270,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 144650,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5251,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5252
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "蓄力失衡倍率",
+              "desc": "{Skill:1171009, Prop:1002}",
+              "param": {
+                "1171009": {
+                  "main": 6240,
+                  "growth": 290,
+                  "format": "%",
+                  "damage_percentage": 6240,
+                  "damage_percentage_growth": 570,
+                  "stun_ratio": 6240,
+                  "stun_ratio_growth": 290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 155925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 5668,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 5669
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法",
+          "param": [
+            {
+              "name": "持续喷射伤害倍率",
+              "desc": "{Skill:1171010, Prop:1001}",
+              "param": {
+                "1171010": {
+                  "main": 54380,
+                  "growth": 4950,
+                  "format": "%",
+                  "damage_percentage": 54380,
+                  "damage_percentage_growth": 4950,
+                  "stun_ratio": 37860,
+                  "stun_ratio_growth": 1730,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1367575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 41110,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18900
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "持续喷射失衡倍率",
+              "desc": "{Skill:1171010, Prop:1002}",
+              "param": {
+                "1171010": {
+                  "main": 37860,
+                  "growth": 1730,
+                  "format": "%",
+                  "damage_percentage": 54380,
+                  "damage_percentage_growth": 4950,
+                  "stun_ratio": 37860,
+                  "stun_ratio_growth": 1730,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1367575,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 41110,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 18900
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "火焰冲击伤害倍率",
+              "desc": "{Skill:1171011, Prop:1001}",
+              "param": {
+                "1171011": {
+                  "main": 9670,
+                  "growth": 880,
+                  "format": "%",
+                  "damage_percentage": 9670,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 6570,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 240075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7155,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3150
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "火焰冲击失衡倍率",
+              "desc": "{Skill:1171011, Prop:1002}",
+              "param": {
+                "1171011": {
+                  "main": 6570,
+                  "growth": 300,
+                  "format": "%",
+                  "damage_percentage": 9670,
+                  "damage_percentage_growth": 880,
+                  "stun_ratio": 6570,
+                  "stun_ratio_growth": 300,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 240075,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7155,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3150
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "发动所需能量",
+              "desc": "40点",
+              "potential": []
+            },
+            {
+              "name": "持续喷射能量消耗",
+              "desc": "12.5点/秒",
+              "potential": []
+            },
+            {
+              "name": "火焰冲击能量消耗",
+              "desc": "5点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：灼热摇荡法·双份",
+          "param": [
+            {
+              "name": "持续喷射伤害倍率",
+              "desc": "{Skill:1171012, Prop:1001}",
+              "param": {
+                "1171012": {
+                  "main": 95810,
+                  "growth": 8710,
+                  "format": "%",
+                  "damage_percentage": 95810,
+                  "damage_percentage_growth": 8710,
+                  "stun_ratio": 58570,
+                  "stun_ratio_growth": 2670,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1839750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 53024,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22737
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "持续喷射失衡倍率",
+              "desc": "{Skill:1171012, Prop:1002}",
+              "param": {
+                "1171012": {
+                  "main": 58570,
+                  "growth": 2670,
+                  "format": "%",
+                  "damage_percentage": 95810,
+                  "damage_percentage_growth": 8710,
+                  "stun_ratio": 58570,
+                  "stun_ratio_growth": 2670,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 1839750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 53024,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 22737
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "火焰冲击伤害倍率",
+              "desc": "{Skill:1171013, Prop:1001}",
+              "param": {
+                "1171013": {
+                  "main": 28710,
+                  "growth": 2610,
+                  "format": "%",
+                  "damage_percentage": 28710,
+                  "damage_percentage_growth": 2610,
+                  "stun_ratio": 20780,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 603625,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18365,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "火焰冲击失衡倍率",
+              "desc": "{Skill:1171013, Prop:1002}",
+              "param": {
+                "1171013": {
+                  "main": 20780,
+                  "growth": 950,
+                  "format": "%",
+                  "damage_percentage": 28710,
+                  "damage_percentage_growth": 2610,
+                  "stun_ratio": 20780,
+                  "stun_ratio_growth": 950,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 603625,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 18365,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11004
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "发动所需能量",
+              "desc": "10点",
+              "potential": []
+            },
+            {
+              "name": "持续喷射能量消耗",
+              "desc": "25点/秒",
+              "potential": []
+            },
+            {
+              "name": "火焰冲击能量消耗",
+              "desc": "10点",
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "强化特殊技：灼热抛接法",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171026, Prop:1001}",
+              "param": {
+                "1171026": {
+                  "main": 19990,
+                  "growth": 1820,
+                  "format": "%",
+                  "damage_percentage": 19990,
+                  "damage_percentage_growth": 1820,
+                  "stun_ratio": 19990,
+                  "stun_ratio_growth": 910,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 249975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9083,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9084
+                }
+              },
+              "potential": [
+                117100,
+                117101,
+                117102,
+                117103,
+                117104,
+                117105
+              ]
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171026, Prop:1002}",
+              "param": {
+                "1171026": {
+                  "main": 19990,
+                  "growth": 910,
+                  "format": "%",
+                  "damage_percentage": 19990,
+                  "damage_percentage_growth": 1820,
+                  "stun_ratio": 19990,
+                  "stun_ratio_growth": 910,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 249975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 9083,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 9084
+                }
+              },
+              "potential": [
+                117100,
+                117101,
+                117102,
+                117103,
+                117104,
+                117105
+              ]
+            }
+          ],
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "chain": {
+      "description": [
+        {
+          "name": "连携技：燃油熔焰",
+          "desc": "触发<color=#FFFFFF>[连携技]</color>时，选择对应角色发动：\n快速突进并向周身喷射火焰，随后向前方扇形范围发动一次火焰冲击，造成大量<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": []
+        },
+        {
+          "name": "终结技：纵享盛焰",
+          "desc": "喧响等级达到<color=#FFFFFF>[极]</color>时，点按 <IconMap:Icon_UltimateReady> 发动：\n快速突进后跃向空中，对前方大范围区域持续喷射火焰，造成大量<color=#FF5521>火属性伤害</color>；\n跃向空中时，将触发<color=#FFFFFF>[快速支援]</color>，若响应<color=#FFFFFF>[快速支援]</color>，柏妮思会延长火焰喷射的持续时间；\n招式发动时，回复50点<color=#FFFFFF>[燃点]</color>；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "连携技：燃油熔焰",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171016, Prop:1001}",
+              "param": {
+                "1171016": {
+                  "main": 68090,
+                  "growth": 6190,
+                  "format": "%",
+                  "damage_percentage": 68090,
+                  "damage_percentage_growth": 6190,
+                  "stun_ratio": 24200,
+                  "stun_ratio_growth": 1100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2433750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 100296,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21997
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171016, Prop:1002}",
+              "param": {
+                "1171016": {
+                  "main": 24200,
+                  "growth": 1100,
+                  "format": "%",
+                  "damage_percentage": 68090,
+                  "damage_percentage_growth": 6190,
+                  "stun_ratio": 24200,
+                  "stun_ratio_growth": 1100,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 2433750,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 100296,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 21997
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "终结技：纵享盛焰",
+          "param": [
+            {
+              "name": "最大伤害倍率",
+              "desc": "{Skill:1171017, Prop:1001}",
+              "param": {
+                "1171017": {
+                  "main": 201220,
+                  "growth": 18300,
+                  "format": "%",
+                  "damage_percentage": 201220,
+                  "damage_percentage_growth": 18300,
+                  "stun_ratio": 10640,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 86116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 59667
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "最大失衡倍率",
+              "desc": "{Skill:1171017, Prop:1002}",
+              "param": {
+                "1171017": {
+                  "main": 10640,
+                  "growth": 490,
+                  "format": "%",
+                  "damage_percentage": 201220,
+                  "damage_percentage_growth": 18300,
+                  "stun_ratio": 10640,
+                  "stun_ratio_growth": 490,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 86116,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 59667
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    },
+    "assist": {
+      "description": [
+        {
+          "name": "快速支援：提神特饮",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动连续攻击并喷射火焰，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果。",
+          "potential": [
+            0
+          ]
+        },
+        {
+          "name": "快速支援：提神特饮",
+          "desc": "当前操作中的角色被击飞时，点按 <IconMap:Icon_Switch> 发动：\n对前方敌人发动连续攻击并喷射火焰，造成<color=#F0D12B>物理伤害</color>和<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": [
+            117100,
+            117101,
+            117102,
+            117103,
+            117104,
+            117105
+          ]
+        },
+        {
+          "name": "招架支援：烟熏油盅",
+          "desc": "前场角色即将被攻击时，点按 <IconMap:Icon_Switch> 发动：\n招架敌人的攻击，累积大量失衡值；\n招式发动期间拥有无敌效果。",
+          "potential": []
+        },
+        {
+          "name": "支援突击：灼焰甘露",
+          "desc": "发动<color=#FFFFFF>[招架支援]</color>后，点按 <IconMap:Icon_Normal> 发动：\n腾空跃起，快速旋转前进并向周身喷射火焰，造成<color=#FF5521>火属性伤害</color>；\n招式发动期间拥有无敌效果；\n招式发动后，点按 <IconMap:Icon_SpecialReady> 可以直接衔接发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>。",
+          "potential": []
+        },
+        {
+          "name": "快速支援：提神特饮",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171018, Prop:1001}",
+              "param": {
+                "1171018": {
+                  "main": 8440,
+                  "growth": 770,
+                  "format": "%",
+                  "damage_percentage": 8440,
+                  "damage_percentage_growth": 770,
+                  "stun_ratio": 8440,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3834
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171018, Prop:1002}",
+              "param": {
+                "1171018": {
+                  "main": 8440,
+                  "growth": 390,
+                  "format": "%",
+                  "damage_percentage": 8440,
+                  "damage_percentage_growth": 770,
+                  "stun_ratio": 8440,
+                  "stun_ratio_growth": 390,
+                  "sp_recovery": 13800,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 210925,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 7666,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 3834
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "招架支援：烟熏油盅",
+          "param": [
+            {
+              "name": "轻招架失衡倍率",
+              "desc": "{Skill:1171019, Prop:1002}",
+              "param": {
+                "1171019": {
+                  "main": 27130,
+                  "growth": 1240,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 27130,
+                  "stun_ratio_growth": 1240,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 36664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "重招架失衡倍率",
+              "desc": "{Skill:1171020, Prop:1002}",
+              "param": {
+                "1171020": {
+                  "main": 34280,
+                  "growth": 1560,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 34280,
+                  "stun_ratio_growth": 1560,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 41664
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "连续招架失衡倍率",
+              "desc": "{Skill:1171021, Prop:1002}",
+              "param": {
+                "1171021": {
+                  "main": 16680,
+                  "growth": 760,
+                  "format": "%",
+                  "damage_percentage": 0,
+                  "damage_percentage_growth": 0,
+                  "stun_ratio": 16680,
+                  "stun_ratio_growth": 760,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 0,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 0,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 11664
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        },
+        {
+          "name": "支援突击：灼焰甘露",
+          "param": [
+            {
+              "name": "伤害倍率",
+              "desc": "{Skill:1171022, Prop:1001}",
+              "param": {
+                "1171022": {
+                  "main": 32760,
+                  "growth": 2980,
+                  "format": "%",
+                  "damage_percentage": 32760,
+                  "damage_percentage_growth": 2980,
+                  "stun_ratio": 28240,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 931975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27722,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13334
+                }
+              },
+              "potential": []
+            },
+            {
+              "name": "失衡倍率",
+              "desc": "{Skill:1171022, Prop:1002}",
+              "param": {
+                "1171022": {
+                  "main": 28240,
+                  "growth": 1290,
+                  "format": "%",
+                  "damage_percentage": 32760,
+                  "damage_percentage_growth": 2980,
+                  "stun_ratio": 28240,
+                  "stun_ratio_growth": 1290,
+                  "sp_recovery": 0,
+                  "sp_recovery_growth": 0,
+                  "fever_recovery": 931975,
+                  "fever_recovery_growth": 0,
+                  "attribute_infliction": 27722,
+                  "sp_consume": 0,
+                  "attack_data": [],
+                  "rp_recovery": 0,
+                  "rp_recovery_growth": 0,
+                  "ether_purify": 13334
+                }
+              },
+              "potential": []
+            }
+          ],
+          "potential": []
+        }
+      ],
+      "material": {
+        "1": {
+          "10": 2000,
+          "100111": 2
+        },
+        "2": {
+          "10": 3000,
+          "100111": 3
+        },
+        "3": {
+          "10": 6000,
+          "100121": 2
+        },
+        "4": {
+          "10": 9000,
+          "100121": 3
+        },
+        "5": {
+          "10": 12000,
+          "100121": 4
+        },
+        "6": {
+          "10": 18000,
+          "100121": 6
+        },
+        "7": {
+          "10": 45000,
+          "100131": 5
+        },
+        "8": {
+          "10": 67500,
+          "100131": 8
+        },
+        "9": {
+          "10": 90000,
+          "100131": 10
+        },
+        "10": {
+          "10": 112500,
+          "100131": 12
+        },
+        "11": {
+          "10": 135000,
+          "100131": 15,
+          "100941": 1
+        },
+        "12": {}
+      }
+    }
+  },
+  "skill_priority": [
+    {
+      "id": 1171001,
+      "avatar_id": 1171,
+      "first_priority": [
+        5,
+        1
+      ],
+      "second_priority": [
+        0,
+        3
+      ],
+      "third_priority": [
+        6,
+        2
+      ],
+      "potential_levels": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ],
+  "skill_list": {
+    "1171001": {
+      "name": "普通攻击：炽焰直调式",
+      "desc": "<IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171002": {
+      "name": "普通攻击：炽焰搅拌式",
+      "desc": "<IconMap:Icon_Normal>（燃油特调）（长按）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171003": {
+      "name": "特殊技：灼热熟成法",
+      "desc": "<IconMap:Icon_Special>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171004": {
+      "name": "强化特殊技：灼热摇荡法",
+      "desc": "<IconMap:Icon_SpecialReady>（可长按）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171005": {
+      "name": "强化特殊技：灼热摇荡法·双份",
+      "desc": "<IconMap:Icon_SpecialReady>（强化特殊技：灼热摇荡法期间）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171006": {
+      "name": "冲刺攻击：危险发酵式",
+      "desc": "<IconMap:Icon_Evade> ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171007": {
+      "name": "闪避反击：摇荡闪",
+      "desc": "<IconMap:Icon_Evade>（极限） ; <IconMap:Icon_Normal>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171008": {
+      "name": "连携技：燃油熔焰",
+      "desc": "<IconMap:Icon_QTE>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171009": {
+      "name": "终结技：纵享盛焰",
+      "desc": "<IconMap:Icon_UltimateReady>",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171010": {
+      "name": "快速支援：提神特饮",
+      "desc": "<IconMap:Icon_Switch>（触发快速支援时）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171011": {
+      "name": "招架支援：烟熏油盅",
+      "desc": "<IconMap:Icon_Switch>（触发招架支援时）",
+      "element_type": 0,
+      "hit_type": 0,
+      "potential": []
+    },
+    "1171012": {
+      "name": "支援突击：灼焰甘露",
+      "desc": "<IconMap:Icon_Normal>（发动招架支援后）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": []
+    },
+    "1171013": {
+      "name": "强化特殊技：灼热抛接法",
+      "desc": "<IconMap:Icon_Switch>（拥有[流火]时换入前场）",
+      "element_type": 201,
+      "hit_type": 103,
+      "potential": [
+        117100,
+        117101,
+        117102,
+        117103,
+        117104,
+        117105
+      ]
+    }
+  },
+  "passive": {
+    "level": {
+      "1171501": {
+        "level": 1,
+        "id": 1171501,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>175%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171502": {
+        "level": 2,
+        "id": 1171502,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>205%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171503": {
+        "level": 3,
+        "id": 1171503,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>235%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171504": {
+        "level": 4,
+        "id": 1171504,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>262%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171505": {
+        "level": 5,
+        "id": 1171505,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>290%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171506": {
+        "level": 6,
+        "id": 1171506,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>320%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      },
+      "1171507": {
+        "level": 7,
+        "id": 1171507,
+        "name": [
+          "核心被动：燃油特调",
+          "额外能力：星火燎原"
+        ],
+        "desc": [
+          "柏妮思消耗能量值时，会为自身累积<color=#FFFFFF>[燃点]</color>，最多累积100点；每消耗1点能量值，能够累积1.4点<color=#FFFFFF>[燃点]</color>，当<color=#FFFFFF>[燃点]</color>累积至50点时，柏妮思将进入<color=#FFFFFF>[燃油特调]</color>状态，直到<color=#FFFFFF>[燃点]</color>耗尽；进入战场时，柏妮思立刻累积100点<color=#FFFFFF>[燃点]</color>；\n<color=#FFFFFF>[燃油特调]</color>状态下，柏妮思的<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、<color=#FFFFFF>[连携技：燃油熔焰]</color>或<color=#FFFFFF>[终结技：纵享盛焰]</color>命中敌人时，将对目标施加<color=#FFFFFF>[灼伤]</color>效果，直到柏妮思退出<color=#FFFFFF>[燃油特调]</color>状态；队伍中其他角色攻击命中处于<color=#FFFFFF>[灼伤]</color>状态下的敌人时，会触发<color=#FFFFFF>[余烬]</color>效果，消耗8点<color=#FFFFFF>[燃点]</color>，对目标造成等同于柏妮思<color=#2BAD00>350%</color>攻击力的<color=#FF5521>火属性伤害</color>并累积<color=#FF5521>火属性异常积蓄值</color>，1.5秒内最多触发一次；每拥有10点异常精通，<color=#FFFFFF>[余烬]</color>效果造成的伤害提升1%，最多提升30%；<color=#FFFFFF>[余烬]</color>效果造成的伤害被视为<color=#FFFFFF>[支援攻击]</color>伤害。",
+          "队伍中存在其他<color=#FFFFFF>[异常]</color>角色或与自身阵营相同的角色时触发：\n柏妮思<color=#FFFFFF>[普通攻击：炽焰搅拌式]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法]</color>、<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人，或触发<color=#FFFFFF>[余烬]</color>效果时，招式累积的<color=#FF5521>火属性异常积蓄值</color>提升65%；队伍中任意角色对敌人施加<color=#FF5521>[灼烧]</color>效果时，该效果的持续时间提升3秒。"
+        ],
+        "extra_property": {},
+        "potential": []
+      }
+    },
+    "materials": {
+      "1": {
+        "10": 5000
+      },
+      "2": {
+        "10": 12000,
+        "110507": 2
+      },
+      "3": {
+        "10": 28000,
+        "110507": 4
+      },
+      "4": {
+        "10": 60000,
+        "110004": 2,
+        "110507": 9
+      },
+      "5": {
+        "10": 100000,
+        "110004": 3,
+        "110507": 15
+      },
+      "6": {
+        "10": 200000,
+        "110004": 4,
+        "110507": 30
+      }
+    }
+  },
+  "talent": {
+    "1": {
+      "level": 1,
+      "name": "热络同心",
+      "desc": "<color=#FFFFFF>[燃点]</color>的上限从100点提升至140点，进入战场时，柏妮思额外累积40点<color=#FFFFFF>[燃点]</color>；<color=#FFFFFF>[余烬]</color>效果的伤害倍率提升，提升效果等同于柏妮思攻击力的100%；<color=#FFFFFF>[余烬]</color>效果累积的<color=#FF5521>火属性异常积蓄值</color>提升25%。",
+      "desc2": "「谁都有不够顺利的时候，很正常啦！」\n「别难过，凯撒，来一杯燃油饮特调怎么样？我加了很多很多糖哦！」"
+    },
+    "2": {
+      "level": 2,
+      "name": "加量不加价",
+      "desc": "触发<color=#FFFFFF>[余烬]</color>效果时，将对敌人施加<color=#FFFFFF>[热意洞穿]</color>，最多叠加5层，持续6秒，重复触发时刷新持续时间；受到我方攻击时，目标每拥有一层<color=#FFFFFF>[热意洞穿]</color>，本次攻击的穿透率提升4%，最多提升20%。",
+      "desc2": "作为卡吕冬之子的调饮师，柏妮思乐于为所有朋友调制新艾利都最美味的燃油饮。\n当然，如果你是她的「敌人」…则会有机会喝到前所未有的新口味饮品。\n「是一生只能喝一次的超绝美味哦！」"
+    },
+    "3": {
+      "level": 3,
+      "name": "天性乐观",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "「柏妮思那家伙，不管什么时候都是一副元气满满的样子啊！就连刚起床都是！真不知道她从哪来这么多能量…」\n「更可怕的是，她还能把身边人都带动着积极起来！这简直快称得上是妖怪了吧！」\n「不过…我倒是不讨厌就是啦…」\n——来自一位不愿意透露姓名的猪猪管理者"
+    },
+    "4": {
+      "level": 4,
+      "name": "超绝燃油补给",
+      "desc": "<color=#FFFFFF>[强化特殊技]</color>或<color=#FFFFFF>[支援攻击]</color>命中敌人时，招式的暴击率提升30%；<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>中，火焰喷射的持续时间上限提升1秒。",
+      "desc2": "「喜欢我调的饮料？谢谢你，大钢牙也很喜欢~那家伙一顿能吃两百升呢！」\n「哦，大钢牙就是我们的那辆大卡车啦！」\n「想尝尝它的特供燃油吗？很火热的哦~」"
+    },
+    "5": {
+      "level": 5,
+      "name": "火与冰之舞",
+      "desc": "<color=#FFFFFF>[普通攻击]</color>、<color=#FFFFFF>[闪避]</color>、<color=#FFFFFF>[支援技]</color>、<color=#FFFFFF>[特殊技]</color>、<color=#FFFFFF>[连携技]</color> 技能等级+2",
+      "desc2": "在调制饮品的时候，冰块也是非常重要的一环。\n毕竟没有极致的冰冷，就难以衬托出极致的火热。\n「这种火与冰交融的感觉~真令人沉迷呢！」"
+    },
+    "6": {
+      "level": 6,
+      "name": "盛焰邀约",
+      "desc": "柏妮思的<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人时，将额外触发特殊的<color=#FFFFFF>[余烬]</color>效果，对目标造成等同于柏妮思60%攻击力的<color=#FF5521>火属性伤害</color>，0.5秒内最多触发1次，无需消耗<color=#FFFFFF>[燃点]</color>；发动<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>命中敌人后，招式发动期间，<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>、特殊的<color=#FFFFFF>[余烬]</color>效果、<color=#FF5521>[灼烧]</color>伤害将无视目标25%<color=#FF5521>火属性伤害抗性</color>；在<color=#FFFFFF>[强化特殊技：灼热摇荡法·双份]</color>中发动火焰冲击命中处于<color=#FF5521>[灼烧]</color>状态下的敌人时，能够额外结算一次<color=#FF5521>[灼烧]</color>伤害，伤害效果等同于原本的1800%，同一目标20秒内最多触发一次。",
+      "desc2": "好像从来没有谁见过柏妮思真正生气的样子。\n「相信我，你们不会想要看到的~」\n——来自一位正在大钢牙上准备入睡的司机"
+    }
+  },
+  "fairy_recommend": {
+    "slot4": 31800,
+    "slot2": 31600,
+    "slot_sub": 31300,
+    "part_sub_list": [
+      31203,
+      12102
+    ],
+    "alt_build": [
+      {
+        "suit_list": [
+          31800,
+          31300
+        ],
+        "part_sub_list": [
+          31203
+        ]
+      },
+      {
+        "suit_list": [
+          31800,
+          31600
+        ],
+        "part_sub_list": [
+          31603,
+          12102
+        ]
+      },
+      {
+        "suit_list": [],
+        "part_sub_list": [
+          31402,
+          30502
+        ]
+      }
+    ],
+    "part4": {
+      "prop": 30502,
+      "name": "能量自动回复",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconSpRecover.png"
+    },
+    "part5": {
+      "prop": 31203,
+      "name": "异常精通",
+      "format": "{0:0}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconElementMystery.png"
+    },
+    "part6": {
+      "prop": 31603,
+      "name": "火属性伤害加成",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconGeneralBuff/Packer/IconFire.png"
+    },
+    "part_sub": {
+      "prop": 12102,
+      "name": "攻击力",
+      "format": "{0:0.#%}",
+      "icon": "UI/Sprite/A1DynamicLoad/IconAttribute/UnPacker/Role/IconAttack.png"
+    }
+  },
+  "strategy": [
+    "03",
+    "<IconMap:Icon_GeneralBuff_Fire>火属性，异常后台输出",
+    "快速累积火属性异常积蓄值",
+    "在后台持续提供伤害"
+  ],
+  "potential": [
+    117100,
+    117101,
+    117102,
+    117103,
+    117104,
+    117105
+  ],
+  "potential_detail": {
+    "117100": {
+      "id": 117100,
+      "name": "",
+      "desc": "",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 I",
+      "level": 1,
+      "ability_list": [
+        11171501,
+        11171601
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    },
+    "117101": {
+      "id": 117101,
+      "name": "潜能觉醒：沸点派对",
+      "desc": "当柏妮思的初始能量自动回复大于等于1.8点时，超过的部分每拥有0.1点初始能量自动回复，异常掌控额外提升<color=#2BAD00>1</color>点，造成的伤害提升<color=#2BAD00>1%</color>，异常掌控最多提升25点，造成的伤害最多提升20%；[核心被动：燃油特调]中触发<color=#FFFFFF>[余烬]</color>的间隔降低至1.35秒。",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 II",
+      "level": 2,
+      "ability_list": [
+        11171501,
+        11171601,
+        11171701
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    },
+    "117102": {
+      "id": 117102,
+      "name": "潜能觉醒：沸点派对",
+      "desc": "当柏妮思的初始能量自动回复大于等于1.8点时，超过的部分每拥有0.1点初始能量自动回复，异常掌控额外提升<color=#2BAD00>1.3</color>点，造成的伤害提升<color=#2BAD00>1.25%</color>，异常掌控最多提升25点，造成的伤害最多提升20%；[核心被动：燃油特调]中触发<color=#FFFFFF>[余烬]</color>的间隔降低至1.35秒。",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 III",
+      "level": 3,
+      "ability_list": [
+        11171501,
+        11171601,
+        11171702
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    },
+    "117103": {
+      "id": 117103,
+      "name": "潜能觉醒：沸点派对",
+      "desc": "当柏妮思的初始能量自动回复大于等于1.8点时，超过的部分每拥有0.1点初始能量自动回复，异常掌控额外提升<color=#2BAD00>1.6</color>点，造成的伤害提升<color=#2BAD00>1.5%</color>，异常掌控最多提升25点，造成的伤害最多提升20%；[核心被动：燃油特调]中触发<color=#FFFFFF>[余烬]</color>的间隔降低至1.35秒。",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 IV",
+      "level": 4,
+      "ability_list": [
+        11171501,
+        11171601,
+        11171703
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    },
+    "117104": {
+      "id": 117104,
+      "name": "潜能觉醒：沸点派对",
+      "desc": "当柏妮思的初始能量自动回复大于等于1.8点时，超过的部分每拥有0.1点初始能量自动回复，异常掌控额外提升<color=#2BAD00>2</color>点，造成的伤害提升<color=#2BAD00>1.75%</color>，异常掌控最多提升25点，造成的伤害最多提升20%；[核心被动：燃油特调]中触发<color=#FFFFFF>[余烬]</color>的间隔降低至1.35秒。",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 V",
+      "level": 5,
+      "ability_list": [
+        11171501,
+        11171601,
+        11171704
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    },
+    "117105": {
+      "id": 117105,
+      "name": "潜能觉醒：沸点派对",
+      "desc": "当柏妮思的初始能量自动回复大于等于1.8点时，超过的部分每拥有0.1点初始能量自动回复，异常掌控额外提升<color=#2BAD00>2.5</color>点，造成的伤害提升<color=#2BAD00>2%</color>，异常掌控最多提升25点，造成的伤害最多提升20%；[核心被动：燃油特调]中触发<color=#FFFFFF>[余烬]</color>的间隔降低至1.35秒。",
+      "image": "Burnice",
+      "level_show_name": "烈火的旋舞 VI",
+      "level": 6,
+      "ability_list": [
+        11171501,
+        11171601,
+        11171705
+      ],
+      "potential_materials": [
+        {
+          "item_id": 20117,
+          "number": 1
+        }
+      ]
+    }
+  },
+  "live2_d": "UISpine_Burnice"
+}

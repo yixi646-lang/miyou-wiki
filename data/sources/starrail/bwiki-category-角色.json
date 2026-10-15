@@ -1,0 +1,1864 @@
+{
+  "query": {
+    "printrequests": [
+      {
+        "label": "",
+        "key": "",
+        "redi": "",
+        "typeid": "_wpg",
+        "mode": 2
+      },
+      {
+        "label": "实装版本",
+        "key": "实装版本",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "实装日期",
+        "key": "实装日期",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      },
+      {
+        "label": "阵营",
+        "key": "阵营",
+        "redi": "",
+        "typeid": "_txt",
+        "mode": 1,
+        "format": ""
+      }
+    ],
+    "results": {
+      "Archer": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "阵营": [
+            "异界(Fate系列)"
+          ]
+        },
+        "fulltext": "Archer",
+        "fullurl": "https://wiki.biligame.com/sr/Archer",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "Saber": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [
+            "2025年07月11日"
+          ],
+          "阵营": [
+            "异界(Fate系列)"
+          ]
+        },
+        "fulltext": "Saber",
+        "fullurl": "https://wiki.biligame.com/sr/Saber",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "万敌": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [
+            "2025年03月19日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "万敌",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%87%E6%95%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "三月七•存护": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "三月七•存护",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83%E2%80%A2%E5%AD%98%E6%8A%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "三月七•巡猎": {
+        "printouts": {
+          "实装版本": [
+            "2.4"
+          ],
+          "实装日期": [
+            "2024年07月31日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "三月七•巡猎",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%89%E6%9C%88%E4%B8%83%E2%80%A2%E5%B7%A1%E7%8C%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "不死途": {
+        "printouts": {
+          "实装版本": [
+            "4.1"
+          ],
+          "实装日期": [
+            "2026年03月25日"
+          ],
+          "阵营": [
+            "巡海游侠"
+          ]
+        },
+        "fulltext": "不死途",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%8D%E6%AD%BB%E9%80%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "丹恒",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒•腾荒": {
+        "printouts": {
+          "实装版本": [
+            "3.6"
+          ],
+          "实装日期": [
+            "2025年10月15日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "丹恒•腾荒",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92%E2%80%A2%E8%85%BE%E8%8D%92",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "丹恒•饮月": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [
+            "2023年08月30日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "丹恒•饮月",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B8%B9%E6%81%92%E2%80%A2%E9%A5%AE%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "乱破": {
+        "printouts": {
+          "实装版本": [
+            "2.6"
+          ],
+          "实装日期": [
+            "2024年10月23日"
+          ],
+          "阵营": [
+            "巡海游侠"
+          ]
+        },
+        "fulltext": "乱破",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%B9%B1%E7%A0%B4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "云璃": {
+        "printouts": {
+          "实装版本": [
+            "2.4"
+          ],
+          "实装日期": [
+            "2024年07月31日"
+          ],
+          "阵营": [
+            "仙舟「朱明」"
+          ]
+        },
+        "fulltext": "云璃",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BA%91%E7%92%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "佩拉": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "佩拉",
+        "fullurl": "https://wiki.biligame.com/sr/%E4%BD%A9%E6%8B%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "停云": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "停云",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%81%9C%E4%BA%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "克拉拉": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "克拉拉",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%85%8B%E6%8B%89%E6%8B%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "刃": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [
+            "2023年07月19日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "刃",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "刻律德菈": {
+        "printouts": {
+          "实装版本": [
+            "3.5"
+          ],
+          "实装日期": [
+            "2025年09月02日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "刻律德菈",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%88%BB%E5%BE%8B%E5%BE%B7%E8%8F%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "加拉赫": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [
+            "2024年03月27日"
+          ],
+          "阵营": [
+            "匹诺康尼"
+          ]
+        },
+        "fulltext": "加拉赫",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8A%A0%E6%8B%89%E8%B5%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "千冶•刃": {
+        "printouts": {
+          "实装版本": [
+            "4.3"
+          ],
+          "实装日期": [
+            "2026年06月01日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "千冶•刃",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%83%E5%86%B6%E2%80%A2%E5%88%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "卡芙卡": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [
+            "2023年08月09日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "卡芙卡",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%A1%E8%8A%99%E5%8D%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "卢卡": {
+        "printouts": {
+          "实装版本": [
+            "1.2"
+          ],
+          "实装日期": [
+            "2023年08月09日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "卢卡",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%8D%A2%E5%8D%A1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "吉尔伽美什": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "阵营": [
+            "异界(Fate系列)"
+          ]
+        },
+        "fulltext": "吉尔伽美什",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%90%89%E5%B0%94%E4%BC%BD%E7%BE%8E%E4%BB%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "大丽花": {
+        "printouts": {
+          "实装版本": [
+            "3.8"
+          ],
+          "实装日期": [
+            "2025年12月17日"
+          ],
+          "阵营": [
+            "焚化工"
+          ]
+        },
+        "fulltext": "大丽花",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A7%E4%B8%BD%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "大黑塔": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "阵营": [
+            "空间站「黑塔」"
+          ]
+        },
+        "fulltext": "大黑塔",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A4%A7%E9%BB%91%E5%A1%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "姬子": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "姬子",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A7%AC%E5%AD%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "姬子•启行": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [
+            "2026年07月15日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "姬子•启行",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A7%AC%E5%AD%90%E2%80%A2%E5%90%AF%E8%A1%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "娜塔莎": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "娜塔莎",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%A8%9C%E5%A1%94%E8%8E%8E",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "寒鸦": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [
+            "2023年12月06日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "寒鸦",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%AF%92%E9%B8%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "布洛妮娅": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "布洛妮娅",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%83%E6%B4%9B%E5%A6%AE%E5%A8%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希儿": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "希儿",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%8C%E5%84%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "希露瓦": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "希露瓦",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%B8%8C%E9%9C%B2%E7%93%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•同谐": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "开拓者•同谐",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E5%90%8C%E8%B0%90",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•存护": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "开拓者•存护",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E5%AD%98%E6%8A%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•欢愉": {
+        "printouts": {
+          "实装版本": [
+            "4.2"
+          ],
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "开拓者•欢愉",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E6%AC%A2%E6%84%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•毁灭": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "开拓者•毁灭",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E6%AF%81%E7%81%AD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "开拓者•记忆": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [
+            "2025年01月15日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "开拓者•记忆",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BC%80%E6%8B%93%E8%80%85%E2%80%A2%E8%AE%B0%E5%BF%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "彦卿": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "彦卿",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BD%A6%E5%8D%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "忘归人": {
+        "printouts": {
+          "实装版本": [
+            "2.7"
+          ],
+          "实装日期": [
+            "2024年12月25日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "忘归人",
+        "fullurl": "https://wiki.biligame.com/sr/%E5%BF%98%E5%BD%92%E4%BA%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "托帕&账账": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [
+            "2023年10月27日"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "托帕&账账",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%89%98%E5%B8%95%26%E8%B4%A6%E8%B4%A6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "昔涟": {
+        "printouts": {
+          "实装版本": [
+            "3.7"
+          ],
+          "实装日期": [
+            "2025年11月05日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "昔涟",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%94%E6%B6%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星期日": {
+        "printouts": {
+          "实装版本": [
+            "2.7"
+          ],
+          "实装日期": [
+            "2024年12月04日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "星期日",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E6%9C%9F%E6%97%A5",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "星神★阿哈": {
+        "printouts": {
+          "实装版本": [
+            "4.7"
+          ],
+          "实装日期": [
+            "2026年11月11日"
+          ],
+          "阵营": [
+            "二相乐园"
+          ]
+        },
+        "fulltext": "星神★阿哈",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%98%9F%E7%A5%9E%E2%98%85%E9%98%BF%E5%93%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "景元": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年05月17日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "景元",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%99%AF%E5%85%83",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "杰帕德": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "杰帕德",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%9D%B0%E5%B8%95%E5%BE%B7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "桂乃芬": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [
+            "2023年10月27日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "桂乃芬",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A1%82%E4%B9%83%E8%8A%AC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "桑博": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "桑博",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A1%91%E5%8D%9A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "椒丘": {
+        "printouts": {
+          "实装版本": [
+            "2.4"
+          ],
+          "实装日期": [
+            "2024年08月21日"
+          ],
+          "阵营": [
+            "仙舟「曜青」"
+          ]
+        },
+        "fulltext": "椒丘",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%A4%92%E4%B8%98",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "欧泊": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "欧泊",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%AC%A7%E6%B3%8A",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "波提欧": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [
+            "2024年05月29日"
+          ],
+          "阵营": [
+            "巡海游侠"
+          ]
+        },
+        "fulltext": "波提欧",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B3%A2%E6%8F%90%E6%AC%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "流萤": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [
+            "2024年06月19日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "流萤",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%81%E8%90%A4",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "海瑟音": {
+        "printouts": {
+          "实装版本": [
+            "3.5"
+          ],
+          "实装日期": [
+            "2025年08月13日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "海瑟音",
+        "fullurl": "https://wiki.biligame.com/sr/%E6%B5%B7%E7%91%9F%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "火花": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [
+            "2026年03月03日"
+          ],
+          "阵营": [
+            "假面愚者"
+          ]
+        },
+        "fulltext": "火花",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%AB%E8%8A%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "灵砂": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [
+            "2024年10月02日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "灵砂",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%81%B5%E7%A0%82",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "爻光": {
+        "printouts": {
+          "实装版本": [
+            "4.0"
+          ],
+          "实装日期": [
+            "2026年02月13日"
+          ],
+          "阵营": [
+            "仙舟「玉阙」"
+          ]
+        },
+        "fulltext": "爻光",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%88%BB%E5%85%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "玲可": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [
+            "2023年09月20日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "玲可",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%8E%B2%E5%8F%AF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "瓦尔特": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "星穹列车"
+          ]
+        },
+        "fulltext": "瓦尔特",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%93%A6%E5%B0%94%E7%89%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白厄": {
+        "printouts": {
+          "实装版本": [
+            "3.4"
+          ],
+          "实装日期": [
+            "2025年07月02日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "白厄",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%99%BD%E5%8E%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "白露": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "白露",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%99%BD%E9%9C%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真珠": {
+        "printouts": {
+          "实装版本": [
+            "4.6"
+          ],
+          "实装日期": [
+            "2026年09月28日"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "真珠",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9C%9F%E7%8F%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "真理医生": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [
+            "2024年01月17日"
+          ],
+          "阵营": [
+            "博识学会"
+          ]
+        },
+        "fulltext": "真理医生",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9C%9F%E7%90%86%E5%8C%BB%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "知更鸟": {
+        "printouts": {
+          "实装版本": [
+            "2.2"
+          ],
+          "实装日期": [
+            "2024年05月08日"
+          ],
+          "阵营": [
+            "匹诺康尼"
+          ]
+        },
+        "fulltext": "知更鸟",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9F%A5%E6%9B%B4%E9%B8%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "知更鸟•晴歌": {
+        "printouts": {
+          "实装版本": [
+            "4.5"
+          ],
+          "实装日期": [
+            "2026年08月26日"
+          ],
+          "阵营": [
+            "匹诺康尼"
+          ]
+        },
+        "fulltext": "知更鸟•晴歌",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%9F%A5%E6%9B%B4%E9%B8%9F%E2%80%A2%E6%99%B4%E6%AD%8C",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "砂金": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [
+            "2024年04月17日"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "砂金",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A0%82%E9%87%91",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "砂金•戏浪": {
+        "printouts": {
+          "实装版本": [
+            "4.5"
+          ],
+          "实装日期": [
+            "2026年09月12日"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "砂金•戏浪",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%A0%82%E9%87%91%E2%80%A2%E6%88%8F%E6%B5%AA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "符玄": {
+        "printouts": {
+          "实装版本": [
+            "1.3"
+          ],
+          "实装日期": [
+            "2023年09月20日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "符玄",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%AC%A6%E7%8E%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "米沙": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "阵营": [
+            "匹诺康尼"
+          ]
+        },
+        "fulltext": "米沙",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B1%B3%E6%B2%99",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "素裳": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "素裳",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%B4%A0%E8%A3%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "绯英": {
+        "printouts": {
+          "实装版本": [
+            "4.2"
+          ],
+          "实装日期": [
+            "2026年05月13日"
+          ],
+          "阵营": [
+            "二相乐园"
+          ]
+        },
+        "fulltext": "绯英",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BB%AF%E8%8B%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "缇宝": {
+        "printouts": {
+          "实装版本": [
+            "3.1"
+          ],
+          "实装日期": [
+            "2025年02月26日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "缇宝",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BC%87%E5%AE%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "罗刹": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [
+            "2023年06月28日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "罗刹",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BD%97%E5%88%B9",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "翡翠": {
+        "printouts": {
+          "实装版本": [
+            "2.3"
+          ],
+          "实装日期": [
+            "2024年07月10日"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "翡翠",
+        "fullurl": "https://wiki.biligame.com/sr/%E7%BF%A1%E7%BF%A0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "耀嘉音": {
+        "printouts": {
+          "实装版本": [
+            "4.8"
+          ],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": []
+        },
+        "fulltext": "耀嘉音",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%80%80%E5%98%89%E9%9F%B3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "舒俱": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "舒俱",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%88%92%E4%BF%B1",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾丝妲": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "空间站「黑塔」"
+          ]
+        },
+        "fulltext": "艾丝妲",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E4%B8%9D%E5%A6%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾利欧": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "艾利欧",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E5%88%A9%E6%AC%A7",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "艾莲": {
+        "printouts": {
+          "实装版本": [
+            "4.8"
+          ],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": []
+        },
+        "fulltext": "艾莲",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%89%BE%E8%8E%B2",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "芮克先生": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": []
+        },
+        "fulltext": "芮克先生",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%AE%E5%85%8B%E5%85%88%E7%94%9F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "花火": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [
+            "2024年02月29日"
+          ],
+          "阵营": [
+            "假面愚者"
+          ]
+        },
+        "fulltext": "花火",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%8A%B1%E7%81%AB",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "藿藿": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [
+            "2023年11月15日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "藿藿",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%97%BF%E8%97%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "虎克": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "贝洛伯格"
+          ]
+        },
+        "fulltext": "虎克",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%99%8E%E5%85%8B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "螺丝咕姆": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": []
+        },
+        "fulltext": "螺丝咕姆",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%9E%BA%E4%B8%9D%E5%92%95%E5%A7%86",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "貊泽": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [
+            "2024年09月10日"
+          ],
+          "阵营": [
+            "仙舟「曜青」"
+          ]
+        },
+        "fulltext": "貊泽",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B2%8A%E6%B3%BD",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "赛飞儿": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [
+            "2025年06月11日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "赛飞儿",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%B5%9B%E9%A3%9E%E5%84%BF",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "远坂凛": {
+        "printouts": {
+          "实装版本": [
+            "4.4"
+          ],
+          "实装日期": [
+            "2026年07月24日"
+          ],
+          "阵营": [
+            "异界(Fate系列)"
+          ]
+        },
+        "fulltext": "远坂凛",
+        "fullurl": "https://wiki.biligame.com/sr/%E8%BF%9C%E5%9D%82%E5%87%9B",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "遐蝶": {
+        "printouts": {
+          "实装版本": [
+            "3.2"
+          ],
+          "实装日期": [
+            "2025年04月09日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "遐蝶",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%81%90%E8%9D%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "那刻夏": {
+        "printouts": {
+          "实装版本": [
+            "3.2"
+          ],
+          "实装日期": [
+            "2025年04月30日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "那刻夏",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%82%A3%E5%88%BB%E5%A4%8F",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银枝": {
+        "printouts": {
+          "实装版本": [
+            "1.5"
+          ],
+          "实装日期": [
+            "2023年12月06日"
+          ],
+          "阵营": [
+            "纯美骑士团"
+          ]
+        },
+        "fulltext": "银枝",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E6%9E%9D",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银狼": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [
+            "2023年06月07日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "银狼",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E7%8B%BC",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "银狼LV.999": {
+        "printouts": {
+          "实装版本": [
+            "4.2"
+          ],
+          "实装日期": [
+            "2026年04月22日"
+          ],
+          "阵营": [
+            "星核猎手"
+          ]
+        },
+        "fulltext": "银狼LV.999",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%93%B6%E7%8B%BCLV.999",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "镜流": {
+        "printouts": {
+          "实装版本": [
+            "1.4"
+          ],
+          "实装日期": [
+            "2023年10月11日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "镜流",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%9C%E6%B5%81",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "长夜月": {
+        "printouts": {
+          "实装版本": [
+            "3.6"
+          ],
+          "实装日期": [
+            "2025年09月24日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "长夜月",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%95%BF%E5%A4%9C%E6%9C%88",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阮•梅": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [
+            "2023年12月27日"
+          ],
+          "阵营": [
+            "空间站「黑塔」"
+          ]
+        },
+        "fulltext": "阮•梅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%AE%E2%80%A2%E6%A2%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阿兰": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "空间站「黑塔」"
+          ]
+        },
+        "fulltext": "阿兰",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%BF%E5%85%B0",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "阿格莱雅": {
+        "printouts": {
+          "实装版本": [
+            "3.0"
+          ],
+          "实装日期": [
+            "2025年02月05日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "阿格莱雅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "雪衣": {
+        "printouts": {
+          "实装版本": [
+            "1.6"
+          ],
+          "实装日期": [
+            "2023年12月27日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "雪衣",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9B%AA%E8%A1%A3",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "青雀": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "青雀",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%9D%92%E9%9B%80",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "风堇": {
+        "printouts": {
+          "实装版本": [
+            "3.3"
+          ],
+          "实装日期": [
+            "2025年05月21日"
+          ],
+          "阵营": [
+            "翁法罗斯"
+          ]
+        },
+        "fulltext": "风堇",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%8E%E5%A0%87",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "飞霄": {
+        "printouts": {
+          "实装版本": [
+            "2.5"
+          ],
+          "实装日期": [
+            "2024年09月10日"
+          ],
+          "阵营": [
+            "仙舟「曜青」"
+          ]
+        },
+        "fulltext": "飞霄",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A3%9E%E9%9C%84",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "驭空": {
+        "printouts": {
+          "实装版本": [
+            "1.1"
+          ],
+          "实装日期": [
+            "2023年06月28日"
+          ],
+          "阵营": [
+            "仙舟「罗浮」"
+          ]
+        },
+        "fulltext": "驭空",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%A9%AD%E7%A9%BA",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黄泉": {
+        "printouts": {
+          "实装版本": [
+            "2.1"
+          ],
+          "实装日期": [
+            "2024年03月27日"
+          ],
+          "阵营": [
+            "自灭者"
+          ]
+        },
+        "fulltext": "黄泉",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%84%E6%B3%89",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑塔": {
+        "printouts": {
+          "实装版本": [
+            "1.0"
+          ],
+          "实装日期": [
+            "2023年04月26日"
+          ],
+          "阵营": [
+            "空间站「黑塔」"
+          ]
+        },
+        "fulltext": "黑塔",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%91%E5%A1%94",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "黑天鹅": {
+        "printouts": {
+          "实装版本": [
+            "2.0"
+          ],
+          "实装日期": [
+            "2024年02月06日"
+          ],
+          "阵营": [
+            "流光忆庭"
+          ]
+        },
+        "fulltext": "黑天鹅",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BB%91%E5%A4%A9%E9%B9%85",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      },
+      "龙晶": {
+        "printouts": {
+          "实装版本": [],
+          "实装日期": [
+            "未实装"
+          ],
+          "阵营": [
+            "星际和平公司"
+          ]
+        },
+        "fulltext": "龙晶",
+        "fullurl": "https://wiki.biligame.com/sr/%E9%BE%99%E6%99%B6",
+        "namespace": 0,
+        "exists": "1",
+        "displaytitle": ""
+      }
+    },
+    "serializer": "SMW\\Serializers\\QueryResultSerializer",
+    "version": 2,
+    "meta": {
+      "hash": "7a091fa4f8fe3ec1e489725549bde6ed",
+      "count": 102,
+      "offset": 0,
+      "source": "",
+      "time": "0.034509"
+    }
+  }
+}

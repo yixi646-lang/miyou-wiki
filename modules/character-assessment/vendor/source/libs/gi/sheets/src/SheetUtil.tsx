@@ -1,0 +1,120 @@
+import type {
+  ArtifactSetKey,
+  CharacterKey,
+  CharacterSheetKey,
+  WeaponKey,
+} from '@genshin-optimizer/gi/consts'
+import { Translate } from '@genshin-optimizer/gi/i18n'
+import type { Info, NumNode, ReadNode, StrNode } from '@genshin-optimizer/gi/wr'
+import {
+  customStringRead,
+  equal,
+  greaterEq,
+  infoMut,
+  input,
+  sum,
+  target,
+  unequal,
+} from '@genshin-optimizer/gi/wr'
+import type { NonStackBuff } from '@genshin-optimizer/gi/wr-types'
+import type { ReactNode } from 'react'
+
+export const st = (
+  strKey: string,
+  values?: Record<string, string | number>
+) => <Translate ns="sheet" key18={strKey} values={values} />
+export const stg = (strKey: string) => (
+  <Translate ns="sheet_gen" key18={strKey} />
+)
+
+export const condReadNode = (path: string[]) =>
+  customStringRead(['conditional', ...path])
+export function cond(
+  key: CharacterKey | WeaponKey | ArtifactSetKey | 'Traveler',
+  subKey: string
+): [path: string[], node: ReadNode<string>] {
+  const path = [key, subKey]
+  const node = condReadNode(path)
+  return [path, node]
+}
+
+type Translated = [
+  trg: (i18key: string) => ReactNode,
+  tr: (i18key: string, values?: Record<string, string | number>) => ReactNode,
+]
+type CharTransKey =
+  | CharacterSheetKey
+  | 'TravelerM'
+  | 'TravelerF'
+  | 'TravelerAnemo'
+  | 'TravelerGeo'
+  | 'TravelerElectro'
+  | 'TravelerDendro'
+  | 'TravelerHydro'
+  | 'TravelerPyro'
+  | 'TravelerCryo'
+  | 'Traveler'
+export function trans(typeKey: 'char', key: CharTransKey): Translated
+export function trans(typeKey: 'weapon', key: WeaponKey): Translated
+export function trans(typeKey: 'artifact', key: ArtifactSetKey): Translated
+export function trans(
+  typeKey: 'char' | 'weapon' | 'artifact',
+  key: CharTransKey | WeaponKey | ArtifactSetKey
+): Translated {
+  const nogen =
+    (typeKey === 'char' && key === 'Somnia') ||
+    (typeKey === 'weapon' && key === 'QuantumCatalyst')
+  return [
+    (strKey: string) => (
+      <Translate
+        ns={nogen ? `${typeKey}_${key}` : `${typeKey}_${key}_gen`}
+        key18={strKey}
+      />
+    ),
+    (strKey: string, values?: Record<string, string | number>) => (
+      <Translate ns={`${typeKey}_${key}`} key18={strKey} values={values} />
+    ),
+  ]
+}
+
+export function activeCharBuff(
+  buffTargetKey: string | StrNode,
+  node: NumNode,
+  info: Info,
+  conditionOR?: NumNode
+) {
+  return [
+    infoMut(node, { ...info, isTeamBuff: true }),
+    conditionOR
+      ? any(node, equal(input.activeCharKey, buffTargetKey, 1), conditionOR)
+      : equal(input.activeCharKey, buffTargetKey, node),
+  ]
+}
+export function inactiveCharBuff(node: NumNode, info: Info) {
+  return [
+    infoMut(node, { ...info, isTeamBuff: true }),
+    unequal(input.activeCharKey, target.charKey, node),
+  ]
+}
+
+// First node is the actual buff node
+// Second node is inactive display node
+export function nonStackBuff(
+  buffName: NonStackBuff,
+  path: string,
+  buffNode: NumNode | number
+) {
+  return [
+    equal(input.nonStacking[buffName], input.charKey, buffNode),
+    unequal(input.nonStacking[buffName], input.charKey, buffNode, {
+      path,
+      isTeamBuff: true,
+      strikethrough: true,
+    }),
+  ] as const
+}
+
+// Returns `v` if any of `nodes` evaluates to 1
+export function any(v: NumNode | number, ...nodes: NumNode[]) {
+  return greaterEq(sum(...nodes), 1, v)
+}

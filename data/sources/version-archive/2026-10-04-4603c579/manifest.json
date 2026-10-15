@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "batch": "2026-10-04-4603c579",
+  "fetchedAt": "2026-10-04T05:26:30.212Z",
+  "games": {
+    "genshin": {
+      "versions": 53,
+      "official": 50,
+      "language": "zh-tw"
+    },
+    "starrail": {
+      "versions": 31,
+      "official": 28,
+      "language": "zh-cn"
+    },
+    "zenless": {
+      "versions": 20,
+      "official": 18,
+      "language": "zh-cn"
+    }
+  }
+}

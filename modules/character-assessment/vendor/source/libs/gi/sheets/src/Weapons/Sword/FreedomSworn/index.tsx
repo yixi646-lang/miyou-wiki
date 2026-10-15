@@ -1,0 +1,110 @@
+import type { WeaponKey } from '@genshin-optimizer/gi/consts'
+import { allStats } from '@genshin-optimizer/gi/stats'
+import { equalStr, input, subscript } from '@genshin-optimizer/gi/wr'
+import { cond, nonStackBuff, st, stg, trans } from '../../../SheetUtil'
+import type { IWeaponSheet } from '../../IWeaponSheet'
+import { dataObjForWeaponSheet } from '../../util'
+import { headerTemplate, WeaponSheet } from '../../WeaponSheet'
+
+const key: WeaponKey = 'FreedomSworn'
+const data_gen = allStats.weapon.data[key]
+const [, trm] = trans('weapon', key)
+
+const [condPassivePath, condPassive] = cond(key, 'MillennialMovement')
+const autoSrc = [-1, 0.16, 0.2, 0.24, 0.28, 0.32]
+const atk_Src = [-1, 0.2, 0.25, 0.3, 0.35, 0.4]
+const dmg_arr = data_gen.refinementBonus.dmg_
+if (!dmg_arr)
+  throw new Error(`data_gen.refinementBonus.dmg_ for ${key} was undefined`)
+const dmg_ = subscript(input.weapon.refinement, dmg_arr)
+
+const nonstackWrite = equalStr(condPassive, 'on', input.charKey)
+const [atk_, atk_inactive] = nonStackBuff(
+  'millenialatk',
+  'atk_',
+  subscript(input.weapon.refinement, atk_Src)
+)
+const [normal_dmg_, normal_dmg_inactive] = nonStackBuff(
+  'millenialncpdmg',
+  'normal_dmg_',
+  subscript(input.weapon.refinement, autoSrc)
+)
+const [charged_dmg_, charged_dmg_inactive] = nonStackBuff(
+  'millenialncpdmg',
+  'charged_dmg_',
+  subscript(input.weapon.refinement, autoSrc)
+)
+const [plunging_dmg_, plunging_dmg_inactive] = nonStackBuff(
+  'millenialncpdmg',
+  'plunging_dmg_',
+  subscript(input.weapon.refinement, autoSrc)
+)
+
+const data = dataObjForWeaponSheet(key, {
+  premod: {
+    all_dmg_: dmg_,
+  },
+  teamBuff: {
+    premod: {
+      atk_,
+      normal_dmg_,
+      charged_dmg_,
+      plunging_dmg_,
+    },
+    nonStacking: {
+      millenialatk: nonstackWrite,
+      millenialncpdmg: nonstackWrite,
+    },
+  },
+})
+const sheet: IWeaponSheet = {
+  document: [
+    {
+      header: headerTemplate(key, st('base')),
+      fields: [{ node: dmg_ }],
+    },
+    {
+      value: condPassive,
+      path: condPassivePath,
+      teamBuff: true,
+      header: headerTemplate(key, st('conditional')),
+      name: trm('sigilsConsumed'),
+      states: {
+        on: {
+          fields: [
+            {
+              node: normal_dmg_,
+            },
+            {
+              node: normal_dmg_inactive,
+            },
+            {
+              node: charged_dmg_,
+            },
+            {
+              node: charged_dmg_inactive,
+            },
+            {
+              node: plunging_dmg_,
+            },
+            {
+              node: plunging_dmg_inactive,
+            },
+            {
+              node: atk_,
+            },
+            {
+              node: atk_inactive,
+            },
+            {
+              text: stg('duration'),
+              value: 12,
+              unit: 's',
+            },
+          ],
+        },
+      },
+    },
+  ],
+}
+export default new WeaponSheet(sheet, data)

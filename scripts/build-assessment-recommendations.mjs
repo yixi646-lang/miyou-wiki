@@ -1,0 +1,30 @@
+import {readFile,writeFile} from 'node:fs/promises';
+import {gzipSync,gunzipSync} from 'node:zlib';
+import {recommendationRows,weightPresets,weightOverrides} from '../modules/character-assessment/core/recommendation-config.mjs';
+import {SUBSTATS} from '../modules/character-assessment/core/model.mjs';
+import {splitGuideTeams} from '../modules/character-assessment/core/recommendation-plans.mjs';
+const root=new URL('../',import.meta.url),base=new URL('modules/character-assessment/core/',root);
+const catalog=JSON.parse(await readFile(new URL('catalog.json',base))),sources=JSON.parse(await readFile(new URL('recommendation-sources.json',base)));
+const guides=JSON.parse(await readFile(new URL('recommendation-guides.json',base)));
+const evidence={Vesna:{url:'https://keqingmains.com/i/vesna/',image:'vesna.png',summary:'战技优先于爆发；攻击或精通沙/杯、双暴冠，最多一件精通主词条且仅在缺乏精通增益时；充能满足需求后双暴，再精通与攻击；Scarlet Proof四件套。'},TravelerCryoF:{url:'https://keqingmains.com/i/cryo-traveler-stellar-conduct/',image:'cryo-traveler-stellar-conduct.png',summary:'星超导输出：爆发优先于普攻，攻击沙/杯、暴伤冠；充能满足需求后双暴、攻击、精通；Disenchantment四件套。'}};
+evidence.TravelerCryoM=evidence.TravelerCryoF;
+for(const[k,v]of Object.entries(evidence))sources.records[k]={name:catalog.characters[k].name,status:'guide-reviewed',sourceType:'infographic',url:v.url,evidence:[v.summary],localImage:v.image};
+const specs=Object.fromEntries(recommendationRows.trim().split('\n').map(line=>{const[key,kind,talents,sands,goblet,circlet,sets,note]=line.split('|');return[key,{kind,talents,sands,goblet,circlet,sets,note}];}));
+const records={};
+for(const[key,meta]of Object.entries(catalog.characters)){
+  const configKey=key.startsWith('Traveler')?key.slice(0,-1):key,p=specs[configKey];if(!p)throw Error('缺少角色用途：'+key);
+  const src=sources.records[key];if(!src?.url||src.status!=='guide-reviewed')throw Error('缺少已核查来源：'+key);
+  const preset=weightPresets[p.kind],weights=Object.fromEntries(SUBSTATS.map(k=>[k,({...preset.weights,...weightOverrides[configKey]})[k]??0]));
+  const expand=token=>({a:['atk_'],h:['hp_'],d:['def_'],m:['eleMas'],r:['enerRech_'],e:[meta.element+'_dmg_'],c:['critRate_','critDMG_'],b:['heal_'],physical:['physical_dmg_'],pyro:['pyro_dmg_'],cryo:['cryo_dmg_'],hydro:['hydro_dmg_'],electro:['electro_dmg_']}[token]??[token]);
+  const mainStats=Object.fromEntries(['sands','goblet','circlet'].map(slot=>[slot,[...new Set(p[slot].split(',').flatMap(expand))]]));
+  const sets=p.sets.split(',');if(sets.some(k=>!catalog.sets[k]))throw Error('套装不存在：'+key);
+  const role=preset.role,effectiveRolls=['atk','hp','def','emCrit'].includes(p.kind)?20:15;
+  const notes=p.note+' 本默认的等级、天赋级数、有效词条目标与数值权重是可修改的本地培养起点，不是攻略公布的统一最优数值。充能面板目标须按队伍另填；西风需要时再增加暴击率权重，达到充能需求后可降低充能权重。';
+  const guide=structuredClone(guides.records[key]);if(!guide?.weapons.length||!guide?.teams.length)throw Error('缺少角色配装攻略：'+key);guide.teams=splitGuideTeams(guide.teams);
+  records[key]={goal:{role,level:90,ascension:6,weaponLevel:90,talent:Object.fromEntries(['auto','skill','burst'].map((k,i)=>[k,Number(p.talents.split(',')[i])])),effectiveRolls,weights,mainStats,sets,panel:{},notes},source:{name:'KQM'+(src.sourceType==='infographic'?'图解':'角色攻略'),url:src.url,checkedAt:'2026-10-07',type:src.sourceType??'guide',basis:p.note},guide};
+}
+const archiveURL=new URL('data/sources/assessment-recommendations/kqm-2026-10-07.json.gz',root),archive=JSON.parse(gunzipSync(await readFile(archiveURL)));archive.records=sources.records;archive.infographics=evidence;
+await writeFile(archiveURL,gzipSync(JSON.stringify(archive),{level:9}));
+await writeFile(new URL('recommendation-sources.json',base),JSON.stringify(sources,null,2)+'\n');
+await writeFile(new URL('recommendation-data.mjs',base),'// 由 scripts/build-assessment-recommendations.mjs 生成；来源与快照按角色保存。\nexport const recommendationData='+JSON.stringify({checkedAt:'2026-10-07',records},null,2)+';\n');
+console.log(JSON.stringify({total:Object.keys(records).length,characters:Object.keys(records).filter(k=>!k.startsWith('Traveler')).length,travelerElements:Object.keys(records).filter(k=>k.startsWith('Traveler')).length,sourceGaps:0}));
