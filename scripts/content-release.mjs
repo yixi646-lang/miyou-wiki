@@ -87,7 +87,7 @@ export async function buildContentRelease({ root = project, revision = 'D' + new
     const manifest = { format: 'wiki-content-update', schemaVersion: 2, revision, baseline: baseline.release, publishedAt: new Date().toISOString(), notes, softwareBases, files, deleted, summary };
     writeJSON(path.join(directory, 'content.json'), manifest);
     createContentInstaller(directory);
-    writeAtomic(path.join(directory, '资料更新说明.txt'), `资料批次：${revision}\r\n${notes}\r\n\r\n以Wiki 1.2.2为资料基准，仅携带新增、变更与必要恢复的文件及条目差异。支持跳过中间资料批次，软件版本不变。\r\n完整解压后双击“安装资料更新.vbs”，选择现有Wiki并检查，再开始安装。安装结果与进度在窗口显示，可查看日志。\r\n个人账号、收藏、库存与计划保留；本地百科编辑冲突保留本地值。不要把payload手动覆盖到Wiki。\r\nWiki内自动安装需支持增量资料格式的软件版，原1.2.2可使用包内独立安装器。\r\n`);
+    writeAtomic(path.join(directory, '资料更新说明.txt'), `资料批次：${revision}\r\n${notes}\r\n\r\n以Wiki 1.2.2为资料基准，仅携带新增、变更与必要恢复的文件及条目差异。支持跳过中间资料批次，软件版本不变。\r\n完整解压后双击“安装资料更新.vbs”，选择现有Wiki并检查，再开始安装。安装结果与进度在窗口显示，可查看日志。\r\n个人账号、收藏、库存与计划保留；本地百科编辑冲突保留本地值。不要把payload手动覆盖到Wiki。\r\nWiki内自动安装需支持增量资料格式的软件版，早期1.2.2可先更新软件，或使用包内独立安装器。\r\n`);
     fs.mkdirSync(output, { recursive: true });
     command('powershell.exe', ['-NoProfile', '-Command', "$ErrorActionPreference='Stop';Add-Type -AssemblyName System.IO.Compression.FileSystem;[IO.Compression.ZipFile]::CreateFromDirectory($env:WIKI_DATA_SOURCE,$env:WIKI_DATA_ZIP,[IO.Compression.CompressionLevel]::Optimal,$false)"], { timeout: 300000, env: { ...process.env, WIKI_DATA_SOURCE: directory, WIKI_DATA_ZIP: archive } });
     const record = { manifest, targetFiles, rowsHash };

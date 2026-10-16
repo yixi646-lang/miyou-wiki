@@ -28,7 +28,7 @@ export async function publishContent({ archive, notes = '公共百科资料更�
   if (!upload.ok) throw Error(`资料包上传失败（HTTP ${upload.status}）；现有发布保持可用。`);
   const asset = await upload.json();
   if (asset.state !== 'uploaded' || asset.size !== size) throw Error('GitHub 尚未确认资料包上传完成，请在发布页面检查。');
-  const body = `资料批次：${revision}\n\n${notes}\n\n以 Wiki 1.2.2 为基准的累计资料增量包，仅更新新增、变更及必要恢复的公共资料和素材，不改变软件版本。\n完整解压 ZIP 后运行“安装资料更新.vbs”，选择现有 Wiki 并确认安装；窗口显示进度、结果及日志。安装器随包附带。\n原已发布 1.2.2 使用包内安装器；支持增量格式的软件版也可在顶栏“更新 → 游戏资料”中确认自动安装。\n保留个人账号、收藏、库存、计划及本地编辑；无需逐个安装中间资料批次。`;
+  const body = `资料批次：${revision}\n\n${notes}\n\n以 Wiki 1.2.2 为基准的累计资料增量包，仅更新新增、变更及必要恢复的公共资料和素材，不改变软件版本。\n完整解压 ZIP 后运行“安装资料更新.vbs”，选择现有 Wiki 并确认安装；窗口显示进度、结果及日志。安装器随包附带。\n1.2.2 / R000009起可在顶栏“更新 → 游戏资料”中确认自动安装，也可使用包内安装器。\n保留个人账号、收藏、库存、计划及本地编辑；无需逐个安装中间资料批次。`;
   const published = await request('/releases/' + release.id, { method: 'PATCH', body: JSON.stringify({ tag_name: 'wiki-content', name: '游戏资料更新', body, draft: false, prerelease: false, make_latest: 'false' }) });
   return { revision, url: published.html_url, download: asset.browser_download_url, bytes: size };
 }
