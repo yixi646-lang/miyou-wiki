@@ -1,5 +1,7 @@
 # 原神、星铁、绝区零百科
 
+![原神、星铁、绝区零百科：三游戏离线资料与原神养成配装](docs/images/social-preview.jpg)
+
 原神、崩坏：星穹铁道、绝区零的本地资料百科，集成原神角色养成评价、配队伤害计算和圣遗物配装工具。资料、图片与个人数据保存在本机，日常查阅和计算可离线使用。
 
 **[下载最新版本](https://github.com/yixi646-lang/miyou-wiki/releases/latest)** · **[历史版本与更新包](https://github.com/yixi646-lang/miyou-wiki/releases/tag/history-downloads)** · **[使用说明](Wiki使用说明.txt)** · **[问题反馈与建议](https://github.com/yixi646-lang/miyou-wiki/issues)**
@@ -12,6 +14,20 @@
 - **原神养成与配装**：角色词条评价、队伍面板与伤害试算、圣遗物配装搜索、理论词条分配，以及继续强化、重塑和祝圣定义潜力分析。
 - **软件与资料更新**：Wiki 内分别检查软件和游戏资料，有更新时提醒，确认后下载、安装并重启；也可手动下载或稍后提醒。资料更新不改变软件版本。
 - **账号与装备管理**：GOOD 文件预览导入、多账号切换、武器与圣遗物库存、配装方案及压缩备份。便携版附带中文库存扫描器。
+
+## 界面预览
+
+三游戏首页（1.2.2）：
+
+![三游戏离线百科首页](docs/images/home.webp)
+
+| 角色图鉴与筛选 | 本地立绘与皮肤 |
+| --- | --- |
+| ![星穹铁道角色图鉴与筛选](docs/images/character-catalog.webp) | ![绝区零角色立绘与皮肤切换](docs/images/artwork-gallery.webp) |
+| **原神养成评价** | **原神队伍配装** |
+| ![原神角色养成评价与非战斗面板](docs/images/character-assessment.webp) | ![原神四人队伍与装备方案](docs/images/team-loadouts.webp) |
+| **伤害与治疗试算** | **历史卡池** |
+| ![原神队伍各成员伤害与治疗计算](docs/images/team-damage.webp) | ![历史卡池按版本与期数分组](docs/images/banner-history.webp) |
 
 ## 下载与启动
 
