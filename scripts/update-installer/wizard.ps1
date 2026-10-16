@@ -52,7 +52,8 @@ $header.BackColor = [Drawing.ColorTranslator]::FromHtml('#20334D')
 $form.Controls.Add($header)
 $title = Label-Control $header '更新你的 Wiki' 24 16 700 33 19
 $title.ForeColor = [Drawing.Color]::White
-$subtitle = Label-Control $header ("本包：{0} / {1} → {2} / {3}" -f $manifest.from.version, $manifest.from.releaseId, $manifest.to.version, $manifest.to.releaseId) 26 57 800 24 9
+$packageSummary = if ($manifest.routes) { "跨版本更新：{0} 起 → {1} / {2}" -f $manifest.from.version, $manifest.to.version, $manifest.to.releaseId } else { "本包：{0} / {1} → {2} / {3}" -f $manifest.from.version, $manifest.from.releaseId, $manifest.to.version, $manifest.to.releaseId }
+$subtitle = Label-Control $header $packageSummary 26 57 800 24 9
 $subtitle.ForeColor = [Drawing.ColorTranslator]::FromHtml('#D9E5F5')
 [void](Label-Control $form '先关闭 Wiki 和扫描器，再选择以前用来启动 Wiki 的文件夹。不要选择更新包文件夹。' 24 106 850 26)
 [void](Label-Control $form '也可以直接选择“启动百科.vbs”；选到只有一份 Wiki 的外层目录时，会自动定位。' 24 134 850 26)

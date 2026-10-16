@@ -21,6 +21,7 @@ import {readReleaseInfo} from './lib/release-info.mjs';
 import {serviceLock} from './lib/service-lock.mjs';
 import {instanceIdentity,rememberInstance} from './lib/wiki-instance.mjs';
 import {createUnifiedBackup} from './lib/unified-backup.mjs';
+import {createOnlineUpdates} from './lib/online-updates.mjs';
 
 const root = fileURLToPath(new URL('./', import.meta.url));
 let skillTermData={characters:{}};
@@ -82,6 +83,9 @@ const assessment=createAssessmentRouter({storagePath:assessmentPath,recommendati
 const completeBackup=createUnifiedBackup({root,backupPath,library,assessment,release:()=>readReleaseInfo(root)});
 let auditCache;
 const pages=createPageLifecycle({port,token:sessionToken,onIdle:()=>{console.log('Wiki 页面已全部关闭，停止本地服务。');close();},enabled:process.argv.includes('--auto-close'),idleMs:process.env.WIKI_PAGE_IDLE_MS,startupMs:process.env.WIKI_PAGE_STARTUP_MS});
+const updateBusy=service=>['downloading','extracting','ready','installing'].includes(service.status().job?.phase);
+const onlineUpdates=createOnlineUpdates({root,databasePath:libraryPath,port,storageDirectory:process.env.WIKI_DB_PATH?join(libraryPath,'..','online-updates'):undefined,activePages:()=>pages.info().activePages,otherBusy:()=>updateBusy(contentUpdates),onInstall:()=>setTimeout(()=>close(),350)});
+const contentUpdates=createOnlineUpdates({root,databasePath:libraryPath,port,channel:'content',storageDirectory:process.env.WIKI_DB_PATH?join(libraryPath,'..','content-updates'):undefined,activePages:()=>pages.info().activePages,otherBusy:()=>updateBusy(onlineUpdates),onInstall:()=>setTimeout(()=>close(),350)});
 
 const server = http.createServer(async (req, res) => {
   res.setHeader('X-Content-Type-Options', 'nosniff');
@@ -97,6 +101,8 @@ const server = http.createServer(async (req, res) => {
       const origin = req.headers.origin;
       if (origin && ![`http://127.0.0.1:${port}`, `http://localhost:${port}`].includes(origin)) return json(res, 403, { error: '来源不匹配。' });
     }
+    if(await onlineUpdates.handle(req,res,url,json,body))return;
+    if(await contentUpdates.handle(req,res,url,json,body))return;
     if(await assessment.handle(req,res,url))return;
     if(await completeBackup.handle(req,res,url,json,body))return;
     if(url.pathname==='/api/audit'&&req.method==='GET'){
@@ -200,7 +206,7 @@ server.on('upgrade',pages.upgrade);
 server.on('error', async error => {
   if (error.code === 'EADDRINUSE') console.error(`端口 ${port} 已被使用。若百科已经启动，请打开 http://127.0.0.1:${port}；也可运行 node server.mjs --port=4174。`);
   else console.error(error);
-  pages.stop();await completeBackup.close();library.close();assessment.close(); process.exitCode = 1;
+  pages.stop();await onlineUpdates.close();await contentUpdates.close();await completeBackup.close();library.close();assessment.close(); process.exitCode = 1;
   try{const directory=join(root,'data','logs');await mkdir(directory,{recursive:true});await appendFile(join(directory,'startup.log'),`${new Date().toISOString()} Wiki 服务启动失败：${error.message}\n`);}catch{}
 });
 server.listen(port, '127.0.0.1', () => {
@@ -214,5 +220,5 @@ server.listen(port, '127.0.0.1', () => {
   }
 });
 let closing=false;
-const close = () => {if(closing)return;closing=true;pages.stop();server.close(async () => {await completeBackup.close();library.close();assessment.close();process.exit(0);});server.closeIdleConnections();const force=setTimeout(()=>{server.closeAllConnections();},5000);force.unref();};
+const close = () => {if(closing)return;closing=true;pages.stop();server.close(async () => {await onlineUpdates.close();await contentUpdates.close();await completeBackup.close();library.close();assessment.close();process.exit(0);});server.closeIdleConnections();const force=setTimeout(()=>{server.closeAllConnections();},5000);force.unref();};
 process.on('SIGINT', close); process.on('SIGTERM', close);

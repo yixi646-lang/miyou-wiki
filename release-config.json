@@ -1,6 +1,11 @@
 {
   "schemaVersion": 1,
   "outputDirectory": "各种包体",
+  "updateBaseline": "R000007",
+  "content": {
+    "directories": ["assets", "data/growth", "data/material-acquisition", "data/sources", "data/versions"],
+    "files": ["data/character-artwork-variants.json", "public/character-artwork-index.json"]
+  },
   "directories": [
     "assets",
     "public",
@@ -35,9 +40,6 @@
     "原神库存扫描器/中文界面预览/.build/"
   ],
   "excludeFiles": [
-    "lib/release-common.mjs",
-    "lib/release-data.mjs",
-    "lib/release-install.mjs",
     "modules/character-assessment/core/go-adapter.ts",
     "modules/character-assessment/engine-bridge.js",
     "modules/character-assessment/engine-language.js",
@@ -45,7 +47,10 @@
   ],
   "runtimeScripts": [
     "scripts/launch.mjs",
-    "scripts/desktop-launch.mjs"
+    "scripts/desktop-launch.mjs",
+    "scripts/online-update-runner.mjs",
+    "scripts/install-content.mjs",
+    "scripts/extract-online-update.ps1"
   ],
   "sourceDirectories": [
     "scripts",

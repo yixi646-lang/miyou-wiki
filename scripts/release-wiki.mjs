@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
-import { randomUUID } from 'node:crypto';
-import { readJSON, writeJSON, writeAtomic, inside, publicPath, listFiles, equal, PUBLIC_CATALOG, PUBLIC_BASE, INSTALLED, assertStopped } from '../lib/release-common.mjs';
+import { randomUUID, createHash } from 'node:crypto';
+import { readJSON, writeJSON, writeAtomic, inside, publicPath, listFiles, equal, stringify, PUBLIC_CATALOG, PUBLIC_BASE, INSTALLED, assertStopped } from '../lib/release-common.mjs';
 import { exportPublic, diffRows, writeRows } from '../lib/release-data.mjs';
 import { openLibrary } from '../lib/database.mjs';
 import { applyUpdate } from '../lib/release-install.mjs';
@@ -123,43 +123,61 @@ function zipDirectory(directory, output) {
 function createInstaller(root, commit, directory) {
   const names = pathsAt(root, commit);
   const shared = names.filter(name => name.startsWith('shared/') && name.endsWith('.mjs'));
-  const read = name => show(root, commit, name.startsWith('lib/') ? PRIVATE + 'source-files/' + name : name);
+  const read = name => show(root, commit, names.includes(name) ? name : PRIVATE + 'source-files/' + name);
   const allTemplates = ['run.mjs', 'wizard.ps1', 'launch.vbs', 'install.cmd'].every(name => names.includes(PRIVATE + 'source-files/scripts/update-installer/' + name));
   createInstallerBundle(directory, read, shared, allTemplates ? name => show(root, commit, PRIVATE + 'source-files/scripts/update-installer/' + name) : undefined);
 }
 
-function createPatch(root, from, to, directory, snapshot) {
-  const differences = changedPaths(root, from.commit, to.commit);
-  if (differences.files.includes('runtime/node.exe') || differences.deleted.includes('runtime/node.exe')) throw Error('固定 Node.js 运行时发生变化，请使用完整包发布。');
+function createPatch(root, from, to, directory, snapshot, routeSources) {
   fs.mkdirSync(directory, { recursive: true });
-  const files = [], times = JSON.parse(show(root, to.commit, PRIVATE + 'file-times.json'));
-  for (const name of differences.files) {
-    const bytes = snapshot ? fs.readFileSync(inside(snapshot, name)) : show(root, to.commit, name);
-    writeAtomic(inside(directory, 'payload/' + name), bytes); files.push({ path: name, size: bytes.length, mtime: times[name] });
+  const times = JSON.parse(show(root, to.commit, PRIVATE + 'file-times.json'));
+  const after = JSON.parse(show(root, to.commit, PRIVATE + 'public.json'));
+  const payload = new Map(), removed = new Set(), entryIds = new Set(), routes = [], details = [];
+  for (const source of routeSources ?? [from]) {
+    const differences = changedPaths(root, source.commit, to.commit), files = [];
+    if (differences.files.includes('runtime/node.exe') || differences.deleted.includes('runtime/node.exe')) throw Error(`从 ${source.release.version} / ${source.release.releaseId} 更新涉及 Node.js 运行时变化，请使用完整包发布。`);
+    for (const name of differences.files) {
+      if (!payload.has(name)) {
+        const bytes = snapshot ? fs.readFileSync(inside(snapshot, name)) : show(root, to.commit, name);
+        writeAtomic(inside(directory, 'payload/' + name), bytes);
+        payload.set(name, { path: name, size: bytes.length, mtime: times[name] });
+      }
+      files.push(payload.get(name));
+    }
+    const before = JSON.parse(show(root, source.commit, PRIVATE + 'public.json'));
+    const changes = diffRows(before, after);
+    const publicChanges = source.release.releaseId === from.release.releaseId ? 'public-changes.json.gz' : `routes/${source.release.releaseId}.json.gz`;
+    writeJSON(inside(directory, publicChanges), changes);
+    const route = { from: source.release, files, deleted: differences.deleted, publicChanges };
+    routes.push(route); details.push({ route, changes, oldPaths: new Set(publicPaths(root, source.commit)) });
+    differences.deleted.forEach(name => removed.add(name)); changes.forEach(change => entryIds.add(change.id));
   }
-  const before = JSON.parse(show(root, from.commit, PRIVATE + 'public.json')), after = JSON.parse(show(root, to.commit, PRIVATE + 'public.json'));
-  const changes = diffRows(before, after);
-  writeJSON(path.join(directory, 'public-changes.json.gz'), changes);
-  writeJSON(path.join(directory, 'update.json'), { format: 'wiki-local-update', schemaVersion: 1, from: from.release, to: to.release, files, deleted: differences.deleted });
-  const oldPaths = new Set(publicPaths(root, from.commit));
+  const base = details.find(detail => detail.route.from.releaseId === from.release.releaseId);
+  if (!base) throw Error('跨版本更新缺少最低基准。');
+  const { files, deleted } = base.route;
+  writeJSON(path.join(directory, 'update.json'), { format: 'wiki-local-update', schemaVersion: 1, from: from.release, to: to.release, files, deleted, ...(routeSources ? { routes } : {}) });
   const fileList = [
     `Wiki ${from.release.version} / ${from.release.releaseId} → ${to.release.version} / ${to.release.releaseId}`,
-    `新增文件 ${files.filter(file => !oldPaths.has(file.path)).length} 个，修改文件 ${files.filter(file => oldPaths.has(file.path)).length} 个，删除公共文件 ${differences.deleted.length} 个，公共条目变化 ${changes.length} 条。`,
+    ...(routeSources ? [`支持直接更新的起点：${routes.map(route => `${route.from.version} / ${route.from.releaseId}`).join('、')}`, '按本机已安装批次选择对应记录，无需逐个安装中间版本。'] : []),
+    `包内共享文件 ${payload.size} 个，按起点分别记录删除项和公共条目变化。`,
     '文件路径相对于所选Wiki目录。',
-    '', '文件变化：',
-    ...files.map(file => `[${oldPaths.has(file.path) ? '修改' : '新增'}] ${file.path}`),
-    ...differences.deleted.map(name => `[删除] ${name}`),
-    '', '公共条目变化：',
-    ...changes.map(change => `[${!change.before ? '新增' : !change.after ? '删除' : '修改'}] ${change.id} ${change.after?.payload.name ?? change.before?.payload.name ?? ''}`),
+    ...details.flatMap(({ route, changes, oldPaths }) => [
+      '', `起点 ${route.from.version} / ${route.from.releaseId}：`,
+      `新增文件 ${route.files.filter(file => !oldPaths.has(file.path)).length} 个，修改文件 ${route.files.filter(file => oldPaths.has(file.path)).length} 个，删除公共文件 ${route.deleted.length} 个，公共条目变化 ${changes.length} 条。`,
+      '', '文件变化：',
+      ...route.files.map(file => `[${oldPaths.has(file.path) ? '修改' : '新增'}] ${file.path}`), ...route.deleted.map(name => `[删除] ${name}`),
+      '', '公共条目变化：',
+      ...changes.map(change => `[${!change.before ? '新增' : !change.after ? '删除' : '修改'}] ${change.id} ${change.after?.payload.name ?? change.before?.payload.name ?? ''}`),
+    ]),
   ];
   writeAtomic(path.join(directory, '更新文件清单.txt'), fileList.join('\r\n') + '\r\n');
   createInstaller(root, to.commit, directory);
-  writeAtomic(path.join(directory, '更新说明.txt'), `Wiki ${from.release.version} / ${from.release.releaseId} → ${to.release.version} / ${to.release.releaseId}\r\n关闭所有 Wiki 页面并等待约 15 秒，关闭扫描器。\r\n将更新包完整解压到独立目录，双击本包“安装更新.vbs”；“安装更新.cmd”也打开同一向导。\r\n选择现有 Wiki 文件夹，或选择其中的“启动百科.vbs”，核对当前与目标版本，再点击“开始更新”。\r\n窗口显示进度与明确的完成 / 失败结果；完成后可直接启动 Wiki。不要手动覆盖数据库或 payload。\r\n变化文件 ${files.length} 个，删除公共文件 ${differences.deleted.length} 个，变化条目 ${changes.length} 条。\r\n个人收藏、库存、计划和评估账号保留；百科编辑冲突保留本地值并输出记录。\r\n已经是目标批次无需重复安装；其他起点须使用对应更新包。此包不含版本回退功能。\r\n功能变化见“版本更新详情.txt”，完整教程见“Wiki使用说明.txt”。\r\n`);
+  writeAtomic(path.join(directory, '更新说明.txt'), `Wiki ${from.release.version} / ${from.release.releaseId} → ${to.release.version} / ${to.release.releaseId}\r\n${routeSources ? `支持上述最低版本起的 ${routes.length} 个已收录正式批次直接更新，无需安装中间版本。` : '仅适用于上述起始批次。'}\r\n关闭所有 Wiki 页面并等待约 15 秒，关闭扫描器。\r\n将更新包完整解压到独立目录，双击本包“安装更新.vbs”；“安装更新.cmd”也打开同一向导。\r\n选择现有 Wiki 文件夹，或选择其中的“启动百科.vbs”，核对当前与目标版本，再点击“开始更新”。\r\n窗口显示进度与明确的完成 / 失败结果；完成后可直接启动 Wiki。不要手动覆盖数据库或 payload。\r\n个人收藏、库存、计划和评估账号保留；百科编辑冲突保留本地值并输出记录。\r\n已经是目标批次无需重复安装；早于最低基准、未收录批次或运行时不兼容时使用完整包。此包不含版本回退功能。\r\n各起点的文件与条目变化见“更新文件清单.txt”；功能变化见“版本更新详情.txt”，完整教程见“Wiki使用说明.txt”。\r\n`);
   const notesPath = `${PRIVATE}source-files/docs/releases/${to.release.version}-${to.release.releaseId}.txt`;
   const allPaths = pathsAt(root, to.commit);
   if (allPaths.includes(notesPath)) writeAtomic(path.join(directory, '版本更新详情.txt'), show(root, to.commit, notesPath));
   if (allPaths.includes('Wiki使用说明.txt')) writeAtomic(path.join(directory, 'Wiki使用说明.txt'), show(root, to.commit, 'Wiki使用说明.txt'));
-  return { files: files.length, deleted: differences.deleted.length, entries: changes.length, usefulChanges: differences.files.filter(name => name !== 'release.json').length + differences.deleted.length + changes.length };
+  return { files: payload.size, deleted: removed.size, entries: entryIds.size, supportedFrom: routes.map(route => route.from.releaseId), usefulChanges: [...payload.keys()].filter(name => name !== 'release.json').length + removed.size + entryIds.size };
 }
 function createFull(root, record, directory, snapshot, rows) {
   const wiki = path.join(directory, 'Wiki'); fs.mkdirSync(wiki, { recursive: true });
@@ -168,6 +186,12 @@ function createFull(root, record, directory, snapshot, rows) {
   writeJSON(inside(wiki, PUBLIC_CATALOG), { format: 'wiki-public-release', schemaVersion: 1, entries: rows.map(row => row.payload) });
   writeJSON(inside(wiki, PUBLIC_BASE), rows);
   writeJSON(inside(wiki, INSTALLED), { schemaVersion: 1, release: record.release, managedPaths: [...names, PUBLIC_CATALOG].sort() });
+  const content = readJSON(inside(root, '.release-manager/content/latest-built.json'), null);
+  const hash = bytes => createHash('sha256').update(bytes).digest('hex');
+  if (content && content.rowsHash === hash(Buffer.from(stringify(rows))) && content.manifest.files.every(file => fs.existsSync(inside(wiki, file.path)) && hash(fs.readFileSync(inside(wiki, file.path))) === file.hash)) {
+    writeJSON(inside(wiki, '.updates/content/rows.json.gz'), rows);
+    writeJSON(inside(wiki, '.updates/content/installed.json'), { format: 'wiki-installed-content', schemaVersion: 1, revision: content.manifest.revision, publishedAt: content.manifest.publishedAt, installedAt: record.release.publishedAt, softwareRelease: record.release, files: content.manifest.files });
+  }
   const library = openLibrary(inside(wiki, 'data/library/wiki.sqlite'));
   try { library.db.exec('BEGIN'); writeRows(library.db, rows.map(row => ({ id: row.id, row }))); library.db.exec('COMMIT'); }
   finally { library.close(); }
@@ -205,8 +229,11 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
   root = path.resolve(root);
   return publisherOperation(root, async () => {
     if (!['full', 'fix', 'content', 'feature'].includes(kind)) throw Error('发布类别须为 full、fix、content 或 feature。');
-    const state = stateOf(root), previous = state.releases.at(-1), baseline = from ? state.releases.find(record => record.release.releaseId === from) : previous;
-    if (from && !baseline) throw Error(`不存在正式发布基准：${from}`);
+    const config = readJSON(path.join(root, 'release-config.json'));
+    const state = stateOf(root), previous = state.releases.at(-1);
+    const baselineId = from ?? (kind !== 'full' && previous ? config.updateBaseline : undefined);
+    const baseline = baselineId ? state.releases.find(record => record.release.releaseId === baselineId) : previous;
+    if (baselineId && !baseline) throw Error(`不存在正式发布基准：${baselineId}`);
     if (!previous && kind !== 'full') throw Error('首次发布必须使用 --kind=full。');
     version ??= previous?.release.version ?? '1.0.0';
     if (!/^\d+\.\d+\.\d+$/.test(version)) throw Error('版本号格式应为 1.0.0。');
@@ -223,7 +250,6 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
     fs.mkdirSync(snapshot, { recursive: true });
     const outputs = [];
     try {
-      const config = readJSON(path.join(root, 'release-config.json'));
       const rows = exportPublic(path.join(root, 'data/library/wiki.sqlite'));
       console.log(`采集当前公共内容：${rows.length} 条；发布 ${version} / ${id}。`);
       const sourceMap = gather(root, snapshot, config);
@@ -257,7 +283,8 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
         const output = outputName(`Wiki-${version}-${id}-Windows-x64`); outputs.push(output); zipDirectory(directory, output);
       }
       if (baseline && kind !== 'full') {
-        const directory = path.join(temporary, 'update'); summary.update = createPatch(root, baseline, record, directory, snapshot);
+        const sources = state.releases.slice(state.releases.indexOf(baseline));
+        const directory = path.join(temporary, 'update'); summary.update = createPatch(root, baseline, record, directory, snapshot, sources);
         if (!summary.update.usefulChanges && kind !== 'feature') throw Error('没有上次发布以来的有效变化，不生成空更新。');
         const output = outputName(`Wiki-${version}-更新-${baseline.release.releaseId}-至-${id}`); outputs.push(output); zipDirectory(directory, output);
       }

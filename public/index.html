@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="/navigation-layout.css">
   <link rel="stylesheet" href="/unified-search.css">
   <link rel="stylesheet" href="/banner-history.css">
+  <link rel="stylesheet" href="/online-updates.css">
   <script type="module" src="/boot.mjs"></script>
 </head>
 <body>
@@ -47,6 +48,7 @@
       <div class="breadcrumb" id="breadcrumb">资料库 <span>/&nbsp; 百科总览</span></div>
       <div class="search"><svg class="icon"><use href="/icons.svg#i-search"/></svg><input id="search" type="search" placeholder="搜索名称、别名或资料…" aria-label="搜索"><span class="search-scopes" aria-label="搜索范围"><button type="button" data-search-scope="current" aria-pressed="true">当前游戏</button><button type="button" data-search-scope="all" aria-pressed="false">全部游戏</button></span><kbd>Ctrl K</kbd></div>
       <span class="prototype-badge" id="wiki-release">Wiki 1.0.0</span>
+      <button type="button" class="wiki-updates" id="wiki-updates">更新</button>
     </header>
     <main class="content" id="content" aria-live="polite"><div class="loading"><span class="loading-mark">✦</span><p>正在读取本地资料…</p></div></main>
   </div>
