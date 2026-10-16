@@ -16,6 +16,7 @@ import { digest, gitDigest, CONTENT_STATE, validateContentPackage } from '../lib
 import { createOnlineUpdates, publishedContent } from '../lib/online-updates.mjs';
 import { createUpdateActions, updatePanelHTML } from '../public/online-updates.mjs';
 import { buildContentRelease } from '../scripts/content-release.mjs';
+import { buildArtworkIndex } from '../scripts/build-artwork-index.mjs';
 import { createTestWorkspace, cleanupTestWorkspace, stopTestProcess } from '../scripts/test-resources.mjs';
 
 const project = fileURLToPath(new URL('../', import.meta.url));
@@ -106,22 +107,76 @@ test('资料检查仅提醒；代表交互确认后经真实解压、独立助�
   } finally { await updater?.close(); await stopTestProcess(runner); await stopTestProcess(parent); await cleanupTestWorkspace(root); }
 });
 
-test('维护端手动打包仅含公共资料与素材，不推进软件版本和发布记录', async () => {
-  const { root } = await fixture();
+test('1.2.2基准无变化不出包；累计增量跳批次、恢复旧值，包内窗口安装器独立运行', async () => {
+  const { root, rows } = await fixture(); let wizard;
   try {
+    const baseline = { ...release, version: '1.2.2', releaseId: 'R000008' };
+    writeJSON(path.join(root, 'release.json'), baseline);
+    writeJSON(path.join(root, INSTALLED), { schemaVersion: 1, release: baseline, managedPaths: [image] });
     writeJSON(path.join(root, 'data/character-artwork-variants.json'), { variants: {} });
-    writeJSON(path.join(root, 'release-config.json'), { updateBaseline: 'R000007', outputDirectory: '包体', content: { directories: ['assets'], files: ['data/character-artwork-variants.json'] } });
+    writeJSON(path.join(root, '.release-data/public.json'), rows);
+    fs.mkdirSync(path.join(root, 'public'), { recursive: true });
+    await buildArtworkIndex({ rootDirectory: root, sourceEntries: rows.map(row => row.payload), outputPath: path.join(root, 'public/character-artwork-index.json') });
+    writeJSON(path.join(root, 'release-config.json'), { updateBaseline: 'R000007', outputDirectory: '包体', content: { baseline: 'R000008', directories: ['assets'], files: ['data/character-artwork-variants.json'] } });
     const git = process.env.WIKI_GIT ?? 'git', repo = path.join(root, '.release-manager/repository.git');
-    const run = args => { const result = spawnSync(git, args, { encoding: 'utf8', windowsHide: true, env: { ...process.env, GIT_AUTHOR_NAME: 'Test', GIT_AUTHOR_EMAIL: 'test@example.test', GIT_COMMITTER_NAME: 'Test', GIT_COMMITTER_EMAIL: 'test@example.test' } }); assert.equal(result.status, 0, result.stderr); return result.stdout.trim(); };
+    const run = args => { const result = spawnSync(git, args, { cwd: root, encoding: 'utf8', windowsHide: true, env: { ...process.env, GIT_AUTHOR_NAME: 'Test', GIT_AUTHOR_EMAIL: 'test@example.test', GIT_COMMITTER_NAME: 'Test', GIT_COMMITTER_EMAIL: 'test@example.test' } }); assert.equal(result.status, 0, result.stderr); return result.stdout.trim(); };
     run(['init', '--bare', repo]);
-    run(['--git-dir=' + repo, '--work-tree=' + root, 'add', '--', 'assets', 'data/character-artwork-variants.json']);
+    run(['--git-dir=' + repo, '--work-tree=' + root, 'add', '--', 'assets', 'data/character-artwork-variants.json', '.release-data/public.json', 'public/character-artwork-index.json']);
     const tree = run(['--git-dir=' + repo, 'write-tree']), commit = run(['--git-dir=' + repo, 'commit-tree', tree, '-m', 'fixture']);
-    const state = { releases: [{ release, commit }] }; writeJSON(path.join(root, '.release-manager/state.json'), state);
-    const result = await buildContentRelease({ root, revision: 'D20261016090000' }); assert(result.bytes > 0); assert.equal(result.entries, 3);
-    assert.deepEqual(readJSON(path.join(root, '.release-manager/state.json')), state); assert.deepEqual(readJSON(path.join(root, 'release.json')), release);
+    const state = { releases: [{ release: baseline, commit }] }; writeJSON(path.join(root, '.release-manager/state.json'), state);
+    const idle = await buildContentRelease({ root, revision: 'D20261016080000' }); assert.equal(idle.noChanges, true); assert.equal(idle.archive, null);
     const require = createRequire(import.meta.url), { unzipSync } = require(path.join(project, '.release-manager/build-tools/node_modules/fflate'));
-    const entries = unzipSync(fs.readFileSync(result.archive)), names = Object.keys(entries).map(name => name.replaceAll('\\', '/'));
-    assert(names.includes('content.json')); assert(names.includes('rows.json.gz')); assert(names.includes('安装资料更新.cmd')); assert(names.includes('payload/' + image));
-    assert(!names.some(name => /assessment|sqlite|public-base|release\.json/.test(name))); assert.equal(fs.existsSync(path.join(root, '.codex_tmp/content-build')), false);
-  } finally { await cleanupTestWorkspace(root); }
+    const extract = (result, directory) => { const entries = unzipSync(fs.readFileSync(result.archive)); for (const [name, bytes] of Object.entries(entries)) put(path.join(directory, name.replaceAll('\\', '/')), bytes); return Object.keys(entries).map(name => name.replaceAll('\\', '/')); };
+    const makeFriend = name => {
+      const directory = path.join(root, name);
+      for (const file of ['release.json', INSTALLED, PUBLIC_BASE, image, 'data/character-artwork-variants.json', 'public/character-artwork-index.json']) put(path.join(directory, file), fs.readFileSync(path.join(root, file)));
+      edit(directory, library => { for (const item of rows) library.create(item.payload); library.favorite('genshin-b', true); });
+      put(path.join(directory, 'data/assessment/private.bin'), 'private-accounts');
+      return directory;
+    };
+    const friend = makeFriend('friend'), skip = makeFriend('friend-skip'), graphical = makeFriend('friend-gui');
+    const addedImage = 'assets/genshin/added.png';
+    put(path.join(root, addedImage), 'new-artwork');
+    put(path.join(root, image), 'changed-image');
+    edit(root, library => library.create(payload('genshin-d', '首批')));
+    const first = await buildContentRelease({ root, revision: 'D20261016090000' });
+    assert.equal(first.entries, 1); assert.equal(first.files, 2);
+    const firstPack = path.join(root, 'first-pack');
+    const names = extract(first, firstPack);
+    assert(names.includes('content.json')); assert(names.includes('public-changes.json.gz')); assert(!names.includes('rows.json.gz'));
+    assert(names.includes('安装资料更新.vbs')); assert(names.includes('installer/wizard.ps1')); assert(names.includes('installer/lib/content-install.mjs'));
+    assert(!names.some(name => /assessment|sqlite|public-base|release\.json/.test(name)));
+    assert(!names.includes('payload/data/character-artwork-variants.json'), '未变化文件不重复打包');
+    assert.equal(readJSON(path.join(firstPack, 'public-changes.json.gz')).length, 1);
+    assert.throws(() => applyContentUpdate(friend, firstPack, { failAt: 'after-files' }), /中断/);
+    assert.equal(fs.existsSync(path.join(friend, addedImage)), false);
+    applyContentUpdate(friend, firstPack);
+    assert.equal(fs.readFileSync(path.join(friend, image), 'utf8'), 'changed-image');
+    const unchanged = await buildContentRelease({ root, revision: 'D20261016091000' }); assert.equal(unchanged.archive, null);
+    // The next cumulative package restores a baseline file and removes a file introduced by the first batch.
+    put(path.join(root, image), 'old-image'); fs.unlinkSync(path.join(root, addedImage));
+    edit(root, library => { const entry = library.get('genshin-d'); library.update(entry.id, payload(entry.id, '第二批'), entry.revision); });
+    const second = await buildContentRelease({ root, revision: 'D20261016093000' });
+    const secondPack = path.join(root, 'second-pack'); extract(second, secondPack);
+    const manifest = readJSON(path.join(secondPack, 'content.json'));
+    assert.deepEqual(manifest.files.map(file => file.path), [image]); assert.deepEqual(manifest.deleted, [addedImage]);
+    for (const directory of [friend, skip]) {
+      applyContentUpdate(directory, secondPack);
+      assert.equal(fs.readFileSync(path.join(directory, image), 'utf8'), 'old-image');
+      assert.equal(fs.existsSync(path.join(directory, addedImage)), false);
+      edit(directory, library => { assert.equal(library.get('genshin-d').details.x, '第二批'); assert.deepEqual(library.favorites(), ['genshin-b']); });
+      assert.equal(fs.readFileSync(path.join(directory, 'data/assessment/private.bin'), 'utf8'), 'private-accounts');
+      assert.deepEqual(readJSON(path.join(directory, 'release.json')), baseline);
+    }
+    // Exercise the real window and its bundled backend against a client containing no updater code.
+    const report = path.join(root, 'wizard-result.json');
+    wizard = spawn('powershell.exe', ['-NoProfile', '-STA', '-ExecutionPolicy', 'Bypass', '-File', path.join(secondPack, 'installer/wizard.ps1'), '-SelfTestTarget', graphical, '-SelfTestReport', report], { windowsHide: true, stdio: 'pipe', env: { ...process.env, PATH: path.dirname(process.execPath) + path.delimiter + process.env.PATH } });
+    let stderr = ''; wizard.stderr.setEncoding('utf8'); wizard.stderr.on('data', data => { stderr += data; }); wizard.stdout.resume();
+    const timeout = setTimeout(() => wizard.kill(), 25000);
+    try { const [code] = await once(wizard, 'exit'); assert.equal(code, 0, stderr); } finally { clearTimeout(timeout); }
+    const ui = readJSON(report); assert.equal(ui.result.status, 'success', JSON.stringify(ui)); assert.equal(ui.progress, 100); assert.match(ui.stage, /更新完成/);
+    edit(graphical, library => assert.equal(library.get('genshin-d').details.x, '第二批'));
+    assert.deepEqual(readJSON(path.join(root, '.release-manager/state.json')), state); assert.deepEqual(readJSON(path.join(root, 'release.json')), baseline);
+    assert.equal(fs.existsSync(path.join(root, '.codex_tmp/content-build')), false);
+  } finally { await stopTestProcess(wizard); await cleanupTestWorkspace(root); }
 });

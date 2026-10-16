@@ -3,6 +3,7 @@
   "outputDirectory": "各种包体",
   "updateBaseline": "R000007",
   "content": {
+    "baseline": "R000008",
     "directories": ["assets", "data/growth", "data/material-acquisition", "data/sources", "data/versions"],
     "files": ["data/character-artwork-variants.json", "public/character-artwork-index.json"]
   },

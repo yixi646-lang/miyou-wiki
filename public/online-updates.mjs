@@ -5,16 +5,16 @@ export function updatePanelHTML(info, loading = false) {
   const job = info.job, available = info.available, content = info.channel === 'content';
   return `<div class="update-heading"><h2 id="online-update-title">Wiki 更新</h2><button type="button" data-update="close" aria-label="关闭更新面板">×</button></div>
     <nav class="update-tabs" aria-label="更新类别"><button type="button" data-update-channel="software" aria-pressed="${!content}">软件更新</button><button type="button" data-update-channel="content" aria-pressed="${content}">游戏资料</button></nav>
-    <div class="update-body"><div class="update-versions"><span>${content ? '当前资料' : '当前版本'}<strong>${escape(info.current.version)}</strong></span><span>${available ? (content ? '可用资料' : '可用版本') : '最新发布'}<strong>${escape(info.latest?.version ?? (info.checkedAt ? '暂无发布' : '尚未检查'))}</strong></span></div>
+    <div class="update-body"><div class="update-versions"><span>${content ? '当前资料' : '当前版本'}<strong>${escape(info.current.version)}</strong></span><span>${info.checkError ? '上次查到' : available ? (content ? '可用资料' : '可用版本') : '最新发布'}<strong>${escape(info.latest?.version ?? (info.checkError ? '未能确认' : info.checkedAt ? '暂无发布' : '尚未检查'))}</strong></span></div>
     ${info.checkError ? `<p class="update-error" role="status">${escape(info.checkError)}</p>` : ''}
-    ${!available && info.latest ? `<p>${content ? '当前资料已是最新发布批次。' : '当前没有更新的软件版本。'}</p>` : ''}
+    ${!info.checkError && !available && info.latest ? `<p>${content ? '当前资料已是最新发布批次。' : '当前没有更新的软件版本。'}</p>` : ''}
     ${content && !info.latest && info.checkedAt && !info.checkError ? '<p>尚未发布独立资料包。</p>' : ''}
     ${available && !info.automaticAllowed ? `<p>${escape(info.automaticReason)}</p>` : ''}
     ${job && ['downloading','extracting','ready','installing','failed'].includes(job.phase) ? `<div class="update-progress" role="status"><strong>${escape(job.message)}</strong>${active(job) ? `<progress max="100" value="${Math.max(0, Math.min(100, Number(job.percent) || 0))}"></progress>` : ''}${job.phase === 'downloading' ? `<small>${sizeText(job.downloaded)} / ${sizeText(job.total)}</small>` : ''}</div>` : ''}
     ${available && info.latest.notes ? `<details class="update-notes" open><summary>更新内容</summary><div>${escape(info.latest.notes)}</div></details>` : ''}
     <label class="update-preference"><input type="checkbox" data-update-preference ${info.preferences.autoCheck ? 'checked' : ''}>启动时检查并提醒更新</label>
     <small class="update-policy">${content ? '资料更新不改变软件版本。' : ''}检查不会下载或安装，确认安装后会短暂重启 Wiki。</small>
-    ${info.checkedAt ? `<small class="update-checked">上次检查：${escape(new Date(info.checkedAt).toLocaleString('zh-CN'))}</small>` : ''}</div>
+    ${info.checkedAt ? `<small class="update-checked">上次成功检查：${escape(new Date(info.checkedAt).toLocaleString('zh-CN'))}</small>` : ''}</div>
     <div class="update-actions"><button type="button" data-update="check" ${loading || active(job) ? 'disabled' : ''}>${loading ? '正在检查…' : '检查更新'}</button><span class="update-action-spacer"></span>
     ${['downloading','extracting','ready'].includes(job?.phase) ? '<button type="button" data-update="cancel">取消更新</button>' : ''}
     <a class="button-secondary" data-update="github" href="${escape(info.github)}" target="_blank" rel="noopener noreferrer">GitHub 手动下载</a>

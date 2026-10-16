@@ -188,9 +188,10 @@ function createFull(root, record, directory, snapshot, rows) {
   writeJSON(inside(wiki, INSTALLED), { schemaVersion: 1, release: record.release, managedPaths: [...names, PUBLIC_CATALOG].sort() });
   const content = readJSON(inside(root, '.release-manager/content/latest-built.json'), null);
   const hash = bytes => createHash('sha256').update(bytes).digest('hex');
-  if (content && content.rowsHash === hash(Buffer.from(stringify(rows))) && content.manifest.files.every(file => fs.existsSync(inside(wiki, file.path)) && hash(fs.readFileSync(inside(wiki, file.path))) === file.hash)) {
+  const contentFiles = content?.targetFiles ?? content?.manifest.files;
+  if (content && content.rowsHash === hash(Buffer.from(stringify(rows))) && contentFiles.every(file => fs.existsSync(inside(wiki, file.path)) && hash(fs.readFileSync(inside(wiki, file.path))) === file.hash)) {
     writeJSON(inside(wiki, '.updates/content/rows.json.gz'), rows);
-    writeJSON(inside(wiki, '.updates/content/installed.json'), { format: 'wiki-installed-content', schemaVersion: 1, revision: content.manifest.revision, publishedAt: content.manifest.publishedAt, installedAt: record.release.publishedAt, softwareRelease: record.release, files: content.manifest.files });
+    writeJSON(inside(wiki, '.updates/content/installed.json'), { format: 'wiki-installed-content', schemaVersion: 1, revision: content.manifest.revision, publishedAt: content.manifest.publishedAt, installedAt: record.release.publishedAt, softwareRelease: record.release, files: contentFiles });
   }
   const library = openLibrary(inside(wiki, 'data/library/wiki.sqlite'));
   try { library.db.exec('BEGIN'); writeRows(library.db, rows.map(row => ({ id: row.id, row }))); library.db.exec('COMMIT'); }
