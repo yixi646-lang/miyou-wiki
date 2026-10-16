@@ -1,8 +1,8 @@
-# 米游离线百科
+# 原神、星铁、绝区零百科
 
 原神、崩坏：星穹铁道、绝区零的本地资料百科，集成原神角色养成评价、配队伤害计算和圣遗物配装工具。资料、图片与个人数据保存在本机，日常查阅和计算可离线使用。
 
-**[下载最新版本](https://github.com/yixi646-lang/miyou-wiki/releases/latest)** · **[使用说明](Wiki使用说明.txt)** · **[问题反馈与建议](https://github.com/yixi646-lang/miyou-wiki/issues)**
+**[下载最新版本](https://github.com/yixi646-lang/miyou-wiki/releases/latest)** · **[历史版本与更新包](https://github.com/yixi646-lang/miyou-wiki/releases/tag/history-downloads)** · **[使用说明](Wiki使用说明.txt)** · **[问题反馈与建议](https://github.com/yixi646-lang/miyou-wiki/issues)**
 
 ## 主要功能
 
@@ -23,7 +23,7 @@
 
 关闭这份 Wiki 的全部页面约 15 秒后，后台服务自动退出。每份目录独立保存资料，可整目录移动。
 
-当前版本为 **1.2.2**。后续可从顶栏“更新”选择“软件更新”或“游戏资料”；检查只提醒，下载和安装需要确认，可关闭启动检查。首次提供完整便携包；后续有适用累计更新包时，可在 Wiki 内更新。联网失败也能前往 GitHub 手动下载。详细步骤见 [使用说明](Wiki使用说明.txt)。
+当前版本为 **1.2.2**。顶栏“更新”提供“软件更新”和“游戏资料”；检查只提醒，下载和安装需要确认，可关闭启动检查。首次使用下载完整便携包；已有1.2.1可下载累计更新包手动升级，后续使用Wiki内更新。联网失败也能前往 GitHub 手动下载。详细步骤见 [使用说明](Wiki使用说明.txt)。
 
 GitHub 自动生成的 `Source code` 下载项是源码包，不包含便携版运行时和扫描器程序。
 
