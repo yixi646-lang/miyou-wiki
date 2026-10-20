@@ -1,4 +1,5 @@
-import {artworkFigure,setPartsHTML,gameMediaHTML,gameLogoHTML} from './visual-assets.mjs';
+import {artworkFigure,setPartsHTML} from './visual-assets.mjs';
+import {homeHTML,mountHome,updateHomeStatus} from './home.mjs';
 import {focusNameInput} from '/shared/name-input.mjs';
 import {withResourceTimeout} from '/shared/resource-loading.mjs';
 import {createPageMemory,installScrollStability} from './page-state.mjs';
@@ -6,7 +7,6 @@ import {materialUsageHTML} from './material-usage.mjs';
 import {materialAcquisitionHTML} from './material-acquisition.mjs';
 import {characterMaterialsHTML} from './character-materials.mjs';
 import {characterMaterialGroups} from '/shared/character-materials.mjs';
-import {contentStatusText} from '/shared/content-status.mjs';
 import {mountArtworkGallery,loadArtworkIndex,galleryCards,switchGalleryCard} from './artwork-gallery.mjs';
 import {mountUnifiedSearch,bindSearchInput} from './unified-search.mjs';
 import {SEARCH_TYPES,SEARCH_SORTS} from '/shared/unified-search.mjs';
@@ -57,7 +57,7 @@ async function mountAssessment(options){
   }finally{if(assessmentLoad===loading)assessmentLoad=null;}
 }
 const state = {game:'genshin',category:'characters',screen:'list',search:'',searchType:'all',searchScope:'current',searchSort:'relevance',searchDirection:'desc',filters:{},sort:'release',direction:'desc',page:1,pageSize:'all',entryId:null,travelerElement:'冰',featured:null,archiveVersion:null,archiveMajor:'',archiveSection:'',since:'',until:''};
-let counts=[], favoriteCounts=[], renderGeneration=0;const loadedGames=new Set(),catalogRequests=new Map();
+let counts=[], favoriteCounts=[], renderGeneration=0,disposeHome=()=>{};const loadedGames=new Set(),catalogRequests=new Map();
 const countFor=(game,category)=>counts.filter(r=>(!game||r.game===game)&&(!category||r.category===category)).reduce((n,r)=>n+r.count,0);
 async function loadGame(game){if(loadedGames.has(game))return;if(!catalogRequests.has(game))catalogRequests.set(game,api(`catalog?game=${encodeURIComponent(game)}`).then(async data=>{entries=withBannerSchedules([...entries.filter(e=>e.game!==game),...await supplementSummaries(data.entries)]);loadedGames.add(game);}).finally(()=>catalogRequests.delete(game)));await catalogRequests.get(game);}
 async function refreshCatalog(){const data=await api('bootstrap');counts=data.counts??[];favoriteCounts=data.favoriteCounts??[];favorites=new Set(data.favorites);token=data.token;sourceManifest=data.sourceManifest;entries=[];loadedGames.clear();}
@@ -173,14 +173,13 @@ function bannerCard(entry){const b=entry.banner,now=new Date().toLocaleDateStrin
 function card(entry){if(['weapons','sets'].includes(entry.category))return equipmentCard(entry);if(entry.category==='banners'&&entry.banner)return bannerCard(entry);return `<a class="entry-card ${rarityClass(entry)}" href="/?game=${entry.game}&entry=${encodeURIComponent(entry.id)}" style="${tile(entry.game)}" title="${escape(entry.name)}">
   <div class="entry-visual">${entryImage(entry)}${entry.category==='characters'?elementBadge(entry):`<span class="type">${escape(entry.type||entry.kind||categoryLabel(entry.game,entry.category))}</span>`}${entry.category==='characters'?'':`<span class="entry-star ${entry.game==='zenless'?'zzz':''}">${entry.game==='zenless'?escape(rarityLabel(entry).replace(' 级','')):'★'.repeat(entry.rarity??0)}</span>`}</div>
   <div class="entry-info"><strong>${escape(entry.name)}</strong><div class="entry-tags"><span>${escape(entry.category==='characters'?[entry.element,entry.type||categoryLabel(entry.game,entry.category)].filter(Boolean).join(' · '):entry.secondary?.[0]||entry.kind||entry.type||categoryLabel(entry.game,entry.category))}</span>${entry.category!=='characters'&&entry.rarity?`<span class="tag">${escape(rarityLabel(entry))}</span>`:''}</div>${entry.category==='materials'&&!entry.releaseVersion?'':`<div class="entry-release"><span>${entry.releaseVersion?escape(entry.releaseVersion)+' 版本':'版本待确认'}</span></div>`}${entry.category==='materials'?applicabilityHTML(entry):''}</div>${favorites.has(entry.id)?'<span class="saved-star" aria-label="已收藏">★</span>':''}</a>`;}
-function gameCards(){return `<div class="game-grid">${Object.entries(GAMES).map(([game,info],i)=>{const n=countFor(game),characters=countFor(game,'characters');return `<a class="game-card ${game==='starrail'?'hsr':game==='zenless'?'zzz':''}" href="/?game=${game}">${gameMediaHTML(game)}<span class="game-num">0${i+1} / ${info.en}</span><h2>${gameLogoHTML(game)}<span>${info.name}</span></h2><p>${Object.values(info.categories).slice(0,3).join(' / ')}</p><small>${characters} 位${game==='zenless'?'代理人':'角色'} · ${n} 个条目</small><span class="game-symbol" aria-hidden="true">${info.symbol}</span></a>`;}).join('')}</div>`;}
-function renderHome(){content.innerHTML=`<div class="heading"><div><h1>游戏百科</h1><p>选择游戏，查阅角色、装备与版本资料。</p><p id="wiki-content-version" class="wiki-content-version" title="版本表示本地已收录条目的最高版本，不表示该版本全部内容均已收齐。">资料版本：正在读取…</p></div></div>${gameCards()}${footer()}`;
-  const label=$('#wiki-content-version');api('content-status').then(status=>{if(content.contains(label))label.textContent=contentStatusText(status);}).catch(()=>{if(content.contains(label))label.textContent='资料版本暂时无法读取，请重新启动 Wiki 后刷新。';});
+function renderHome(){content.innerHTML=homeHTML();disposeHome=mountHome(content);
+  const label=$('#wiki-content-version');api('content-status').then(status=>{if(content.contains(label))updateHomeStatus(label,status);}).catch(()=>{if(content.contains(label))label.textContent='资料版本暂时无法读取';});
 }
 function query(){return {...state,favoriteIds:state.screen==='favorites'?favorites:undefined};}
 function facetsHTML(){const allFacets=buildFacets(entries,query()),ordinary=allFacets.filter(f=>!['releaseMajor','releaseVersion'].includes(f.key)),fold=state.game==='all'&&state.category==='characters',advanced=expandedFacets.has('all-facets');const facets=fold&&!advanced?ordinary.filter(f=>['game','rarity'].includes(f.key)||state.filters[f.key]?.length):ordinary;return `<div class="filters">${facets.map(f=>{
-  const selected=state.filters[f.key]??[],shown=expandedFacets.has(f.key)?f.values:f.values.filter((v,i)=>i<8||selected.includes(v.value));
-  return `<div class="facet-row"><div class="facet-label">${escape(f.label)}</div><div class="facet-options"><button class="chip ${selected.length?'':'active'}" data-action="facet-clear" data-key="${f.key}" aria-pressed="${!selected.length}">全部</button>${shown.map(({value,count})=>`<button class="chip ${selected.includes(value)?'active':''}" data-action="facet" data-key="${f.key}" data-value="${escape(value)}" aria-pressed="${selected.includes(value)}" ${!count&&!selected.includes(value)?'disabled':''}>${escape(displayValue(f.key,value))}<span>${count}</span></button>`).join('')}${f.values.length>8?`<button class="chip chip-more" data-action="facet-expand" data-key="${f.key}">${expandedFacets.has(f.key)?'收起':'更多'+' ('+f.values.length+')'}</button>`:''}</div></div>`;
+  const showAllRegions=state.game==='genshin'&&state.category==='characters'&&f.key==='region',selected=state.filters[f.key]??[],shown=showAllRegions||expandedFacets.has(f.key)?f.values:f.values.filter((v,i)=>i<8||selected.includes(v.value));
+  return `<div class="facet-row"><div class="facet-label">${escape(f.label)}</div><div class="facet-options"><button class="chip ${selected.length?'':'active'}" data-action="facet-clear" data-key="${f.key}" aria-pressed="${!selected.length}">全部</button>${shown.map(({value,count})=>`<button class="chip ${selected.includes(value)?'active':''}" data-action="facet" data-key="${f.key}" data-value="${escape(value)}" aria-pressed="${selected.includes(value)}" ${!count&&!selected.includes(value)?'disabled':''}>${escape(displayValue(f.key,value))}<span>${count}</span></button>`).join('')}${!showAllRegions&&f.values.length>8?`<button class="chip chip-more" data-action="facet-expand" data-key="${f.key}">${expandedFacets.has(f.key)?'收起':'更多'+' ('+f.values.length+')'}</button>`:''}</div></div>`;
 }).join('')}${versionFiltersHTML(allFacets,state.filters,{escape,expanded:expandedFacets.has('releaseVersion')})}${fold?`<button class="chip chip-more" data-action="facet-expand" data-key="all-facets">${advanced?'收起详细筛选':'更多筛选：属性、类型、阵营'}</button>`:''}${Object.values(state.filters).some(v=>v.length)?`<div class="active-filters"><span>已选择</span>${Object.entries(state.filters).flatMap(([key,values])=>values.map(value=>`<button class="active-filter" data-action="facet" data-key="${key}" data-value="${escape(value)}">${key==='effect2'||key==='effect4'?escape(facetLabel(key,state.game,state.category))+': ':''}${escape(displayValue(key,value))}<span>×</span></button>`)).join('')}<button class="chip chip-reset" data-action="reset-filters">清空筛选</button></div>`:''}<div class="filter-hint">同一条件可多选，不同条件同时生效。</div></div>`;}
 function renderList(){
   content.querySelectorAll('.equipment-card .weapon-passive').forEach(detail=>listDisclosures.remember(detail.closest('[data-entry-id]').dataset.entryId,detail.open));
@@ -284,7 +283,7 @@ function renderManage(){
 async function render({position}={}){
   const targetPosition=pageMemory.begin(location.href,{game:state.game,position}),generation=++renderGeneration;
   contentMinimum??=content.style.minHeight;content.style.minHeight=content.getBoundingClientRect().height+'px';
-  disposeAssessment();updateChrome();
+  disposeAssessment();disposeHome();disposeHome=()=>{};updateChrome();
   try{
     if(state.screen!=='home'){if(!loadedGames.has(state.game))content.innerHTML='<div class="panel loading">正在加载游戏资料…</div>';await loadGame(state.game);}
     if(generation!==renderGeneration)return;updateChrome();

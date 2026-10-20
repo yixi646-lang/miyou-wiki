@@ -78,10 +78,11 @@ export function createAccountStore(storagePath){
       if(action==='switch'){d.prepare('UPDATE assessment_account_settings SET active_id=? WHERE id=1').run(r.id);return this.read(r.id);}
       checkRevision(r,revision);
       if(action==='preview-scan'||action==='import-scan'){
-        const preview=scanPreview(JSON.parse(r.value),payload.good,data,{mode:payload.mode});
-        const summary={changes:preview.changes,warnings:preview.warnings,counts:preview.counts,changed:preview.changed,mode:preview.mode};
+        const preview=scanPreview(JSON.parse(r.value),payload.good,data,{mode:payload.mode,decisions:payload.decisions});
+        const summary={changes:preview.changes,warnings:preview.warnings,counts:preview.counts,changed:preview.changed,mode:preview.mode,matches:preview.matches,unresolved:preview.unresolved,skipped:preview.skipped};
         if(action==='preview-scan')return {...summary,accountId:r.id,revision:r.revision};
         checkUnlocked(r);
+        if(preview.unresolved)fail('请先处理全部疑似装备：更新旧件、作为新装备或本次跳过。');
         if(preview.mode==='sync'&&payload.confirmReplace!==true)fail('请先确认完整扫描的装备替换范围。');
         if(!preview.changed)return {...this.read(r.id),...summary,unchanged:true};
         const now=new Date().toISOString(),next=preview.state;next.updatedAt=now;

@@ -37,6 +37,11 @@ try {
 } catch (error) {
   recoveryRequired = fs.existsSync(path.join(root, '.updates/transaction'));
   state = { ...state, phase: 'failed', message: error.message, recoveryRequired, completedAt: Date.now() };
+  try {
+    const resultDirectory = path.join(root, '.updates/results'); fs.mkdirSync(resultDirectory, { recursive: true });
+    const optional = name => { try { return read(path.join(root, name)); } catch { return null; } };
+    write(path.join(resultDirectory, content ? 'content.json' : 'software.json'), { id: config.jobId, channel: content ? 'content' : 'software', status: 'failed', completedAt: state.completedAt, software: optional('release.json'), contentRevision: optional('.updates/content/installed.json')?.revision ?? null, message: error.message, recoveryRequired });
+  } catch { /* Preserve the installation failure even if the result directory is not writable. */ }
 } finally {
   write(statePath, state);
   if (parentStopped && !recoveryRequired) {

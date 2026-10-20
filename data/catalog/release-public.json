@@ -43381,7 +43381,7 @@
       "name": "空",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "其他",
       "releaseDate": "2020-09-28",
       "releaseDateBasis": "基础旅行者按全球公测口径记录为2020-09-28；国服PC不删档开放测试另为2020-09-15。元素开放时间与基础角色日期分开。",
       "releaseVersion": "1.0",
@@ -43412,6 +43412,11 @@
           "name": "Nanoka · 游戏角色立绘",
           "note": "角色立绘",
           "url": "https://static.nanoka.cc/assets/gi/UI_Gacha_AvatarImg_PlayerBoy.webp"
+        },
+        {
+          "name": "BWIKI · 旅行者",
+          "note": "所属地区核查 2026-10-20",
+          "url": "https://wiki.biligame.com/ys/%E6%97%85%E8%A1%8C%E8%80%85"
         }
       ],
       "stats": {
@@ -55979,7 +55984,7 @@
       "name": "荧",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "其他",
       "releaseDate": "2020-09-28",
       "releaseDateBasis": "基础旅行者按全球公测口径记录为2020-09-28；国服PC不删档开放测试另为2020-09-15。元素开放时间与基础角色日期分开。",
       "releaseVersion": "1.0",
@@ -56010,6 +56015,11 @@
           "name": "Nanoka · 游戏角色立绘",
           "note": "角色立绘",
           "url": "https://static.nanoka.cc/assets/gi/UI_Gacha_AvatarImg_PlayerGirl.webp"
+        },
+        {
+          "name": "BWIKI · 旅行者",
+          "note": "所属地区核查 2026-10-20",
+          "url": "https://wiki.biligame.com/ys/%E6%97%85%E8%A1%8C%E8%80%85"
         }
       ],
       "stats": {
@@ -136016,7 +136026,7 @@
       "name": "埃洛伊",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "其他",
       "releaseDate": "2021-09-01",
       "releaseVersion": "2.1",
       "secondary": [],
@@ -136029,7 +136039,7 @@
         },
         {
           "name": "BWIKI · 埃洛伊",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E5%9F%83%E6%B4%9B%E4%BC%8A"
         },
         {
@@ -232087,7 +232097,7 @@
       "name": "丝柯克",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "其他",
       "releaseDate": "2025-06-18",
       "releaseVersion": "5.7",
       "secondary": [],
@@ -232100,7 +232110,7 @@
         },
         {
           "name": "BWIKI · 丝柯克",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E4%B8%9D%E6%9F%AF%E5%85%8B"
         },
         {
@@ -251215,7 +251225,7 @@
       "name": "兹白",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "璃月",
       "releaseDate": "2026-02-03",
       "releaseVersion": "6.3",
       "secondary": [],
@@ -251228,7 +251238,7 @@
         },
         {
           "name": "BWIKI · 兹白",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E5%85%B9%E7%99%BD"
         },
         {
@@ -260977,7 +260987,7 @@
       "name": "尼可",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "其他",
       "releaseDate": "2026-05-20",
       "releaseVersion": "6.6",
       "secondary": [],
@@ -260990,7 +261000,7 @@
         },
         {
           "name": "BWIKI · 尼可",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E5%B0%BC%E5%8F%AF"
         },
         {
@@ -264392,7 +264402,7 @@
       "name": "桑多涅",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "至冬",
       "releaseDate": "2026-07-01",
       "releaseVersion": "6.7",
       "secondary": [],
@@ -264405,7 +264415,7 @@
         },
         {
           "name": "BWIKI · 桑多涅",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E6%A1%91%E5%A4%9A%E6%B6%85"
         },
         {
@@ -266311,7 +266321,7 @@
       "name": "沃雅妮莎",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "至冬",
       "releaseDate": "2026-09-23",
       "releaseVersion": "7.1",
       "secondary": [],
@@ -266324,7 +266334,7 @@
         },
         {
           "name": "BWIKI · 沃雅妮莎",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E6%B2%83%E9%9B%85%E5%A6%AE%E8%8E%8E"
         },
         {
@@ -268530,7 +268540,7 @@
       "name": "薇斯纳",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "至冬",
       "releaseDate": "2026-09-23",
       "releaseVersion": "7.1",
       "secondary": [],
@@ -268543,7 +268553,7 @@
         },
         {
           "name": "BWIKI · 薇斯纳",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E8%96%87%E6%96%AF%E7%BA%B3"
         },
         {
@@ -270331,7 +270341,7 @@
       "name": "阿罗夏",
       "origin": "snapshot",
       "rarity": 4,
-      "region": null,
+      "region": "至冬",
       "releaseDate": "2026-08-12",
       "releaseVersion": "7.0",
       "secondary": [],
@@ -270344,7 +270354,7 @@
         },
         {
           "name": "BWIKI · 阿罗夏",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E9%98%BF%E7%BD%97%E5%A4%8F"
         },
         {
@@ -272550,7 +272560,7 @@
       "name": "奥黛塔",
       "origin": "snapshot",
       "rarity": 5,
-      "region": null,
+      "region": "至冬",
       "releaseDate": "2026-08-12",
       "releaseVersion": "7.0",
       "secondary": [],
@@ -272563,7 +272573,7 @@
         },
         {
           "name": "BWIKI · 奥黛塔",
-          "note": "实装版本与日期的结构化资料",
+          "note": "实装版本与日期的结构化资料；所属地区核查 2026-10-20",
           "url": "https://wiki.biligame.com/ys/%E5%A5%A5%E9%BB%9B%E5%A1%94"
         },
         {

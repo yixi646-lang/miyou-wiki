@@ -21,7 +21,7 @@ import {readReleaseInfo} from './lib/release-info.mjs';
 import {serviceLock} from './lib/service-lock.mjs';
 import {instanceIdentity,rememberInstance} from './lib/wiki-instance.mjs';
 import {createUnifiedBackup} from './lib/unified-backup.mjs';
-import {createOnlineUpdates} from './lib/online-updates.mjs';
+import {createOnlineUpdates,createUpdateCheckGroup} from './lib/online-updates.mjs';
 
 const root = fileURLToPath(new URL('./', import.meta.url));
 let skillTermData={characters:{}};
@@ -86,6 +86,7 @@ const pages=createPageLifecycle({port,token:sessionToken,onIdle:()=>{console.log
 const updateBusy=service=>['downloading','extracting','ready','installing'].includes(service.status().job?.phase);
 const onlineUpdates=createOnlineUpdates({root,databasePath:libraryPath,port,storageDirectory:process.env.WIKI_DB_PATH?join(libraryPath,'..','online-updates'):undefined,activePages:()=>pages.info().activePages,otherBusy:()=>updateBusy(contentUpdates),onInstall:()=>setTimeout(()=>close(),350)});
 const contentUpdates=createOnlineUpdates({root,databasePath:libraryPath,port,channel:'content',storageDirectory:process.env.WIKI_DB_PATH?join(libraryPath,'..','content-updates'):undefined,activePages:()=>pages.info().activePages,otherBusy:()=>updateBusy(onlineUpdates),onInstall:()=>setTimeout(()=>close(),350)});
+const checkUpdateChannels=createUpdateCheckGroup({software:onlineUpdates,content:contentUpdates});
 
 const server = http.createServer(async (req, res) => {
   res.setHeader('X-Content-Type-Options', 'nosniff');
@@ -101,8 +102,8 @@ const server = http.createServer(async (req, res) => {
       const origin = req.headers.origin;
       if (origin && ![`http://127.0.0.1:${port}`, `http://localhost:${port}`].includes(origin)) return json(res, 403, { error: '来源不匹配。' });
     }
-    if(await onlineUpdates.handle(req,res,url,json,body))return;
-    if(await contentUpdates.handle(req,res,url,json,body))return;
+    if(await onlineUpdates.handle(req,res,url,json,body,checkUpdateChannels))return;
+    if(await contentUpdates.handle(req,res,url,json,body,checkUpdateChannels))return;
     if(await assessment.handle(req,res,url))return;
     if(await completeBackup.handle(req,res,url,json,body))return;
     if(url.pathname==='/api/audit'&&req.method==='GET'){

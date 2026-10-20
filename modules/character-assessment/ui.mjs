@@ -15,12 +15,30 @@ import {blocksLockedButton,blocksLockedInput} from './core/permissions.mjs';
 import {artifactCountSummary,artifactIconHTML} from './artifact-ui.mjs';
 import {idlePanel} from './core/combat.mjs';
 import {scanPreview} from './core/import-sync.mjs';
+import {importMatchingHTML,chooseImportMatch,importMatchDecision} from './import-matching.mjs';
 import {openArtifactDialog} from './analysis-dialog.mjs';
 
 const escape=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const goalReset=(group,label='恢复默认')=>`<button class="subtle-action ae-reset" data-ae="reset-goal" data-group="${escape(group)}" title="按当前角色、用途的 Wiki 默认值恢复此组设置">${escape(label)}</button>`;
 const option=(value,label,selected)=>`<option value="${escape(value)}" ${String(value)===String(selected)?'selected':''}>${escape(label)}</option>`;
 const number=(label,value,attribute,min=0,max=100,step=1)=>`<label class="ae-field"><span>${escape(label)}</span><input type="number" ${attribute} value="${value??''}" min="${min}" max="${max}" step="${step}"></label>`;
+// 保留原控件和权限校验，只把受锁定保护的实际数值显示为文本。
+function syncLockedValues(host,{locked,blocksInput}){
+  for(const input of host.querySelectorAll('[data-evaluation-editor="character"] input[type="number"]')){
+    if(!input.matches('[data-char],[data-talent],[data-weapon]'))continue;
+    const field=input.closest('.ae-field');if(!field)continue;
+    const readonly=locked&&blocksInput(input);
+    let value=field.querySelector('[data-readonly-value]');
+    if(readonly){
+      if(!value){value=document.createElement('span');value.className='ae-read-value';value.dataset.readonlyValue='';input.after(value);}
+      value.textContent=input.value===''?'—':input.value;
+      input.hidden=true;input.dataset.readonlyPresentation='';field.classList.add('ae-field-readonly');
+    }else{
+      value?.remove();field.classList.remove('ae-field-readonly');
+      if(input.hasAttribute('data-readonly-presentation')){input.hidden=false;delete input.dataset.readonlyPresentation;}
+    }
+  }
+}
 const detailLink=(id,text)=>id?`<a href="/?game=genshin&entry=${encodeURIComponent(id)}">${escape(text)} ↗</a>`:escape(text);
 function customConversionHTML(state,locked){
   const counts=customConversionCounts(state),empty=!Object.values(counts).some(Boolean);
@@ -99,10 +117,12 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
         if((accountBusy||locked&&!(node.tagName==='BUTTON'?viewButton(node):viewInput(node)))&&!node.disabled){node.disabled=true;node.dataset.accountDisabled='1';}
       }
       for(const node of root.querySelectorAll('[data-account-action],[data-account-switch]'))if(accountBusy&&!node.disabled){node.disabled=true;node.dataset.accountDisabled='1';}
+      syncLockedValues(root,{locked,blocksInput:node=>blocksLockedInput(node,permissionContext())});
     }
     function renderAccounts(){
+      const menuOpen=root.querySelector('[data-account-menu]')?.open??false;
       const unknownCharacters=state.good.characters.filter(c=>!data.char.data[c.key]&&!c.key.startsWith('Traveler')).length,unknownWeapons=new Set(state.good.weapons.filter(w=>!data.weapon.data[w.key]).map(w=>w.key)).size;
-      root.querySelector('[data-account-bar]').innerHTML=`<div class="panel ae-account-bar"><div class="ae-account-controls"><label class="ae-field"><select data-account-switch aria-label="切换养成账号">${accountList.map(a=>option(a.id,a.name+(a.locked?' · 已锁定':''),account.id)).join('')}</select></label><button class="subtle-action ae-account-lock" data-account-action="${account.locked?'unlock':'lock'}" aria-pressed="${account.locked}">${account.locked?'解锁账号':'锁定账号'}</button><button class="subtle-action" data-account-action="new">新建账号</button><button class="subtle-action" data-account-action="copy" title="复制当前内容为可编辑账号，保留原账号和导入快照" ${accountList.length>=50?'disabled':''}>复制账号</button><button class="subtle-action" data-account-action="rename">重命名</button><button class="subtle-action ae-remove" data-account-action="remove" ${account.locked||accountList.length<2?'disabled':''}>移除账号</button><button class="subtle-action" data-ae="export-backup">导出备份</button></div><span class="ae-status" data-save-status></span>${unknownCharacters||unknownWeapons?`<span class="ae-account-warning" title="当前计算资料尚未覆盖 ${unknownCharacters} 名角色、${unknownWeapons} 种武器；导入数据完整保留，相关面板与伤害暂不计算。">计算支持范围有限 ⓘ</span>`:''}</div>`;
+      root.querySelector('[data-account-bar]').innerHTML=`<div class="panel ae-account-bar"><div class="ae-account-controls"><label class="ae-field"><select data-account-switch aria-label="切换养成账号">${accountList.map(a=>option(a.id,a.name+(a.locked?' · 已锁定':''),account.id)).join('')}</select></label><button class="subtle-action ae-account-lock" data-account-action="${account.locked?'unlock':'lock'}" aria-pressed="${account.locked}">${account.locked?'解锁账号':'锁定账号'}</button><details class="ui-action-menu" data-ui-menu data-account-menu data-disclosure-ignore ${menuOpen?'open':''}><summary>账号管理</summary><div class="ui-action-menu-items"><button class="subtle-action" data-account-action="new">新建账号</button><button class="subtle-action" data-account-action="copy" title="复制当前内容为可编辑账号，保留原账号和导入快照" ${accountList.length>=50?'disabled':''}>复制账号</button><button class="subtle-action" data-account-action="rename">重命名</button><button class="subtle-action ae-remove" data-account-action="remove" ${account.locked||accountList.length<2?'disabled':''}>移除账号</button><button class="subtle-action" data-ae="export-backup">导出备份</button></div></details></div><span class="ae-status" data-save-status></span>${unknownCharacters||unknownWeapons?`<span class="ae-account-warning" title="当前计算资料尚未覆盖 ${unknownCharacters} 名角色、${unknownWeapons} 种武器；导入数据完整保留，相关面板与伤害暂不计算。">计算支持范围有限 ⓘ</span>`:''}</div>`;
       applyAccountLock();
     }
     async function flushAccount(){
@@ -273,8 +293,12 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
     }
     function renderImportPreview(){
       const target=pane('import').querySelector('[data-import-preview]');if(!target||!pending)return;
-      let preview=pending,warning='';const updating=!pending.bundle&&!pending.restore&&pending.mode!=='new';
-      if(updating){try{preview=scanPreview(serializeManagedState(state),importSource(),data,{mode:pending.mode});}catch(error){warning=error.message;}}
+      let preview=pending,warning='',notice='';const updating=!pending.bundle&&!pending.restore&&pending.mode!=='new';
+      if(updating){try{
+        const actual=serializeManagedState(state),basis=JSON.stringify(actual.good);
+        if(pending.matchBasis&&pending.matchBasis!==basis){pending.decisions=[];pending.matchTargets={};pending.matchPage=0;notice='当前装备已变化，疑似装备需要重新确认。';}
+        pending.matchBasis=basis;preview=scanPreview(actual,importSource(),data,{mode:pending.mode,decisions:pending.decisions});pending.matchPreview=preview;
+      }catch(error){warning=error.message;pending.matchPreview=null;}}
       pending.valid=!warning;
       const labels={characters:'角色',weapons:'武器',artifacts:'圣遗物'};
       target.innerHTML=`<div class="ae-preview"><h3>${pending.bundle?'多账号备份导入预览':pending.restore?'账号备份导入预览':'GOOD 导入预览'}</h3><p>角色 ${pending.counts.characters} · 武器 ${pending.counts.weapons} · 圣遗物 ${pending.counts.artifacts}</p>
@@ -283,10 +307,11 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
         ${!pending.bundle&&!updating?`<label class="ae-field"><span>账号名称</span><input data-import-name maxlength="100" value="${escape(pending.name)}" aria-label="导入账号名称"></label>`:''}
         ${pending.travelerSource?`<label class="ae-field"><span>原文件未区分旅行者外观，请选择</span><select data-import-traveler>${option('','请选择',pending.gender)}${option('M','空',pending.gender)}${option('F','荧',pending.gender)}</select></label>`:''}
         ${updating&&preview.changes?`<div class="ae-table-wrap"><table class="ae-table"><thead><tr><th>资料</th><th>新增</th><th>更新</th><th>相同不变</th><th>移除</th></tr></thead><tbody>${Object.entries(preview.changes).map(([k,c])=>`<tr><td>${labels[k]}</td><td>${c.added}</td><td>${c.updated}</td><td>${c.unchanged}</td><td>${c.removed}</td></tr>`).join('')}</tbody></table></div>`:''}
+        ${notice?`<p class="ae-warning">${escape(notice)}</p>`:''}${updating?importMatchingHTML(preview,pending,catalog,data):''}
         ${(preview.warnings??[]).filter(w=>!w.includes('恢复备份会替换')).map(w=>`<p class="ae-warning">${escape(w)}</p>`).join('')}${warning?`<p class="ae-warning">${escape(warning)}</p>`:''}
         ${updating&&account.locked?'<p class="ae-warning">当前账号已锁定，请先在账号管理中解锁，再确认更新。</p>':''}
         ${updating&&pending.mode==='sync'?`<label class="ae-import-consent"><input type="checkbox" data-import-confirm-sync ${pending.confirmed?'checked':''}>我确认这是完整库存扫描，同意移除对应类别中本次未扫描到的装备；更新前存档会保留。</label>`:''}
-        <div class="ae-inline-actions"><button class="subtle-action" data-ae="confirm-import" ${warning||updating&&(account.locked||pending.mode==='sync'&&!pending.confirmed)?'disabled':''}>${updating?'确认更新当前账号':'新建账号并锁定导入'}</button><button class="subtle-action" data-ae="cancel-import">取消</button></div></div>`;
+        <div class="ae-inline-actions"><button class="subtle-action" data-ae="confirm-import" ${warning||updating&&(preview.unresolved||account.locked||pending.mode==='sync'&&!pending.confirmed)?'disabled':''}>${updating?'确认更新当前账号':'新建账号并锁定导入'}</button><button class="subtle-action" data-ae="cancel-import">取消</button></div></div>`;
     }
     let handledPointerClick=false;
     async function editSettings(kind){
@@ -303,13 +328,21 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
       else settingsPopup=openGoalDefaultEditor({...common,element:meta(key).element||'pyro',current:goal(key),focusWeights:kind==='weights'});
     }
     const onClick=async event=>{
+      for(const menu of root.querySelectorAll('[data-ui-menu][open]'))if(!menu.contains(event.target))menu.open=false;
       if(handledPointerClick&&event.detail>0){handledPointerClick=false;return;}
       const target=event.target.closest('button');if(!target||!root.contains(target))return;if(target.dataset.ae==='reset-goal'||target.dataset.native==='reset-scenario-group')event.preventDefault?.();
       if(target.hasAttribute('data-fold'))return;
       try{
         if(target.disabled||accountBusy)return;
         if(account.locked&&!viewButton(target))throw Error('账号已锁定，请先解锁再修改。');
+        target.closest('[data-ui-menu]')?.removeAttribute('open');
         if(draftNode?.isConnected){clearTimeout(inputTimer);const input=draftNode;draftNode=null;await onChange({target:input});}
+        if(pending&&(target.hasAttribute('data-import-match-action')||target.hasAttribute('data-import-match-new-all')||target.hasAttribute('data-import-match-page'))){
+          if(target.hasAttribute('data-import-match-page'))pending.matchPage=Number(target.dataset.importMatchPage);
+          else if(target.hasAttribute('data-import-match-new-all'))for(const match of pending.matchPreview.matches.filter(m=>!m.decision))(pending.decisions??=[]).push(importMatchDecision(match,'new'));
+          else{const kind=target.dataset.importMatchKind,incomingIndex=Number(target.dataset.importMatchIndex),key=kind+':'+incomingIndex,match=pending.matchPreview.matches.find(m=>m.kind===kind&&m.incomingIndex===incomingIndex);chooseImportMatch(pending,pending.matchPreview,{kind,incomingIndex,action:target.dataset.importMatchAction,targetIndex:pending.matchTargets?.[key]??match.candidates.find(c=>!c.claimed)?.targetIndex});}
+          renderImportPreview();applyAccountLock();return;
+        }
         if(target.dataset.accountAction){const action=target.dataset.accountAction;if(['new','rename','remove'].includes(action))accountForm(action);else if(action==='cancel')root.querySelector('[data-account-form]').hidden=true;else if(action==='create-confirm'||action==='rename-confirm')await changeAccount(action==='create-confirm'?'create':'rename',{name:root.querySelector('[data-account-name]').value});else if(action==='remove-confirm')await changeAccount('remove');else await changeAccount(action);return;}
         if(target.dataset.ae==='reset-goal'){settings=await api('assessment/recommendations');const c=current();if(!c)throw Error('请先选择角色。');resetGoalGroup(state,c.key,target.dataset.group,{element:meta(c.key).element||'pyro',supported:!!data.char.data[c.key]||c.key.startsWith('Traveler'),settings});persist();renderEvaluation();toast('评价设置已恢复默认');return;}
         const position=readScrollPosition(),viewChange=target.matches('[data-evaluation-tab],[data-select],[data-native-page],[data-native-team-tab],[data-native-condition-tab],[data-native-condition-member],[data-native-artifact-page]');
@@ -372,7 +405,8 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
           else if(!imported.restore&&imported.mode!=='new'){
             if(account.locked)throw Error('请先解锁当前账号，再更新实际数据。');
             if(imported.mode==='sync'&&!imported.confirmed)throw Error('请先确认完整扫描的替换范围。');
-            const result=await changeAccount('import-scan',{good:importSource(),mode:imported.mode,confirmReplace:imported.confirmed,source:imported.sourceName});
+            if(!imported.valid||imported.matchPreview?.unresolved)throw Error('请先处理全部疑似装备。');
+            const result=await changeAccount('import-scan',{good:importSource(),mode:imported.mode,decisions:imported.decisions,confirmReplace:imported.confirmed,source:imported.sourceName});
             pending=null;toast(result.unchanged?'内容相同，原账号数据未改动':'已更新当前账号并锁定，更新前存档已保留');
           }else{
             const name=pane('import').querySelector('[data-import-name]').value.trim();if(!name)throw Error('请填写账号名称。');
@@ -389,6 +423,7 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
       if(event.target.hasAttribute('data-hide-assessment-hints')){const hidden=event.target.checked;root.dataset.hideHints=String(hidden);try{globalThis.localStorage?.setItem(hintKey,String(hidden));}catch{}return;}
       const target=event.target,c=current();if(event.isComposing||inputEvents.isComposing(target))return;clearTimeout(inputTimer);draftNode=null;try{
         if(pending&&target.hasAttribute('data-import-name')){pending.name=target.value;return;}
+        if(pending&&target.hasAttribute('data-import-match-target')){const key=target.dataset.importMatchKind+':'+target.dataset.importMatchIndex;(pending.matchTargets??={})[key]=Number(target.value);pending.decisions=(pending.decisions??[]).filter(d=>d.kind!==target.dataset.importMatchKind||d.incomingIndex!==Number(target.dataset.importMatchIndex));renderImportPreview();applyAccountLock();pane('import').querySelector(`[data-import-match="${key}"] [data-import-match-target]`)?.focus({preventScroll:true});return;}
         if(pending&&(target.hasAttribute('data-import-mode')||target.hasAttribute('data-import-traveler')||target.hasAttribute('data-import-confirm-sync'))){
           const name=pane('import').querySelector('[data-import-name]');if(name)pending.name=name.value;
           if(target.hasAttribute('data-import-mode')){pending.mode=target.value;pending.confirmed=false;}
@@ -435,6 +470,10 @@ export async function mountAssessment({host,api,toast,wikiEntries=[],characterId
     const inputEvents=createCompositionInputHandler(onInput);
     root.addEventListener('pointerdown',onPointerDown);root.addEventListener('click',onClick);root.addEventListener('change',onChange);root.addEventListener('input',inputEvents.input);root.addEventListener('compositionstart',inputEvents.start);root.addEventListener('compositionend',inputEvents.end);root.addEventListener('dragover',onDrag);root.addEventListener('drop',onDrop);
     const onEvaluationKey=event=>{
+      if(event.key==='Escape'){
+        const menu=event.target.closest('[data-ui-menu][open]')??root.querySelector('[data-ui-menu][open]');
+        if(menu){menu.open=false;menu.querySelector('summary')?.focus({preventScroll:true});event.preventDefault();return;}
+      }
       if(event.defaultPrevented||[...root.querySelectorAll('dialog')].some(dialog=>dialog.open))return;
       if(evaluationSettingsOpen){if(event.key==='Escape'){event.preventDefault();setEvaluationSettings(false);return;}if(event.key==='Tab'){const drawer=pane('evaluation').querySelector('[data-evaluation-settings]'),controls=[...drawer.querySelectorAll('button,input:not([type=hidden]),select,textarea,a[href]')].filter(n=>!n.disabled&&!n.closest('details:not([open])'));const first=controls[0],last=controls.at(-1);if(event.shiftKey&&document.activeElement===first){event.preventDefault();last?.focus();}else if(!event.shiftKey&&document.activeElement===last){event.preventDefault();first?.focus();}}return;}
       const button=event.target.closest('[data-evaluation-tab],[data-native-team-tab]');if(!button||!['ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;event.preventDefault();const position=readScrollPosition();rememberView();const teamButton=button.hasAttribute('data-native-team-tab'),buttons=[...root.querySelectorAll(teamButton?'[data-native-team-tab]':'[data-evaluation-tab]')],index=buttons.indexOf(button),next=event.key==='Home'?0:event.key==='End'?buttons.length-1:(index+(event.key==='ArrowRight'?1:-1)+buttons.length)%buttons.length;if(teamButton){void workbench.click(buttons[next]).then(()=>restoreView(position));}else{evaluationTab=buttons[next].dataset.evaluationTab;applyEvaluationTab();restoreView(position);}buttons[next].focus({preventScroll:true});

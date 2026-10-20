@@ -32,6 +32,14 @@ function referenceIndex(kind,ref,items){
   if(ref.id!==undefined)return matches.find(({a})=>a.id===ref.id)?.i??-1;
   return matches[ref.occurrence]?.i??-1;
 }
+export function refreshEquipmentReferences(state,previousGood,identities){
+  if(!state.customInventory?.equipmentAssignments)return;
+  state.customInventory.equipmentAssignments=state.customInventory.equipmentAssignments.flatMap(assignment=>{
+    if(!identities[assignment.kind])return [assignment];
+    const oldIndex=referenceIndex(assignment.kind,assignment.reference,previousGood[assignment.kind]??[]),index=identities[assignment.kind]?.get(oldIndex);
+    return index===undefined?[]:[{...assignment,reference:reference(assignment.kind,state.good[assignment.kind][index],state.good[assignment.kind])}];
+  });
+}
 export function createManagedState(input,account={}){
   const state={...input},actual=structuredClone(input.good);
   if(input.customInventory)state.customInventory=structuredClone(input.customInventory);

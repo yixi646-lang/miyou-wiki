@@ -1,6 +1,7 @@
 import { readFile, writeFile, mkdir, readdir, access } from 'node:fs/promises';
 import { join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { gunzipSync } from 'node:zlib';
 import { plain, normalizeDate, hsrDescription, genshinStats, hsrStats, effectTags } from '../lib/normalize.mjs';
 import { validateEntry } from '../shared/catalog.mjs';
 import { buildCoreStats } from '../shared/core-stats.mjs';
@@ -9,6 +10,7 @@ import {attachSkillTerms} from '../shared/skill-terms.mjs';
 import {loadRegisteredMedia,applyRegisteredMedia} from '../lib/catalog-media.mjs';
 const registeredMedia=await loadRegisteredMedia();
 const root = fileURLToPath(new URL('../', import.meta.url));
+const characterRegionFacts=new Map(JSON.parse(gunzipSync(await readFile(join(root,'data/sources/genshin/character-region-facts-2026-10-20.json.gz'))).toString('utf8')).entries.map(fact=>[fact.id,fact]));
 let skillTermData={characters:{}};
 try{skillTermData=JSON.parse(await readFile(join(root,'shared/skill-term-data.json'),'utf8'));}catch(error){if(error.code!=='ENOENT')throw error;}
 const read = async (game, name) => JSON.parse(await readFile(join(root, 'data', 'sources', game, `${name}.json`), 'utf8'));
@@ -68,6 +70,13 @@ const giMaterialMap = Object.fromEntries(Object.values(giData('materials')).map(
 for (const [key, character] of Object.entries(giData('characters'))) {
   if (['manekin','manekina'].includes(key)) continue;
   const entry = base('genshin', 'characters', character.id, character.name, [key], { rarity: character.rarity, element: character.elementText === '无' ? null : character.elementText, type: character.weaponText, region: character.region || null });
+  const regionFact=characterRegionFacts.get(entry.id);
+  if(!entry.region&&regionFact){
+    entry.region=regionFact.region;
+    const source=entry.sources.find(source=>source.url===regionFact.source.url);
+    if(source)source.note=[source.note,'所属地区核查 2026-10-20'].filter(Boolean).join('；');
+    else entry.sources.push({name:regionFact.source.name,url:regionFact.source.url,note:'所属地区核查 2026-10-20'});
+  }
   entry.releaseVersion ??= gi.characters.version.characters[key] ?? null;
   entry.releaseDate ??= normalizeDate(giIndex[character.id]?.release);
   entry.imageRemote = gi.characters.image.characters[key]?.mihoyo_icon ?? null;

@@ -17,6 +17,7 @@ import { createOnlineUpdates, publishedContent } from '../lib/online-updates.mjs
 import { createUpdateActions, updatePanelHTML } from '../public/online-updates.mjs';
 import { buildContentRelease } from '../scripts/content-release.mjs';
 import { buildArtworkIndex } from '../scripts/build-artwork-index.mjs';
+import { metadataForPackage, withPublishedMetadata } from '../lib/update-metadata.mjs';
 import { createTestWorkspace, cleanupTestWorkspace, stopTestProcess } from '../scripts/test-resources.mjs';
 
 const project = fileURLToPath(new URL('../', import.meta.url));
@@ -55,6 +56,7 @@ test('资料累计安装保留本地编辑与个人资料；失败恢复；随�
     assert.throws(() => applyContentUpdate(root, directory, { failAt: 'after-files' }), /中断/);
     assert.equal(fs.readFileSync(path.join(root, image), 'utf8'), 'old-image'); assert.equal(fs.existsSync(path.join(root, CONTENT_STATE)), false);
     const result = applyContentUpdate(root, directory); assert.equal(result.revision, 'D20261016010000'); assert(result.conflicts > 0);
+    const notice = readJSON(path.join(root, '.updates/results/content.json')); assert.equal(notice.contentRevision, result.revision); assert.equal(notice.conflicts, result.conflicts);
     assert.deepEqual(fs.readFileSync(path.join(root, 'release.json')), softwareBytes); assert.deepEqual(fs.readFileSync(path.join(root, PUBLIC_BASE)), publicBytes);
     edit(root, library => { assert.equal(library.get('genshin-a').details.x, '本地编辑'); assert.equal(library.get('genshin-a').details.y, '新资料'); assert(library.get('genshin-d')); assert(library.get('genshin-b')); assert.equal(library.get('genshin-c'), undefined); library.seed(path.join(root, 'data/catalog')); assert.equal(library.get('genshin-c'), undefined); assert.deepEqual(library.favorites(), ['genshin-b']); assert.match(library.db.prepare('SELECT value FROM metadata WHERE key=?').get('growth_plan:genshin').value, /77/); });
     assert.equal(fs.readFileSync(path.join(root, 'data/assessment/private.bin'), 'utf8'), 'accounts-equipment-teams');
@@ -84,6 +86,7 @@ test('资料检查仅提醒；代表交互确认后经真实解压、独立助�
     const require = createRequire(import.meta.url), { zipSync } = require(path.join(project, '.release-manager/build-tools/node_modules/fflate'));
     const bytes = zipSync(Object.fromEntries(listFiles(source).map(name => [name, fs.readFileSync(path.join(source, name))])));
     const remote = { id: 600, tag_name: 'wiki-content', html_url: 'https://github.com/yixi646-lang/miyou-wiki/releases/tag/wiki-content', body: '公共资料 <script>bad</script>', assets: [{ id: 601, name: 'Miyou-Wiki-Data-D20261016010000.zip', state: 'uploaded', size: bytes.length, browser_download_url: 'https://github.com/yixi646-lang/miyou-wiki/releases/download/wiki-content/Miyou-Wiki-Data-D20261016010000.zip' }] };
+    remote.body = withPublishedMetadata(remote.body, metadataForPackage(readJSON(path.join(source, 'content.json')), remote.assets[0].name));
     assert.equal(publishedContent({ ...remote, tag_name: 'v1.2.2' }), null);
     parent = spawn(process.execPath, ['-e', 'setInterval(()=>{},1000)'], { windowsHide: true, stdio: 'ignore' }); await once(parent, 'spawn');
     updater = createOnlineUpdates({ root, port: 4199, channel: 'content', platform: 'win32', fetchImpl: async url => { if (url.includes('api.github.com')) { assert.match(url, /releases\/tags\/wiki-content$/); return Response.json(remote); } downloads++; return new Response(bytes); }, launchRunner: async job => {

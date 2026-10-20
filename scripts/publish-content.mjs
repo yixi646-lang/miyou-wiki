@@ -2,12 +2,15 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { spawnSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
+import { metadataFromArchive } from './package-metadata.mjs';
 
 const repository = 'yixi646-lang/miyou-wiki';
 export async function publishContent({ archive, notes = '公共百科资料更新。', fetchImpl = fetch } = {}) {
   const name = path.basename(archive ?? '');
   const revision = /^Miyou-Wiki-Data-(D\d{14})\.zip$/.exec(name)?.[1];
   if (!revision || !fs.statSync(archive).isFile()) throw Error('请选择 content-release.mjs 生成的资料 ZIP。');
+  const metadata = metadataFromArchive(archive, 'content');
+  if (metadata.target.revision !== revision) throw Error('资料包批次与文件名不一致。');
   const credential = spawnSync(process.env.WIKI_GIT ?? 'git', ['credential', 'fill'], { input: 'protocol=https\nhost=github.com\nusername=yixi646-lang\n\n', encoding: 'utf8', windowsHide: true, env: { ...process.env, GIT_TERMINAL_PROMPT: '0', GCM_INTERACTIVE: 'never' }, maxBuffer: 1024 * 1024 });
   const token = credential.status === 0 && /^password=(.+)$/m.exec(credential.stdout ?? '')?.[1].trim();
   if (!token) throw Error('未取得 GitHub 登录授权，请先使用 Git Credential Manager 登录；凭据不会写入资料包。');
@@ -28,6 +31,9 @@ export async function publishContent({ archive, notes = '公共百科资料更�
   if (!upload.ok) throw Error(`资料包上传失败（HTTP ${upload.status}）；现有发布保持可用。`);
   const asset = await upload.json();
   if (asset.state !== 'uploaded' || asset.size !== size) throw Error('GitHub 尚未确认资料包上传完成，请在发布页面检查。');
+  const metadataBytes = Buffer.from(JSON.stringify(metadata));
+  const metadataUpload = await fetchImpl(`https://uploads.github.com/repos/${repository}/releases/${release.id}/assets?name=Wiki-Update-${revision}.json`, { method: 'POST', headers: { ...headers, 'Content-Type': 'application/json', 'Content-Length': String(metadataBytes.length) }, body: metadataBytes, signal: AbortSignal.timeout(30000) });
+  if (!metadataUpload.ok) throw Error('资料ZIP已上传，但兼容信息未上传完成；请补齐兼容信息后再公开发布。');
   const body = `资料批次：${revision}\n\n${notes}\n\n以 Wiki 1.2.2 为基准的累计资料增量包，仅更新新增、变更及必要恢复的公共资料和素材，不改变软件版本。\n完整解压 ZIP 后运行“安装资料更新.vbs”，选择现有 Wiki 并确认安装；窗口显示进度、结果及日志。安装器随包附带。\n1.2.2 / R000009起可在顶栏“更新 → 游戏资料”中确认自动安装，也可使用包内安装器。\n保留个人账号、收藏、库存、计划及本地编辑；无需逐个安装中间资料批次。`;
   const published = await request('/releases/' + release.id, { method: 'PATCH', body: JSON.stringify({ tag_name: 'wiki-content', name: '游戏资料更新', body, draft: false, prerelease: false, make_latest: 'false' }) });
   return { revision, url: published.html_url, download: asset.browser_download_url, bytes: size };
