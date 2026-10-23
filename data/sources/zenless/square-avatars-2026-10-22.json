@@ -1,0 +1,1038 @@
+{
+  "fetchedAt": "2026-10-22T13:41:36.483Z",
+  "family": "IconRoleCrop",
+  "records": [
+    {
+      "id": "zenless-characters-1011",
+      "name": "安比",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1011.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop01.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 133672
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1011.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/06/01/76099754/eb28176da1bfd52ecd00c96c6641fe0d_863124956510266341.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1021",
+      "name": "猫又",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1021.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop11.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 165278
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1021.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/31/79697369/e926c03ff8172cfc3a010cfcbe76d238_6884319312264072107.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1031",
+      "name": "妮可",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1031.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop12.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 165766
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1031.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/1cb64706be3eca5400e7cc02b8a82e60_3042993825218318926.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1041",
+      "name": "「11号」",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1041.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop05.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 148322
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1041.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/41cac9b7c43299248f50ef69a8d4d6fe_9121267123322404.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1051",
+      "name": "伊德海莉",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1051.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop52.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 138734
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1051.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/10/31/76099754/2ea2363f5ac98ef19fdd37a440e36678_3486128815133040340.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1061",
+      "name": "可琳",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1061.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop09.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 173958
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1061.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/28/110289248/90abac5b57bd5b48fa79e9efb5254360_7680652488792868823.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1071",
+      "name": "凯撒",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1071.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop25.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 145482
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1071.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/10/08/76099754/45788df6a0a15baf27d33f11a93e8c04_1410824794677572273.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1081",
+      "name": "比利",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1081.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop10.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 190266
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1081.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/31/76099754/149feef57a5210d07d646ff3dec3581f_214202686184867036.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1091",
+      "name": "雅",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1091.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop13.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 132658
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1091.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/12/09/82500917/8facd72e9178da44d0708bfc4e1d5ade_1655620996938124425.jpg"
+      }
+    },
+    {
+      "id": "zenless-characters-1101",
+      "name": "珂蕾妲",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1101.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop14.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 168062
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1101.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/27/82232455/e49ffec1188f11ac70f2fd7e500fbd2c_5771997888796504931.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1111",
+      "name": "安东",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1111.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop15.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 164302
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1111.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/b323dfb93362d929e64562c004cdd0e1_79025806971412847.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1121",
+      "name": "本",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1121.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop16.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 145956
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1121.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/63ea02398b416017922f38becab2cb20_5905737788415760146.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1131",
+      "name": "苍角",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1131.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop17.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 160164
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1131.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/27/339584194/5dbe373f3e54d4e3033e4dc7567fe9f8_2360629584131406565.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1141",
+      "name": "莱卡恩",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1141.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop18.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 137608
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1141.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/25/76099754/66038988b3920216f826555eb31ec7d3_1374786350678823683.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1151",
+      "name": "露西",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1151.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop27.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 155552
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1151.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/07/01/34600917/3fa01447d481351416ef664e21894c29_801262856017991825.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1161",
+      "name": "莱特",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1161.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop26.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 138358
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1161.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/11/21/76099754/97be522aa2bce70b13167df8b42e176f_6973279715938714866.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1171",
+      "name": "柏妮思",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1171.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop32.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 165418
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1171.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/10/08/76099754/c00700f00787444df5c7de8b09d81766_3155659045192705400.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1181",
+      "name": "格莉丝",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1181.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop20.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 153660
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1181.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/21/160824341/e16ac4c5e1f06ba44b1fd48539916be3_3243900714756554770.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1191",
+      "name": "艾莲",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1191.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop21.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 133592
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1191.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/28/160132993/b7f945843942bc32064f240317ae7beb_617780162075671896.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1201",
+      "name": "悠真",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1201.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop35.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 111922
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1201.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/12/09/82500917/7477bdb2d366fd83b30671812c08e2eb_7866771727764017477.jpg"
+      }
+    },
+    {
+      "id": "zenless-characters-1211",
+      "name": "丽娜",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1211.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop22.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 141558
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1211.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/05/29/141353238/9a978a559ee6822481b7d4143170affe_464856154643405893.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1221",
+      "name": "柳",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1221.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop31.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 128950
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1221.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/10/29/76099754/dc3af8ec666a63e03d49b88aac5bb044_8292939597769078774.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1241",
+      "name": "朱鸢",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1241.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop23.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 172630
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1241.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/07/06/15559334/1c64debafd7d934f8361b36026426940_897366969958613262.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1251",
+      "name": "青衣",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1251.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop29.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 146398
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1251.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/08/04/141353238/77d70d7c49d4785dbb8d98438219cde7_7990459774903021190.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1261",
+      "name": "简",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1261.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop24.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 134476
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1261.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/08/16/15559334/671b9f8d9227c19355e2eceb9f23ef28_7055750575833971395.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1271",
+      "name": "赛斯",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1271.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop30.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 128444
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1271.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/08/26/82500917/a99297e48c27c1c09ccee2f8cf3d4745_8604815710532543749.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1281",
+      "name": "派派",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1281.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop28.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 140550
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1281.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2024/07/01/76099754/90668b1414a002827f47c02feccbdf3e_8975374000446600175.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1291",
+      "name": "雨果",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1291.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop42.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 147580
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1291.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/05/12/76099754/ff0c243efc015ef866743d1b2c7a99f7_7263581171606029938.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1301",
+      "name": "奥菲丝&「鬼火」",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1301.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop49.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 174666
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1301.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/09/10/439466880/c609e84014fb1fc270b7cd6d6c62d2ef_8915699429557942577.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1311",
+      "name": "耀嘉音",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1311.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop36.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 136286
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1311.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/01/21/76099754/d1193bcbdf67de30128e8a1e288816bf_1810427348683629817.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1321",
+      "name": "伊芙琳",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1321.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop37.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 137070
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1321.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/02/02/15559334/c33cde961d189069b037cdd11debe5cc_4777880947400440973.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1331",
+      "name": "薇薇安",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1331.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop41.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 158192
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1331.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/04/17/15559334/ff1a8df24b61a379f46ff3e739e4b312_3615697079972716080.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1341",
+      "name": "照",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1341.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop56.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 145588
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1341.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/12/25/15559334/5f737d17039cca6100258feb10db508f_5171486392907610568.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1351",
+      "name": "波可娜",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1351.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop38.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 145984
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1351.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/03/04/15559334/2eed660d804ceaca13addf5c034fa673_852495036099493718.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1361",
+      "name": "「扳机」",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1361.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop39.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 149172
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1361.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/03/13/82500917/ba2daa1aecb62503215a1e0ef5711ba1_2157824041282199096.jpg"
+      }
+    },
+    {
+      "id": "zenless-characters-1371",
+      "name": "仪玄",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1371.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop44.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 176132
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1371.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/06/04/76099754/0e23c7bada797f49d626181c8d3e169c_2545105937304446730.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1381",
+      "name": "零号·安比",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1381.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop40.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 154120
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1381.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/03/04/82500917/872039fa61fc5348cfe6698d23075485_2310563306785088355.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1391",
+      "name": "橘福福",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1391.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop43.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 178720
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1391.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/06/11/158441880/27d747ee1c225cb739aeff92465972c4_5361421654416153803.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1401",
+      "name": "爱丽丝",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1401.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop46.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 124992
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1401.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/07/31/15559334/9de81fb0768d528204ba87a600ba6c5e_4639668304344154125.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1411",
+      "name": "柚叶",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1411.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop47.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": false,
+        "bytes": 176106
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1411.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/07/10/76099754/f288f8b22deafa2493c389fc4465d77b_8800233381222281203.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1421",
+      "name": "潘引壶",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1421.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop45.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 136312
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1421.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/04/26/73751405/7151eee6ba7f9ad07176f604b37d8799_4441778457614666765.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1431",
+      "name": "叶瞬光",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1431.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop55.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 165780
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1431.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/12/25/15559334/a616a865cac5d9faad9b22aa1a4e329b_3555207546534807102.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1441",
+      "name": "真斗",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1441.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop51.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 150328
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1441.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/10/11/76099754/82df09f43bd8804d3864c1084bbb37e0_8368316693595572980.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1451",
+      "name": "卢西娅",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1451.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop50.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 160318
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1451.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/10/10/76099754/59a4a2aca9680e8ddf9ebf8c2985007e_9204633087739368852.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1461",
+      "name": "「席德」",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1461.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop48.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 130862
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1461.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/08/30/439466880/90e7d7b87f30e735ce89c2321035db49_42538056491852002.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1471",
+      "name": "般岳",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1471.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop53.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 148554
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1471.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/11/28/15559334/4b304a386778c3dfc088f292e7104d8b_627540316584296659.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1481",
+      "name": "琉音",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1481.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop54.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 148120
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1481.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2025/11/20/15559334/4322c8c041aac8bf33efca8959aad130_1613198233010883533.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1491",
+      "name": "千夏",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1491.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop58.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 172038
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1491.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/02/02/15559334/8fce0ceee85d57e5fda2b2db7d36204e_3586351240444152860.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1501",
+      "name": "爱芮",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1501.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop57.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 172880
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1501.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/02/26/82500917/dde785ff5c780c9becbb67ea546fbeed_2285385857539459915.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1511",
+      "name": "南宫羽",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1511.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop59.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 164018
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1511.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/03/19/15559334/47fa944608544745d4b648e2224b9381_5402359186626856976.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1521",
+      "name": "希希芙",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1521.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop60.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 187698
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1521.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/03/25/76099754/c0201856aafd51cad4e01b386d172af8_6170469607651397940.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1531",
+      "name": "星徽·比利",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1531.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop62.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 143638
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1531.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/05/21/15559334/096a1b3c9321c446263f165b35096697_6834757068364362263.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1541",
+      "name": "普罗米娅",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1541.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop61.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 151020
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1541.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/05/02/34600917/92e74d05f5a68b8a84b3d35bc79fca9e_1342197640853565616.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1551",
+      "name": "佩洛伊斯",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1551.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop63.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 119564
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1551.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/06/06/76099754/961895e79017cefda565737d4af89e1f_4013112206228241335.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1561",
+      "name": "维琳娜",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1561.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop64.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 163866
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1561.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/06/15/76099754/11878922b3ca137a99bf3906b74cb5df_3794220973506474405.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1571",
+      "name": "诺姆",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1571.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop65.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 189802
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1571.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/06/20/82500917/88ab6fa91dc0e69c0d22780cb86b4db0_3734734092895620952.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1581",
+      "name": "蕾米埃尔",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1581.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop67.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 133054
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1581.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/07/22/15559334/13b7b06627a8a99ffdf1f397b1daf7d1_5495460923605178593.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1591",
+      "name": "希格莉德",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1591.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop66.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 178452
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1591.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/08/14/76099754/57ecf63587c311c0ecf598b45ae8042b_3711762622299384122.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1611",
+      "name": "克拉蕾",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1611.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop1611.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 164312
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1611.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/09/09/233874762/3bddde3ed114b2f9d77e344c6520021f_30924177319878367.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1621",
+      "name": "洛克茜",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1621.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop68.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 151682
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1621.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/09/09/76099754/2fceac681717e64b0202b587b3eda1f8_509711787058331678.png"
+      }
+    }
+  ],
+  "excluded": [
+    {
+      "id": "zenless-characters-1631",
+      "name": "赛维里安",
+      "reason": "本系列原图未提供"
+    },
+    {
+      "id": "zenless-characters-1641",
+      "name": "菲欧妮",
+      "reason": "本系列原图未提供"
+    }
+  ]
+}

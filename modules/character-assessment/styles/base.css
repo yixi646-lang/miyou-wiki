@@ -1,0 +1,373 @@
+.assessment-root {
+  max-width: 1700px;
+  margin: auto;
+}
+.assessment-root [hidden] {
+  display: none !important;
+}
+.assessment-root h2 {
+  font-size: 19px;
+  margin: 0 0 12px;
+}
+.assessment-root h3 {
+  font-size: 15px;
+  margin: 20px 0 10px;
+}
+.assessment-root p {
+  margin: 10px 0;
+}
+.ae-status,
+.ae-muted,
+.ae-credit {
+  font-size: 12px;
+  color: var(--muted, #8290a8);
+}
+.ae-tabs {
+  display: flex;
+  gap: 8px;
+  margin: 0 0 22px;
+  flex-wrap: wrap;
+}
+.ae-tabs button {
+  background: #fff;
+  border: 1px solid var(--line, #e2e7f0);
+  padding: 9px 20px;
+  border-radius: 8px;
+}
+.ae-tabs [aria-selected="true"] {
+  background: var(--accent-soft, #edf2ff);
+  border-color: #b8c8fa;
+  color: var(--accent, #456ee9);
+  font-weight: 600;
+}
+.ae-workspace {
+  display: grid;
+  grid-template-columns: 250px minmax(0, 1fr);
+  align-items: start;
+  gap: 20px;
+}
+.ae-roster {
+  position: sticky;
+  top: 96px;
+  max-height: calc(100vh - 118px);
+  overflow: auto;
+}
+.ae-roster-head,
+.ae-add {
+  padding: 18px;
+}
+.ae-roster-head h2 small {
+  font-size: 12px;
+  color: var(--muted);
+  margin-left: 8px;
+}
+.assessment-root input,
+.assessment-root select,
+.assessment-root textarea {
+  max-width: 100%;
+  border: 1px solid var(--line, #e2e7f0);
+  border-radius: 6px;
+  background: white;
+  color: inherit;
+  padding: 7px 9px;
+  width: 100%;
+  font: inherit;
+  min-width: 0;
+}
+.assessment-root select {
+  font-size: 12px;
+}
+.ae-character-list {
+  padding: 0 10px;
+  display: grid;
+  gap: 5px;
+}
+.ae-character {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  background: transparent;
+  border: 0;
+  border-radius: 7px;
+  padding: 8px 10px;
+  text-align: left;
+  width: 100%;
+  min-width: 0;
+}
+.ae-character.active {
+  background: var(--accent-soft, #edf2ff);
+  color: var(--accent, #456ee9);
+}
+.ae-character img {
+  height: 42px;
+  width: 42px;
+  object-fit: contain;
+  border-radius: 7px;
+  background: #f3f5f9;
+}
+.ae-character strong {
+  display: block;
+  font-size: 13px;
+}
+.ae-character small {
+  display: block;
+  font-size: 11px;
+  color: var(--muted, #8290a8);
+}
+.ae-add {
+  display: grid;
+  gap: 8px;
+  border-top: 1px solid var(--line);
+}
+.ae-add small {
+  color: var(--muted);
+  font-size: 11px;
+}
+.ae-main {
+  min-width: 0;
+  display: grid;
+  gap: 18px;
+}
+.ae-result,
+.ae-section {
+  padding: 23px;
+}
+.ae-result-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+.ae-result-heading p {
+  font-size: 12px;
+  color: var(--muted);
+}
+.ae-grade {
+  font-size: 14px;
+  white-space: nowrap;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 6px 11px;
+  border-radius: 6px;
+}
+.ae-meters {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 15px;
+  margin: 18px 0;
+}
+.ae-meters > div {
+  background: #f7f9ff;
+  border-radius: 8px;
+  padding: 15px;
+}
+.ae-meters span {
+  display: block;
+  font-size: 12px;
+  color: var(--muted);
+}
+.ae-meters strong {
+  display: block;
+  font-size: 26px;
+  font-weight: 650;
+  margin-top: 7px;
+}
+.ae-meters small {
+  font-size: 14px;
+  font-weight: 400;
+  color: var(--muted);
+}
+.ae-meters progress {
+  height: 6px;
+  width: 100%;
+  accent-color: var(--accent);
+  display: block;
+  margin-top: 8px;
+}
+.ae-progress-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 9px;
+  padding: 14px 0;
+}
+.ae-progress-items span {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 12px;
+}
+.ae-progress-items b {
+  font-weight: 500;
+  color: #607397;
+}
+.ae-advice {
+  margin: 10px 0;
+  padding-left: 21px;
+  color: #5a6a82;
+}
+.ae-advice li {
+  margin: 8px 0;
+}
+.ae-section summary {
+  cursor: pointer;
+  font-size: 17px;
+  font-weight: 600;
+  list-style-position: inside;
+}
+.ae-section > summary {
+  margin: 0;
+}
+.ae-section[open] > summary {
+  margin-bottom: 18px;
+}
+.ae-fields {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
+  gap: 13px;
+  margin: 14px 0;
+}
+.ae-field {
+  display: grid;
+  gap: 6px;
+  font-size: 12px;
+  color: #5b6d88;
+  min-width: 0;
+}
+.ae-wide {
+  grid-column: span 2;
+}
+.ae-field > span {
+  white-space: nowrap;
+}
+.ae-artifact-editors {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 190px), 1fr));
+  gap: 12px;
+}
+.assessment-root fieldset {
+  border: 1px solid var(--line, #e2e7f0);
+  border-radius: 8px;
+  min-width: 0;
+  margin: 0;
+  padding: 15px;
+}
+.assessment-root legend {
+  font-size: 13px;
+  font-weight: 600;
+  padding: 0 5px;
+}
+.ae-substats {
+  display: grid;
+  gap: 7px;
+}
+.ae-substats > div {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 85px;
+  gap: 7px;
+}
+.ae-main-goals {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin: 15px 0;
+}
+.ae-main-goals label {
+  display: block;
+  font-size: 12px;
+  margin: 5px 0;
+}
+.ae-main-goals input[type="checkbox"] {
+  width: auto;
+  accent-color: var(--accent);
+  vertical-align: middle;
+  margin-right: 6px;
+}
+.ae-table-wrap {
+  overflow: auto;
+}
+.ae-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  text-align: left;
+}
+.ae-table th,
+.ae-table td {
+  padding: 11px;
+  border-bottom: 1px solid var(--line, #e2e7f0);
+  vertical-align: top;
+}
+.ae-table th {
+  font-weight: 500;
+  color: var(--muted);
+  background: #f7f9fc;
+  white-space: nowrap;
+}
+.ae-roll-breakdown {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 15px;
+  color: #718199;
+  font-size: 11px;
+}
+.ae-panel-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 12px;
+  margin: 16px 0;
+}
+.ae-panel-stats > div {
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: 13px;
+}
+.ae-panel-stats span,
+.ae-panel-stats small {
+  display: block;
+  color: var(--muted);
+  font-size: 11px;
+}
+.ae-panel-stats strong {
+  font-size: 20px;
+  font-weight: 600;
+  display: block;
+  margin: 4px 0;
+}
+.ae-inline-actions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 14px 0;
+}
+.ae-warning {
+  color: #a46b27;
+  font-size: 12px;
+}
+.ae-empty {
+  padding: 35px;
+  color: #6a7c96;
+}
+.ae-import-zone {
+  padding: 25px;
+  border: 1px dashed #afc0eb;
+  border-radius: 10px;
+  display: flex;
+  gap: 18px;
+  align-items: center;
+  flex-wrap: wrap;
+  background: #f8faff;
+}
+.ae-import-zone span {
+  font-size: 12px;
+  color: var(--muted);
+}
+.ae-preview {
+  background: #f5f8ff;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.ae-preview button + button {
+  margin-left: 10px;
+}

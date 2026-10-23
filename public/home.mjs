@@ -3,7 +3,7 @@ import {gameMediaHTML} from './visual-assets.mjs';
 
 const themes={
   genshin:{position:'50% center',accent:'#a9dfca'},
-  starrail:{position:'61% center',accent:'#c9baf3'},
+  starrail:{position:'50% center',accent:'#c9baf3'},
   zenless:{position:'52% center',accent:'#ffe0a4'}
 };
 const arrow='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14m-5-5 5 5-5 5"/></svg>';

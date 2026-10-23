@@ -142,7 +142,7 @@ test('手动检查滚动一小时最多十轮，兼容旧记录，重启不重�
 
 test('游戏资料显示三个游戏版本，任一页面检查后同步两项结果和冷却，切换页面不会丢失结果',async()=>{
  for(const entry of ['software','content']){
-  const element=()=>({open:false,hidden:false,innerHTML:'',handlers:{},classList:{toggle(){}},setAttribute(){},addEventListener(name,handler){this.handlers[name]=handler;},showModal(){this.open=true;},focus(){}});
+  const element=()=>({open:false,hidden:false,innerHTML:'',querySelectorAll(){return [];},handlers:{},classList:{toggle(){}},setAttribute(){},addEventListener(name,handler){this.handlers[name]=handler;},showModal(){this.open=true;},focus(){}});
   const trigger=element(),children=[],document={getElementById:()=>trigger,createElement:element,body:{append(item){children.push(item);}}};
   const window={setInterval(){return 1;},clearInterval(){},addEventListener(){},confirm:()=>false};
   const info={pid:1,channel:'content',current:{version:'D20261016022810'},latest:null,available:false,automaticAllowed:false,preferences:{autoCheck:false},github:'https://github.com/yixi646-lang/miyou-wiki/releases',nextManualCheckAt:null};
@@ -240,7 +240,7 @@ test('下载取消、内容不完整和不兼容更新包均不安装并清理�
 });
 
 test('下载很快而页面未读到安装状态时，服务重启仍能恢复当前页面', async () => {
-  const element = () => ({ open: false, hidden: false, innerHTML: '', handlers: {}, classList: { toggle() {} }, setAttribute() {}, addEventListener(name, handler) { this.handlers[name] = handler; }, showModal() { this.open = true; }, focus() {} });
+  const element = () => ({ open: false, hidden: false, innerHTML: '', querySelectorAll(){return [];}, handlers: {}, classList: { toggle() {} }, setAttribute() {}, addEventListener(name, handler) { this.handlers[name] = handler; }, showModal() { this.open = true; }, focus() {} });
   const trigger = element(), children = [];
   const document = { getElementById: () => trigger, createElement: element, body: { append(child) { children.push(child); } } };
   let tick, calls = 0, reloaded = false;
@@ -259,7 +259,7 @@ test('真实 ZIP 解压支持中文并拒绝路径越界', async () => {
       const directory = path.join(root, safe ? 'safe' : 'unsafe'); fs.mkdirSync(directory);
       const archive = path.join(directory, 'update.zip'), extracted = path.join(directory, 'package');
       fs.writeFileSync(archive, zipSync(safe ? { 'payload/中文.txt': strToU8('中文内容') } : { '../outside.txt': strToU8('bad') }));
-      const result = spawnSync('powershell.exe', ['-NoProfile', '-Command', '& ([scriptblock]::Create([IO.File]::ReadAllText($env:WIKI_ONLINE_EXTRACT_SCRIPT,[Text.Encoding]::UTF8)))'], { windowsHide: true, env: { ...process.env, WIKI_ONLINE_ARCHIVE: archive, WIKI_ONLINE_EXTRACT: extracted, WIKI_ONLINE_EXTRACT_SCRIPT: path.join(project, 'scripts/extract-online-update.ps1') }, encoding: 'utf8' });
+      const result = spawnSync('powershell.exe', ['-NoProfile', '-Command', '& ([scriptblock]::Create([IO.File]::ReadAllText($env:WIKI_ONLINE_EXTRACT_SCRIPT,[Text.Encoding]::UTF8)))'], { windowsHide: true, env: { ...process.env, WIKI_ONLINE_ARCHIVE: archive, WIKI_ONLINE_EXTRACT: extracted, WIKI_ONLINE_EXTRACT_SCRIPT: path.join(project, 'scripts/extract-online-update.ps1') }, encoding: 'utf8', timeout: 30000 });
       assert.equal(result.status, safe ? 0 : 1, result.stderr);
       if (safe) assert.equal(fs.readFileSync(path.join(extracted, 'payload/中文.txt'), 'utf8'), '中文内容');
       else assert.equal(fs.existsSync(path.join(root, 'outside.txt')), false);
@@ -331,7 +331,7 @@ test('重启后主动显示未读安装结果，包含资料批次和冲突，�
   const result = { id: randomUUID(), status: 'success', completedAt: Date.now(), software: target, contentRevision: 'D20261016120000', files: 3, entries: 2, conflicts: 1, conflictFile: '.updates/conflicts/test.json.gz' };
   let acknowledged = null;
   for (const openExpected of [true, false]) {
-    const element = () => ({ open: false, hidden: false, innerHTML: '', handlers: {}, classList: { toggle() {} }, setAttribute() {}, addEventListener(name, handler) { this.handlers[name] = handler; }, showModal() { this.open = true; }, focus() {} });
+    const element = () => ({ open: false, hidden: false, innerHTML: '', querySelectorAll(){return [];}, handlers: {}, classList: { toggle() {} }, setAttribute() {}, addEventListener(name, handler) { this.handlers[name] = handler; }, showModal() { this.open = true; }, focus() {} });
     const children = [], document = { getElementById: element, createElement: element, body: { append(value) { children.push(value); } } };
     const info = () => ({ pid: 1, channel: 'software', current: target, latest: null, available: false, automaticAllowed: false, preferences: { autoCheck: false, acknowledgedResultId: acknowledged }, github: 'https://github.com/yixi646-lang/miyou-wiki/releases', lastResult: result });
     await mountOnlineUpdates({ document, window: { setInterval() { return 1; }, clearInterval() {}, addEventListener() {} }, toast() {}, api: async (route, options) => {

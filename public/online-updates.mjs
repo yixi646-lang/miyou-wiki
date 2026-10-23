@@ -27,7 +27,7 @@ export function updatePanelHTML(info, loading = false) {
     <div class="update-actions"><button type="button" data-update="check" ${loading || active(job) || manualCooling ? 'disabled' : ''}>${loading ? '正在检查…' : '检查更新'}</button><span class="update-action-spacer"></span>
     ${['downloading','extracting','ready'].includes(job?.phase) ? '<button type="button" data-update="cancel">取消更新</button>' : ''}
     <a class="button-secondary" data-update="github" href="${escape(info.github)}" target="_blank" rel="noopener noreferrer">GitHub 手动下载</a>
-    ${job?.phase === 'ready' ? '<button type="button" class="button-primary" data-update="install">安装并重启</button>' : `<button type="button" class="button-primary" data-update="automatic" ${!available || !info.automaticAllowed || active(job) ? 'disabled' : ''}>自动更新${available && info.latest.asset ? ` · ${sizeText(info.latest.asset.size)}` : ''}</button>`}</div>`;
+    ${job?.phase === 'ready' ? `<button type="button" class="button-primary" data-update="install" >安装并重启</button>` : `<button type="button" class="button-primary" data-update="automatic" ${!available || !info.automaticAllowed || active(job) ? 'disabled' : ''}>自动更新${available && info.latest.asset ? ` · ${sizeText(info.latest.asset.size)}` : ''}</button>`}</div>`;
 }
 export function createUpdateActions({ api, confirm = message => window.confirm(message), changed = () => {} }) {
   return async (action, info) => {
@@ -38,7 +38,7 @@ export function createUpdateActions({ api, confirm = message => window.confirm(m
     else if (action === 'defer') next = await post('preferences', { defer: true });
     else if (action === 'cancel') next = await post('cancel');
     else if (action === 'automatic') {
-      if (!confirm(info.channel === 'content' ? '确认下载并安装游戏资料？软件版本不变，个人资料保留。请先保存修改并关闭其他 Wiki 页面；完成后将自动重启。' : '确认下载并自动安装此版本？请先保存修改并关闭其他 Wiki 页面；安装完成后将自动重启。')) return null;
+      if (!confirm(info.channel === 'content' ? '确认下载并安装游戏资料？个人资料保留，完成后将重新启动 Wiki。' : '确认下载并自动安装此版本？请先保存修改并关闭其他 Wiki 页面；安装完成后将自动重启。')) return null;
       next = await post('start', { confirm: true, key: info.latest.key, automatic: true });
     } else if (action === 'install') {
       if (!confirm('确认现在安装并重启 Wiki？请先保存修改并关闭其他 Wiki 页面。')) return null;
@@ -78,7 +78,7 @@ export async function mountOnlineUpdates({ api, toast, document = globalThis.doc
     const info = states[selected];
     if (info.lastResult && info.lastResult.id !== info.preferences.acknowledgedResultId) api((selected === 'content' ? 'content-updates/' : 'updates/') + 'preferences', { method: 'POST', body: { acknowledgeResult: true } }).then(changed).catch(() => {});
   };
-  const open = () => { dialog.innerHTML = updatePanelHTML(states[selected], loading); dialog.showModal(); acknowledge(); };
+  const open = () => { dialog.innerHTML = updatePanelHTML(states[selected], loading); dialog.showModal(); draw(); acknowledge(); };
   trigger.addEventListener('click', open);
   const click = async event => {
     const tab = event.target.closest('[data-update-channel]');

@@ -35,7 +35,8 @@ html[data-screen=home] .home-brand{gap:13px;color:#fff;text-shadow:0 2px 14px #0
 html[data-screen=home] .home-brand .brand-name{font-size:30px;letter-spacing:-.8px}
 html[data-screen=home] .home-brand .brand-icon{width:48px;height:48px}
 html[data-screen=home] .wiki-updates{color:#fff;border:1px solid #ffffff50;background:#15243c38;backdrop-filter:blur(18px);flex:none}
-html[data-screen=home] .wiki-updates{font-size:16px;min-height:44px;padding:8px 18px;border-radius:30px;margin-left:auto}
+html[data-screen=home] .wiki-updates{font-size:16px;min-height:44px;padding:8px 18px;border-radius:30px}
+html[data-screen=home] #wiki-updates{margin-left:auto}
 
 .home-stage{position:relative;isolation:isolate;height:100svh;min-height:580px;overflow:hidden;color:#fff;background:#101827;user-select:none}
 .home-panels{position:absolute;inset:0;display:flex;overflow:hidden}

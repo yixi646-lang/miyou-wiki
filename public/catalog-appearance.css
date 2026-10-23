@@ -8,9 +8,16 @@
 .entry-card[class*="rarity-"] .entry-visual,.entry-card[class*="rarity-"] .equipment-image,.detail-visual[class*="rarity-"]{background:var(--rarity-visual)}
 .entry-card[class*="rarity-"] .monogram,.detail-visual[class*="rarity-"] .monogram{color:#fff9}
 .detail-visual{position:relative;overflow:hidden}
-.element-badge{position:absolute;left:8px;top:8px;width:28px;height:28px;border-radius:50%;display:grid;place-items:center;background:#263348dc;box-shadow:0 1px 5px #18233444;z-index:2;pointer-events:none}
-.element-badge img{width:21px!important;height:21px!important;object-fit:contain;display:block}
+.element-badge{position:static;width:22px;height:22px;flex:none;border-radius:50%;display:inline-grid;place-items:center;background:#263348dc;pointer-events:none;vertical-align:middle}
+.element-badge img{width:17px!important;height:17px!important;object-fit:contain;display:block;filter:none!important;transform:none!important}
 .element-badge.zenless{border-radius:6px;background:#1d2026ed}
+.entry-element{display:inline-flex;align-items:center;gap:6px;max-width:100%;line-height:1.5}
+.entry-visual .element-badge{position:absolute;left:7px;top:7px;box-shadow:0 1px 4px #0003}
+.entry-element>.element-badge,.compact .entry-visual .element-badge{display:none}
+.compact .entry-element>.element-badge{display:inline-grid}
+.article-head .meta .element-meta{display:inline-flex;align-items:center;gap:5px}
+.article-head .meta .element-badge{display:inline-grid;padding:0;margin:0;background:#263348dc;border-radius:50%}
+.article-head .meta .element-badge.zenless{background:#1d2026ed;border-radius:6px}
 .traveler-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 13px}
 .traveler-tab{display:flex;align-items:center;gap:7px;padding:8px 12px;border:1px solid var(--line);border-radius:7px;background:#f7f8fc;color:#5e6d83;font-size:13px;cursor:pointer}
 .traveler-tab img{width:23px;height:23px;object-fit:contain}
@@ -26,4 +33,4 @@
 .character-artwork img{display:block;width:100%;height:100%;object-fit:contain}
 @media(max-width:1100px){.detail-visual .asset-frame{width:99px;height:99px}}
 @media(max-width:650px){.entry-visual .asset-frame{width:74px;height:74px}.detail-visual .asset-frame{width:82px;height:82px}.character-artwork a{height:360px;min-height:0;padding:8px}}
-@media(max-width:650px){.element-badge{left:5px;top:5px;width:25px;height:25px}.element-badge img{width:19px!important;height:19px!important}.traveler-tab{padding:7px 9px;font-size:12px}}
+@media(max-width:650px){.element-badge{width:20px;height:20px}.element-badge img{width:16px!important;height:16px!important}.traveler-tab{padding:7px 9px;font-size:12px}}

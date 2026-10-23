@@ -52,13 +52,13 @@ export function installDisclosureControls(host, {onBulk = () => {}} = {}) {
     const existing = host.querySelector('[data-page-fold-controls]');
     const hasContent = contentDetails(host).length > 0;
     if (!hasContent) { existing?.remove(); return; }
-    if (existing) return;
+    const target = host.querySelector('[data-page-fold-target]') ?? host.querySelector('.ae-titlebar');
+    if (existing) { if(target && existing.parentElement !== target) target.append(existing); return; }
     const bar = document.createElement('div');
     bar.className = 'page-fold-controls';
     bar.dataset.pageFoldControls = '';
-    const assessmentTitle=host.querySelector('.ae-titlebar');
-    bar.innerHTML = (assessmentTitle?'':'<span>页面内容</span>') + foldButtons();
-    if(assessmentTitle)assessmentTitle.append(bar);
+    bar.innerHTML = (target?'':'<span>页面内容</span>') + foldButtons();
+    if(target)target.append(bar);
     else (host.querySelector('.catalog-actions,.dialog-body') ?? host).prepend(bar);
   };
   host.addEventListener('click', event => {

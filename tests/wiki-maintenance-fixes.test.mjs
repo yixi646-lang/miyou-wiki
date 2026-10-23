@@ -50,6 +50,7 @@ test('只恢复已提供的个人板块，明确的空收藏或空计划仍能�
     }
     seed();await assert.rejects(controller.preview({entries:[entry],growthPlans:null}),/养成计划格式/);
     assert.equal(library.export().growthPlans.genshin.inventory.fixture,7);
+    assert.equal(library.get(entry.id).name,entry.name);
   });
 });
 

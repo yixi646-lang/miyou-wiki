@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "game": "zenless",
-  "version": "3.2",
-  "fetchedAt": "2026-10-03T03:55:11.262Z",
+  "version": "3.3",
+  "fetchedAt": "2026-10-22T12:54:54.289Z",
   "profiles": {
     "zenless-characters-1011": {
       "id": "zenless-characters-1011",
@@ -65359,6 +65359,2138 @@
         {
           "name": "Nanoka · 正式版养成数据",
           "url": "https://static.nanoka.cc/zzz/3.2/zh/weapon/14162.json"
+        }
+      ],
+      "xp": [
+        50,
+        100,
+        150,
+        200,
+        300,
+        400,
+        500,
+        600,
+        750,
+        950,
+        1200,
+        1290,
+        1380,
+        1465,
+        1555,
+        1640,
+        1735,
+        1825,
+        1910,
+        2000,
+        3120,
+        3315,
+        3510,
+        3705,
+        3900,
+        4100,
+        4295,
+        4490,
+        4685,
+        4880,
+        7200,
+        7600,
+        8000,
+        8400,
+        8800,
+        9200,
+        9600,
+        10000,
+        10400,
+        10800,
+        11400,
+        12200,
+        13000,
+        13800,
+        14600,
+        15400,
+        16200,
+        17000,
+        17800,
+        18600,
+        22800,
+        24400,
+        26000,
+        27600,
+        29200,
+        30800,
+        32400,
+        34000,
+        35600,
+        37200
+      ]
+    },
+    "zenless-characters-1631": {
+      "id": "zenless-characters-1631",
+      "entryId": "zenless-characters-1631",
+      "name": "赛维里安",
+      "category": "characters",
+      "element": "风属性",
+      "type": "强攻",
+      "rarity": 5,
+      "minLevel": 1,
+      "maxLevel": 60,
+      "caps": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "currencyId": "zenless-materials-10",
+      "currencyPerExp": 0,
+      "expItem": {
+        "id": "zenless-materials-300003",
+        "value": 3000
+      },
+      "ascensions": [
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 24000
+          },
+          {
+            "id": "zenless-materials-100211",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 56000
+          },
+          {
+            "id": "zenless-materials-100221",
+            "count": 12
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 120000
+          },
+          {
+            "id": "zenless-materials-100221",
+            "count": 20
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 200000
+          },
+          {
+            "id": "zenless-materials-100231",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 400000
+          },
+          {
+            "id": "zenless-materials-100231",
+            "count": 20
+          }
+        ]
+      ],
+      "tracks": [
+        {
+          "id": "basic",
+          "name": "普通攻击",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "dodge",
+          "name": "闪避",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "special",
+          "name": "特殊技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "chain",
+          "name": "连携技 / 终结技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "assist",
+          "name": "支援技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100116",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100126",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100136",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "core",
+          "name": "核心技",
+          "group": "核心技",
+          "min": 0,
+          "max": 6,
+          "labels": [
+            "未强化",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 5000
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-110516",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 28000
+              },
+              {
+                "id": "zenless-materials-110516",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 60000
+              },
+              {
+                "id": "zenless-materials-110010",
+                "count": 2
+              },
+              {
+                "id": "zenless-materials-110516",
+                "count": 9
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 100000
+              },
+              {
+                "id": "zenless-materials-110010",
+                "count": 3
+              },
+              {
+                "id": "zenless-materials-110516",
+                "count": 15
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 200000
+              },
+              {
+                "id": "zenless-materials-110010",
+                "count": 4
+              },
+              {
+                "id": "zenless-materials-110516",
+                "count": 30
+              }
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nanoka · 3.3正式版养成数据",
+          "url": "https://static.nanoka.cc/zzz/3.3/zh/character/1631.json"
+        }
+      ],
+      "xp": [
+        50,
+        150,
+        250,
+        400,
+        600,
+        800,
+        1000,
+        1250,
+        1500,
+        1800,
+        1935,
+        2065,
+        2200,
+        2335,
+        2465,
+        2600,
+        2735,
+        2865,
+        3000,
+        4680,
+        4975,
+        5265,
+        5560,
+        5855,
+        6145,
+        6440,
+        6735,
+        7025,
+        7320,
+        10800,
+        11400,
+        12000,
+        12600,
+        13200,
+        13800,
+        14400,
+        15000,
+        15600,
+        16200,
+        17100,
+        18300,
+        19500,
+        20700,
+        21900,
+        23100,
+        24300,
+        25500,
+        26700,
+        27900,
+        34200,
+        36600,
+        39000,
+        41400,
+        43800,
+        46200,
+        48600,
+        51000,
+        53400,
+        55800
+      ]
+    },
+    "zenless-characters-1641": {
+      "id": "zenless-characters-1641",
+      "entryId": "zenless-characters-1641",
+      "name": "菲欧妮",
+      "category": "characters",
+      "element": "火属性",
+      "type": "异常",
+      "rarity": 5,
+      "minLevel": 1,
+      "maxLevel": 60,
+      "caps": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "currencyId": "zenless-materials-10",
+      "currencyPerExp": 0,
+      "expItem": {
+        "id": "zenless-materials-300003",
+        "value": 3000
+      },
+      "ascensions": [
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 24000
+          },
+          {
+            "id": "zenless-materials-100213",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 56000
+          },
+          {
+            "id": "zenless-materials-100223",
+            "count": 12
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 120000
+          },
+          {
+            "id": "zenless-materials-100223",
+            "count": 20
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 200000
+          },
+          {
+            "id": "zenless-materials-100233",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 400000
+          },
+          {
+            "id": "zenless-materials-100233",
+            "count": 20
+          }
+        ]
+      ],
+      "tracks": [
+        {
+          "id": "basic",
+          "name": "普通攻击",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "dodge",
+          "name": "闪避",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "special",
+          "name": "特殊技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "chain",
+          "name": "连携技 / 终结技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "assist",
+          "name": "支援技",
+          "group": "技能",
+          "min": 1,
+          "max": 12,
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 2000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 3000
+              },
+              {
+                "id": "zenless-materials-100111",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 6000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 9000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 18000
+              },
+              {
+                "id": "zenless-materials-100121",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 45000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 67500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 90000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 112500
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 12
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 135000
+              },
+              {
+                "id": "zenless-materials-100131",
+                "count": 15
+              },
+              {
+                "id": "zenless-materials-100941",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "core",
+          "name": "核心技",
+          "group": "核心技",
+          "min": 0,
+          "max": 6,
+          "labels": [
+            "未强化",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F"
+          ],
+          "steps": [
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 5000
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 12000
+              },
+              {
+                "id": "zenless-materials-110514",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 28000
+              },
+              {
+                "id": "zenless-materials-110514",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 60000
+              },
+              {
+                "id": "zenless-materials-110011",
+                "count": 2
+              },
+              {
+                "id": "zenless-materials-110514",
+                "count": 9
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 100000
+              },
+              {
+                "id": "zenless-materials-110011",
+                "count": 3
+              },
+              {
+                "id": "zenless-materials-110514",
+                "count": 15
+              }
+            ],
+            [
+              {
+                "id": "zenless-materials-10",
+                "count": 200000
+              },
+              {
+                "id": "zenless-materials-110011",
+                "count": 4
+              },
+              {
+                "id": "zenless-materials-110514",
+                "count": 30
+              }
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nanoka · 3.3正式版养成数据",
+          "url": "https://static.nanoka.cc/zzz/3.3/zh/character/1641.json"
+        }
+      ],
+      "xp": [
+        50,
+        150,
+        250,
+        400,
+        600,
+        800,
+        1000,
+        1250,
+        1500,
+        1800,
+        1935,
+        2065,
+        2200,
+        2335,
+        2465,
+        2600,
+        2735,
+        2865,
+        3000,
+        4680,
+        4975,
+        5265,
+        5560,
+        5855,
+        6145,
+        6440,
+        6735,
+        7025,
+        7320,
+        10800,
+        11400,
+        12000,
+        12600,
+        13200,
+        13800,
+        14400,
+        15000,
+        15600,
+        16200,
+        17100,
+        18300,
+        19500,
+        20700,
+        21900,
+        23100,
+        24300,
+        25500,
+        26700,
+        27900,
+        34200,
+        36600,
+        39000,
+        41400,
+        43800,
+        46200,
+        48600,
+        51000,
+        53400,
+        55800
+      ]
+    },
+    "zenless-weapons-13022": {
+      "id": "zenless-weapons-13022",
+      "entryId": "zenless-weapons-13022",
+      "name": "烛光诡计",
+      "category": "weapons",
+      "element": null,
+      "type": "锋御",
+      "rarity": 4,
+      "minLevel": 0,
+      "maxLevel": 60,
+      "caps": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "currencyId": "zenless-materials-10",
+      "currencyPerExp": 0,
+      "expItem": {
+        "id": "zenless-materials-301003",
+        "value": 3000
+      },
+      "ascensions": [
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 9600
+          },
+          {
+            "id": "zenless-materials-101016",
+            "count": 3
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 22400
+          },
+          {
+            "id": "zenless-materials-101026",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 48000
+          },
+          {
+            "id": "zenless-materials-101026",
+            "count": 16
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 80000
+          },
+          {
+            "id": "zenless-materials-101036",
+            "count": 8
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 160000
+          },
+          {
+            "id": "zenless-materials-101036",
+            "count": 16
+          }
+        ]
+      ],
+      "tracks": [],
+      "sources": [
+        {
+          "name": "Nanoka · 3.3正式版养成数据",
+          "url": "https://static.nanoka.cc/zzz/3.3/zh/weapon/13022.json"
+        }
+      ],
+      "xp": [
+        40,
+        80,
+        120,
+        160,
+        240,
+        320,
+        400,
+        480,
+        600,
+        760,
+        960,
+        1030,
+        1105,
+        1170,
+        1245,
+        1310,
+        1390,
+        1460,
+        1530,
+        1600,
+        2495,
+        2650,
+        2810,
+        2965,
+        3120,
+        3280,
+        3435,
+        3590,
+        3750,
+        3905,
+        5760,
+        6080,
+        6400,
+        6720,
+        7040,
+        7360,
+        7680,
+        8000,
+        8320,
+        8640,
+        9120,
+        9760,
+        10400,
+        11040,
+        11680,
+        12320,
+        12960,
+        13600,
+        14240,
+        14880,
+        18240,
+        19520,
+        20800,
+        22080,
+        23360,
+        24640,
+        25920,
+        27200,
+        28480,
+        29760
+      ]
+    },
+    "zenless-weapons-14163": {
+      "id": "zenless-weapons-14163",
+      "entryId": "zenless-weapons-14163",
+      "name": "禁罪囚笼",
+      "category": "weapons",
+      "element": null,
+      "type": "强攻",
+      "rarity": 5,
+      "minLevel": 0,
+      "maxLevel": 60,
+      "caps": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "currencyId": "zenless-materials-10",
+      "currencyPerExp": 0,
+      "expItem": {
+        "id": "zenless-materials-301003",
+        "value": 3000
+      },
+      "ascensions": [
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 12000
+          },
+          {
+            "id": "zenless-materials-101010",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 28000
+          },
+          {
+            "id": "zenless-materials-101020",
+            "count": 12
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 60000
+          },
+          {
+            "id": "zenless-materials-101020",
+            "count": 20
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 100000
+          },
+          {
+            "id": "zenless-materials-101030",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 200000
+          },
+          {
+            "id": "zenless-materials-101030",
+            "count": 20
+          }
+        ]
+      ],
+      "tracks": [],
+      "sources": [
+        {
+          "name": "Nanoka · 3.3正式版养成数据",
+          "url": "https://static.nanoka.cc/zzz/3.3/zh/weapon/14163.json"
+        }
+      ],
+      "xp": [
+        50,
+        100,
+        150,
+        200,
+        300,
+        400,
+        500,
+        600,
+        750,
+        950,
+        1200,
+        1290,
+        1380,
+        1465,
+        1555,
+        1640,
+        1735,
+        1825,
+        1910,
+        2000,
+        3120,
+        3315,
+        3510,
+        3705,
+        3900,
+        4100,
+        4295,
+        4490,
+        4685,
+        4880,
+        7200,
+        7600,
+        8000,
+        8400,
+        8800,
+        9200,
+        9600,
+        10000,
+        10400,
+        10800,
+        11400,
+        12200,
+        13000,
+        13800,
+        14600,
+        15400,
+        16200,
+        17000,
+        17800,
+        18600,
+        22800,
+        24400,
+        26000,
+        27600,
+        29200,
+        30800,
+        32400,
+        34000,
+        35600,
+        37200
+      ]
+    },
+    "zenless-weapons-14164": {
+      "id": "zenless-weapons-14164",
+      "entryId": "zenless-weapons-14164",
+      "name": "涅槃初翎",
+      "category": "weapons",
+      "element": null,
+      "type": "异常",
+      "rarity": 5,
+      "minLevel": 0,
+      "maxLevel": 60,
+      "caps": [
+        10,
+        20,
+        30,
+        40,
+        50,
+        60
+      ],
+      "currencyId": "zenless-materials-10",
+      "currencyPerExp": 0,
+      "expItem": {
+        "id": "zenless-materials-301003",
+        "value": 3000
+      },
+      "ascensions": [
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 12000
+          },
+          {
+            "id": "zenless-materials-101012",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 28000
+          },
+          {
+            "id": "zenless-materials-101022",
+            "count": 12
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 60000
+          },
+          {
+            "id": "zenless-materials-101022",
+            "count": 20
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 100000
+          },
+          {
+            "id": "zenless-materials-101032",
+            "count": 10
+          }
+        ],
+        [
+          {
+            "id": "zenless-materials-10",
+            "count": 200000
+          },
+          {
+            "id": "zenless-materials-101032",
+            "count": 20
+          }
+        ]
+      ],
+      "tracks": [],
+      "sources": [
+        {
+          "name": "Nanoka · 3.3正式版养成数据",
+          "url": "https://static.nanoka.cc/zzz/3.3/zh/weapon/14164.json"
         }
       ],
       "xp": [

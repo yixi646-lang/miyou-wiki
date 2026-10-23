@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    { "id": "character-artwork", "name": "角色主立绘", "path": "data/sources/character-artwork-2026-10-03.json", "priority": 100 },
+    { "id": "core-icons", "name": "核心材料图标", "path": "data/sources/zenless/core-material-icons-2026-10-03.json", "priority": 100 },
+    { "id": "visual-assets", "name": "头像、立绘与套装部件", "path": "data/sources/visual-assets-2026-10-04.json", "priority": 200 },
+    { "id": "zenless-3-3", "name": "绝区零3.3资源", "path": "data/sources/zenless/update-3.3-2026-10-22/media.json", "priority": 300 },
+    { "id": "temporary-avatars", "name": "临时方形透明头像", "path": "data/sources/zenless/temporary-square-avatars-2026-10-22.json", "priority": 400 },
+    { "id": "square-avatars", "name": "游戏方形透明头像", "path": "data/sources/zenless/square-avatars-2026-10-22.json", "priority": 500 },
+    { "id": "avatar-repairs", "name": "头像修正版", "path": "data/sources/zenless/avatar-repairs-2026-10-23.json", "priority": 600 },
+    { "id": "artwork-variants", "name": "扩展与皮肤立绘", "path": "data/character-artwork-variants.json", "priority": 100, "kind": "variants" }
+  ]
+}

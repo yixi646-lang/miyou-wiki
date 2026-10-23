@@ -1,0 +1,63 @@
+{
+  "fetchedAt": "2026-10-22T12:54:54.289Z",
+  "records": [
+    {
+      "id": "zenless-characters-1631",
+      "name": "赛维里安",
+      "game": "zenless",
+      "image": "/assets/zenless/characters/1631.webp",
+      "url": "https://static.nanoka.cc/assets/zzz/IconRole1631.webp",
+      "sourceName": "Nanoka · 游戏角色立绘",
+      "status": "saved",
+      "avatar": {
+        "image": "/assets/zenless/wiki-avatars/1631.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/09/12/7519560/a29aba4e4b4aa11928d8b54f24eedb17_4947925534088175936.png",
+        "sourceName": "米游社 · 绳网情报站头像",
+        "sourceUrl": "https://baike.mihoyo.com/zzz/wiki/content/2217/detail",
+        "bytes": 571011
+      },
+      "bytes": 613566
+    },
+    {
+      "id": "zenless-characters-1641",
+      "name": "菲欧妮",
+      "game": "zenless",
+      "image": "/assets/zenless/characters/1641.webp",
+      "url": "https://static.nanoka.cc/assets/zzz/IconRole1641.webp",
+      "sourceName": "Nanoka · 游戏角色立绘",
+      "status": "saved",
+      "avatar": {
+        "image": "/assets/zenless/wiki-avatars/1641.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/10/16/71319299/0c6fe6449ebd56b87745a332ade80e1f_5954047325411114795.png",
+        "sourceName": "米游社 · 绳网情报站头像",
+        "sourceUrl": "https://baike.mihoyo.com/zzz/wiki/content/2216/detail",
+        "bytes": 151031
+      },
+      "bytes": 534032
+    },
+    {
+      "id": "zenless-weapons-13022",
+      "name": "烛光诡计",
+      "image": "/assets/zenless/weapons/13022.webp",
+      "url": "https://static.nanoka.cc/assets/zzz/Weapon_A_Common_22.webp",
+      "sourceName": "Nanoka · 游戏音擎图标",
+      "bytes": 35900
+    },
+    {
+      "id": "zenless-weapons-14163",
+      "name": "禁罪囚笼",
+      "image": "/assets/zenless/weapons/14163.webp",
+      "url": "https://static.nanoka.cc/assets/zzz/Weapon_S_1631.webp",
+      "sourceName": "Nanoka · 游戏音擎图标",
+      "bytes": 36626
+    },
+    {
+      "id": "zenless-weapons-14164",
+      "name": "涅槃初翎",
+      "image": "/assets/zenless/weapons/14164.webp",
+      "url": "https://static.nanoka.cc/assets/zzz/Weapon_S_1641.webp",
+      "sourceName": "Nanoka · 游戏音擎图标",
+      "bytes": 35566
+    }
+  ]
+}

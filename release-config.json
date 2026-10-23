@@ -5,7 +5,7 @@
   "content": {
     "baseline": "R000008",
     "directories": ["assets", "data/growth", "data/material-acquisition", "data/sources", "data/versions"],
-    "files": ["data/character-artwork-variants.json", "public/character-artwork-index.json"]
+    "files": ["data/character-artwork-variants.json", "public/character-artwork-index.json", "public/key-dates-data.json"]
   },
   "directories": [
     "assets",
@@ -74,6 +74,7 @@
     "原神库存扫描器.lnk"
   ],
   "knownRootDirectories": [
+    "node_modules",
     ".codex_tmp",
     ".codex_work",
     ".release-manager",

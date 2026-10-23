@@ -62,7 +62,7 @@ export function galleryEntries(entries,index,game,search='',filters={},variants=
   if(elements.length&&!elements.includes(String(entry.element)))return false;
   const names=[entry.name,...entry.aliases??[]].join(' ').toLocaleLowerCase();
   return terms.every(term=>names.includes(term));
- }).sort((a,b)=>(b.releaseDate??'').localeCompare(a.releaseDate??'')||a.name.localeCompare(b.name,'zh-CN'));
+ }).sort((a,b)=>String(b.releaseVersion??'').localeCompare(String(a.releaseVersion??''),'zh-CN',{numeric:true})||(b.releaseDate??'').localeCompare(a.releaseDate??'')||a.name.localeCompare(b.name,'zh-CN'));
 }
 
 export function galleryFiltersHTML(entries,index,game,filters,escape){
@@ -96,8 +96,8 @@ export function switchGalleryCard(button,entry,images,variants,{hrefFor}={}){
  for(const choice of card.querySelectorAll('[data-artwork-choice]')){const active=choice.dataset.artworkChoice===selected.key;choice.classList.toggle('active',active);choice.setAttribute('aria-pressed',String(active));}
 }
 
-export async function mountArtworkGallery({host,entries,game,search,filters={},escape,gameName,footer='',artworkId='',variantKey=''}){
- host.innerHTML=`<div class="heading artwork-gallery-heading"><div><h1>角色立绘展示</h1><p>${escape(gameName)} · <span class="artwork-gallery-count">正在读取立绘…</span></p></div><div class="artwork-gallery-filters" aria-label="立绘筛选"></div></div><div class="artwork-gallery-root" data-game="${escape(game)}" aria-label="角色立绘"><div class="loading">正在读取立绘…</div></div>${footer}`;
+export async function mountArtworkGallery({host,entries,game,search,filters={},escape,gameName,artworkId='',variantKey=''}){
+ host.innerHTML=`<div class="heading artwork-gallery-heading"><div><h1>角色立绘展示</h1><p>${escape(gameName)} · <span class="artwork-gallery-count">正在读取立绘…</span></p></div><div class="artwork-gallery-filters" aria-label="立绘筛选"></div></div><div class="artwork-gallery-root" data-game="${escape(game)}" aria-label="角色立绘"><div class="loading">正在读取立绘…</div></div>`;
  const root=host.querySelector('.artwork-gallery-root'),count=host.querySelector('.artwork-gallery-count'),filterArea=host.querySelector('.artwork-gallery-filters');
  let images={},variants={};
  let byId=new Map(entries.map(entry=>[entry.id,entry]));

@@ -281,6 +281,8 @@
     "zenless-characters-1591": "/assets/zenless/characters/1591.webp",
     "zenless-characters-1611": "/assets/zenless/characters/1611.webp",
     "zenless-characters-1621": "/assets/zenless/characters/1621.webp",
+    "zenless-characters-1631": "/assets/zenless/characters/1631.webp",
+    "zenless-characters-1641": "/assets/zenless/characters/1641.webp",
     "zenless-artwork-belle": "/assets/zenless/artwork-skins/belle-skin-01.png",
     "zenless-artwork-wise": "/assets/zenless/artwork-skins/wise-skin-01.png"
   },
@@ -1338,6 +1340,38 @@
         "key": "skin-01",
         "label": "皮肤·惊鸿逐浪",
         "image": "/assets/zenless/artwork-skins/1591-skin-01.png",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1631": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1631.webp"
+      },
+      {
+        "key": "skin-3116311",
+        "label": "肃仪无犯",
+        "image": "/assets/zenless/artwork-extra/1631-3116311.webp",
+        "type": "skin"
+      }
+    ],
+    "zenless-characters-1641": [
+      {
+        "key": "main",
+        "label": "主立绘",
+        "image": "/assets/zenless/characters/1641.webp"
+      },
+      {
+        "key": "skin-3116411",
+        "label": "病名为生",
+        "image": "/assets/zenless/artwork-extra/1641-3116411.webp",
+        "type": "skin"
+      },
+      {
+        "key": "skin-3116412",
+        "label": "空想症候",
+        "image": "/assets/zenless/artwork-extra/1641-3116412.webp",
         "type": "skin"
       }
     ],

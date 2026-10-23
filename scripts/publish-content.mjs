@@ -35,7 +35,8 @@ export async function publishContent({ archive, notes = '公共百科资料更�
   const metadataUpload = await fetchImpl(`https://uploads.github.com/repos/${repository}/releases/${release.id}/assets?name=Wiki-Update-${revision}.json`, { method: 'POST', headers: { ...headers, 'Content-Type': 'application/json', 'Content-Length': String(metadataBytes.length) }, body: metadataBytes, signal: AbortSignal.timeout(30000) });
   if (!metadataUpload.ok) throw Error('资料ZIP已上传，但兼容信息未上传完成；请补齐兼容信息后再公开发布。');
   const body = `资料批次：${revision}\n\n${notes}\n\n以 Wiki 1.2.2 为基准的累计资料增量包，仅更新新增、变更及必要恢复的公共资料和素材，不改变软件版本。\n完整解压 ZIP 后运行“安装资料更新.vbs”，选择现有 Wiki 并确认安装；窗口显示进度、结果及日志。安装器随包附带。\n1.2.2 / R000009起可在顶栏“更新 → 游戏资料”中确认自动安装，也可使用包内安装器。\n保留个人账号、收藏、库存、计划及本地编辑；无需逐个安装中间资料批次。`;
-  const published = await request('/releases/' + release.id, { method: 'PATCH', body: JSON.stringify({ tag_name: 'wiki-content', name: '游戏资料更新', body, draft: false, prerelease: false, make_latest: 'false' }) });
+  const automatic = metadata.softwareBases.some(base => base.version.localeCompare('1.3.0', 'en', { numeric: true }) < 0) ? body : body.replace('1.2.2 / R000009起可在顶栏“更新 → 游戏资料”中确认自动安装，也可使用包内安装器。', '本批次的Wiki内自动安装适用于1.3.0起已列入兼容清单的软件批次；旧版请先升级软件，或使用资料包内新版手动安装器。');
+  const published = await request('/releases/' + release.id, { method: 'PATCH', body: JSON.stringify({ tag_name: 'wiki-content', name: '游戏资料更新', body: automatic, draft: false, prerelease: false, make_latest: 'false' }) });
   return { revision, url: published.html_url, download: asset.browser_download_url, bytes: size };
 }
 if (process.argv[1] && path.resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {

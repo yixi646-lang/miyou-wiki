@@ -83,13 +83,13 @@ test('资料检查仅提醒；代表交互确认后经真实解压、独立助�
   try {
     copyRuntime(root);
     const source = path.join(root, 'pack'); pack(source, [row(payload('genshin-a', '旧值', '联网新资料'))]);
-    const require = createRequire(import.meta.url), { zipSync } = require(path.join(project, '.release-manager/build-tools/node_modules/fflate'));
+    const require = createRequire(import.meta.url), { zipSync, unzipSync } = require(path.join(project, '.release-manager/build-tools/node_modules/fflate'));
     const bytes = zipSync(Object.fromEntries(listFiles(source).map(name => [name, fs.readFileSync(path.join(source, name))])));
     const remote = { id: 600, tag_name: 'wiki-content', html_url: 'https://github.com/yixi646-lang/miyou-wiki/releases/tag/wiki-content', body: '公共资料 <script>bad</script>', assets: [{ id: 601, name: 'Miyou-Wiki-Data-D20261016010000.zip', state: 'uploaded', size: bytes.length, browser_download_url: 'https://github.com/yixi646-lang/miyou-wiki/releases/download/wiki-content/Miyou-Wiki-Data-D20261016010000.zip' }] };
     remote.body = withPublishedMetadata(remote.body, metadataForPackage(readJSON(path.join(source, 'content.json')), remote.assets[0].name));
     assert.equal(publishedContent({ ...remote, tag_name: 'v1.2.2' }), null);
     parent = spawn(process.execPath, ['-e', 'setInterval(()=>{},1000)'], { windowsHide: true, stdio: 'ignore' }); await once(parent, 'spawn');
-    updater = createOnlineUpdates({ root, port: 4199, channel: 'content', platform: 'win32', fetchImpl: async url => { if (url.includes('api.github.com')) { assert.match(url, /releases\/tags\/wiki-content$/); return Response.json(remote); } downloads++; return new Response(bytes); }, launchRunner: async job => {
+    updater = createOnlineUpdates({ root, port: 4199, channel: 'content', platform: 'win32', fetchImpl: async url => { if (url.includes('api.github.com')) { assert.match(url, /releases\/tags\/wiki-content$/); return Response.json(remote); } downloads++; return new Response(bytes); }, extractArchive: async (archive, directory) => { for (const [name, bytes] of Object.entries(unzipSync(fs.readFileSync(archive)))) put(path.join(directory, name), bytes); }, launchRunner: async job => {
       const directory = path.join(root, '.updates/content-online/jobs', job.id), config = path.join(directory, 'runner.json');
       fs.copyFileSync(path.join(project, 'scripts/online-update-runner.mjs'), path.join(directory, 'runner.mjs'));
       writeJSON(config, { root, jobId: job.id, parentPid: parent.pid, port: 4199, expectedFrom: release, channel: 'content' });

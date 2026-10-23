@@ -1,11 +1,148 @@
 {
   "schemaVersion": 1,
   "game": "zenless",
-  "updatedAt": "2026-10-04T08:36:05.974Z",
-  "sourceFetchedAt": "2026-10-04T05:26:30.212Z",
+  "updatedAt": "2026-10-22T12:54:54.289Z",
+  "sourceFetchedAt": "2026-10-22T12:54:54.289Z",
   "sourceBatch": "2026-10-04-4603c579",
   "scope": "档案用于快速了解主要剧情、地图、常驻玩法及重要系统变化；保留具体规则、开放条件与明确数值。新增角色、装备与套装仅关联已收录图鉴，卡池沿用实际记录。版本固定补偿、限时活动、问题修复及指定周期挑战不收录；完整公告保存在来源快照。",
   "versions": [
+    {
+      "version": "3.3",
+      "alias": null,
+      "title": "重返天空的旅程",
+      "titleOriginal": null,
+      "releaseDate": "2026-10-21",
+      "dateBasis": "官方维护开始时间",
+      "maintenance": {
+        "start": "2026-10-21 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": "2026-12-02 06:00"
+      },
+      "coverage": "official-notes",
+      "gaps": [],
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "主线第三季第四章「重返天空的旅程」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "times": [
+                "3.3版本更新后永久开放。"
+              ],
+              "requirements": [
+                "完成主线第三季第三章「她与她的隐秘往事」。"
+              ],
+              "facts": [
+                "完成主线第一季第一章·幕间晋升后，可通过「超前点映」提前体验第三季主线。"
+              ]
+            },
+            {
+              "name": "菲欧妮、赛维里安信赖事件与「密友同行」",
+              "group": "全新剧情",
+              "availability": "permanent",
+              "requirements": [
+                "获取对应代理人，并完成工作台「合作者档案」所列前置剧情。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "罗斯凯利法 · [管制区]宁息屿",
+              "group": "全新地区",
+              "requirements": [
+                "在主线第三季第四章「重返天空的旅程」期间解锁。"
+              ]
+            },
+            {
+              "name": "罗斯凯利法 · [管制区]空域总控塔",
+              "group": "全新地区",
+              "requirements": [
+                "在主线第三季第四章「重返天空的旅程」期间解锁。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "outfits",
+          "label": "时装与外观",
+          "items": [
+            {
+              "name": "菲欧妮 · 病名为生",
+              "group": "全新时装"
+            },
+            {
+              "name": "菲欧妮 · 空想症候",
+              "group": "全新时装"
+            },
+            {
+              "name": "赛维里安 · 肃仪无犯",
+              "group": "全新时装",
+              "times": [
+                "2026-11-11 12:00（服务器时间）起上架。"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "邦布机甲",
+              "explanation": "在主线剧情和宁息屿探索中通过交互驾驶机甲；近战与远程射击模式具有不同技能，可在战斗中自由切换。"
+            },
+            {
+              "name": "代理人攻略与 Fairy 推荐配队",
+              "explanation": "可从代理人主界面、功能导览、快捷手册或绳匠指南打开。推荐配队按实际拥有情况生成，提供配队思路与操作介绍，并支持一键应用预备编队；该推荐功能处于测试阶段。部分代理人另有战斗资源与操作手法教学视频。"
+            },
+            {
+              "name": "战前挑战提示",
+              "explanation": "恶名狩猎、专业挑战室等常驻玩法在编队时评估上阵人数与养成情况，并可查看培养优先级；部分挑战还评估配队并提供指引。可自行开关挑战提示。"
+            },
+            {
+              "name": "绳匠晋升指引",
+              "explanation": "绳匠档案展示声望晋升权益；满足晋升条件后，代理人、音擎养成界面及实战模拟室、区域巡防界面提供提醒与晋升任务跳转。"
+            },
+            {
+              "name": "零号空洞 · 战术棱镜",
+              "explanation": "新增菲欧妮、赛维里安的战术棱镜方案和对应探索任务。"
+            },
+            {
+              "name": "迷宫诡域 · 拟态单质合成",
+              "explanation": "高危调查中可从随机容器、特定怪物或 UP 调查事件获取三种拟态单质。每次拾取获得仅本局生效的随机侵蚀症状，拾取越多越易出现重度侵蚀；集齐三种自动合成贵重成品，单局可重复合成。"
+            },
+            {
+              "name": "迷宫诡域 · 地图排名与物品操作",
+              "explanation": "图鉴记录每赛季不同地图的最佳数据与排名；键鼠拖拽物品时仍可用滚轮滚动列表；移动端可设置非战斗普攻键与物品交互；物资箱支持一键快捷丢弃与使用。"
+            }
+          ]
+        }
+      ],
+      "sourceRefs": [
+        {
+          "name": "绝区零官网 · 3.3版本更新公告",
+          "url": "https://zenless.hoyoverse.com/zh-cn/news/166963",
+          "kind": "official",
+          "snapshot": "data/sources/zenless/update-3.3-2026-10-22/official-166963.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "Nanoka · 3.3正式版目录",
+          "kind": "community",
+          "url": "https://static.nanoka.cc/zzz/3.3/character.json",
+          "snapshot": "data/sources/zenless/update-3.3-2026-10-22/character.json.gz",
+          "language": "zh-cn"
+        }
+      ]
+    },
     {
       "version": "3.2",
       "alias": null,

@@ -1,6 +1,6 @@
 {
   "name": "local-game-wiki",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "private": true,
   "type": "module",
   "description": "原神、崩坏：星穹铁道、绝区零的本地资料百科",
@@ -11,6 +11,14 @@
     "start": "node --disable-warning=ExperimentalWarning scripts/launch.mjs",
     "serve": "node --disable-warning=ExperimentalWarning server.mjs",
     "test": "node --disable-warning=ExperimentalWarning --test tests/*.test.mjs",
+    "test:list": "node scripts/test-groups.mjs --list",
+    "test:search": "node scripts/test-groups.mjs search",
+    "test:catalog": "node scripts/test-groups.mjs catalog",
+    "test:updates": "node scripts/test-groups.mjs updates",
+    "test:accounts": "node scripts/test-groups.mjs accounts",
+    "test:assessment": "node scripts/test-groups.mjs assessment",
+    "test:ui": "node scripts/test-groups.mjs ui",
+    "test:core": "node scripts/test-groups.mjs core",
     "fetch-data": "node scripts/fetch-data.mjs",
     "build-data": "node scripts/build-data.mjs"
   }

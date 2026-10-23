@@ -1,0 +1,57 @@
+{
+  "updatedAt": "2026-10-21",
+  "records": [
+    {
+      "game": "genshin",
+      "version": "7.1",
+      "title": "往冥府的安魂歌",
+      "type": "cover",
+      "sourceType": "community-wallpaper",
+      "sourceUrl": "https://www.miyoushe.com/ys/article/78223820",
+      "url": "https://upload-bbs.miyoushe.com/upload/2026/09/23/313029024/574fc687a8dfc8a41ba9e514b5bfbb5c_609746560938215599.png",
+      "userSelected": true,
+      "logo": false,
+      "original": "/assets/genshin/branding/cover-7.1-hd.png",
+      "image": "/assets/genshin/branding/cover-7.1-hd.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sourceDimensions": [
+        3840,
+        2160
+      ],
+      "sourceBytes": 11572601,
+      "bytes": 11572601,
+      "processing": "作者注明经过模型超分与去水印"
+    },
+    {
+      "game": "starrail",
+      "version": "4.6",
+      "title": "月升之前，与兽共舞",
+      "type": "cover",
+      "sourceType": "community-wallpaper",
+      "sourceUrl": "https://www.miyoushe.com/sr/article/78292194",
+      "url": "https://upload-bbs.miyoushe.com/upload/2026/09/20/260268327/5a75e3012bec7132e4906e432870444f_820873608304913959.jpg",
+      "userSelected": true,
+      "logo": false,
+      "original": "/assets/starrail/branding/cover-4.6-hd.png",
+      "image": "/assets/starrail/branding/cover-4.6-hd.png",
+      "dimensions": [
+        3840,
+        2160
+      ],
+      "sourceDimensions": [
+        3840,
+        2160
+      ],
+      "sourceBytes": 9183810,
+      "bytes": 9183810,
+      "processing": "社区整理，来源页未说明是否超分，不认定为官方原生4K"
+    }
+  ],
+  "notes": [
+    "首页直接加载所选原文件，保留尺寸与原始字节。",
+    "不将社区整理或超分图片认定为官方原生4K。"
+  ]
+}

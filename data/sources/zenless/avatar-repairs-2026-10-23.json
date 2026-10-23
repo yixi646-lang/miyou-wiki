@@ -1,0 +1,39 @@
+{
+  "createdAt": "2026-10-23T03:12:18.270Z",
+  "records": [
+    {
+      "id": "zenless-characters-1581",
+      "name": "蕾米埃尔",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1581-repaired-2026-10-23.webp",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/07/22/15559334/13b7b06627a8a99ffdf1f397b1daf7d1_5495460923605178593.png",
+        "sourceName": "透明头像修正版 · 官方头像衍生",
+        "temporary": true,
+        "derived": true,
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 65998,
+        "method": "参考干净的官方头像，通过图像生成工具修正方形透明头像，去除顶部重复头发碎片及杂线；导出为384×384透明WebP，非游戏原生透明素材。",
+        "replacement": {
+          "family": "IconRoleCrop",
+          "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop67.webp",
+          "status": "awaiting-clean-source"
+        }
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/transparent-avatars/1581.webp",
+        "url": "https://static.nanoka.cc/assets/zzz/IconRoleCrop67.webp",
+        "sourceName": "Nanoka · 游戏方形透明头像",
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 133054
+      },
+      "referenceAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1581.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/07/22/15559334/13b7b06627a8a99ffdf1f397b1daf7d1_5495460923605178593.png"
+      }
+    }
+  ]
+}

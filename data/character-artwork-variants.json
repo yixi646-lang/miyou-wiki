@@ -736,6 +736,40 @@
         "image": "/assets/genshin/artwork-skins/10000087-skin-01.png",
         "type": "skin"
       }
+    ],
+    "zenless-characters-1631": [
+      {
+        "key": "skin-3116311",
+        "label": "肃仪无犯",
+        "type": "skin",
+        "image": "/assets/zenless/artwork-extra/1631-3116311.webp",
+        "source": {
+          "name": "Nanoka · 3.3正式版时装立绘",
+          "url": "https://static.nanoka.cc/assets/zzz/IconRole1631_01.webp"
+        }
+      }
+    ],
+    "zenless-characters-1641": [
+      {
+        "key": "skin-3116411",
+        "label": "病名为生",
+        "type": "skin",
+        "image": "/assets/zenless/artwork-extra/1641-3116411.webp",
+        "source": {
+          "name": "Nanoka · 3.3正式版时装立绘",
+          "url": "https://static.nanoka.cc/assets/zzz/IconRole1641_01.webp"
+        }
+      },
+      {
+        "key": "skin-3116412",
+        "label": "空想症候",
+        "type": "skin",
+        "image": "/assets/zenless/artwork-extra/1641-3116412.webp",
+        "source": {
+          "name": "Nanoka · 3.3正式版时装立绘",
+          "url": "https://static.nanoka.cc/assets/zzz/IconRole1641_02.webp"
+        }
+      }
     ]
   },
   "galleryEntries": [

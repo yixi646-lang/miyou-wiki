@@ -1,0 +1,76 @@
+{
+  "builtDate": "2026-10-21",
+  "timeZone": "Asia/Hong_Kong",
+  "games": [
+    {
+      "id": "genshin",
+      "name": "原神",
+      "color": "#2e9278",
+      "soft": "#eaf6f0",
+      "nextVersion": "7.2",
+      "lastMinor": 8,
+      "anchor": "2026-11-04",
+      "currentVersion": "7.1",
+      "currentStart": "2026-09-23",
+      "cycle": 42,
+      "phase": 20,
+      "phaseTime": "18:00",
+      "liveLead": 12,
+      "liveTime": "20:00",
+      "basis": "以7.1版本2026-09-23维护开始日加42天，得到下一次更新基准；后续按同一周期顺推。",
+      "sources": [
+        {
+          "name": "7.1版本更新说明",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/166383"
+        }
+      ]
+    },
+    {
+      "id": "starrail",
+      "name": "星穹铁道",
+      "color": "#8a67bd",
+      "soft": "#f2edfa",
+      "nextVersion": "4.7",
+      "lastMinor": 8,
+      "anchor": "2026-11-11",
+      "currentVersion": "4.6",
+      "currentStart": "2026-09-28",
+      "cycle": 42,
+      "phase": 21,
+      "phaseTime": "12:00",
+      "liveLead": 12,
+      "liveTime": "19:30",
+      "basis": "4.6版本公告明示于2026-11-11 06:00结束；接续更新日期暂以该日为基准，后续按42天顺推。",
+      "sources": [
+        {
+          "name": "4.6版本更新说明",
+          "url": "https://hsr.hoyoverse.com/zh-tw/news/166468"
+        }
+      ]
+    },
+    {
+      "id": "zenless",
+      "name": "绝区零",
+      "color": "#ce8340",
+      "soft": "#fff3e6",
+      "nextVersion": "3.4",
+      "lastMinor": 8,
+      "anchor": "2026-12-02",
+      "currentVersion": "3.3",
+      "currentStart": "2026-10-21",
+      "cycle": 42,
+      "phase": 21,
+      "phaseTime": "12:00",
+      "liveLead": 12,
+      "liveTime": "19:30",
+      "basis": "3.3版本公告明示于2026-12-02 06:00结束；接续更新日期暂以该日为基准，后续按42天顺推。",
+      "sources": [
+        {
+          "name": "3.3版本更新公告",
+          "url": "https://zenless.hoyoverse.com/m/zh-cn/news/166963"
+        }
+      ]
+    }
+  ],
+  "confirmed": []
+}

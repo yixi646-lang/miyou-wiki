@@ -1,0 +1,57 @@
+{
+  "createdAt": "2026-10-22T13:57:42.349Z",
+  "family": "temporary-square-avatars",
+  "reference": "/assets/zenless/transparent-avatars/1611.webp",
+  "records": [
+    {
+      "id": "zenless-characters-1641",
+      "name": "菲欧妮",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1641-temporary.webp",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/10/16/71319299/0c6fe6449ebd56b87745a332ade80e1f_5954047325411114795.png",
+        "sourceName": "临时透明头像 · 官方头像衍生",
+        "temporary": true,
+        "derived": true,
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 66788,
+        "method": "使用图像生成工具参考官方头像去除背景并制作方形头像，保留透明通道；统一导出为384×384 WebP。非游戏原生透明素材。",
+        "replacement": {
+          "family": "IconRoleCrop",
+          "sourceId": "1641",
+          "status": "awaiting-source"
+        }
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1641.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/10/16/71319299/0c6fe6449ebd56b87745a332ade80e1f_5954047325411114795.png"
+      }
+    },
+    {
+      "id": "zenless-characters-1631",
+      "name": "赛维里安",
+      "avatar": {
+        "image": "/assets/zenless/transparent-avatars/1631-temporary.webp",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/09/12/7519560/a29aba4e4b4aa11928d8b54f24eedb17_4947925534088175936.png",
+        "sourceName": "临时透明头像 · 官方头像衍生",
+        "temporary": true,
+        "derived": true,
+        "width": 384,
+        "height": 384,
+        "alpha": true,
+        "bytes": 61206,
+        "method": "使用图像生成工具参考官方头像去除背景并制作方形头像，保留透明通道；统一导出为384×384 WebP。非游戏原生透明素材。",
+        "replacement": {
+          "family": "IconRoleCrop",
+          "sourceId": "1631",
+          "status": "awaiting-source"
+        }
+      },
+      "previousAvatar": {
+        "image": "/assets/zenless/wiki-avatars/1631.png",
+        "url": "https://act-upload.mihoyo.com/nap-obc-indep/2026/09/12/7519560/a29aba4e4b4aa11928d8b54f24eedb17_4947925534088175936.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "version": "3.3",
+  "fetchedAt": "2026-10-22T12:54:54.289Z",
+  "additions": [
+    {
+      "id": "zenless-characters-1631",
+      "name": "赛维里安",
+      "releaseDate": null
+    },
+    {
+      "id": "zenless-characters-1641",
+      "name": "菲欧妮",
+      "releaseDate": "2026-10-21"
+    },
+    {
+      "id": "zenless-weapons-13022",
+      "name": "烛光诡计",
+      "releaseDate": null
+    },
+    {
+      "id": "zenless-weapons-14163",
+      "name": "禁罪囚笼",
+      "releaseDate": null
+    },
+    {
+      "id": "zenless-weapons-14164",
+      "name": "涅槃初翎",
+      "releaseDate": "2026-10-21"
+    }
+  ],
+  "profiles": [
+    "zenless-characters-1631",
+    "zenless-characters-1641",
+    "zenless-weapons-13022",
+    "zenless-weapons-14163",
+    "zenless-weapons-14164"
+  ],
+  "materialRelations": 29,
+  "newMaterials": 0,
+  "newSets": 0,
+  "media": "data/sources/zenless/update-3.3-2026-10-22/media.json",
+  "artwork": {
+    "characters": 284,
+    "variants": 105
+  },
+  "dateGaps": [
+    {
+      "id": "zenless-characters-1631",
+      "name": "赛维里安",
+      "reason": "未核实首次可获取日；不以版本或活动开始日替代。"
+    },
+    {
+      "id": "zenless-weapons-13022",
+      "name": "烛光诡计",
+      "reason": "未核实首次可获取日；不以版本或活动开始日替代。"
+    },
+    {
+      "id": "zenless-weapons-14163",
+      "name": "禁罪囚笼",
+      "reason": "未核实首次可获取日；不以版本或活动开始日替代。"
+    }
+  ],
+  "identity": {
+    "zenless-characters-1631": {
+      "name": "赛维里安",
+      "region": "都市秩序部",
+      "basis": "官方绳网情报站名称与阵营。"
+    }
+  },
+  "sources": "data/sources/zenless/update-3.3-2026-10-22",
+  "personalDataUnchanged": true
+}

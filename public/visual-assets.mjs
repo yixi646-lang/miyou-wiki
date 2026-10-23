@@ -12,8 +12,11 @@ export function setPartsHTML(parts,escape){
 }
 
 export function gameMediaHTML(game){
- const version={genshin:'7.0',starrail:'4.0',zenless:'3.0'}[game];
- const format=game==='zenless'?'png':'jpg';
- return `<div class="game-card-media"><img class="game-card-cover" src="/assets/${game}/branding/cover-${version}-hd.${format}" alt="${version}版本宣传图" decoding="async"></div>`;
+ const cover={
+  genshin:{file:'cover-2026-10-23.png',alt:'原神版本宣传图'},
+  starrail:{file:'cover-4.6-hd.png',alt:'4.6版本宣传图'},
+  zenless:{file:'cover-2026-10-23.png',alt:'绝区零版本宣传图'}
+ }[game];
+ return `<div class="game-card-media"><img class="game-card-cover" src="/assets/${game}/branding/${cover.file}" alt="${cover.alt}" decoding="async"></div>`;
 }
 export const gameLogoHTML=game=>`<img class="game-card-logo" src="/assets/${game}/branding/logo.webp" alt="" decoding="async">`;

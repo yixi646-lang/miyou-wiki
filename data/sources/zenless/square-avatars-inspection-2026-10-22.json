@@ -1,0 +1,486 @@
+{
+  "images": [
+    {
+      "id": "zenless-characters-1011",
+      "name": "安比",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1021",
+      "name": "猫又",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1031",
+      "name": "妮可",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1041",
+      "name": "「11号」",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1051",
+      "name": "伊德海莉",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1061",
+      "name": "可琳",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1071",
+      "name": "凯撒",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1081",
+      "name": "比利",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1091",
+      "name": "雅",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1101",
+      "name": "珂蕾妲",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1111",
+      "name": "安东",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1121",
+      "name": "本",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1131",
+      "name": "苍角",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1141",
+      "name": "莱卡恩",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1151",
+      "name": "露西",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1161",
+      "name": "莱特",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1171",
+      "name": "柏妮思",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1181",
+      "name": "格莉丝",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1191",
+      "name": "艾莲",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1201",
+      "name": "悠真",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1211",
+      "name": "丽娜",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1221",
+      "name": "柳",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1241",
+      "name": "朱鸢",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1251",
+      "name": "青衣",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1261",
+      "name": "简",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1271",
+      "name": "赛斯",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1281",
+      "name": "派派",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1291",
+      "name": "雨果",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1301",
+      "name": "奥菲丝&「鬼火」",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1311",
+      "name": "耀嘉音",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1321",
+      "name": "伊芙琳",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1331",
+      "name": "薇薇安",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1341",
+      "name": "照",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1351",
+      "name": "波可娜",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1361",
+      "name": "「扳机」",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1371",
+      "name": "仪玄",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1381",
+      "name": "零号·安比",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1391",
+      "name": "橘福福",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1401",
+      "name": "爱丽丝",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1411",
+      "name": "柚叶",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 255,
+      "maxAlpha": 255,
+      "foregroundFillsFrame": true,
+      "note": "原立绘的伞面与人物填满方形裁切区域，非额外底色。"
+    },
+    {
+      "id": "zenless-characters-1421",
+      "name": "潘引壶",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1431",
+      "name": "叶瞬光",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1441",
+      "name": "真斗",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1451",
+      "name": "卢西娅",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1461",
+      "name": "「席德」",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1471",
+      "name": "般岳",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1481",
+      "name": "琉音",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1491",
+      "name": "千夏",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1501",
+      "name": "爱芮",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1511",
+      "name": "南宫羽",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1521",
+      "name": "希希芙",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1531",
+      "name": "星徽·比利",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1541",
+      "name": "普罗米娅",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1551",
+      "name": "佩洛伊斯",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1561",
+      "name": "维琳娜",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1571",
+      "name": "诺姆",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1581",
+      "name": "蕾米埃尔",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1591",
+      "name": "希格莉德",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1611",
+      "name": "克拉蕾",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    },
+    {
+      "id": "zenless-characters-1621",
+      "name": "洛克茜",
+      "width": 384,
+      "height": 384,
+      "minAlpha": 0,
+      "maxAlpha": 255
+    }
+  ]
+}

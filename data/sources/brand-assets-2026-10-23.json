@@ -1,0 +1,31 @@
+{
+  "updatedAt": "2026-10-23",
+  "records": [
+    {
+      "game": "genshin",
+      "type": "cover",
+      "sourceType": "user-provided",
+      "sourceFile": "codex-clipboard-152296d9-4700-4783-84fe-0bb83fe3353d.png",
+      "userSelected": true,
+      "original": "/assets/genshin/branding/cover-2026-10-23.png",
+      "image": "/assets/genshin/branding/cover-2026-10-23.png",
+      "dimensions": [3840, 2160],
+      "sourceBytes": 9141353,
+      "bytes": 9141353,
+      "processing": "none"
+    },
+    {
+      "game": "zenless",
+      "type": "cover",
+      "sourceType": "user-provided",
+      "sourceFile": "codex-clipboard-399ef595-a339-47db-8e17-93b862f024f0.png",
+      "userSelected": true,
+      "original": "/assets/zenless/branding/cover-2026-10-23.png",
+      "image": "/assets/zenless/branding/cover-2026-10-23.png",
+      "dimensions": [3600, 1821],
+      "sourceBytes": 6033510,
+      "bytes": 6033510,
+      "processing": "none"
+    }
+  ]
+}

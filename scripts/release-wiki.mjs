@@ -10,6 +10,7 @@ import { applyUpdate } from '../lib/release-install.mjs';
 import { buildArtworkIndex } from './build-artwork-index.mjs';
 import { syncNativeData } from '../modules/character-assessment/vendor/sync-native-data.mjs';
 import { createInstallerBundle, repackInstaller } from './update-installer/build.mjs';
+import { buildContentRelease } from './content-release.mjs';
 
 const projectRoot = fileURLToPath(new URL('../', import.meta.url));
 const GENERATED = ['public/character-artwork-index.json', 'modules/character-assessment/core/calculator.mjs', 'modules/character-assessment/core/catalog.json', 'modules/character-assessment/core/game-stats.json', 'modules/character-assessment/core/zh.json'];
@@ -226,7 +227,7 @@ async function generate(root, snapshot, rows, config, previous, options) {
   }
   syncNativeData({ sourceDirectory: source, outputDirectory: core, wikiEntries: rows.map(row => row.payload).filter(entry => entry.game === 'genshin') });
 }
-export async function buildRelease({ root = projectRoot, kind = 'content', version, from, full = false, publish = false, testFixture = false } = {}) {
+export async function buildRelease({ root = projectRoot, kind = 'content', version, from, full = false, publish = false, testFixture = false, withContent = false, contentNotes = '公共百科资料更新。' } = {}) {
   root = path.resolve(root);
   return publisherOperation(root, async () => {
     if (!['full', 'fix', 'content', 'feature'].includes(kind)) throw Error('发布类别须为 full、fix、content 或 feature。');
@@ -250,6 +251,9 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
     const temporary = path.join(root, '.codex_tmp', 'release-' + draftId), snapshot = path.join(temporary, 'snapshot');
     fs.mkdirSync(snapshot, { recursive: true });
     const outputs = [];
+    const contentLatest = path.join(root, '.release-manager/content/latest-built.json');
+    const previousContent = withContent && fs.existsSync(contentLatest) ? fs.readFileSync(contentLatest) : null;
+    let contentBuild;
     try {
       const rows = exportPublic(path.join(root, 'data/library/wiki.sqlite'));
       console.log(`采集当前公共内容：${rows.length} 条；发布 ${version} / ${id}。`);
@@ -274,6 +278,12 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
       const commit = git(root, ['-c', 'user.name=Wiki local publisher', '-c', 'user.email=publisher@wiki.local', 'commit-tree', tree, ...(previous ? ['-p', previous.commit] : [])], undefined, `Wiki ${version} / ${id} (${kind})\n`).toString().trim();
       git(root, ['update-ref', 'refs/drafts/' + draftId, commit]);
       const record = { release, commit }, summary = {};
+      if (withContent) {
+        console.log('生成独立资料更新，并登记本次软件草稿兼容基准…');
+        contentBuild = summary.content = await buildContentRelease({ root, pendingRelease: record, notes: contentNotes });
+        if (contentBuild.archive) outputs.push(contentBuild.archive);
+        verifySources(root, snapshot, sourceMap, rows, config);
+      }
       function outputName(label) {
         const proposed = config.outputDirectory ? inside(root, `${config.outputDirectory}/${label}.zip`) : path.join(root, label + '.zip');
         fs.mkdirSync(path.dirname(proposed), { recursive: true });
@@ -297,6 +307,12 @@ export async function buildRelease({ root = projectRoot, kind = 'content', versi
       return draft;
     } catch (error) {
       for (const output of outputs) if (fs.existsSync(output)) fs.unlinkSync(output);
+      if (contentBuild?.archive) {
+        if (previousContent) writeAtomic(contentLatest, previousContent);
+        else if (fs.existsSync(contentLatest)) fs.unlinkSync(contentLatest);
+        const history = path.join(root, '.release-manager/content/history', contentBuild.revision + '.json');
+        if (fs.existsSync(history)) fs.unlinkSync(history);
+      }
       throw error;
     } finally { fs.rmSync(temporary, { recursive: true }); }
   });
@@ -361,7 +377,7 @@ export async function localRollback(root = projectRoot, { confirm = false } = {}
 async function main() {
   const [action, ...arguments_] = process.argv.slice(2);
   const value = name => arguments_.find(argument => argument.startsWith('--' + name + '='))?.slice(name.length + 3);
-  if (action === 'build') await buildRelease({ kind: value('kind'), version: value('version'), from: value('from'), full: arguments_.includes('--full'), publish: arguments_.includes('--publish') });
+  if (action === 'build') await buildRelease({ kind: value('kind'), version: value('version'), from: value('from'), full: arguments_.includes('--full'), publish: arguments_.includes('--publish'), withContent: arguments_.includes('--with-content'), contentNotes: value('content-notes-file') ? fs.readFileSync(path.resolve(value('content-notes-file')), 'utf8') : undefined });
   else if (action === 'publish') await publisherOperation(projectRoot, () => publishDraft(projectRoot, value('draft')));
   else if (action === 'repack-installer') console.log(await publisherOperation(projectRoot, () => repackInstaller(projectRoot, value('package'))));
   else if (action === 'list') console.log(JSON.stringify(stateOf(projectRoot).releases.map(record => ({ ...record.release, packages: record.outputs })), null, 2));

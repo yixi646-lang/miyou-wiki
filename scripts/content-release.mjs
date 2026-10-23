@@ -14,7 +14,7 @@ function command(executable, args, options = {}) {
   if (result.error || result.status !== 0) throw Error(result.error?.message ?? result.stderr?.toString() ?? '资料打包失败。');
   return result.stdout;
 }
-export async function buildContentRelease({ root = project, revision = 'D' + new Date().toISOString().replace(/\D/g, '').slice(0, 14), outputDirectory, notes = '公共百科资料更新。' } = {}) {
+export async function buildContentRelease({ root = project, revision = 'D' + new Date().toISOString().replace(/\D/g, '').slice(0, 14), outputDirectory, notes = '公共百科资料更新。', pendingRelease } = {}) {
   root = path.resolve(root);
   if (!contentRevision(revision)) throw Error('资料批次格式为 D 加14位UTC时间。');
   const config = readJSON(inside(root, 'release-config.json'));
@@ -22,6 +22,11 @@ export async function buildContentRelease({ root = project, revision = 'D' + new
   const state = readJSON(inside(root, '.release-manager/state.json'));
   const baselineId = config.content.baseline ?? 'R000008';
   const releases = state.releases.filter(item => item.release.releaseId >= baselineId);
+  if (pendingRelease) {
+    const expected = 'R' + String(Number(state.releases.at(-1).release.releaseId.slice(1)) + 1).padStart(6, '0');
+    if (pendingRelease.release.releaseId !== expected || !/^[a-f0-9]{40}$/.test(pendingRelease.commit)) throw Error('联合发布的软件草稿基准无效。');
+    releases.push(pendingRelease);
+  }
   const baseline = releases[0];
   if (!baseline || baseline.release.releaseId !== baselineId) throw Error('缺少1.2.2资料发布基准。');
   const git = args => command(process.env.WIKI_GIT ?? 'git', ['--git-dir=' + path.join(root, '.release-manager/repository.git'), ...args]);
