@@ -1,6 +1,6 @@
 # 原神、星铁、绝区零百科
 
-[![三游戏百科首页](docs/images/home-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/home-1.3.0.jpg)
+<a><img src="docs/images/home-1.3.0.jpg" alt="三游戏百科首页" width="100%"></a>
 
 原神、崩坏：星穹铁道、绝区零的 Windows 本地资料百科。查角色、装备、技能、材料和历史卡池，也能检索机制术语、查看关键日期。
 
@@ -22,13 +22,16 @@
 
 ## 界面预览
 
-**机制与术语**：按主题、关联角色和属性查看已收录解释，可直接进入关联资料。
-
-[![机制与术语](docs/images/mechanisms-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/mechanisms-1.3.0.jpg)
-
-**关键日期**：查看版本更新、前瞻直播与下半开启；未公布节点标为预计，可查看推算依据。
-
-[![关键日期](docs/images/key-dates-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/key-dates-1.3.0.jpg)
+<table>
+<tr>
+<td width="50%" valign="top"><strong>机制与术语</strong><br><a><img src="docs/images/mechanisms-1.3.0.jpg" alt="机制与术语：按主题、关联角色和属性检索" width="100%"></a></td>
+<td width="50%" valign="top"><strong>关键日期</strong><br><a><img src="docs/images/key-dates-1.3.0.jpg" alt="关键日期：版本更新、前瞻直播与下半开启" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>原神养成评价</strong><br><a><img src="docs/images/character-assessment-1.3.0.jpg" alt="原神养成评价：角色配装、词条评价与非战斗面板" width="100%"></a></td>
+<td width="50%" valign="top"><strong>原神伤害计算</strong><br><a><img src="docs/images/team-damage-1.3.0.jpg" alt="原神队伍伤害计算：伤害、治疗与计算过程" width="100%"></a></td>
+</tr>
+</table>
 
 ## 下载与启动
 
@@ -121,19 +124,15 @@ node --disable-warning=ExperimentalWarning scripts/content-release.mjs --upload
 
 各第三方组件按各自许可使用；游戏素材不因第三方代码许可而改变权利归属。
 
-<details>
-<summary>更多界面</summary>
+## 更多界面
 
-**角色图鉴**：查看角色资料，按稀有度、命途、属性和版本筛选。
-
-[![角色图鉴](docs/images/character-catalog-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/character-catalog-1.3.0.jpg)
-
-**角色立绘展示**：查看本地主立绘及已收录的扩展形态、皮肤。
-
-[![角色立绘展示](docs/images/artwork-gallery-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/artwork-gallery-1.3.0.jpg)
-
-**历史卡池**：按卡池类型、安排和版本查阅记录，查看进行中的卡池与UP统计。
-
-[![历史卡池](docs/images/banner-history-1.3.0.jpg)](https://raw.githubusercontent.com/yixi646-lang/miyou-wiki/main/docs/images/banner-history-1.3.0.jpg)
-
-</details>
+<table>
+<tr>
+<td width="50%" valign="top"><strong>角色图鉴</strong><br><a><img src="docs/images/character-catalog-1.3.0.jpg" alt="角色图鉴与多项筛选" width="100%"></a></td>
+<td width="50%" valign="top"><strong>角色立绘展示</strong><br><a><img src="docs/images/artwork-gallery-1.3.0.jpg" alt="本地角色立绘、扩展形态与皮肤" width="100%"></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>历史卡池</strong><br><a><img src="docs/images/banner-history-1.3.0.jpg" alt="历史卡池与UP记录" width="100%"></a></td>
+<td width="50%" valign="top"><strong>原神队伍配装</strong><br><a><img src="docs/images/team-loadouts-1.3.0.jpg" alt="原神队伍装备与配装对比" width="100%"></a></td>
+</tr>
+</table>
