@@ -1,6 +1,6 @@
 # 原神、星铁、绝区零百科
 
-<a><img src="docs/images/home-1.3.0.jpg" alt="三游戏百科首页" width="100%"></a>
+<a name="preview-home-1-3-0-jpg" href="#preview-home-1-3-0-jpg"><img src="docs/images/home-1.3.0.jpg" alt="三游戏百科首页" width="100%"></a>
 
 原神、崩坏：星穹铁道、绝区零的 Windows 本地资料百科。查角色、装备、技能、材料和历史卡池，也能检索机制术语、查看关键日期。
 
@@ -24,12 +24,12 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><strong>机制与术语</strong><br><a><img src="docs/images/mechanisms-1.3.0.jpg" alt="机制与术语：按主题、关联角色和属性检索" width="100%"></a></td>
-<td width="50%" valign="top"><strong>关键日期</strong><br><a><img src="docs/images/key-dates-1.3.0.jpg" alt="关键日期：版本更新、前瞻直播与下半开启" width="100%"></a></td>
+<td width="50%" valign="top"><strong>机制与术语</strong><br><a name="preview-mechanisms-1-3-0-jpg" href="#preview-mechanisms-1-3-0-jpg"><img src="docs/images/mechanisms-1.3.0.jpg" alt="机制与术语：按主题、关联角色和属性检索" width="100%"></a></td>
+<td width="50%" valign="top"><strong>关键日期</strong><br><a name="preview-key-dates-1-3-0-jpg" href="#preview-key-dates-1-3-0-jpg"><img src="docs/images/key-dates-1.3.0.jpg" alt="关键日期：版本更新、前瞻直播与下半开启" width="100%"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>原神养成评价</strong><br><a><img src="docs/images/character-assessment-1.3.0.jpg" alt="原神养成评价：角色配装、词条评价与非战斗面板" width="100%"></a></td>
-<td width="50%" valign="top"><strong>原神伤害计算</strong><br><a><img src="docs/images/team-damage-1.3.0.jpg" alt="原神队伍伤害计算：伤害、治疗与计算过程" width="100%"></a></td>
+<td width="50%" valign="top"><strong>原神养成评价</strong><br><a name="preview-character-assessment-1-3-0-jpg" href="#preview-character-assessment-1-3-0-jpg"><img src="docs/images/character-assessment-1.3.0.jpg" alt="原神养成评价：角色配装、词条评价与非战斗面板" width="100%"></a></td>
+<td width="50%" valign="top"><strong>原神伤害计算</strong><br><a name="preview-team-damage-1-3-0-jpg" href="#preview-team-damage-1-3-0-jpg"><img src="docs/images/team-damage-1.3.0.jpg" alt="原神队伍伤害计算：伤害、治疗与计算过程" width="100%"></a></td>
 </tr>
 </table>
 
@@ -128,11 +128,11 @@ node --disable-warning=ExperimentalWarning scripts/content-release.mjs --upload
 
 <table>
 <tr>
-<td width="50%" valign="top"><strong>角色图鉴</strong><br><a><img src="docs/images/character-catalog-1.3.0.jpg" alt="角色图鉴与多项筛选" width="100%"></a></td>
-<td width="50%" valign="top"><strong>角色立绘展示</strong><br><a><img src="docs/images/artwork-gallery-1.3.0.jpg" alt="本地角色立绘、扩展形态与皮肤" width="100%"></a></td>
+<td width="50%" valign="top"><strong>角色图鉴</strong><br><a name="preview-character-catalog-1-3-0-jpg" href="#preview-character-catalog-1-3-0-jpg"><img src="docs/images/character-catalog-1.3.0.jpg" alt="角色图鉴与多项筛选" width="100%"></a></td>
+<td width="50%" valign="top"><strong>角色立绘展示</strong><br><a name="preview-artwork-gallery-1-3-0-jpg" href="#preview-artwork-gallery-1-3-0-jpg"><img src="docs/images/artwork-gallery-1.3.0.jpg" alt="本地角色立绘、扩展形态与皮肤" width="100%"></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><strong>历史卡池</strong><br><a><img src="docs/images/banner-history-1.3.0.jpg" alt="历史卡池与UP记录" width="100%"></a></td>
-<td width="50%" valign="top"><strong>原神队伍配装</strong><br><a><img src="docs/images/team-loadouts-1.3.0.jpg" alt="原神队伍装备与配装对比" width="100%"></a></td>
+<td width="50%" valign="top"><strong>历史卡池</strong><br><a name="preview-banner-history-1-3-0-jpg" href="#preview-banner-history-1-3-0-jpg"><img src="docs/images/banner-history-1.3.0.jpg" alt="历史卡池与UP记录" width="100%"></a></td>
+<td width="50%" valign="top"><strong>原神队伍配装</strong><br><a name="preview-team-loadouts-1-3-0-jpg" href="#preview-team-loadouts-1-3-0-jpg"><img src="docs/images/team-loadouts-1.3.0.jpg" alt="原神队伍装备与配装对比" width="100%"></a></td>
 </tr>
 </table>
