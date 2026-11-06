@@ -1,5 +1,11 @@
 import {travelerVariant} from './traveler.mjs';
 
+export function characterGrowthProfile(entry, data, element = '冰') {
+  if (entry?.category !== 'characters') return undefined;
+  const variant = travelerVariant(entry, element);
+  return data?.profiles?.[variant?.profileId ?? entry.id];
+}
+
 function orderMaterials(items, recipes, materials) {
   // 仅使用已收录的逐阶合成关系，将同一材料系列连在一起。
   const lower = new Map();
@@ -29,8 +35,7 @@ function orderMaterials(items, recipes, materials) {
 // 只派生材料种类；原始消耗、库存及养成计划保持在原资料中。
 export function characterMaterialGroups(entry, data = {}, element = '冰', resolveMaterial) {
   if (entry?.category !== 'characters') return [];
-  const variant = travelerVariant(entry, element);
-  const profile = data.profiles?.[variant?.profileId ?? entry.id];
+  const profile = characterGrowthProfile(entry, data, element);
   const groups = new Map();
   const resolve = resolveMaterial ?? (id => data.materials?.[id]);
   const add = (name, items) => {

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "game": "genshin",
-  "version": "7.1",
-  "fetchedAt": "2026-10-03T03:55:11.120Z",
+  "version": "7.2",
+  "fetchedAt": "2026-11-05T10:02:41.382Z",
   "profiles": {
     "genshin-characters-10000005-火": {
       "id": "genshin-characters-10000005-火",
@@ -155557,6 +155557,1680 @@
         352700,
         395775
       ]
+    },
+    "genshin-characters-10000136": {
+      "id": "genshin-characters-10000136",
+      "entryId": "genshin-characters-10000136",
+      "name": "米提亚",
+      "category": "characters",
+      "element": "雷",
+      "type": "法器",
+      "rarity": 5,
+      "minLevel": 1,
+      "maxLevel": 90,
+      "caps": [
+        20,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90
+      ],
+      "currencyId": "genshin-materials-202",
+      "currencyPerExp": 0.2,
+      "expItem": {
+        "id": "genshin-materials-104003",
+        "value": 20000
+      },
+      "xp": [
+        1000,
+        1325,
+        1700,
+        2150,
+        2625,
+        3150,
+        3725,
+        4350,
+        5000,
+        5700,
+        6450,
+        7225,
+        8050,
+        8925,
+        9825,
+        10750,
+        11725,
+        12725,
+        13775,
+        14875,
+        16800,
+        18000,
+        19250,
+        20550,
+        21875,
+        23250,
+        24650,
+        26100,
+        27575,
+        29100,
+        30650,
+        32250,
+        33875,
+        35550,
+        37250,
+        38975,
+        40750,
+        42575,
+        44425,
+        46300,
+        50625,
+        52700,
+        54775,
+        56900,
+        59075,
+        61275,
+        63525,
+        65800,
+        68125,
+        70475,
+        76500,
+        79050,
+        81650,
+        84275,
+        86950,
+        89650,
+        92400,
+        95175,
+        98000,
+        100875,
+        108950,
+        112050,
+        115175,
+        118325,
+        121525,
+        124775,
+        128075,
+        131400,
+        134775,
+        138175,
+        148700,
+        152375,
+        156075,
+        159825,
+        163600,
+        167425,
+        171300,
+        175225,
+        179175,
+        183175,
+        216225,
+        243025,
+        273100,
+        306800,
+        344600,
+        386950,
+        434425,
+        487625,
+        547200
+      ],
+      "ascensions": [
+        [
+          {
+            "id": "genshin-materials-104141",
+            "count": 1
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-112149",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 20000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104142",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-113093",
+            "count": 2
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 10
+          },
+          {
+            "id": "genshin-materials-112149",
+            "count": 15
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 40000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104142",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113093",
+            "count": 4
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 20
+          },
+          {
+            "id": "genshin-materials-112150",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 60000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104143",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-113093",
+            "count": 8
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 30
+          },
+          {
+            "id": "genshin-materials-112150",
+            "count": 18
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 80000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104143",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113093",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 45
+          },
+          {
+            "id": "genshin-materials-112151",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 100000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104144",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113093",
+            "count": 20
+          },
+          {
+            "id": "genshin-materials-101274",
+            "count": 60
+          },
+          {
+            "id": "genshin-materials-112151",
+            "count": 24
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 120000
+          }
+        ]
+      ],
+      "tracks": [
+        {
+          "id": "talent-0",
+          "name": "链式反应",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104365",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112149",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        },
+        {
+          "id": "talent-1",
+          "name": "律定·变量侦测",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104365",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112149",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        },
+        {
+          "id": "talent-2",
+          "name": "解析·递变之理",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104365",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112149",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104366",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112150",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104367",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112151",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113081",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nanoka · 原神 7.2 正式版养成数据",
+          "url": "https://static.nanoka.cc/gi/7.2/zh/character/10000136.json"
+        }
+      ]
+    },
+    "genshin-characters-10000137": {
+      "id": "genshin-characters-10000137",
+      "entryId": "genshin-characters-10000137",
+      "name": "瓦列里",
+      "category": "characters",
+      "element": "雷",
+      "type": "单手剑",
+      "rarity": 4,
+      "minLevel": 1,
+      "maxLevel": 90,
+      "caps": [
+        20,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90
+      ],
+      "currencyId": "genshin-materials-202",
+      "currencyPerExp": 0.2,
+      "expItem": {
+        "id": "genshin-materials-104003",
+        "value": 20000
+      },
+      "xp": [
+        1000,
+        1325,
+        1700,
+        2150,
+        2625,
+        3150,
+        3725,
+        4350,
+        5000,
+        5700,
+        6450,
+        7225,
+        8050,
+        8925,
+        9825,
+        10750,
+        11725,
+        12725,
+        13775,
+        14875,
+        16800,
+        18000,
+        19250,
+        20550,
+        21875,
+        23250,
+        24650,
+        26100,
+        27575,
+        29100,
+        30650,
+        32250,
+        33875,
+        35550,
+        37250,
+        38975,
+        40750,
+        42575,
+        44425,
+        46300,
+        50625,
+        52700,
+        54775,
+        56900,
+        59075,
+        61275,
+        63525,
+        65800,
+        68125,
+        70475,
+        76500,
+        79050,
+        81650,
+        84275,
+        86950,
+        89650,
+        92400,
+        95175,
+        98000,
+        100875,
+        108950,
+        112050,
+        115175,
+        118325,
+        121525,
+        124775,
+        128075,
+        131400,
+        134775,
+        138175,
+        148700,
+        152375,
+        156075,
+        159825,
+        163600,
+        167425,
+        171300,
+        175225,
+        179175,
+        183175,
+        216225,
+        243025,
+        273100,
+        306800,
+        344600,
+        386950,
+        434425,
+        487625,
+        547200
+      ],
+      "ascensions": [
+        [
+          {
+            "id": "genshin-materials-104141",
+            "count": 1
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-112146",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 20000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104142",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-113091",
+            "count": 2
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 10
+          },
+          {
+            "id": "genshin-materials-112146",
+            "count": 15
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 40000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104142",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113091",
+            "count": 4
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 20
+          },
+          {
+            "id": "genshin-materials-112147",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 60000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104143",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-113091",
+            "count": 8
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 30
+          },
+          {
+            "id": "genshin-materials-112147",
+            "count": 18
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 80000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104143",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113091",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 45
+          },
+          {
+            "id": "genshin-materials-112148",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 100000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-104144",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-113091",
+            "count": 20
+          },
+          {
+            "id": "genshin-materials-101273",
+            "count": 60
+          },
+          {
+            "id": "genshin-materials-112148",
+            "count": 24
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 120000
+          }
+        ]
+      ],
+      "tracks": [
+        {
+          "id": "talent-0",
+          "name": "近卫战法·盾剑攻斥",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104371",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112146",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        },
+        {
+          "id": "talent-1",
+          "name": "攻势防御·堡垒骤进",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104371",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112146",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        },
+        {
+          "id": "talent-2",
+          "name": "火力焦点·雷霰急袭",
+          "group": "天赋",
+          "min": 1,
+          "max": 10,
+          "steps": [
+            [
+              {
+                "id": "genshin-materials-104371",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-112146",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 12500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 3
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 17500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 30000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104372",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-112147",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 37500
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 4
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 120000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 6
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 260000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 9
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 450000
+              }
+            ],
+            [
+              {
+                "id": "genshin-materials-104373",
+                "count": 16
+              },
+              {
+                "id": "genshin-materials-112148",
+                "count": 12
+              },
+              {
+                "id": "genshin-materials-113087",
+                "count": 2
+              },
+              {
+                "id": "genshin-materials-104319",
+                "count": 1
+              },
+              {
+                "id": "genshin-materials-202",
+                "count": 700000
+              }
+            ]
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Nanoka · 原神 7.2 正式版养成数据",
+          "url": "https://static.nanoka.cc/gi/7.2/zh/character/10000137.json"
+        }
+      ]
+    },
+    "genshin-weapons-14525": {
+      "id": "genshin-weapons-14525",
+      "entryId": "genshin-weapons-14525",
+      "name": "秘星典谕",
+      "category": "weapons",
+      "element": null,
+      "type": "法器",
+      "rarity": 5,
+      "minLevel": 1,
+      "maxLevel": 90,
+      "caps": [
+        20,
+        40,
+        50,
+        60,
+        70,
+        80,
+        90
+      ],
+      "currencyId": "genshin-materials-202",
+      "currencyPerExp": 0.1,
+      "expItem": {
+        "id": "genshin-materials-104013",
+        "value": 10000
+      },
+      "xp": [
+        600,
+        950,
+        1350,
+        1800,
+        2325,
+        2925,
+        3525,
+        4200,
+        4950,
+        5700,
+        6525,
+        7400,
+        8300,
+        9225,
+        10200,
+        11250,
+        12300,
+        13425,
+        14600,
+        15750,
+        17850,
+        19175,
+        20550,
+        21975,
+        23450,
+        24950,
+        26475,
+        28050,
+        29675,
+        31350,
+        33050,
+        34800,
+        36575,
+        38400,
+        40250,
+        42150,
+        44100,
+        46100,
+        48125,
+        50150,
+        54875,
+        57125,
+        59400,
+        61725,
+        64100,
+        66500,
+        68925,
+        71400,
+        73950,
+        76500,
+        83075,
+        85850,
+        88650,
+        91550,
+        94425,
+        97400,
+        100350,
+        103400,
+        106475,
+        109575,
+        118350,
+        121700,
+        125100,
+        128550,
+        132050,
+        135575,
+        139125,
+        142725,
+        146375,
+        150075,
+        161525,
+        165500,
+        169500,
+        173550,
+        177650,
+        181800,
+        186000,
+        190250,
+        194525,
+        198875,
+        234725,
+        263825,
+        296400,
+        332975,
+        373950,
+        419925,
+        471375,
+        529050,
+        593675
+      ],
+      "ascensions": [
+        [
+          {
+            "id": "genshin-materials-114093",
+            "count": 5
+          },
+          {
+            "id": "genshin-materials-112158",
+            "count": 5
+          },
+          {
+            "id": "genshin-materials-112146",
+            "count": 3
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 10000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-114094",
+            "count": 5
+          },
+          {
+            "id": "genshin-materials-112158",
+            "count": 18
+          },
+          {
+            "id": "genshin-materials-112146",
+            "count": 12
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 20000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-114094",
+            "count": 9
+          },
+          {
+            "id": "genshin-materials-112159",
+            "count": 9
+          },
+          {
+            "id": "genshin-materials-112147",
+            "count": 9
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 30000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-114095",
+            "count": 5
+          },
+          {
+            "id": "genshin-materials-112159",
+            "count": 18
+          },
+          {
+            "id": "genshin-materials-112147",
+            "count": 14
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 45000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-114095",
+            "count": 9
+          },
+          {
+            "id": "genshin-materials-112160",
+            "count": 14
+          },
+          {
+            "id": "genshin-materials-112148",
+            "count": 9
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 55000
+          }
+        ],
+        [
+          {
+            "id": "genshin-materials-114096",
+            "count": 6
+          },
+          {
+            "id": "genshin-materials-112160",
+            "count": 27
+          },
+          {
+            "id": "genshin-materials-112148",
+            "count": 18
+          },
+          {
+            "id": "genshin-materials-202",
+            "count": 65000
+          }
+        ]
+      ],
+      "tracks": [],
+      "sources": [
+        {
+          "name": "Nanoka · 原神 7.2 正式版养成数据",
+          "url": "https://static.nanoka.cc/gi/7.2/zh/weapon/14525.json"
+        }
+      ]
     }
   },
   "materials": {
@@ -160275,6 +161949,60 @@
       "purposes": [
         "装备突破"
       ]
+    },
+    "genshin-materials-101273": {
+      "id": "genshin-materials-101273",
+      "name": "妖精绿艾",
+      "rarity": 1,
+      "image": "/assets/genshin/materials/101273.png",
+      "purposes": [
+        "角色突破"
+      ]
+    },
+    "genshin-materials-101274": {
+      "id": "genshin-materials-101274",
+      "name": "析晶褶伞",
+      "rarity": 1,
+      "image": "/assets/genshin/materials/101274.png",
+      "purposes": [
+        "角色突破"
+      ]
+    },
+    "genshin-materials-113093": {
+      "id": "genshin-materials-113093",
+      "name": "破碎的稳定锚",
+      "rarity": 4,
+      "image": "/assets/genshin/materials/113093.webp",
+      "purposes": [
+        "角色突破"
+      ]
+    },
+    "genshin-materials-112158": {
+      "id": "genshin-materials-112158",
+      "name": "雪结片心",
+      "rarity": 2,
+      "image": "/assets/genshin/materials/112158.webp",
+      "purposes": [
+        "装备突破"
+      ]
+    },
+    "genshin-materials-112159": {
+      "id": "genshin-materials-112159",
+      "name": "雪结镜心",
+      "rarity": 3,
+      "image": "/assets/genshin/materials/112159.webp",
+      "purposes": [
+        "装备突破"
+      ]
+    },
+    "genshin-materials-112160": {
+      "id": "genshin-materials-112160",
+      "name": "雪结无明心",
+      "rarity": 4,
+      "image": "/assets/genshin/materials/112160.webp",
+      "purposes": [
+        "装备突破"
+      ]
     }
   },
   "notes": [
@@ -164702,6 +166430,42 @@
       "source": {
         "name": "genshin-db · 合成配方",
         "url": {}
+      }
+    },
+    "genshin-materials-112159": {
+      "id": "genshin-materials-112159",
+      "outputCount": 1,
+      "inputs": [
+        {
+          "id": "genshin-materials-112158",
+          "count": 3
+        }
+      ],
+      "currency": {
+        "id": "genshin-materials-202",
+        "count": 50
+      },
+      "source": {
+        "name": "genshin-db · 合成配方",
+        "url": "https://github.com/theBowja/genshin-db-dist/tree/db37a96e1dac3f56d0e6f015c4ff4f87c25577cd"
+      }
+    },
+    "genshin-materials-112160": {
+      "id": "genshin-materials-112160",
+      "outputCount": 1,
+      "inputs": [
+        {
+          "id": "genshin-materials-112159",
+          "count": 3
+        }
+      ],
+      "currency": {
+        "id": "genshin-materials-202",
+        "count": 125
+      },
+      "source": {
+        "name": "genshin-db · 合成配方",
+        "url": "https://github.com/theBowja/genshin-db-dist/tree/db37a96e1dac3f56d0e6f015c4ff4f87c25577cd"
       }
     }
   },

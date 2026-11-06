@@ -251,6 +251,35 @@ test('下载很快而页面未读到安装状态时，服务重启仍能恢复�
   await tick(); assert.equal(reloaded, true);
 });
 
+test('更新红点点击即清除，刷新和同一发布不重复亮起，新软件或资料重新提醒', async () => {
+  const stored = new Map();
+  const localStorage = { getItem: key => stored.get(key) ?? null, setItem: (key, value) => stored.set(key, value) };
+  let software = { pid:1, channel:'software', current, latest:{ key:'software-1', version:'1.2.2' }, available:true, preferences:{ autoCheck:false }, github:'https://example.test' };
+  let content = { ...software, channel:'content', latest:{ key:'content-1', version:'D20261024000000' } };
+  async function mount() {
+    const element = () => ({ open:false, innerHTML:'', handlers:{}, classes:new Set(), setAttribute(){}, querySelectorAll(){return [];}, addEventListener(name,handler){this.handlers[name]=handler;}, showModal(){this.open=true;}, close(){this.open=false;}, focus(){}, get classList(){return {toggle:(name,on)=>on?this.classes.add(name):this.classes.delete(name)};} });
+    const trigger=element(), children=[];
+    await mountOnlineUpdates({ document:{getElementById:()=>trigger,createElement:element,body:{append:item=>children.push(item)}}, window:{localStorage,setInterval(){return 1;},clearInterval(){},addEventListener(){}}, toast:message=>assert.fail(message), api:async route=>{
+      if(route==='content-status')return {versions:{}};
+      if(route.endsWith('/check'))return {...software,channels:{software,content}};
+      return structuredClone(route==='updates/status'?software:content);
+    }});
+    const dialog=children[0];
+    return {trigger,dialog,hasDot:()=>trigger.classes.has('has-update'),check:()=>dialog.handlers.click({currentTarget:dialog,target:{dataset:{update:'check'},closest:selector=>selector==='[data-update]'?{dataset:{update:'check'}}:null}})};
+  }
+  let page=await mount(); assert.equal(page.hasDot(),true);
+  page.trigger.handlers.click(); assert.equal(page.hasDot(),false);
+  await page.check(); assert.equal(page.hasDot(),false);
+  page=await mount(); assert.equal(page.hasDot(),false);
+  page.trigger.handlers.click();
+  software={...software,latest:{key:'software-2',version:'1.2.3'}};
+  await page.check(); assert.equal(page.hasDot(),true);
+  page.dialog.close(); page.trigger.handlers.click(); assert.equal(page.hasDot(),false);
+  content={...content,latest:{key:'content-2',version:'D20261025000000'}};
+  await page.check(); assert.equal(page.hasDot(),true);
+  page.dialog.close(); page.trigger.handlers.click(); assert.equal(page.hasDot(),false);
+});
+
 test('真实 ZIP 解压支持中文并拒绝路径越界', async () => {
   const root = await fixture();
   const require = createRequire(import.meta.url), { zipSync, strToU8 } = require(path.join(project, '.release-manager/build-tools/node_modules/fflate'));

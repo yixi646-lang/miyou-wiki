@@ -284,7 +284,9 @@
     "zenless-characters-1631": "/assets/zenless/characters/1631.webp",
     "zenless-characters-1641": "/assets/zenless/characters/1641.webp",
     "zenless-artwork-belle": "/assets/zenless/artwork-skins/belle-skin-01.png",
-    "zenless-artwork-wise": "/assets/zenless/artwork-skins/wise-skin-01.png"
+    "zenless-artwork-wise": "/assets/zenless/artwork-skins/wise-skin-01.png",
+    "genshin-characters-10000136": "/assets/genshin/artwork/10000136.webp",
+    "genshin-characters-10000137": "/assets/genshin/artwork/10000137.webp"
   },
   "variants": {
     "genshin-characters-10000002": [

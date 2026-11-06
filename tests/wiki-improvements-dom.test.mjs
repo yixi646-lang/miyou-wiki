@@ -33,6 +33,63 @@ const entry = (id, name) => ({
   },
 });
 
+test('统一浮层外围关闭，内部空白和向外拖动不关闭，取消校验仍生效', options, async()=>{
+  const dom=await installDOM('<html><body><main><dialog open><input></dialog></main></body></html>');
+  const {installUIControls}=await import('../public/ui-controls.mjs');
+  const dialog=dom.document.querySelector('dialog'); let closed=0;
+  dialog.getBoundingClientRect=()=>({left:100,right:400,top:100,bottom:400});
+  dialog.close=()=>{closed++;dialog.removeAttribute('open');};
+  const emit=(node,type,x,y)=>node.dispatchEvent(Object.assign(new dom.window.Event(type,{bubbles:true,cancelable:true}),{clientX:x,clientY:y}));
+  try{
+    installUIControls(dom.document);
+    emit(dialog,'pointerdown',150,150);emit(dialog,'click',150,150);assert.equal(closed,0);
+    emit(dialog.querySelector('input'),'pointerdown',150,150);emit(dialog,'click',20,20);assert.equal(closed,0);
+    const veto=event=>event.preventDefault();dialog.addEventListener('cancel',veto);
+    emit(dialog,'pointerdown',20,20);emit(dialog,'click',20,20);assert.equal(closed,0);
+    dialog.removeEventListener('cancel',veto);
+    emit(dialog,'pointerdown',20,20);emit(dialog,'click',20,20);assert.equal(closed,1);
+  }finally{dom.restore();}
+});
+
+test('详情工具栏的返回与批量按钮同行，管理页复用标题行',options,async()=>{
+  const dom=await installDOM('<html><body><main><button class="detail-back">返回</button><article><details><summary>技能</summary>正文</details></article></main></body></html>');
+  const previous=globalThis.MutationObserver;globalThis.MutationObserver=class{observe(){}};
+  try{
+    const {installDisclosureControls}=await import('../public/disclosures.mjs');const host=dom.document.querySelector('main');
+    installDisclosureControls(host);
+    assert.equal(host.querySelector('.detail-back').parentElement,host.querySelector('[data-page-fold-controls]').parentElement);
+    assert.equal(host.firstElementChild.className,'page-toolbar');
+    host.innerHTML='<div class="heading"><h1>资料与备份</h1></div><section><details><summary>来源</summary></details></section>';
+    installDisclosureControls(host);
+    assert.equal(host.querySelector('[data-page-fold-controls]').parentElement,host.querySelector('.heading'));
+  }finally{if(previous===undefined)delete globalThis.MutationObserver;else globalThis.MutationObserver=previous;dom.restore();}
+});
+
+test('关键日期卡片切换游戏与恢复全部，保留其他筛选且不再打开节点详情',options,async()=>{
+  const dom=await installDOM(),oldFetch=globalThis.fetch,oldCSS=globalThis.CSS;
+  const {readFile}=await import('node:fs/promises');
+  const data=JSON.parse(await readFile(new URL('../public/key-dates-data.json',import.meta.url),'utf8'));
+  globalThis.fetch=async()=>Response.json(data);globalThis.CSS={escape:value=>value};
+  let mounted;
+  try{
+    const {mountKeyDates}=await import('../public/key-dates.mjs');
+    mounted=mountKeyDates({host:dom.document.querySelector('main'),loadCatalog:async()=>[],toast:message=>assert.fail(message)});await mounted.ready;
+    const q=selector=>dom.document.querySelector(selector),all=()=>[...dom.document.querySelectorAll('.game-pill')].map(node=>node.textContent);
+    const click=selector=>q(selector).dispatchEvent(new dom.window.Event('click',{bubbles:true}));
+    assert.equal(q('#game-filters'),null);assert.equal(dom.document.querySelectorAll('.next-card').length,3);
+    assert.equal(q('.page-header > [data-date-game="all"]').textContent,'全部游戏');
+    click('[data-kind="live"]');click('.next-card[data-date-game="genshin"]');
+    assert(all().length>0);assert(all().every(name=>name==='原神'));
+    assert.equal(q('.next-card[data-date-game="genshin"]').getAttribute('aria-pressed'),'true');
+    assert.equal(q('[data-kind="live"]').getAttribute('aria-pressed'),'true');assert.equal(q('#event-dialog').hasAttribute('open'),false);
+    click('.next-card[data-date-game="starrail"]');assert(all().every(name=>name==='星穹铁道'));
+    click('.page-header > [data-date-game="all"]');assert.equal(new Set(all()).size,3);
+    assert.equal(q('[data-kind="live"]').getAttribute('aria-pressed'),'true');
+    assert.equal(q('.page-header > [data-date-game="all"]').getAttribute('aria-pressed'),'true');
+    assert.equal(JSON.parse(localStorage.getItem('wiki-key-dates-view-v2')).selectedGame,'all');
+  }finally{mounted?.dispose();globalThis.fetch=oldFetch;if(oldCSS===undefined)delete globalThis.CSS;else globalThis.CSS=oldCSS;dom.restore();}
+});
+
 test('术语浮层组合筛选、中文输入、选择及离开清理保持正常', options, async () => {
   const dom = await installDOM();
   const { mountMechanisms, disposeMechanisms } = await import('../public/mechanisms.mjs');
@@ -103,8 +160,8 @@ test('术语浮层组合筛选、中文输入、选择及离开清理保持正�
   } finally { disposeMechanisms(); dom.restore(); }
 });
 
-test('版本范围折叠按钮跟随范围标题，仅控制内容', options, async () => {
-  const dom = await installDOM('<html><body><main><div class="version-returnee-heading"><h2>6.6 之后 → 7.1</h2><div data-page-fold-target></div></div><details id="content"><summary>版本</summary><p>内容</p></details><div data-disclosure-ignore><details id="filter"><summary>筛选</summary></details></div></main></body></html>');
+test('版本范围折叠按钮位于清空范围右侧，仅控制内容', options, async () => {
+  const dom = await installDOM('<html><body><main><div class="version-returnee-controls" data-disclosure-ignore><button id="archive-reset-range">清空范围</button><div data-page-fold-target></div></div><details id="content"><summary>剧情与任务</summary><p>内容</p></details><div data-disclosure-ignore><details id="filter"><summary>筛选</summary></details></div></main></body></html>');
   const previous = globalThis.MutationObserver;
   globalThis.MutationObserver = class { observe() {} };
   try {
@@ -112,6 +169,7 @@ test('版本范围折叠按钮跟随范围标题，仅控制内容', options, as
     installDisclosureControls(dom.document.querySelector('main'));
     const controls = dom.document.querySelector('[data-page-fold-controls]');
     assert.equal(controls.parentElement,dom.document.querySelector('[data-page-fold-target]'));
+    assert.equal(controls.parentElement.previousElementSibling.id,'archive-reset-range');
     assert.equal(controls.querySelector('span'),null);
     controls.querySelector('[data-fold="expand"]').dispatchEvent(new dom.window.Event('click',{bubbles:true}));
     assert.equal(dom.document.querySelector('#content').open,true);

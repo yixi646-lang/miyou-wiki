@@ -2,4 +2,7 @@
 .update-tabs{display:flex;gap:8px;padding:12px 22px 0}.update-tabs button{border:1px solid var(--line);border-radius:8px;padding:7px 13px;background:var(--surface);color:var(--ink)}.update-tabs button[aria-pressed="true"]{color:var(--accent);background:var(--accent-soft)}.update-versions strong{font-size:clamp(14px,3vw,23px);overflow-wrap:anywhere}.update-versions>span{min-width:0}
 .update-result{margin-top:16px;padding:12px;border:1px solid var(--line);border-radius:8px;overflow-wrap:anywhere}.update-result.is-success{background:var(--accent-soft)}.update-result.is-failed{border-color:#b45e50}.update-result strong,.update-result small{display:block}.update-result div{margin-top:5px}.update-result small{margin-top:8px;color:var(--muted)}
 .update-versions .update-content-versions{font-size:17px;line-height:1.8}
+:root .online-update-dialog .update-body>.update-check-message{padding:10px 12px;border:1px solid #ecd59d;border-radius:8px;background:#fff7e0;color:#93620e;font-weight:600}
+:root .online-update-dialog .update-body>.update-error{padding:10px 12px;border:1px solid #e8b7af;border-radius:8px;background:#fff1ee;color:#a83e32;font-weight:600}
+.update-reminder>strong{color:#93620e}
 .update-cooldown{margin:0;padding:0 22px 12px}@media(max-width:650px){.update-cooldown{padding-left:16px;padding-right:16px}}

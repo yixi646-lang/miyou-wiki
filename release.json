@@ -1,7 +1,7 @@
 {
-  "kind": "feature",
-  "publishedAt": "2026-10-23T14:47:20.869Z",
-  "releaseId": "R000011",
+  "kind": "fix",
+  "publishedAt": "2026-11-06T16:00:30.495Z",
+  "releaseId": "R000012",
   "schemaVersion": 1,
-  "version": "1.3.0"
+  "version": "1.3.1"
 }

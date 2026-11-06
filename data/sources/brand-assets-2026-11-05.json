@@ -1,0 +1,18 @@
+{
+  "updatedAt": "2026-11-05",
+  "records": [
+    {
+      "game": "starrail",
+      "type": "cover",
+      "sourceType": "user-provided",
+      "sourceFile": "codex-clipboard-04388f23-f11a-44f2-ad2d-d1b702db85a9.png",
+      "userSelected": true,
+      "original": "/assets/starrail/branding/cover-4.7-hd.png",
+      "image": "/assets/starrail/branding/cover-4.7-hd.png",
+      "dimensions": [5120, 2880],
+      "sourceBytes": 14038241,
+      "bytes": 14038241,
+      "processing": "none"
+    }
+  ]
+}

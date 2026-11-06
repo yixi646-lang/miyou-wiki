@@ -63,13 +63,21 @@ export async function buildContentRelease({ root = project, revision = 'D' + new
     }
     const names = new Set(config.content.files);
     for (const dir of config.content.directories) for (const name of listFiles(inside(root, dir))) names.add(dir + '/' + name);
-    const artwork = path.join(temporary, 'artwork.json');
-    await buildArtworkIndex({ rootDirectory: root, sourceEntries: rows.map(row => row.payload), outputPath: artwork });
-    names.add('public/character-artwork-index.json');
+    const artworkName = 'public/character-artwork-index.json';
+    let artworkBytes;
+    if (pendingRelease) {
+      // 联合发布复用软件快照中的字节，避免等价索引的序列化差异破坏资料基准。
+      artworkBytes = git(['show', `${pendingRelease.commit}:${artworkName}`]);
+    } else {
+      const artwork = path.join(temporary, 'artwork.json');
+      await buildArtworkIndex({ rootDirectory: root, sourceEntries: rows.map(row => row.payload), outputPath: artwork });
+      artworkBytes = fs.readFileSync(artwork);
+    }
+    names.add(artworkName);
     const files = [], targetFiles = [];
     for (const name of [...names].sort()) {
       contentPath(name);
-      const bytes = fs.readFileSync(name === 'public/character-artwork-index.json' ? artwork : inside(root, name));
+      const bytes = name === artworkName ? artworkBytes : fs.readFileSync(inside(root, name));
       const file = { path: name, size: bytes.length, hash: digest(bytes) }; targetFiles.push(file);
       const gitHash = gitDigest(bytes);
       if (sourceBases.some(base => base.files[name] !== gitHash) || [...(historicalFiles.get(name) ?? [])].some(hash => hash !== file.hash)) {

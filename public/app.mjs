@@ -11,6 +11,7 @@ import { createPageMemory, installScrollStability } from "./page-state.mjs";
 import { materialUsageHTML } from "./material-usage.mjs";
 import { materialAcquisitionHTML } from "./material-acquisition.mjs";
 import { characterMaterialsHTML } from "./character-materials.mjs";
+import { characterCalculatorHTML, bindCharacterCalculator } from "./character-calculator.mjs";
 import { characterMaterialGroups } from "/shared/character-materials.mjs";
 import {
   mountArtworkGallery,
@@ -596,12 +597,12 @@ function updateChrome() {
       .filter((key) => key !== "materials")
       .map(
         (key) =>
-          `<a class="nav ${!["home", "favorites", "manage", "artwork", "versions", "assessment", "search", "key-dates", "mechanisms"].includes(state.screen) && activeCategory === key ? "active" : ""}" href="/?game=${game}&category=${key}" title="${escape(key === "all" ? "全部资料" : categoryLabel(game, key))}">${icon(key === "characters" ? "user" : key === "banners" ? "book" : key === "weapons" ? "layer" : "grid")}<span class="nav-text">${escape(key === "all" ? "全部资料" : categoryLabel(game, key))}</span></a>`,
+          `<a class="nav ${!["home", "favorites", "manage", "artwork", "versions", "assessment", "search", "key-dates", "mechanisms"].includes(state.screen) && activeCategory === key ? "active" : ""}" href="/?game=${game}&category=${key}" title="${escape(key === "all" ? "全部资料" : categoryLabel(game, key))}">${icon({ characters: "user", weapons: "sword", sets: "layer", banners: "ticket" }[key] ?? "grid")}<span class="nav-text">${escape(key === "all" ? "全部资料" : categoryLabel(game, key))}</span></a>`,
       )
       .join("") +
-    `<a class="nav ${state.screen === "versions" ? "active" : ""}" href="/?game=${game}&screen=versions" title="版本档案">${icon("book")}<span class="nav-text">版本档案</span></a><a class="nav ${state.screen === "artwork" ? "active" : ""}" href="/?game=${game}&screen=artwork" title="角色立绘展示">${icon("grid")}<span class="nav-text">角色立绘展示</span></a>` +
+    `<a class="nav ${state.screen === "versions" ? "active" : ""}" href="/?game=${game}&screen=versions" title="版本档案">${icon("archive")}<span class="nav-text">版本档案</span></a><a class="nav ${state.screen === "artwork" ? "active" : ""}" href="/?game=${game}&screen=artwork" title="角色立绘展示">${icon("image")}<span class="nav-text">角色立绘展示</span></a>` +
     (game === "genshin"
-      ? `<a class="nav ${state.screen === "assessment" ? "active" : ""}" href="/?game=genshin&screen=assessment" title="养成与评估">${icon("layer")}<span class="nav-text">养成与评估</span></a>`
+      ? `<a class="nav ${state.screen === "assessment" ? "active" : ""}" href="/?game=genshin&screen=assessment" title="养成与评估">${icon("chart")}<span class="nav-text">养成与评估</span></a>`
       : "") +
     `<a class="nav ${state.screen === "mechanisms" ? "active" : ""}" href="/?game=${game}&screen=mechanisms" title="机制与术语">${icon("book")}<span class="nav-text">机制与术语</span></a>`;
   $("#key-dates-nav").href = `/?game=${game}&screen=key-dates`;
@@ -1067,20 +1068,7 @@ async function renderDetail() {
             (error) => ({ error: error.message }),
           )
         : null;
-    const materialInfo =
-      entry.category === "characters"
-        ? await api(
-            `character-materials/${encodeURIComponent(entry.id)}?element=${encodeURIComponent(state.travelerElement)}`,
-          ).catch((error) => ({
-            groups: characterMaterialGroups(
-              entry,
-              {},
-              state.travelerElement,
-              (id) => entries.find((item) => item.id === id),
-            ),
-            error: error.message,
-          }))
-        : null;
+    const hasCalculator = entry.category === "characters";
     if (generation !== detailGeneration || state.screen !== "detail") return;
     const details = entry.details ?? {},
       isBanner = entry.category === "banners";
@@ -1151,15 +1139,8 @@ async function renderDetail() {
       (details.parts?.length
         ? section("parts", "套装部件", setPartsHTML(details.parts, escape))
         : "") +
-      (materialInfo
-        ? section(
-            "materials",
-            "养成材料",
-            characterMaterialsHTML(materialInfo.groups, escape) +
-              (materialInfo.error
-                ? '<p class="table-note">完整养成材料暂时无法读取，请重新启动 Wiki 后刷新。</p>'
-                : ""),
-          )
+      (hasCalculator
+        ? section("materials", "养成计算", characterCalculatorHTML())
         : "") +
       acquisition +
       (entry.category === "materials"
@@ -1169,13 +1150,22 @@ async function renderDetail() {
       historyHTML(entry);
     const saveLabel = () =>
       icon("pin") + (favorites.has(entry.id) ? "已收藏" : "收藏条目");
-    content.innerHTML = `<button class="detail-back" data-action="back">${icon("back")}返回资料列表</button><div class="detail-layout"><article class="panel article"><div class="article-head ${artwork ? "article-head-with-artwork" : ""}">${isBanner ? "" : `<div class="detail-visual ${rarityClass(entry)}" style="${tile(entry.game)}">${entryImage(entry, true)}</div>`}<div class="article-title"><h1>${escape(entry.name)}</h1>${details.title ? `<div class="detail-subtitle">${escape(details.title)}</div>` : ""}${isBanner ? "" : `<div class="meta"><span>${escape(categoryLabel(entry.game, entry.category))}</span><span>${escape(rarityLabel(entry))}</span>${entry.element ? `<span class="element-meta">${elementBadge(entry)}${escape(entry.element)}</span>` : ""}</div>`}</div>${artwork}</div>${entry.category === "materials" ? (entry.releaseVersion || entry.releaseDate ? `<div class="release-strip">${entry.releaseVersion ? `<span><b>实装版本</b> ${escape(entry.releaseVersion)}</span>` : ""}${entry.releaseDate ? `<span><b>实装日期</b> ${escape(entry.releaseDate)}</span>` : ""}</div>` : "") : `<div class="release-strip"><span><b>实装版本</b> ${escape(entry.releaseVersion ?? "待确认")}</span><span><b>实装日期</b> ${escape(entry.releaseDate ?? "待确认")}</span></div>`}${details.summary ? `<p class="detail-summary">${escape(details.summary)}</p>` : ""}${body}</article><aside class="detail-aside"><div class="panel aside-panel toc"><h3>页面目录</h3>${[...body.matchAll(/<section id="([^"]+)"><h2>([^<]+)<\/h2>/g)].map(([, id, title]) => `<a href="#${id}">${title}</a>`).join("")}<hr class="aside-divider">${button("favorite", saveLabel(), `data-id="${entry.id}" aria-pressed="${favorites.has(entry.id)}"`)}${button("edit", "编辑条目", `data-id="${entry.id}"`)}</div></aside></div>`;
+    content.innerHTML = `<div class="page-toolbar"><button class="detail-back" data-action="back">${icon("back")}返回资料列表</button></div><div class="detail-layout"><article class="panel article"><div class="article-head ${artwork ? "article-head-with-artwork" : ""}">${isBanner ? "" : `<div class="detail-visual ${rarityClass(entry)}" style="${tile(entry.game)}">${entryImage(entry, true)}</div>`}<div class="article-title"><h1>${escape(entry.name)}</h1>${details.title ? `<div class="detail-subtitle">${escape(details.title)}</div>` : ""}${isBanner ? "" : `<div class="meta"><span>${escape(categoryLabel(entry.game, entry.category))}</span><span>${escape(rarityLabel(entry))}</span>${entry.element ? `<span class="element-meta">${elementBadge(entry)}${escape(entry.element)}</span>` : ""}</div>`}</div>${artwork}</div>${entry.category === "materials" ? (entry.releaseVersion || entry.releaseDate ? `<div class="release-strip">${entry.releaseVersion ? `<span><b>实装版本</b> ${escape(entry.releaseVersion)}</span>` : ""}${entry.releaseDate ? `<span><b>实装日期</b> ${escape(entry.releaseDate)}</span>` : ""}</div>` : "") : `<div class="release-strip"><span><b>实装版本</b> ${escape(entry.releaseVersion ?? "待确认")}</span><span><b>实装日期</b> ${escape(entry.releaseDate ?? "待确认")}</span></div>`}${details.summary ? `<p class="detail-summary">${escape(details.summary)}</p>` : ""}${body}</article><aside class="detail-aside"><div class="panel aside-panel toc"><h3>页面目录</h3>${[...body.matchAll(/<section id="([^"]+)"><h2>([^<]+)<\/h2>/g)].map(([, id, title]) => `<a href="#${id}">${title}</a>`).join("")}<hr class="aside-divider">${button("favorite", saveLabel(), `data-id="${entry.id}" aria-pressed="${favorites.has(entry.id)}"`)}${button("edit", "编辑条目", `data-id="${entry.id}"`)}</div></aside></div>`;
     if (entry.releaseDateBasis) {
       const note = document.createElement("div");
       note.className = "date-basis";
       note.textContent = entry.releaseDateBasis;
       content.querySelector(".release-strip").after(note);
     }
+    if (hasCalculator)
+      bindCharacterCalculator(content.querySelector("[data-character-calculator]"), {
+        entry, element: state.travelerElement, api, escape,
+        weaponEntries: entries.filter((item) => item.game === entry.game && item.category === "weapons"),
+        renderFallback: (element) => {
+          const groups = characterMaterialGroups(entry, {}, element, (id) => entries.find((item) => item.id === id));
+          return groups.length ? characterMaterialsHTML(groups, escape) : "";
+        },
+      });
     updateChrome();
   } catch (error) {
     if (generation !== detailGeneration) return;

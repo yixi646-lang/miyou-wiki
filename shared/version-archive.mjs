@@ -28,6 +28,15 @@ export function selectVersions(versions,{search='',major='',section='',direction
 export function returneeChanges(versions,since,until){
   return selectVersions(versions,{since,until}).map(v=>({...v,sections:v.sections.filter(s=>!['events','fixes','characters','equipment','outfits','collection','enemies'].includes(s.key)).map(s=>({...s,items:s.items.filter(i=>i.availability==='permanent'||(s.key==='systems'&&i.availability!=='limited'))})).filter(s=>s.items.length)})).filter(v=>v.sections.length);
 }
+export function returneeGroups(versions,since,until){
+  const groups=new Map();
+  for(const version of returneeChanges(versions,since,until))for(const section of version.sections){
+    if(!groups.has(section.key))groups.set(section.key,{key:section.key,label:VERSION_SECTIONS[section.key]??section.label,items:[]});
+    groups.get(section.key).items.push(...section.items.map(item=>({item,version:version.version,alias:version.alias,title:version.title})));
+  }
+  const order=Object.keys(VERSION_SECTIONS);
+  return [...groups.values()].sort((a,b)=>order.indexOf(a.key)-order.indexOf(b.key));
+}
 export function htmlLines(html){
   const named={nbsp:' ',amp:'&',lt:'<',gt:'>',quot:'"',apos:"'",middot:'·',bull:'•',hellip:'…',ge:'≥',le:'≤',mdash:'—',times:'×',rsquo:'’',lsquo:'‘',ldquo:'“',rdquo:'”'};
   return String(html??'').replace(/<(script|style)\b[^>]*>[\s\S]*?<\/\1>/gi,'').replace(/<(?:br|\/?p|\/?div|\/?h[1-6]|\/?li|\/?tr)\b[^>]*>/gi,'\n').replace(/<[^>]+>/g,'').replace(/&(#x[\da-f]+|#\d+|[a-z]+);/gi,(m,k)=>k[0]==='#'?String.fromCodePoint(Number(k[1]?.toLowerCase()==='x'?'0x'+k.slice(2):k.slice(1))):named[k.toLowerCase()]??m).split('\n').map(l=>l.replace(/[\u200b\ufeff]/g,'').trim()).filter(Boolean);

@@ -1,11 +1,235 @@
 {
   "schemaVersion": 1,
   "game": "genshin",
-  "updatedAt": "2026-10-04T08:48:55.838Z",
-  "sourceFetchedAt": "2026-10-04T05:26:30.212Z",
+  "updatedAt": "2026-11-05T10:02:41.382Z",
+  "sourceFetchedAt": "2026-11-05T10:02:41.382Z",
   "sourceBatch": "2026-10-04-4603c579",
   "scope": "档案用于快速了解主要剧情、地图、常驻玩法及重要系统变化；保留具体规则、开放条件与明确数值。新增角色、装备与套装仅关联已收录图鉴，卡池沿用实际记录。版本固定补偿、限时活动、问题修复及指定周期挑战不收录；完整公告保存在来源快照。",
   "versions": [
+    {
+      "version": "7.2",
+      "alias": null,
+      "title": "坏灭肇始之时",
+      "titleOriginal": "Hour of Ruin",
+      "releaseDate": "2026-11-04",
+      "dateBasis": "官方更新说明所列维护日期",
+      "maintenance": {
+        "start": "2026-11-04 06:00",
+        "timeZone": "UTC+8",
+        "estimatedHours": 5,
+        "end": null
+      },
+      "sections": [
+        {
+          "key": "story",
+          "label": "剧情与任务",
+          "items": [
+            {
+              "name": "第七章·第五幕「坏灭肇始之时」",
+              "group": "魔神任务",
+              "availability": "permanent",
+              "explanation": "支持任务专注模式。",
+              "requirements": [
+                "冒险等阶 ≥18",
+                "完成第七章·第四幕「往冥府的安魂歌」"
+              ]
+            },
+            {
+              "name": "第七章·第六幕「寄自彼岸的昨日」",
+              "group": "魔神任务",
+              "availability": "permanent",
+              "explanation": "支持任务专注模式。",
+              "requirements": [
+                "冒险等阶 ≥18",
+                "完成第七章·第五幕「坏灭肇始之时」"
+              ]
+            },
+            {
+              "name": "「晶流与石箱的古歌谣」系列任务",
+              "group": "世界任务",
+              "availability": "permanent",
+              "explanation": "完成后，如翼之峰东侧的影域消退，可自由编队探索。",
+              "requirements": [
+                "完成第七章·第一幕中的「沉寂之地的枪声」"
+              ]
+            },
+            {
+              "name": "酒瓶里的乌云",
+              "group": "世界任务",
+              "availability": "permanent",
+              "requirements": [
+                "完成第七章·第一幕中的「沉寂之地的枪声」"
+              ]
+            },
+            {
+              "name": "向肖像借一枚金币",
+              "group": "世界任务",
+              "availability": "permanent",
+              "requirements": [
+                "完成第七章·第一幕中的「沉寂之地的枪声」"
+              ]
+            }
+          ]
+        },
+        {
+          "key": "map",
+          "label": "地图与探索",
+          "items": [
+            {
+              "name": "新基捷城、如翼之峰",
+              "group": "至冬",
+              "availability": "permanent",
+              "explanation": "完成「沉寂之地的枪声」后解锁霜殛寒峰东北侧锚点，传送后解锁列车新轨道图。"
+            },
+            {
+              "name": "聚所·特普洛绿洲",
+              "group": "聚所",
+              "availability": "permanent",
+              "explanation": "共建后解锁聚所纪事。",
+              "requirements": [
+                "完成「唯沉默不受眷顾」与「绿洲旁的美丽假日」"
+              ]
+            },
+            {
+              "name": "聚所·皇家轨道运输局",
+              "group": "聚所",
+              "availability": "permanent",
+              "explanation": "共建后解锁聚所纪事。",
+              "requirements": [
+                "完成「唯沉默不受眷顾」「向晶矿之城而去」与「覆于尘与雪」"
+              ]
+            },
+            {
+              "name": "至冬魔神任务接取",
+              "group": "剧情入口",
+              "availability": "permanent",
+              "explanation": "冒险等阶达到 18 且已完成「巨龙与自由之歌」时，可由自动解锁的锚点前往至冬，直接接取第七章·第一幕。"
+            }
+          ]
+        },
+        {
+          "key": "gameplay",
+          "label": "玩法与挑战",
+          "items": [
+            {
+              "name": "冰宫密令·其二",
+              "group": "冰宫密令",
+              "availability": "permanent",
+              "explanation": "完成本章全部任务可领取风之翼、食谱等奖励。"
+            },
+            {
+              "name": "索斯卢科的灼炎、艾维萨缇的山狩",
+              "group": "第三人称射击",
+              "availability": "permanent",
+              "explanation": "两把新霰弹枪通过世界任务获得。"
+            },
+            {
+              "name": "绝境攻炼新增关卡",
+              "group": "第三人称射击",
+              "availability": "permanent",
+              "explanation": "新增交错锤砧、重兵固港与灾厄旧城。"
+            }
+          ]
+        },
+        {
+          "key": "systems",
+          "label": "系统与体验优化",
+          "items": [
+            {
+              "name": "特产追踪",
+              "group": "探索",
+              "availability": "permanent",
+              "explanation": "队内有对应地区的特产标记角色时，小地图优先显示当前追踪的特产。"
+            },
+            {
+              "name": "白冕宫站点",
+              "group": "列车",
+              "availability": "permanent",
+              "explanation": "完成「沉寂之地的枪声」后解锁，之后常驻在运行轨道图。"
+            },
+            {
+              "name": "臻冰造物",
+              "group": "探索",
+              "availability": "permanent",
+              "explanation": "批量删除上限从 100 提到 200，推送和接收可限好友。神像、协会、铁匠铺及聚所附近停止推送。"
+            },
+            {
+              "name": "向导笔记与地脉衍出",
+              "group": "界面",
+              "availability": "permanent",
+              "explanation": "向导笔记可按地区筛选，地图的地脉衍出侧栏可查看敌方详情。"
+            },
+            {
+              "name": "参量质变仪",
+              "group": "道具",
+              "availability": "permanent",
+              "explanation": "接收月之四至 7.2 新增的掉落物和采集物，产出池增加部分养成材料。"
+            },
+            {
+              "name": "第三人称射击操作",
+              "group": "战斗",
+              "availability": "permanent",
+              "explanation": "PC 与 PS5 支持 DualSense 自适应扳机；指定未解锁配件可从组装页跳转到获取位置。"
+            }
+          ]
+        },
+        {
+          "key": "enemies",
+          "label": "敌人与挑战对象",
+          "items": [
+            {
+              "name": "浪涛锚定者",
+              "group": "首领",
+              "availability": "permanent",
+              "explanation": "位于新基捷城。豪胆值满时进入高抗性的奋勇状态，雷伤可削减豪胆值。"
+            },
+            {
+              "name": "冰结镜映体",
+              "group": "无智的凝冰体",
+              "availability": "permanent",
+              "explanation": "受到星烁反应影响时，失去冰元素免疫与冰元素附着。"
+            },
+            {
+              "name": "嵌合蝎尾怪、嵌合鳄蹄兽",
+              "group": "异种合成魔兽",
+              "availability": "permanent",
+              "explanation": "部分行为可被星烁反应干扰。"
+            }
+          ]
+        },
+        {
+          "key": "collection",
+          "label": "收集与其他新增",
+          "items": [
+            {
+              "name": "新增食谱与特色料理",
+              "group": "烹饪",
+              "availability": "permanent",
+              "explanation": "探索和任务可得基捷鸡、鱼子酱布林饼、雪色夜曲的食谱，酸辣杂拌汤食谱由莎别夏出售。米提亚、瓦列里各有一道特色料理。"
+            }
+          ]
+        }
+      ],
+      "coverage": "official-notes",
+      "gaps": [
+        "下半已公布兹白、莉奈娅复刻及纳塔集录祈愿，待正式公告确认祈愿时段和完整名单。"
+      ],
+      "sourceRefs": [
+        {
+          "name": "官方更新说明",
+          "kind": "official",
+          "url": "https://ys.mihoyo.com/main/m/news/detail/167205",
+          "snapshot": "data/sources/version-archive/genshin-7.2-2026-11-05.json.gz",
+          "language": "zh-cn"
+        },
+        {
+          "name": "HoYoverse · 版本前瞻新闻稿",
+          "kind": "official",
+          "url": "https://www.gamespress.com/uk-UA/Genshin-Impact-Version-72-Arrives-on-November-4-as-Teyvats-Seven-Natio",
+          "language": "en"
+        }
+      ]
+    },
     {
       "version": "7.1",
       "alias": null,

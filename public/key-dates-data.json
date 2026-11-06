@@ -1,5 +1,5 @@
 {
-  "builtDate": "2026-10-21",
+  "builtDate": "2026-11-05",
   "timeZone": "Asia/Hong_Kong",
   "games": [
     {
@@ -7,21 +7,21 @@
       "name": "原神",
       "color": "#2e9278",
       "soft": "#eaf6f0",
-      "nextVersion": "7.2",
+      "nextVersion": "7.3",
       "lastMinor": 8,
-      "anchor": "2026-11-04",
-      "currentVersion": "7.1",
-      "currentStart": "2026-09-23",
+      "anchor": "2026-12-16",
+      "currentVersion": "7.2",
+      "currentStart": "2026-11-04",
       "cycle": 42,
       "phase": 20,
       "phaseTime": "18:00",
       "liveLead": 12,
       "liveTime": "20:00",
-      "basis": "以7.1版本2026-09-23维护开始日加42天，得到下一次更新基准；后续按同一周期顺推。",
+      "basis": "7.2 版本于 2026-11-04 更新；下次更新日期暂按 42 天周期推算。",
       "sources": [
         {
-          "name": "7.1版本更新说明",
-          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/166383"
+          "name": "原神官网 · 7.2 版本更新说明",
+          "url": "https://ys.mihoyo.com/main/m/news/detail/167205"
         }
       ]
     },
@@ -72,5 +72,38 @@
       ]
     }
   ],
-  "confirmed": []
+  "confirmed": [
+    {
+      "id": "official-genshin-7.2-update",
+      "game": "genshin",
+      "version": "7.2",
+      "kind": "update",
+      "title": "7.2 版本更新",
+      "time": "2026-11-04T06:00:00+08:00",
+      "sources": [
+        {
+          "name": "原神官网 · 7.2 版本更新说明",
+          "url": "https://ys.mihoyo.com/main/m/news/detail/167205"
+        }
+      ],
+      "basis": "官方公告列明维护开始时间。",
+      "checkedAt": "2026-11-05"
+    },
+    {
+      "id": "official-genshin-7.2-live",
+      "game": "genshin",
+      "version": "7.2",
+      "kind": "live",
+      "title": "7.2 前瞻直播",
+      "time": "2026-10-23T20:00:00+08:00",
+      "sources": [
+        {
+          "name": "原神官网 · 7.2 前瞻特别节目预告",
+          "url": "https://ys.mihoyo.com/main/m/news/detail/166992"
+        }
+      ],
+      "basis": "官方前瞻预告所列开播时间。",
+      "checkedAt": "2026-11-05"
+    }
+  ]
 }

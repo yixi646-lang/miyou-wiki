@@ -10,14 +10,12 @@
 .key-dates-root a:hover{text-decoration:underline}
 .key-dates-root .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
 
-.key-dates-root .page-header{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:16px}
-.key-dates-root .header-actions{display:flex;gap:8px;flex:none}
-.key-dates-root #game-filters{display:flex;flex-wrap:wrap;gap:6px;align-items:center;background:transparent;padding:0}
-.key-dates-root .game-filter{display:flex;align-items:center;gap:6px;padding:6px 12px;font-size:13px;background:var(--surface);color:var(--muted);border:1px solid var(--line);border-radius:var(--control-radius,6px);white-space:nowrap}
-.key-dates-root .game-filter.active{background:var(--accent-soft);color:var(--accent);border-color:#bdc9e9;font-weight:600}
-.key-dates-root .game-bullet{display:none}
+.key-dates-root .page-header{display:flex;align-items:center;justify-content:space-between;gap:20px;margin-bottom:12px}
+.key-dates-root .header-actions{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px;flex:none;margin-left:auto}
+.key-dates-root .page-header>[data-date-game="all"][aria-pressed="true"]{color:var(--accent);background:var(--accent-soft);border-color:var(--accent)}
 .key-dates-root .next-updates{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:0 0 18px}
 .key-dates-root .next-updates .next-card{padding:14px 16px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);text-align:left;min-width:0;box-shadow:0 2px 5px #24344f03}
+.key-dates-root .next-updates .next-card[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)}
 .key-dates-root .next-card-top,.key-dates-root .next-card-main{display:flex;align-items:center;justify-content:space-between;gap:10px}
 .key-dates-root .game-name{font-size:14px;font-weight:600;color:var(--ink)}
 .key-dates-root .next-type{font-size:12.5px;color:var(--muted)}
@@ -126,8 +124,6 @@
 @media(max-width:1100px){
 
 .key-dates-root .page-header{gap:12px;flex-wrap:wrap}
-.key-dates-root #game-filters{justify-content:flex-start}
-.key-dates-root .game-filter{padding:5px 14px}
 .key-dates-root .next-card-main{flex-wrap:wrap;gap:1px 10px}
 .key-dates-root .next-date{font-size:20px}
 .key-dates-root .next-date small{margin-left:7px}
@@ -193,7 +189,6 @@
 }
 @media(max-width:450px){
 .key-dates-root .page-header .header-actions{width:100%;justify-content:flex-end}
-.key-dates-root .game-filter{padding-left:8px;padding-right:8px;font-size:12.5px}
 .key-dates-root .next-date small{margin-left:6px}
 .key-dates-root .next-card-main{gap:10px;flex-wrap:wrap}
 .key-dates-root .next-countdown{font-size:12.5px}

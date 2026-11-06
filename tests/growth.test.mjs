@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {readFileSync} from 'node:fs';
+import {readFileSync,readdirSync} from 'node:fs';
 import {defaultGoal,calculateGoal,calculateBatch} from '../shared/growth.mjs';
 const load=g=>JSON.parse(readFileSync(new URL(`../data/growth/${g}.json`,import.meta.url)));
 const gi=load('genshin'),sr=load('starrail'),zz=load('zenless');
@@ -10,4 +10,23 @@ test('单级天赋差额和满级材料使用真实消耗',()=>{const p=gi.profi
 test('星铁经验、光锥稀有度和行迹节点',()=>{const p=sr.profiles['starrail-characters-1001'],g=defaultGoal(p);g.tracks={};assert.equal(calculateGoal(p,g).xp,5797920);assert.equal(item(calculateGoal(p,g),'starrail-materials-2'),826192);const w=sr.profiles['starrail-weapons-23000'],r=calculateGoal(w,defaultGoal(w));assert.equal(r.xp,995700);assert.equal(item(r,'starrail-materials-2'),882850);assert(p.tracks.some(t=>t.group==='属性行迹'&&t.min===0));assert(p.tracks.some(t=>t.group==='额外能力'&&t.min===0));});
 test('绝区零技能、核心技、零级音擎与无额外经验货币',()=>{const p=zz.profiles['zenless-characters-1011'],r=calculateGoal(p,defaultGoal(p));assert.equal(r.xp,900000);assert.equal(item(r,'zenless-materials-300003'),300);assert.equal(item(r,'zenless-materials-10'),3705000);assert.equal(item(r,'zenless-materials-100941'),5);assert.equal(item(r,'zenless-materials-110501'),60);assert.equal(item(r,'zenless-materials-110001'),9);const w=zz.profiles['zenless-weapons-14102'],wr=calculateGoal(w,defaultGoal(w));assert.equal(w.minLevel,0);assert.equal(wr.xp,600000);assert.equal(item(wr,'zenless-materials-301003'),200);assert.equal(item(wr,'zenless-materials-10'),400000);});
 test('角色装备混合、数量和库存只扣一次；非法范围不产生虚假结果',()=>{const p=gi.profiles['genshin-characters-10000089'],g=defaultGoal(p);g.tracks={};const w=Object.values(gi.profiles).find(p=>p.category==='weapons'&&p.rarity===5),wg=defaultGoal(w);wg.quantity=2;const a=calculateGoal(p,g),b=calculateGoal(w,wg),r=calculateBatch(gi.profiles,[g,wg],{'genshin-materials-202':100000});assert.equal(item(r,'genshin-materials-202'),item(a,'genshin-materials-202')+item(b,'genshin-materials-202'));assert.equal(r.costs.find(i=>i.id==='genshin-materials-202').missing,item(r,'genshin-materials-202')-100000);g.fromLevel=80;g.toLevel=20;assert(calculateGoal(p,g).errors.length);assert.equal(calculateGoal(p,g).costs.length,0);});
-test('新增计算数据覆盖所有角色装备，消耗引用均有本地材料',()=>{for(const d of [gi,sr,zz]){const catalog=JSON.parse(readFileSync(new URL(`../data/catalog/${d.game}.json`,import.meta.url)));for(const e of catalog.entries.filter(e=>['characters','weapons'].includes(e.category)))assert(Object.values(d.profiles).some(p=>p.entryId===e.id));for(const p of Object.values(d.profiles)){assert.equal(p.xp.length>=p.maxLevel-p.minLevel,true);assert.equal(p.ascensions.length,p.caps.length-1);for(const t of p.tracks)assert.equal(t.steps.length,t.max-t.min);for(const id of [p.expItem.id,p.currencyId,...p.ascensions.flat().map(i=>i.id),...p.tracks.flatMap(t=>t.steps.flat().map(i=>i.id))])assert(d.materials[id]&&catalog.entries.some(e=>e.id===id),id);}}});
+test('新增计算数据覆盖所有角色装备，消耗引用均有本地材料', () => {
+  const directory = new URL('../data/catalog/', import.meta.url);
+  const entries = readdirSync(directory).filter(name => name.endsWith('.json'))
+    .flatMap(name => JSON.parse(readFileSync(new URL(name, directory))).entries ?? []);
+  for (const data of [gi, sr, zz]) {
+    const profiles = Object.values(data.profiles);
+    const covered = new Set(profiles.map(profile => profile.entryId));
+    const materials = new Set(entries.filter(entry => entry.game === data.game && entry.category === 'materials').map(entry => entry.id));
+    for (const entry of entries.filter(entry => entry.game === data.game && ['characters', 'weapons'].includes(entry.category)))
+      assert(covered.has(entry.id), entry.id);
+    for (const profile of profiles) {
+      assert(profile.xp.length >= profile.maxLevel - profile.minLevel, profile.id);
+      assert.equal(profile.ascensions.length, profile.caps.length - 1, profile.id);
+      for (const track of profile.tracks) assert.equal(track.steps.length, track.max - track.min, profile.id);
+      const costs = [...profile.ascensions.flat(), ...profile.tracks.flatMap(track => track.steps.flat())];
+      for (const id of [profile.expItem.id, profile.currencyId, ...costs.map(item => item.id)])
+        assert(data.materials[id] && materials.has(id), id);
+    }
+  }
+});

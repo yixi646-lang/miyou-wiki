@@ -4,6 +4,23 @@
   --control-gap: 7px;
   --page-title-size: 24px;
 }
+.content .page-toolbar,
+.content .version-navigation {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  gap:8px 16px;
+  min-height:30px;
+  margin:0 0 12px;
+}
+.content :is(.page-toolbar,.version-navigation) .detail-back,
+.content .page-toolbar .page-fold-controls {
+  margin:0;
+}
+.content .page-toolbar .page-fold-controls { margin-left:auto; }
+.content .version-detail-head h1 { margin-top:0; }
+.version-item-origin { flex:none; font-size:12px; font-weight:400; white-space:nowrap; }
 .content
   :is(
     .button-primary,

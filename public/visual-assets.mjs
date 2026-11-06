@@ -14,7 +14,7 @@ export function setPartsHTML(parts,escape){
 export function gameMediaHTML(game){
  const cover={
   genshin:{file:'cover-2026-10-23.png',alt:'原神版本宣传图'},
-  starrail:{file:'cover-4.6-hd.png',alt:'4.6版本宣传图'},
+  starrail:{file:'cover-4.7-hd.png',alt:'星穹铁道 4.7 版本宣传图'},
   zenless:{file:'cover-2026-10-23.png',alt:'绝区零版本宣传图'}
  }[game];
  return `<div class="game-card-media"><img class="game-card-cover" src="/assets/${game}/branding/${cover.file}" alt="${cover.alt}" decoding="async"></div>`;

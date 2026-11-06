@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile,stat} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import {join} from 'node:path';
-import {normalizeVersion,compareVersions,selectVersions,returneeChanges,versionAssociations,htmlLines,VERSION_SECTIONS} from '../shared/version-archive.mjs';
+import {normalizeVersion,compareVersions,selectVersions,returneeChanges,returneeGroups,versionAssociations,htmlLines,VERSION_SECTIONS} from '../shared/version-archive.mjs';
 import {outsideArchive,curateSections} from '../scripts/version-archive-policy.mjs';
 const root=fileURLToPath(new URL('../',import.meta.url));
 const games={genshin:53,starrail:31,zenless:20};
@@ -76,6 +76,14 @@ test('回坑补课排除限时活动与来源未明确的普通新增项',()=>{
 test('关联使用当前条目版本和实际卡池起止记录，不改写条目',()=>{
  const entries=[{id:'a',game:'genshin',category:'characters',releaseVersion:'2.1版本'},{id:'b',game:'genshin',category:'banners',releaseVersion:'2.1',name:'第二期',banner:{start:'2021-09-21'}},{id:'c',game:'genshin',category:'banners',releaseVersion:'2.1',name:'第一期',banner:{start:'2021-09-01'}},{id:'d',game:'zenless',category:'characters',releaseVersion:'2.1'}];
  const before=JSON.stringify(entries),result=versionAssociations('2.1',entries,'genshin');assert.deepEqual(result.characters.map(e=>e.id),['a']);assert.deepEqual(result.banners.map(e=>e.id),['c','b']);assert.equal(JSON.stringify(entries),before);
+});
+test('回坑补课按更新类型合并跨版本内容，保留版本依据且不改写资料',()=>{
+ const versions=[{version:'1.0',sections:[]},{version:'1.1',title:'旧版本',sections:[{key:'story',items:[{name:'旧主线',availability:'permanent'}]},{key:'systems',items:[{name:'永久优化'}]}]},{version:'1.2',title:'新版本',sections:[{key:'story',items:[{name:'新主线',availability:'permanent'},{name:'限时内容',availability:'limited'}]},{key:'map',items:[{name:'新地区',availability:'permanent'}]}]}];
+ const before=JSON.stringify(versions),groups=returneeGroups(versions,'1.0','1.2');
+ assert.deepEqual(groups.map(group=>group.key),['story','map','systems']);
+ assert.deepEqual(groups[0].items.map(({item,version})=>[item.name,version]),[['新主线','1.2'],['旧主线','1.1']]);
+ assert.equal(JSON.stringify(versions),before);
+ assert.deepEqual(returneeGroups(versions,'1.2','1.0'),[]);
 });
 test('兼容公告中没有闭合标签的段落，正文作为文本而非 HTML',()=>{
  assert.deepEqual(htmlLines('<h4>新增内容<p>• 第一项<p>• 第二项<br/>时间：09:00'),['新增内容','• 第一项','• 第二项','时间：09:00']);

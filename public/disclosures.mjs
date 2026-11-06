@@ -52,7 +52,16 @@ export function installDisclosureControls(host, {onBulk = () => {}} = {}) {
     const existing = host.querySelector('[data-page-fold-controls]');
     const hasContent = contentDetails(host).length > 0;
     if (!hasContent) { existing?.remove(); return; }
-    const target = host.querySelector('[data-page-fold-target]') ?? host.querySelector('.ae-titlebar');
+    let target = host.querySelector('[data-page-fold-target]') ?? host.querySelector('.ae-titlebar,.page-toolbar,.version-navigation,.heading');
+    if (!target) {
+      const back = host.querySelector(':scope > .detail-back');
+      if (back) {
+        target = document.createElement('div');
+        target.className = 'page-toolbar';
+        back.before(target);
+        target.append(back);
+      }
+    } else if (target.matches?.('.heading,.version-navigation')) target.classList.add('page-toolbar');
     if (existing) { if(target && existing.parentElement !== target) target.append(existing); return; }
     const bar = document.createElement('div');
     bar.className = 'page-fold-controls';

@@ -10,10 +10,10 @@ export function updatePanelHTML(info, loading = false) {
     <nav class="update-tabs" aria-label="更新类别"><button type="button" data-update-channel="software" aria-pressed="${!content}">软件更新</button><button type="button" data-update-channel="content" aria-pressed="${content}">游戏资料</button></nav>
     <div class="update-body"><div class="update-versions"><span>${content ? '当前资料' : '当前版本'}${content ? `<strong class="update-content-versions">${Object.entries(GAMES).map(([game, meta]) => `${escape(meta.short)} ${escape(info.contentVersions ? info.contentVersions[game] ?? '未标注' : '未能读取')}`).join('<br>')}</strong>` : `<strong>${escape(info.current.version)}</strong>`}</span><span>${info.checkError ? '上次查到' : available ? (content ? '可用资料' : '可用版本') : '最新发布'}<strong>${escape(info.latest?.version ?? (info.checkError ? '未能确认' : info.checkedAt ? '暂无发布' : '尚未检查'))}</strong></span></div>
     ${info.checkError ? `<p class="update-error" role="status">${escape(info.checkError)}</p>` : ''}
-    ${!info.checkError && !available && info.latest ? `<p>${content ? '当前资料已是最新发布批次。' : '当前没有更新的软件版本。'}</p>` : ''}
-    ${content && !info.latest && info.checkedAt && !info.checkError ? '<p>尚未发布独立资料包。</p>' : ''}
-    ${available && !info.automaticAllowed ? `<p>${escape(info.automaticReason)}</p>` : ''}
-    ${available && info.automaticAllowed && info.compatibility?.supported ? '<p>当前软件可直接安装此更新。</p>' : ''}
+    ${!info.checkError && !available && info.latest ? `<p class="update-check-message">${content ? '当前资料已是最新发布批次。' : '当前没有更新的软件版本。'}</p>` : ''}
+    ${content && !info.latest && info.checkedAt && !info.checkError ? '<p class="update-check-message">尚未发布独立资料包。</p>' : ''}
+    ${available && !info.automaticAllowed ? `<p class="update-check-message">${escape(info.automaticReason)}</p>` : ''}
+    ${available && info.automaticAllowed && info.compatibility?.supported ? '<p class="update-check-message">当前软件可直接安装此更新。</p>' : ''}
     ${info.lastResult ? `<section class="update-result ${info.lastResult.status === 'success' ? 'is-success' : 'is-failed'}" role="status"><strong>${info.lastResult.status === 'success' ? (content ? '资料更新完成' : '软件更新完成') : '上次更新未完成'}</strong>
       <div>软件：${escape(info.lastResult.software ? `${info.lastResult.software.version} / ${info.lastResult.software.releaseId}` : '未能确认')} · 资料：${escape(info.lastResult.contentRevision ?? '随软件内置')}</div>
       ${info.lastResult.status === 'success' ? `<div>处理 ${Number(info.lastResult.files) || 0} 个文件、${Number(info.lastResult.entries) || 0} 条资料。</div><div>${info.lastResult.conflicts ? `本地编辑冲突 ${Number(info.lastResult.conflicts)} 处，已保留本地值。记录：${escape(info.lastResult.conflictFile)}` : '未发现本地编辑冲突。'}</div>` : `<div>${escape(info.lastResult.message)}${info.lastResult.recoveryRequired ? ' 请保留恢复记录，使用原安装器处理。' : ''}</div>`}
@@ -57,9 +57,18 @@ export async function mountOnlineUpdates({ api, toast, document = globalThis.doc
   if (contentInfo.status === 'fulfilled') states.content = contentInfo.value; else states.content.checkError = contentInfo.reason.message;
   if (contentStatus.status === 'fulfilled') states.content.contentVersions = contentStatus.value.versions;
   let selected = 'software', reminderChannel = 'software', loading = false, originalPid = states.software.pid, offlineSince = 0, polling = false, stopped = false;
+  const seenStorageKey = 'wiki-update-seen-v1';
+  let seenUpdates = {};
+  try { const saved = JSON.parse(window.localStorage.getItem(seenStorageKey) ?? '{}'); if (saved && typeof saved === 'object' && !Array.isArray(saved)) seenUpdates = saved; } catch {}
+  const updateKey = state => state.latest?.key ?? state.latest?.revision ?? state.latest?.version;
+  const unreadUpdate = ([channel, state]) => state.available && updateKey(state) && seenUpdates[channel] !== updateKey(state);
+  function markUpdatesSeen() {
+    for (const [channel, state] of Object.entries(states)) if (state.available && updateKey(state)) seenUpdates[channel] = updateKey(state);
+    try { window.localStorage.setItem(seenStorageKey, JSON.stringify(seenUpdates)); } catch {}
+  }
   const shownReminder = state => state.available && state.preferences.autoCheck && !active(state.job) && !(state.preferences.deferredKey === state.latest?.key && state.preferences.remindAfter > Date.now());
   function draw() {
-    trigger.classList.toggle('has-update', Object.values(states).some(state => state.available)); trigger.title = '检查软件与游戏资料更新';
+    trigger.classList.toggle('has-update', Object.entries(states).some(unreadUpdate)); trigger.title = '检查软件与游戏资料更新';
     if (dialog.open) dialog.innerHTML = updatePanelHTML(states[selected], loading);
     reminderChannel = Object.keys(states).find(channel => shownReminder(states[channel])) ?? 'software';
     const info = states[reminderChannel]; reminder.hidden = !shownReminder(info);
@@ -78,8 +87,8 @@ export async function mountOnlineUpdates({ api, toast, document = globalThis.doc
     const info = states[selected];
     if (info.lastResult && info.lastResult.id !== info.preferences.acknowledgedResultId) api((selected === 'content' ? 'content-updates/' : 'updates/') + 'preferences', { method: 'POST', body: { acknowledgeResult: true } }).then(changed).catch(() => {});
   };
-  const open = () => { dialog.innerHTML = updatePanelHTML(states[selected], loading); dialog.showModal(); draw(); acknowledge(); };
-  trigger.addEventListener('click', open);
+  const open = (markSeen = true) => { dialog.innerHTML = updatePanelHTML(states[selected], loading); dialog.showModal(); if (markSeen) markUpdatesSeen(); draw(); acknowledge(); };
+  trigger.addEventListener('click', () => open());
   const click = async event => {
     const tab = event.target.closest('[data-update-channel]');
     if (tab) { if (['software','content'].includes(tab.dataset.updateChannel)) { selected = tab.dataset.updateChannel; draw(); acknowledge(); } return; }
@@ -101,7 +110,7 @@ export async function mountOnlineUpdates({ api, toast, document = globalThis.doc
   });
   draw();
   const unread = Object.keys(states).filter(channel => states[channel].lastResult && states[channel].lastResult.id !== states[channel].preferences.acknowledgedResultId).sort((a, b) => states[b].lastResult.completedAt - states[a].lastResult.completedAt);
-  if (unread.length) { selected = unread[0]; open(); }
+  if (unread.length) { selected = unread[0]; open(false); }
   for (const channel of Object.keys(states)) if (states[channel].preferences.autoCheck) api((channel === 'content' ? 'content-updates/' : 'updates/') + 'check', { method: 'POST', body: { automatic: true } }).then(changed).catch(() => {});
   const timer = window.setInterval(async () => {
     if (Object.values(states).some(info => info.nextManualCheckAt && info.nextManualCheckAt <= Date.now())) { for (const info of Object.values(states)) if (info.nextManualCheckAt <= Date.now()) info.nextManualCheckAt = null; draw(); }
